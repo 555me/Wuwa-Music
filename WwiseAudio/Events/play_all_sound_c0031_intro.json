@@ -1,0 +1,115 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_all_sound_c0031_intro",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_all_sound_c0031_intro",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 4035873358,
+            "SoundBanks": [
+              {
+                "SoundBankId": 4035873358,
+                "SoundBankPathName": "Event/play_all_sound_c0031_intro.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_all_sound_c0031_intro",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 965309246,
+                "MediaPathName": "Media/965309246.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\level_a\\3.5\\bgm-story_video_c0031_stage05(outro)-all-full-130bpm-null.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 19941516,
+                "MediaPathName": "Media/19941516.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\level_a\\3.5\\bgm-story_video_c0031_stage04-all-full-130bpm-null.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 201664753,
+                "MediaPathName": "Media/201664753.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\level_a\\3.5\\bgm-story_video_c0031_stage03-all-full-130bpm-null.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 906430716,
+                "MediaPathName": "Media/906430716.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\level_a\\3.5\\bgm-story_video_c0031_stage02-all-full-130bpm-null.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 141885192,
+                "MediaPathName": "Media/141885192.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\level_a\\3.5\\bgm-story_video_cr0031_stage01-all-full-130bpm-null.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 628370900,
+                "MediaPathName": "Media/628370900.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\level_a\\3.5\\bgm-story_video_c0031-all-full-130bpm-null.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [
+              {
+                "Type": "EWwiseGroupType::State",
+                "GroupId": 1597880252,
+                "Id": 748895195,
+                "DebugName": "None"
+              }
+            ],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_all_sound_c0031_intro"
+          }
+        }
+      ],
+      "DebugName": "play_all_sound_c0031_intro",
+      "EventId": 4035873358
+    },
+    "MaximumDuration": 0.0,
+    "MinimumDuration": 0.0,
+    "IsInfinite": true,
+    "MaxAttenuationRadius": 0.0
+  }
+]

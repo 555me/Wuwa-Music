@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_wanelao_action_walk_r_fast",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_wanelao_action_walk_r_fast",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3930138124,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3930138124,
+                "SoundBankPathName": "Event/play_sfx_wanelao_action_walk_r_fast.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_wanelao_action_walk_r_fast",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 799218210,
+                "MediaPathName": "Media/799218210.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\Enemy\\Lord\\Wanelao\\SFX_WanELao_Action_Walk_R_Fast.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_wanelao_action_walk_r_fast"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_wanelao_action_walk_r_fast",
+      "EventId": 3930138124
+    },
+    "MaximumDuration": 2.0,
+    "MinimumDuration": 2.0,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 20000.0
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_amb_npc_alien_mo1jintinghoumd00401_am_sm_heti_p4_01",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_amb_npc_alien_mo1jintinghoumd00401_am_sm_heti_p4_01",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1060523155,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1060523155,
+                "SoundBankPathName": "Event/play_amb_npc_alien_mo1jintinghoumd00401_am_sm_heti_p4_01.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_amb_npc_alien_mo1jintinghoumd00401_am_sm_heti_p4_01",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 853413081,
+                "MediaPathName": "Media/853413081.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "amb_npc_alien_MO1JinTingHouMd00401_AM_SM_Heti_P4.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_amb_npc_alien_mo1jintinghoumd00401_am_sm_heti_p4_01"
+          }
+        }
+      ],
+      "DebugName": "play_amb_npc_alien_mo1jintinghoumd00401_am_sm_heti_p4_01",
+      "EventId": 1060523155
+    },
+    "MaximumDuration": 1.501625,
+    "MinimumDuration": 1.501625,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 1500.0
+  }
+]

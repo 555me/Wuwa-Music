@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_amb_npc_animal_na069_idle_start",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_amb_npc_animal_na069_idle_start",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 315951182,
+            "SoundBanks": [
+              {
+                "SoundBankId": 315951182,
+                "SoundBankPathName": "Event/play_amb_npc_animal_na069_idle_start.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_amb_npc_animal_na069_idle_start",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 215720941,
+                "MediaPathName": "Media/215720941.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "npc\\animal\\amb_npc_animal_na069_idle_start.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_amb_npc_animal_na069_idle_start"
+          }
+        }
+      ],
+      "DebugName": "play_amb_npc_animal_na069_idle_start",
+      "EventId": 315951182
+    },
+    "MaximumDuration": 1.6460834,
+    "MinimumDuration": 1.6460834,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 1500.0
+  }
+]

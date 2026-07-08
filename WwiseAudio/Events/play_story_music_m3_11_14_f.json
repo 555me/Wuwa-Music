@@ -1,0 +1,68 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_story_music_m3_11_14_f",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_story_music_m3_11_14_f",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 4193842660,
+            "SoundBanks": [
+              {
+                "SoundBankId": 4193842660,
+                "SoundBankPathName": "Event/play_story_music_m3_11_14_f.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_story_music_m3_11_14_f",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 101952194,
+                "MediaPathName": "Media/101952194.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music\\music_scene\\silence_5s.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 482727615,
+                "MediaPathName": "Media/482727615.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_5\\shouchengzhan\\bgm-story_plot_m3_11_14_x06-all-full-null-null.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_story_music_m3_11_14_f"
+          }
+        }
+      ],
+      "DebugName": "play_story_music_m3_11_14_f",
+      "EventId": 4193842660
+    },
+    "MaximumDuration": 0.0,
+    "MinimumDuration": 0.0,
+    "IsInfinite": true,
+    "MaxAttenuationRadius": 0.0
+  }
+]

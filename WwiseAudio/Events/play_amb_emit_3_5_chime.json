@@ -1,0 +1,88 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_amb_emit_3_5_chime",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_amb_emit_3_5_chime",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 510284231,
+            "SoundBanks": [
+              {
+                "SoundBankId": 510284231,
+                "SoundBankPathName": "Event/play_amb_emit_3_5_chime.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_amb_emit_3_5_chime",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 56361877,
+                "MediaPathName": "Media/56361877.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\amb_emit_3_5_chime03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 136845057,
+                "MediaPathName": "Media/136845057.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\amb_emit_3_5_chime01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 264056814,
+                "MediaPathName": "Media/264056814.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\amb_emit_3_5_chime02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 706001708,
+                "MediaPathName": "Media/706001708.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\amb_emit_3_5_chime04.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_amb_emit_3_5_chime"
+          }
+        }
+      ],
+      "DebugName": "play_amb_emit_3_5_chime",
+      "EventId": 510284231
+    },
+    "MaximumDuration": 0.0,
+    "MinimumDuration": 0.0,
+    "IsInfinite": true,
+    "MaxAttenuationRadius": 3000.0
+  }
+]

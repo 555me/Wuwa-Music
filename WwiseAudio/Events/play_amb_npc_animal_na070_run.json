@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_amb_npc_animal_na070_run",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_amb_npc_animal_na070_run",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 532648582,
+            "SoundBanks": [
+              {
+                "SoundBankId": 532648582,
+                "SoundBankPathName": "Event/play_amb_npc_animal_na070_run.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_amb_npc_animal_na070_run",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 345266389,
+                "MediaPathName": "Media/345266389.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "npc\\animal\\amb_npc_animal_na070_run.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_amb_npc_animal_na070_run"
+          }
+        }
+      ],
+      "DebugName": "play_amb_npc_animal_na070_run",
+      "EventId": 532648582
+    },
+    "MaximumDuration": 3.692104,
+    "MinimumDuration": 3.692104,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 1500.0
+  }
+]

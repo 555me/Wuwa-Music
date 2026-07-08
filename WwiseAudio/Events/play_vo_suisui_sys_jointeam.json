@@ -1,0 +1,168 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_suisui_sys_jointeam",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_suisui_sys_jointeam",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 862536234,
+            "SoundBanks": [
+              {
+                "SoundBankId": 862536234,
+                "SoundBankPathName": "Event/play_vo_suisui_sys_jointeam.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_suisui_sys_jointeam",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 192509840,
+                "MediaPathName": "Media/192509840.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,5\\suisui\\zh_vo_suisui_sys_jointeam_01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 868306678,
+                "MediaPathName": "Media/868306678.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,5\\suisui\\ja_vo_suisui_sys_jointeam_01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 15309913,
+                "MediaPathName": "Media/15309913.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,5\\suisui\\ko_vo_suisui_sys_jointeam_01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 627230336,
+                "MediaPathName": "Media/627230336.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\en\\role\\branch_3,5\\suisui\\en_vo_suisui_sys_jointeam_01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 210453384,
+                "MediaPathName": "Media/210453384.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\zh\\role\\branch_3,5\\suisui\\zh_vo_suisui_sys_jointeam_02_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 821173333,
+                "MediaPathName": "Media/821173333.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,5\\suisui\\ja_vo_suisui_sys_jointeam_02_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 257880060,
+                "MediaPathName": "Media/257880060.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,5\\suisui\\ko_vo_suisui_sys_jointeam_02_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1030677970,
+                "MediaPathName": "Media/1030677970.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\en\\role\\branch_3,5\\suisui\\en_vo_suisui_sys_jointeam_02_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 121946845,
+                "MediaPathName": "Media/121946845.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,5\\suisui\\zh_vo_suisui_sys_jointeam_03_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 393300646,
+                "MediaPathName": "Media/393300646.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,5\\suisui\\ja_vo_suisui_sys_jointeam_03_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 939529272,
+                "MediaPathName": "Media/939529272.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,5\\suisui\\ko_vo_suisui_sys_jointeam_03_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 407857010,
+                "MediaPathName": "Media/407857010.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_3,5\\suisui\\en_vo_suisui_sys_jointeam_03_word.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_suisui_sys_jointeam"
+          }
+        }
+      ],
+      "DebugName": "play_vo_suisui_sys_jointeam",
+      "EventId": 862536234
+    },
+    "MaximumDuration": 5.021375,
+    "MinimumDuration": 0.30002084,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

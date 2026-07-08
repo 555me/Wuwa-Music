@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_interact_waves_go__ui_game_win",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_interact_waves_go__ui_game_win",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3963205302,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3963205302,
+                "SoundBankPathName": "Event/play_interact_waves_go__ui_game_win.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_interact_waves_go__ui_game_win",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 105656330,
+                "MediaPathName": "Media/105656330.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "interact_waves_go__UI_game_win.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_interact_waves_go__ui_game_win"
+          }
+        }
+      ],
+      "DebugName": "play_interact_waves_go__ui_game_win",
+      "EventId": 3963205302
+    },
+    "MaximumDuration": 4.0424585,
+    "MinimumDuration": 4.0424585,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

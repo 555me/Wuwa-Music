@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_ui_activity_page_open_newcomer_signin",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_ui_activity_page_open_newcomer_signin",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2147098305,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2147098305,
+                "SoundBankPathName": "Event/play_ui_activity_page_open_newcomer_signin.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_ui_activity_page_open_newcomer_signin",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 345281547,
+                "MediaPathName": "Media/345281547.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,5\\newcomer\\ui_activity_page_open_newcomer_signin.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_ui_activity_page_open_newcomer_signin"
+          }
+        }
+      ],
+      "DebugName": "play_ui_activity_page_open_newcomer_signin",
+      "EventId": 2147098305
+    },
+    "MaximumDuration": 3.9333334,
+    "MinimumDuration": 3.9333334,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

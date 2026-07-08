@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_wanelao_skill_attack04_06",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_wanelao_skill_attack04_06",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 56271341,
+            "SoundBanks": [
+              {
+                "SoundBankId": 56271341,
+                "SoundBankPathName": "Event/play_sfx_wanelao_skill_attack04_06.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_wanelao_skill_attack04_06",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 549903198,
+                "MediaPathName": "Media/549903198.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\Enemy\\Lord\\Wanelao\\SFX_WanELao_Skill_Attack04_06.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_wanelao_skill_attack04_06"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_wanelao_skill_attack04_06",
+      "EventId": 56271341
+    },
+    "MaximumDuration": 3.4,
+    "MinimumDuration": 3.4,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 20000.0
+  }
+]

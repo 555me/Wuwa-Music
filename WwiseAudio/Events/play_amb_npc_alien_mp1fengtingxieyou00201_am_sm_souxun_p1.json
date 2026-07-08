@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_amb_npc_alien_mp1fengtingxieyou00201_am_sm_souxun_p1",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_amb_npc_alien_mp1fengtingxieyou00201_am_sm_souxun_p1",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 4212992514,
+            "SoundBanks": [
+              {
+                "SoundBankId": 4212992514,
+                "SoundBankPathName": "Event/play_amb_npc_alien_mp1fengtingxieyou00201_am_sm_souxun_p1.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_amb_npc_alien_mp1fengtingxieyou00201_am_sm_souxun_p1",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 587452455,
+                "MediaPathName": "Media/587452455.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "npc\\alien\\amb_npc_alien_mp1fengtingxieyou00201_am_sm_souxun_p1.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_amb_npc_alien_mp1fengtingxieyou00201_am_sm_souxun_p1"
+          }
+        }
+      ],
+      "DebugName": "play_amb_npc_alien_mp1fengtingxieyou00201_am_sm_souxun_p1",
+      "EventId": 4212992514
+    },
+    "MaximumDuration": 0.5,
+    "MinimumDuration": 0.5,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 1500.0
+  }
+]

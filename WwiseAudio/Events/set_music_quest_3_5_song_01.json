@@ -1,0 +1,78 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "set_music_quest_3_5_song_01",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/set_music_quest_3_5_song_01",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 31977796,
+            "SoundBanks": [
+              {
+                "SoundBankId": 31977796,
+                "SoundBankPathName": "Event/set_music_quest_3_5_song_01.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "set_music_quest_3_5_song_01",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 1052501708,
+                "MediaPathName": "Media/1052501708.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_5\\bgm-interact_3_5_yunyuanzhiyisong-all-full-null-null.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 848302496,
+                "MediaPathName": "Media/848302496.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_interact\\3_5\\bgm-interact_3_5_song-all-full-null-null.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 523970337,
+                "MediaPathName": "Media/523970337.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_5\\bgm-interact_3_5_xuanfangsong-all-full-null-null.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "set_music_quest_3_5_song_01"
+          }
+        }
+      ],
+      "DebugName": "set_music_quest_3_5_song_01",
+      "EventId": 31977796
+    },
+    "MaximumDuration": 0.0,
+    "MinimumDuration": 0.0,
+    "IsInfinite": true,
+    "MaxAttenuationRadius": 30000.0
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_chonglou_skill_combochange_end_broken",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_chonglou_skill_combochange_end_broken",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2265248650,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2265248650,
+                "SoundBankPathName": "Event/play_sfx_chonglou_skill_combochange_end_broken.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_chonglou_skill_combochange_end_broken",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 543581903,
+                "MediaPathName": "Media/543581903.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\Enemy\\Boss\\chonglou\\SFX_ChongLou_Skill_ComboChange_End_Broken.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_chonglou_skill_combochange_end_broken"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_chonglou_skill_combochange_end_broken",
+      "EventId": 2265248650
+    },
+    "MaximumDuration": 2.448,
+    "MinimumDuration": 2.448,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 50000.0
+  }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_mon_activity_tudou_battle_tiao1",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_mon_activity_tudou_battle_tiao1",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 511401500,
+            "SoundBanks": [
+              {
+                "SoundBankId": 511401500,
+                "SoundBankPathName": "Event/play_mon_activity_tudou_battle_tiao1.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_mon_activity_tudou_battle_tiao1",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 140260843,
+                "MediaPathName": "Media/140260843.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,5\\tudou\\monster_skills\\mon_activity_tudou_battle_tiao1_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 410915599,
+                "MediaPathName": "Media/410915599.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,5\\tudou\\monster_skills\\mon_activity_tudou_battle_tiao1_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 744773727,
+                "MediaPathName": "Media/744773727.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,5\\tudou\\monster_skills\\mon_activity_tudou_battle_tiao1_01.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_mon_activity_tudou_battle_tiao1"
+          }
+        }
+      ],
+      "DebugName": "play_mon_activity_tudou_battle_tiao1",
+      "EventId": 511401500
+    },
+    "MaximumDuration": 1.5710624,
+    "MinimumDuration": 1.4874375,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

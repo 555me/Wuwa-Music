@@ -1,0 +1,78 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_zhaidi_interact_move",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_zhaidi_interact_move",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1314949976,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1314949976,
+                "SoundBankPathName": "Event/play_sfx_gp_zhaidi_interact_move.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_zhaidi_interact_move",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 3333655,
+                "MediaPathName": "Media/3333655.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "sfx_gp_zhaidi_interact_move_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 601135734,
+                "MediaPathName": "Media/601135734.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "sfx_gp_zhaidi_interact_move_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 808149843,
+                "MediaPathName": "Media/808149843.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "sfx_gp_zhaidi_interact_move_02.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_zhaidi_interact_move"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_zhaidi_interact_move",
+      "EventId": 1314949976
+    },
+    "MaximumDuration": 1.618375,
+    "MinimumDuration": 1.492875,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

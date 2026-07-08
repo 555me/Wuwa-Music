@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_drag_done_sl2_35tuodong_view",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_drag_done_sl2_35tuodong_view",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2572028508,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2572028508,
+                "SoundBankPathName": "Event/play_sfx_gp_drag_done_sl2_35tuodong_view.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_drag_done_sl2_35tuodong_view",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 472301256,
+                "MediaPathName": "Media/472301256.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "sfx_gp_drag_done_Sl2_35TuoDong_View.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_drag_done_sl2_35tuodong_view"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_drag_done_sl2_35tuodong_view",
+      "EventId": 2572028508
+    },
+    "MaximumDuration": 2.6701458,
+    "MinimumDuration": 2.6701458,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

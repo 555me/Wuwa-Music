@@ -1,0 +1,148 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_amb_emit_3_5_atmospheric_birdsong_tree",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_amb_emit_3_5_atmospheric_birdsong_tree",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2468227972,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2468227972,
+                "SoundBankPathName": "Event/play_amb_emit_3_5_atmospheric_birdsong_tree.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_amb_emit_3_5_atmospheric_birdsong_tree",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 280870875,
+                "MediaPathName": "Media/280870875.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\amb_emit_3_5_Atmospheric_Birdsong_Tree_Day_04.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 286115527,
+                "MediaPathName": "Media/286115527.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\amb_emit_3_5_Atmospheric_Birdsong_Tree_NIght_05.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 480648898,
+                "MediaPathName": "Media/480648898.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\amb_emit_3_5_Atmospheric_Birdsong_Tree_Day_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 535145474,
+                "MediaPathName": "Media/535145474.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\amb_emit_3_5_Atmospheric_Birdsong_Tree_NIght_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 543444339,
+                "MediaPathName": "Media/543444339.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\amb_emit_3_5_Atmospheric_Birdsong_Tree_Day_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 648388578,
+                "MediaPathName": "Media/648388578.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\amb_emit_3_5_Atmospheric_Birdsong_Tree_NIght_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 659540542,
+                "MediaPathName": "Media/659540542.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\amb_emit_3_5_Atmospheric_Birdsong_Tree_NIght_04.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 679701146,
+                "MediaPathName": "Media/679701146.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\amb_emit_3_5_Atmospheric_Birdsong_Tree_Day_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 818338166,
+                "MediaPathName": "Media/818338166.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\amb_emit_3_5_Atmospheric_Birdsong_Tree_NIght_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1070866853,
+                "MediaPathName": "Media/1070866853.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\amb_emit_3_5_Atmospheric_Birdsong_Tree_Day_05.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_amb_emit_3_5_atmospheric_birdsong_tree"
+          }
+        }
+      ],
+      "DebugName": "play_amb_emit_3_5_atmospheric_birdsong_tree",
+      "EventId": 2468227972
+    },
+    "MaximumDuration": 0.0,
+    "MinimumDuration": 0.0,
+    "IsInfinite": true,
+    "MaxAttenuationRadius": 12000.0
+  }
+]

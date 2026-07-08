@@ -1,0 +1,175 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_main_huanglong_syylfml_510_nosub_02",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_main_huanglong_syylfml_510_nosub_02",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 1819748192,
+            "LanguageName": "en",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 52740012,
+            "SoundBanks": [
+              {
+                "SoundBankId": 52740012,
+                "SoundBankPathName": "Event/en/play_vo_main_huanglong_syylfml_510_nosub_02.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_main_huanglong_syylfml_510_nosub_02",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 555429312,
+                "MediaPathName": "Media/en/555429312.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.5\\level_b\\en_vo_Main_HuangLong_SYYLFML_510_NOSUB_02.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_main_huanglong_syylfml_510_nosub_02"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1735860046,
+            "LanguageName": "ja",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 52740012,
+            "SoundBanks": [
+              {
+                "SoundBankId": 52740012,
+                "SoundBankPathName": "Event/ja/play_vo_main_huanglong_syylfml_510_nosub_02.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_main_huanglong_syylfml_510_nosub_02",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 339653061,
+                "MediaPathName": "Media/ja/339653061.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.5\\level_b\\ja_vo_Main_HuangLong_SYYLFML_510_NOSUB_02.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_main_huanglong_syylfml_510_nosub_02"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1719082483,
+            "LanguageName": "ko",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 52740012,
+            "SoundBanks": [
+              {
+                "SoundBankId": 52740012,
+                "SoundBankPathName": "Event/ko/play_vo_main_huanglong_syylfml_510_nosub_02.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_main_huanglong_syylfml_510_nosub_02",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 1021997393,
+                "MediaPathName": "Media/ko/1021997393.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.5\\level_b\\ko_vo_Main_HuangLong_SYYLFML_510_NOSUB_02.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_main_huanglong_syylfml_510_nosub_02"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1467418007,
+            "LanguageName": "zh",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsDefault"
+          },
+          "Value": {
+            "EventId": 52740012,
+            "SoundBanks": [
+              {
+                "SoundBankId": 52740012,
+                "SoundBankPathName": "Event/zh/play_vo_main_huanglong_syylfml_510_nosub_02.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_main_huanglong_syylfml_510_nosub_02",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 39120132,
+                "MediaPathName": "Media/zh/39120132.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.5\\level_b\\zh_vo_Main_HuangLong_SYYLFML_510_NOSUB_02.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_main_huanglong_syylfml_510_nosub_02"
+          }
+        }
+      ],
+      "DebugName": "play_vo_main_huanglong_syylfml_510_nosub_02",
+      "EventId": 52740012
+    },
+    "MaximumDuration": 7.101333,
+    "MinimumDuration": 7.101333,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

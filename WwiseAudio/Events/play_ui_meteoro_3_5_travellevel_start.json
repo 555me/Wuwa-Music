@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_ui_meteoro_3_5_travellevel_start",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_ui_meteoro_3_5_travellevel_start",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 918777626,
+            "SoundBanks": [
+              {
+                "SoundBankId": 918777626,
+                "SoundBankPathName": "Event/play_ui_meteoro_3_5_travellevel_start.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_ui_meteoro_3_5_travellevel_start",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 417636891,
+                "MediaPathName": "Media/417636891.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,5\\meteoro_3_5\\ui_meteoro_3_5_travellevel_start .wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_ui_meteoro_3_5_travellevel_start"
+          }
+        }
+      ],
+      "DebugName": "play_ui_meteoro_3_5_travellevel_start",
+      "EventId": 918777626
+    },
+    "MaximumDuration": 4.633333,
+    "MinimumDuration": 4.633333,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

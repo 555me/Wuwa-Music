@@ -1,0 +1,78 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_wanelao_action_zhuxain_hudun_hit",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_wanelao_action_zhuxain_hudun_hit",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2953675423,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2953675423,
+                "SoundBankPathName": "Event/play_sfx_wanelao_action_zhuxain_hudun_hit.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_wanelao_action_zhuxain_hudun_hit",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 23006161,
+                "MediaPathName": "Media/23006161.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\Enemy\\Lord\\Wanelao\\SFX_WanELao_Action_zhuxain_hudun_hit_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 572618986,
+                "MediaPathName": "Media/572618986.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\Enemy\\Lord\\Wanelao\\SFX_WanELao_Action_zhuxain_hudun_hit_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 664804393,
+                "MediaPathName": "Media/664804393.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\Enemy\\Lord\\Wanelao\\SFX_WanELao_Action_zhuxain_hudun_hit_03.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_wanelao_action_zhuxain_hudun_hit"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_wanelao_action_zhuxain_hudun_hit",
+      "EventId": 2953675423
+    },
+    "MaximumDuration": 2.737125,
+    "MinimumDuration": 2.4685416,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 20000.0
+  }
+]

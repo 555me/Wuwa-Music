@@ -1,0 +1,78 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_chonglou_action_behit_add_hand",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_chonglou_action_behit_add_hand",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 757242135,
+            "SoundBanks": [
+              {
+                "SoundBankId": 757242135,
+                "SoundBankPathName": "Event/play_sfx_chonglou_action_behit_add_hand.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_chonglou_action_behit_add_hand",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 642295658,
+                "MediaPathName": "Media/642295658.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\Enemy\\Boss\\chonglou\\SFX_ChongLou_Action_Behit_Add_hand_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 689273646,
+                "MediaPathName": "Media/689273646.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\Enemy\\Boss\\chonglou\\SFX_ChongLou_Action_Behit_Add_hand_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 788673473,
+                "MediaPathName": "Media/788673473.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\Enemy\\Boss\\chonglou\\SFX_ChongLou_Action_Behit_Add_hand_02.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_chonglou_action_behit_add_hand"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_chonglou_action_behit_add_hand",
+      "EventId": 757242135
+    },
+    "MaximumDuration": 1.5333333,
+    "MinimumDuration": 1.2,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 50000.0
+  }
+]

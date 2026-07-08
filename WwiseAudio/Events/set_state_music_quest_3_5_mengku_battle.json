@@ -1,0 +1,54 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "set_state_music_quest_3_5_mengku_battle",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/set_state_music_quest_3_5_mengku_battle",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 4131160361,
+            "SoundBanks": [
+              {
+                "SoundBankId": 4131160361,
+                "SoundBankPathName": "Event/set_state_music_quest_3_5_mengku_battle.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "set_state_music_quest_3_5_mengku_battle",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [
+              {
+                "Type": "EWwiseGroupType::State",
+                "GroupId": 1866628809,
+                "Id": -356179354,
+                "DebugName": "music_quest_3_5_mengku_battle"
+              }
+            ],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "set_state_music_quest_3_5_mengku_battle"
+          }
+        }
+      ],
+      "DebugName": "set_state_music_quest_3_5_mengku_battle",
+      "EventId": 4131160361
+    },
+    "MaximumDuration": 0.0,
+    "MinimumDuration": 0.0,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

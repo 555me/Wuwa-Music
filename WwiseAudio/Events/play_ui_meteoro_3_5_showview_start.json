@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_ui_meteoro_3_5_showview_start",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_ui_meteoro_3_5_showview_start",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2189072294,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2189072294,
+                "SoundBankPathName": "Event/play_ui_meteoro_3_5_showview_start.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_ui_meteoro_3_5_showview_start",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 821811661,
+                "MediaPathName": "Media/821811661.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,5\\meteoro_3_5\\ui_meteoro_3_5_showview_start.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_ui_meteoro_3_5_showview_start"
+          }
+        }
+      ],
+      "DebugName": "play_ui_meteoro_3_5_showview_start",
+      "EventId": 2189072294
+    },
+    "MaximumDuration": 1.7594167,
+    "MinimumDuration": 1.7594167,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

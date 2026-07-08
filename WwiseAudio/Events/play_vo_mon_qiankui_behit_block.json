@@ -1,0 +1,175 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_mon_qiankui_behit_block",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_mon_qiankui_behit_block",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 1819748192,
+            "LanguageName": "en",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 3875724076,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3875724076,
+                "SoundBankPathName": "Event/en/play_vo_mon_qiankui_behit_block.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_mon_qiankui_behit_block",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 234534694,
+                "MediaPathName": "Media/en/234534694.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "enemy\\branch_3,5\\qiankui\\en_vo_mon_qiankui_behit_block.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_mon_qiankui_behit_block"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1735860046,
+            "LanguageName": "ja",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 3875724076,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3875724076,
+                "SoundBankPathName": "Event/ja/play_vo_mon_qiankui_behit_block.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_mon_qiankui_behit_block",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 51788187,
+                "MediaPathName": "Media/ja/51788187.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "enemy\\branch_3,5\\qiankui\\ja_vo_mon_qiankui_behit_block.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_mon_qiankui_behit_block"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1719082483,
+            "LanguageName": "ko",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 3875724076,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3875724076,
+                "SoundBankPathName": "Event/ko/play_vo_mon_qiankui_behit_block.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_mon_qiankui_behit_block",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 641964102,
+                "MediaPathName": "Media/ko/641964102.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "enemy\\branch_3,5\\qiankui\\ko_vo_mon_qiankui_behit_block.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_mon_qiankui_behit_block"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1467418007,
+            "LanguageName": "zh",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsDefault"
+          },
+          "Value": {
+            "EventId": 3875724076,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3875724076,
+                "SoundBankPathName": "Event/zh/play_vo_mon_qiankui_behit_block.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_mon_qiankui_behit_block",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 584695905,
+                "MediaPathName": "Media/zh/584695905.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "enemy\\branch_3,5\\qiankui\\zh_vo_mon_qiankui_behit_block.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_mon_qiankui_behit_block"
+          }
+        }
+      ],
+      "DebugName": "play_vo_mon_qiankui_behit_block",
+      "EventId": 3875724076
+    },
+    "MaximumDuration": 4.1595,
+    "MinimumDuration": 4.1595,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 7000.0
+  }
+]

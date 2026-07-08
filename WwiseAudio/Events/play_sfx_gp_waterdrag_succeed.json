@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_waterdrag_succeed",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_waterdrag_succeed",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2976888532,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2976888532,
+                "SoundBankPathName": "Event/play_sfx_gp_waterdrag_succeed.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_waterdrag_succeed",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 345592120,
+                "MediaPathName": "Media/345592120.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "sfx_gp_waterdrag_succeed.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_waterdrag_succeed"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_waterdrag_succeed",
+      "EventId": 2976888532
+    },
+    "MaximumDuration": 1.10396,
+    "MinimumDuration": 1.10396,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

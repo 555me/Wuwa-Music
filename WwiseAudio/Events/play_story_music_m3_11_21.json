@@ -1,0 +1,98 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_story_music_m3_11_21",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_story_music_m3_11_21",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3394417035,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3394417035,
+                "SoundBankPathName": "Event/play_story_music_m3_11_21.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_story_music_m3_11_21",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 324921673,
+                "MediaPathName": "Media/324921673.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music\\music_scene\\silence.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 939722816,
+                "MediaPathName": "Media/939722816.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_dungeon\\3_5_dungeon\\bgm-dungeon_3_5_suonuola-all-full-69bpm-4_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 101952194,
+                "MediaPathName": "Media/101952194.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music\\music_scene\\silence_5s.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 819358185,
+                "MediaPathName": "Media/819358185.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_dungeon\\3_5_dungeon\\bgm-dungeon_3_5_suonuola-all-amb-69bpm-4_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1044386352,
+                "MediaPathName": "Media/1044386352.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_5\\bgm_story_3_5_calmness02.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_story_music_m3_11_21"
+          }
+        }
+      ],
+      "DebugName": "play_story_music_m3_11_21",
+      "EventId": 3394417035
+    },
+    "MaximumDuration": 0.0,
+    "MinimumDuration": 0.0,
+    "IsInfinite": true,
+    "MaxAttenuationRadius": 0.0
+  }
+]

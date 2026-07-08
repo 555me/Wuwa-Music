@@ -1,0 +1,88 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_favor_word_suisui_sys_rankup05",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_favor_word_suisui_sys_rankup05",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 579225619,
+            "SoundBanks": [
+              {
+                "SoundBankId": 579225619,
+                "SoundBankPathName": "Event/play_favor_word_suisui_sys_rankup05.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_favor_word_suisui_sys_rankup05",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 985200061,
+                "MediaPathName": "Media/985200061.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\zh\\role\\branch_3,5\\suisui\\zh_vo_suisui_sys_rankup05_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 364055483,
+                "MediaPathName": "Media/364055483.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,5\\suisui\\ja_vo_suisui_sys_rankup05_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 509704855,
+                "MediaPathName": "Media/509704855.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,5\\suisui\\ko_vo_suisui_sys_rankup05_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 445408397,
+                "MediaPathName": "Media/445408397.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\en\\role\\branch_3,5\\suisui\\en_vo_suisui_sys_rankup05_word.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_favor_word_suisui_sys_rankup05"
+          }
+        }
+      ],
+      "DebugName": "play_favor_word_suisui_sys_rankup05",
+      "EventId": 579225619
+    },
+    "MaximumDuration": 27.30677,
+    "MinimumDuration": 0.0,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

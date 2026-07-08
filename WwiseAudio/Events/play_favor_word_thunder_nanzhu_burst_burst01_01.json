@@ -1,0 +1,88 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_favor_word_thunder_nanzhu_burst_burst01_01",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_favor_word_thunder_nanzhu_burst_burst01_01",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3441094772,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3441094772,
+                "SoundBankPathName": "Event/play_favor_word_thunder_nanzhu_burst_burst01_01.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_favor_word_thunder_nanzhu_burst_burst01_01",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 35898810,
+                "MediaPathName": "Media/35898810.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_3,5\\thunder_nanzhu\\en_vo_thunder_nanzhu_burst_burst01_01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 562120078,
+                "MediaPathName": "Media/562120078.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,5\\thunder_nanzhu\\zh_vo_thunder_nanzhu_burst_burst01_01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 645657948,
+                "MediaPathName": "Media/645657948.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,5\\thunder_nanzhu\\ja_vo_thunder_nanzhu_burst_burst01_01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 338780552,
+                "MediaPathName": "Media/338780552.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,5\\thunder_nanzhu\\ko_vo_thunder_nanzhu_burst_burst01_01_word.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_favor_word_thunder_nanzhu_burst_burst01_01"
+          }
+        }
+      ],
+      "DebugName": "play_favor_word_thunder_nanzhu_burst_burst01_01",
+      "EventId": 3441094772
+    },
+    "MaximumDuration": 1.496,
+    "MinimumDuration": 0.0,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

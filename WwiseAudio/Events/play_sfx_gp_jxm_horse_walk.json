@@ -1,0 +1,98 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_jxm_horse_walk",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_jxm_horse_walk",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3160303449,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3160303449,
+                "SoundBankPathName": "Event/play_sfx_gp_jxm_horse_walk.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_jxm_horse_walk",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 70469056,
+                "MediaPathName": "Media/70469056.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "sfx_gp_jxm_horse_walk.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 108845728,
+                "MediaPathName": "Media/108845728.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "sfx_gp_jxm_horse_walk.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 195242923,
+                "MediaPathName": "Media/195242923.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "sfx_gp_jxm_horse_walk.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 534810643,
+                "MediaPathName": "Media/534810643.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "sfx_gp_jxm_horse_walk.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1018852038,
+                "MediaPathName": "Media/1018852038.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "sfx_gp_jxm_horse_walk.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_jxm_horse_walk"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_jxm_horse_walk",
+      "EventId": 3160303449
+    },
+    "MaximumDuration": 1.25952,
+    "MinimumDuration": 1.17686,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

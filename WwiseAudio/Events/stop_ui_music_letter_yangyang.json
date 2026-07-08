@@ -1,0 +1,47 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "stop_ui_music_letter_yangyang",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/stop_ui_music_letter_yangyang",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2129871840,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2129871840,
+                "SoundBankPathName": "Event/stop_ui_music_letter_yangyang.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "stop_ui_music_letter_yangyang",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "stop_ui_music_letter_yangyang"
+          }
+        }
+      ],
+      "DebugName": "stop_ui_music_letter_yangyang",
+      "EventId": 2129871840
+    },
+    "MaximumDuration": 0.0,
+    "MinimumDuration": 0.0,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

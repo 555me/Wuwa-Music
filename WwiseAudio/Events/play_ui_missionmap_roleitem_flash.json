@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_ui_missionmap_roleitem_flash",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_ui_missionmap_roleitem_flash",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1554111052,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1554111052,
+                "SoundBankPathName": "Event/play_ui_missionmap_roleitem_flash.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_ui_missionmap_roleitem_flash",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 782266879,
+                "MediaPathName": "Media/782266879.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,5\\missionmap\\ui_missionmap_roleitem_flash.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_ui_missionmap_roleitem_flash"
+          }
+        }
+      ],
+      "DebugName": "play_ui_missionmap_roleitem_flash",
+      "EventId": 1554111052
+    },
+    "MaximumDuration": 1.1708958,
+    "MinimumDuration": 1.1708958,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

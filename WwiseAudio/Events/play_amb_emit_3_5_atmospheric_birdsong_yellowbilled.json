@@ -1,0 +1,68 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_amb_emit_3_5_atmospheric_birdsong_yellowbilled",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_amb_emit_3_5_atmospheric_birdsong_yellowbilled",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 4228720160,
+            "SoundBanks": [
+              {
+                "SoundBankId": 4228720160,
+                "SoundBankPathName": "Event/play_amb_emit_3_5_atmospheric_birdsong_yellowbilled.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_amb_emit_3_5_atmospheric_birdsong_yellowbilled",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 1013814286,
+                "MediaPathName": "Media/1013814286.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\amb_emit_3_5_Atmospheric_Birdsong_yellowbilled_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1028348352,
+                "MediaPathName": "Media/1028348352.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\amb_emit_3_5_Atmospheric_Birdsong_yellowbilled_02.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_amb_emit_3_5_atmospheric_birdsong_yellowbilled"
+          }
+        }
+      ],
+      "DebugName": "play_amb_emit_3_5_atmospheric_birdsong_yellowbilled",
+      "EventId": 4228720160
+    },
+    "MaximumDuration": 0.0,
+    "MinimumDuration": 0.0,
+    "IsInfinite": true,
+    "MaxAttenuationRadius": 12000.0
+  }
+]

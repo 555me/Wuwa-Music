@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_ost_album_26_track_01",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_ost_album_26_track_01",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 4123967247,
+            "SoundBanks": [
+              {
+                "SoundBankId": 4123967247,
+                "SoundBankPathName": "Event/play_ost_album_26_track_01.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_ost_album_26_track_01",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 301872372,
+                "MediaPathName": "Media/301872372.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_phonograph_albums\\ost_album_26\\ost-album26_01_登录曲_dminor_bpm90_v7.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_ost_album_26_track_01"
+          }
+        }
+      ],
+      "DebugName": "play_ost_album_26_track_01",
+      "EventId": 4123967247
+    },
+    "MaximumDuration": 77.333336,
+    "MinimumDuration": 77.333336,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 2000.0
+  }
+]

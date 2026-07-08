@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_mon_activity_tudou_battle_shan",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_mon_activity_tudou_battle_shan",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3439263518,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3439263518,
+                "SoundBankPathName": "Event/play_mon_activity_tudou_battle_shan.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_mon_activity_tudou_battle_shan",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 348278138,
+                "MediaPathName": "Media/348278138.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,5\\tudou\\monster_skills\\mon_activity_tudou_battle_shan.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_mon_activity_tudou_battle_shan"
+          }
+        }
+      ],
+      "DebugName": "play_mon_activity_tudou_battle_shan",
+      "EventId": 3439263518
+    },
+    "MaximumDuration": 2.7913334,
+    "MinimumDuration": 2.7913334,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

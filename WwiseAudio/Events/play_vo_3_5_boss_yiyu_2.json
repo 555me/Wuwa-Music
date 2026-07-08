@@ -1,0 +1,175 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_3_5_boss_yiyu_2",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_3_5_boss_yiyu_2",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 1819748192,
+            "LanguageName": "en",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 1366788653,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1366788653,
+                "SoundBankPathName": "Event/en/play_vo_3_5_boss_yiyu_2.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_3_5_boss_yiyu_2",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 702253605,
+                "MediaPathName": "Media/en/702253605.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.5\\3_5_boss_yiyu\\en_vo_3_5_boss_yiyu_2.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_3_5_boss_yiyu_2"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1735860046,
+            "LanguageName": "ja",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 1366788653,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1366788653,
+                "SoundBankPathName": "Event/ja/play_vo_3_5_boss_yiyu_2.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_3_5_boss_yiyu_2",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 624834014,
+                "MediaPathName": "Media/ja/624834014.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.5\\3_5_boss_yiyu\\ja_vo_3_5_boss_yiyu_2.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_3_5_boss_yiyu_2"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1719082483,
+            "LanguageName": "ko",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 1366788653,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1366788653,
+                "SoundBankPathName": "Event/ko/play_vo_3_5_boss_yiyu_2.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_3_5_boss_yiyu_2",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 338685083,
+                "MediaPathName": "Media/ko/338685083.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.5\\3_5_boss_yiyu\\ko_vo_3_5_boss_yiyu_2.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_3_5_boss_yiyu_2"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1467418007,
+            "LanguageName": "zh",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsDefault"
+          },
+          "Value": {
+            "EventId": 1366788653,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1366788653,
+                "SoundBankPathName": "Event/zh/play_vo_3_5_boss_yiyu_2.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_3_5_boss_yiyu_2",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 88850967,
+                "MediaPathName": "Media/zh/88850967.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.5\\3_5_boss_yiyu\\zh_vo_3_5_boss_yiyu_2.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_3_5_boss_yiyu_2"
+          }
+        }
+      ],
+      "DebugName": "play_vo_3_5_boss_yiyu_2",
+      "EventId": 1366788653
+    },
+    "MaximumDuration": 0.0,
+    "MinimumDuration": 0.0,
+    "IsInfinite": true,
+    "MaxAttenuationRadius": 7000.0
+  }
+]

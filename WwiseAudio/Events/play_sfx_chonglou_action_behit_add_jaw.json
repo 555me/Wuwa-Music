@@ -1,0 +1,78 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_chonglou_action_behit_add_jaw",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_chonglou_action_behit_add_jaw",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3788375190,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3788375190,
+                "SoundBankPathName": "Event/play_sfx_chonglou_action_behit_add_jaw.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_chonglou_action_behit_add_jaw",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 480631429,
+                "MediaPathName": "Media/480631429.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\Enemy\\Boss\\chonglou\\SFX_ChongLou_Action_Behit_Add_jaw_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 753697670,
+                "MediaPathName": "Media/753697670.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\Enemy\\Boss\\chonglou\\SFX_ChongLou_Action_Behit_Add_jaw_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 838648350,
+                "MediaPathName": "Media/838648350.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\Enemy\\Boss\\chonglou\\SFX_ChongLou_Action_Behit_Add_jaw_01.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_chonglou_action_behit_add_jaw"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_chonglou_action_behit_add_jaw",
+      "EventId": 3788375190
+    },
+    "MaximumDuration": 0.8666667,
+    "MinimumDuration": 0.8666667,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 50000.0
+  }
+]

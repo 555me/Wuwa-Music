@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_yangyang_attack_cage",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_yangyang_attack_cage",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1244189560,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1244189560,
+                "SoundBankPathName": "Event/play_sfx_gp_yangyang_attack_cage.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_yangyang_attack_cage",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 517638770,
+                "MediaPathName": "Media/517638770.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "sfx_gp_yangyang_attack_cage.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_yangyang_attack_cage"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_yangyang_attack_cage",
+      "EventId": 1244189560
+    },
+    "MaximumDuration": 2.036875,
+    "MinimumDuration": 2.036875,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

@@ -1,0 +1,88 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "map_main_tinyuan",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/map_main_tinyuan",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3042407284,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3042407284,
+                "SoundBankPathName": "Event/map_main_tinyuan.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "map_main_tinyuan",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 287700328,
+                "MediaPathName": "Media/287700328.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\amb_bed_3_5_Springroom.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 601522890,
+                "MediaPathName": "Media/601522890.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_5\\process\\bgm-story_plot_quest_unusual_battle-all-full-74bpm-null.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 832145747,
+                "MediaPathName": "Media/832145747.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\bgm-scene_tinyuan-all-full-74bpm-null.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 875663618,
+                "MediaPathName": "Media/875663618.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_5\\process\\bgm-story_plot_quest_unusual-all-full-74bpm-null.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "map_main_tinyuan"
+          }
+        }
+      ],
+      "DebugName": "map_main_tinyuan",
+      "EventId": 3042407284
+    },
+    "MaximumDuration": 0.0,
+    "MinimumDuration": 0.0,
+    "IsInfinite": true,
+    "MaxAttenuationRadius": 0.0
+  }
+]

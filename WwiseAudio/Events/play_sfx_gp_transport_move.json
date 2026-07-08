@@ -1,0 +1,68 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_transport_move",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_transport_move",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 603682795,
+            "SoundBanks": [
+              {
+                "SoundBankId": 603682795,
+                "SoundBankPathName": "Event/play_sfx_gp_transport_move.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_transport_move",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 205586277,
+                "MediaPathName": "Media/205586277.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "sfx_gp_transport_move_slow_loop.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 972032729,
+                "MediaPathName": "Media/972032729.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "sfx_gp_transport_move_fast_loop.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_transport_move"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_transport_move",
+      "EventId": 603682795
+    },
+    "MaximumDuration": 0.0,
+    "MinimumDuration": 0.0,
+    "IsInfinite": true,
+    "MaxAttenuationRadius": 0.0
+  }
+]

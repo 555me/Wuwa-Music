@@ -1,0 +1,78 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_mon_activity_tudou_battle_dilei1",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_mon_activity_tudou_battle_dilei1",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2355327612,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2355327612,
+                "SoundBankPathName": "Event/play_mon_activity_tudou_battle_dilei1.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_mon_activity_tudou_battle_dilei1",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 77676912,
+                "MediaPathName": "Media/77676912.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,5\\tudou\\creature\\mon_activity_tudou_battle_dilei1_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 382091072,
+                "MediaPathName": "Media/382091072.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,5\\tudou\\creature\\mon_activity_tudou_battle_dilei1_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 551414844,
+                "MediaPathName": "Media/551414844.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,5\\tudou\\creature\\mon_activity_tudou_battle_dilei1_03.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_mon_activity_tudou_battle_dilei1"
+          }
+        }
+      ],
+      "DebugName": "play_mon_activity_tudou_battle_dilei1",
+      "EventId": 2355327612
+    },
+    "MaximumDuration": 1.0347708,
+    "MinimumDuration": 0.92354167,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

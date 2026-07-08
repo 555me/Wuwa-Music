@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_ui_babel_settle_open",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_ui_babel_settle_open",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2750611996,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2750611996,
+                "SoundBankPathName": "Event/play_ui_babel_settle_open.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_ui_babel_settle_open",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 217737703,
+                "MediaPathName": "Media/217737703.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\tafang\\ui_tafang_settle_open.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_ui_babel_settle_open"
+          }
+        }
+      ],
+      "DebugName": "play_ui_babel_settle_open",
+      "EventId": 2750611996
+    },
+    "MaximumDuration": 2.1271875,
+    "MinimumDuration": 2.1271875,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

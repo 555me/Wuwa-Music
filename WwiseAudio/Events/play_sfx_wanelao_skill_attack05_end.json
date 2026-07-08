@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_wanelao_skill_attack05_end",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_wanelao_skill_attack05_end",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2357151719,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2357151719,
+                "SoundBankPathName": "Event/play_sfx_wanelao_skill_attack05_end.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_wanelao_skill_attack05_end",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 916122930,
+                "MediaPathName": "Media/916122930.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\Enemy\\Lord\\Wanelao\\SFX_WanELao_Skill_Attack05_end.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_wanelao_skill_attack05_end"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_wanelao_skill_attack05_end",
+      "EventId": 2357151719
+    },
+    "MaximumDuration": 2.1,
+    "MinimumDuration": 2.1,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 20000.0
+  }
+]

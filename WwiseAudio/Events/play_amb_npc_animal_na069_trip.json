@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_amb_npc_animal_na069_trip",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_amb_npc_animal_na069_trip",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3765541236,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3765541236,
+                "SoundBankPathName": "Event/play_amb_npc_animal_na069_trip.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_amb_npc_animal_na069_trip",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 96743116,
+                "MediaPathName": "Media/96743116.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "npc\\animal\\amb_npc_animal_na069_trip.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_amb_npc_animal_na069_trip"
+          }
+        }
+      ],
+      "DebugName": "play_amb_npc_animal_na069_trip",
+      "EventId": 3765541236
+    },
+    "MaximumDuration": 0.423625,
+    "MinimumDuration": 0.423625,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 1500.0
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_chonglou_skill_wallattack_01_impact",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_chonglou_skill_wallattack_01_impact",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 4132657121,
+            "SoundBanks": [
+              {
+                "SoundBankId": 4132657121,
+                "SoundBankPathName": "Event/play_sfx_chonglou_skill_wallattack_01_impact.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_chonglou_skill_wallattack_01_impact",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 335024429,
+                "MediaPathName": "Media/335024429.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\Enemy\\Boss\\chonglou\\SFX_ChongLou_Skill_WallAttack_01_Impact.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_chonglou_skill_wallattack_01_impact"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_chonglou_skill_wallattack_01_impact",
+      "EventId": 4132657121
+    },
+    "MaximumDuration": 2.2333333,
+    "MinimumDuration": 2.2333333,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 50000.0
+  }
+]

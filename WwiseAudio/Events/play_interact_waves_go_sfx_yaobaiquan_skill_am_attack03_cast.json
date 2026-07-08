@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_interact_waves_go_sfx_yaobaiquan_skill_am_attack03_cast",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_interact_waves_go_sfx_yaobaiquan_skill_am_attack03_cast",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2289037500,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2289037500,
+                "SoundBankPathName": "Event/play_interact_waves_go_sfx_yaobaiquan_skill_am_attack03_cast.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_interact_waves_go_sfx_yaobaiquan_skill_am_attack03_cast",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 1019788612,
+                "MediaPathName": "Media/1019788612.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\Enemy\\Ordinary\\Yaobaiquan\\sfx_yaobaiquan_skill_am_attack03_cast.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_interact_waves_go_sfx_yaobaiquan_skill_am_attack03_cast"
+          }
+        }
+      ],
+      "DebugName": "play_interact_waves_go_sfx_yaobaiquan_skill_am_attack03_cast",
+      "EventId": 2289037500
+    },
+    "MaximumDuration": 1.671875,
+    "MinimumDuration": 1.671875,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

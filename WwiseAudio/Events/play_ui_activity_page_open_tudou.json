@@ -1,0 +1,68 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_ui_activity_page_open_tudou",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_ui_activity_page_open_tudou",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3533155415,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3533155415,
+                "SoundBankPathName": "Event/play_ui_activity_page_open_tudou.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_ui_activity_page_open_tudou",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 213109342,
+                "MediaPathName": "Media/213109342.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,5\\tudou\\ui_activity_page_open_page_tudou.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1005101848,
+                "MediaPathName": "Media/1005101848.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,5\\tudou\\ui_music_activity_page_open_tudou.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_ui_activity_page_open_tudou"
+          }
+        }
+      ],
+      "DebugName": "play_ui_activity_page_open_tudou",
+      "EventId": 3533155415
+    },
+    "MaximumDuration": 4.866667,
+    "MinimumDuration": 4.866667,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_wanelao_action_behit_block_chainsaw",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_wanelao_action_behit_block_chainsaw",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2059792454,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2059792454,
+                "SoundBankPathName": "Event/play_sfx_wanelao_action_behit_block_chainsaw.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_wanelao_action_behit_block_chainsaw",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 420395349,
+                "MediaPathName": "Media/420395349.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\Enemy\\Lord\\Wanelao\\SFX_WanELao_Action_Behit_Block_ChainSaw.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_wanelao_action_behit_block_chainsaw"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_wanelao_action_behit_block_chainsaw",
+      "EventId": 2059792454
+    },
+    "MaximumDuration": 2.172875,
+    "MinimumDuration": 2.172875,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 20000.0
+  }
+]

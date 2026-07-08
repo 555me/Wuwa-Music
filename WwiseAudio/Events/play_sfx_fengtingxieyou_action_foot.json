@@ -1,0 +1,108 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_fengtingxieyou_action_foot",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_fengtingxieyou_action_foot",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1360907579,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1360907579,
+                "SoundBankPathName": "Event/play_sfx_fengtingxieyou_action_foot.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_fengtingxieyou_action_foot",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 3843570,
+                "MediaPathName": "Media/3843570.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\gameplay\\3_5\\3C_fengtingxieyou\\SFX_3C_FengTingXieYou_Run_F_04.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 80853253,
+                "MediaPathName": "Media/80853253.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\gameplay\\3_5\\3C_fengtingxieyou\\SFX_3C_FengTingXieYou_Run_F_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 266893508,
+                "MediaPathName": "Media/266893508.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\gameplay\\3_5\\3C_fengtingxieyou\\SFX_3C_FengTingXieYou_Run_F_05.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 483183715,
+                "MediaPathName": "Media/483183715.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\gameplay\\3_5\\3C_fengtingxieyou\\SFX_3C_FengTingXieYou_Run_F_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 704320481,
+                "MediaPathName": "Media/704320481.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\gameplay\\3_5\\3C_fengtingxieyou\\SFX_3C_FengTingXieYou_Run_F_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1049543107,
+                "MediaPathName": "Media/1049543107.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\gameplay\\3_5\\3C_fengtingxieyou\\SFX_3C_FengTingXieYou_Run_F_06.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_fengtingxieyou_action_foot"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_fengtingxieyou_action_foot",
+      "EventId": 1360907579
+    },
+    "MaximumDuration": 1.0753014,
+    "MinimumDuration": 0.5752538,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

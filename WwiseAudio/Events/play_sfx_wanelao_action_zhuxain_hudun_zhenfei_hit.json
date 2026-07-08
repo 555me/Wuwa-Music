@@ -1,0 +1,78 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_wanelao_action_zhuxain_hudun_zhenfei_hit",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_wanelao_action_zhuxain_hudun_zhenfei_hit",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2328057075,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2328057075,
+                "SoundBankPathName": "Event/play_sfx_wanelao_action_zhuxain_hudun_zhenfei_hit.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_wanelao_action_zhuxain_hudun_zhenfei_hit",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 5552977,
+                "MediaPathName": "Media/5552977.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\Enemy\\Lord\\Wanelao\\SFX_WanELao_Action_zhuxain_hudun_zhenfei_hit_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 38304594,
+                "MediaPathName": "Media/38304594.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\Enemy\\Lord\\Wanelao\\SFX_WanELao_Action_zhuxain_hudun_zhenfei_hit_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 813929074,
+                "MediaPathName": "Media/813929074.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\Enemy\\Lord\\Wanelao\\SFX_WanELao_Action_zhuxain_hudun_zhenfei_hit_01.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_wanelao_action_zhuxain_hudun_zhenfei_hit"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_wanelao_action_zhuxain_hudun_zhenfei_hit",
+      "EventId": 2328057075
+    },
+    "MaximumDuration": 2.7811875,
+    "MinimumDuration": 2.4775941,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 20000.0
+  }
+]

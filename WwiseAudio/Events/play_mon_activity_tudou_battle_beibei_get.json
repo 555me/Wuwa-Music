@@ -1,0 +1,78 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_mon_activity_tudou_battle_beibei_get",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_mon_activity_tudou_battle_beibei_get",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2834680043,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2834680043,
+                "SoundBankPathName": "Event/play_mon_activity_tudou_battle_beibei_get.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_mon_activity_tudou_battle_beibei_get",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 38013515,
+                "MediaPathName": "Media/38013515.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,5\\tudou\\creature\\mon_activity_tudou_battle_beibei_get_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 164755310,
+                "MediaPathName": "Media/164755310.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,5\\tudou\\creature\\mon_activity_tudou_battle_beibei_get_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 521442670,
+                "MediaPathName": "Media/521442670.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,5\\tudou\\creature\\mon_activity_tudou_battle_beibei_get_01.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_mon_activity_tudou_battle_beibei_get"
+          }
+        }
+      ],
+      "DebugName": "play_mon_activity_tudou_battle_beibei_get",
+      "EventId": 2834680043
+    },
+    "MaximumDuration": 2.6215832,
+    "MinimumDuration": 2.4947293,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

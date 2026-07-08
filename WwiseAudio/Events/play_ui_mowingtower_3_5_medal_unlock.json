@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_ui_mowingtower_3_5_medal_unlock",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_ui_mowingtower_3_5_medal_unlock",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2378385822,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2378385822,
+                "SoundBankPathName": "Event/play_ui_mowingtower_3_5_medal_unlock.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_ui_mowingtower_3_5_medal_unlock",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 424850024,
+                "MediaPathName": "Media/424850024.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,5\\mowingtower_3_5\\ui_mowingtower_3_5_medal_unlock.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_ui_mowingtower_3_5_medal_unlock"
+          }
+        }
+      ],
+      "DebugName": "play_ui_mowingtower_3_5_medal_unlock",
+      "EventId": 2378385822
+    },
+    "MaximumDuration": 2.0548334,
+    "MinimumDuration": 2.0548334,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

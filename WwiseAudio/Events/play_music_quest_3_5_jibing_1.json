@@ -1,0 +1,108 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_music_quest_3_5_jibing_1",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_music_quest_3_5_jibing_1",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3288285128,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3288285128,
+                "SoundBankPathName": "Event/play_music_quest_3_5_jibing_1.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_music_quest_3_5_jibing_1",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 516966274,
+                "MediaPathName": "Media/516966274.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\level_a\\3.5\\mov-story_video_m0369-all-full-120bpm-4_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 831774590,
+                "MediaPathName": "Media/831774590.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_5\\jibing\\bgm-story_plot_muyu_x01-all-full-100bpm-3_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 150537018,
+                "MediaPathName": "Media/150537018.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_5\\jibing\\bgm-story_plot_jibing_x04-all-full-140bpm-null.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 297185714,
+                "MediaPathName": "Media/297185714.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_5\\jibing\\bgm-story_plot_jibing_x03-all-full-140bpm-null.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 569473484,
+                "MediaPathName": "Media/569473484.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_5\\jibing\\bgm-story_plot_jibing_x02-all-full-140bpm-null.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 300798667,
+                "MediaPathName": "Media/300798667.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_5\\jibing\\bgm-story_plot_jibing_x01-all-full-140bpm-null.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_music_quest_3_5_jibing_1"
+          }
+        }
+      ],
+      "DebugName": "play_music_quest_3_5_jibing_1",
+      "EventId": 3288285128
+    },
+    "MaximumDuration": 0.0,
+    "MinimumDuration": 0.0,
+    "IsInfinite": true,
+    "MaxAttenuationRadius": 0.0
+  }
+]

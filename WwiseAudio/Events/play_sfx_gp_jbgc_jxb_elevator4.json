@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_jbgc_jxb_elevator4",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_jbgc_jxb_elevator4",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 579950106,
+            "SoundBanks": [
+              {
+                "SoundBankId": 579950106,
+                "SoundBankPathName": "Event/play_sfx_gp_jbgc_jxb_elevator4.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_jbgc_jxb_elevator4",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 799085621,
+                "MediaPathName": "Media/799085621.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\gameplay\\3_5\\sfx_gp_jbgc_jxb_elevator4.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_jbgc_jxb_elevator4"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_jbgc_jxb_elevator4",
+      "EventId": 579950106
+    },
+    "MaximumDuration": 4.533104,
+    "MinimumDuration": 4.533104,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 50000.0
+  }
+]

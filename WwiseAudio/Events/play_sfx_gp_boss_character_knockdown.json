@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_boss_character_knockdown",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_boss_character_knockdown",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 953065024,
+            "SoundBanks": [
+              {
+                "SoundBankId": 953065024,
+                "SoundBankPathName": "Event/play_sfx_gp_boss_character_knockdown.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_boss_character_knockdown",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 495153904,
+                "MediaPathName": "Media/495153904.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\gameplay\\3_5\\sfx_gp_boss_character_knockdown.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_boss_character_knockdown"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_boss_character_knockdown",
+      "EventId": 953065024
+    },
+    "MaximumDuration": 30.570187,
+    "MinimumDuration": 30.570187,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

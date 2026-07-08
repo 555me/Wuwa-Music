@@ -1,0 +1,78 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_interact_environment_tree_hit",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_interact_environment_tree_hit",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3166214131,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3166214131,
+                "SoundBankPathName": "Event/play_interact_environment_tree_hit.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_interact_environment_tree_hit",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 4682560,
+                "MediaPathName": "Media/4682560.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "interact_environment_tree_hit_3.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 354759511,
+                "MediaPathName": "Media/354759511.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "interact_environment_tree_hit_2.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 486360424,
+                "MediaPathName": "Media/486360424.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "interact_environment_tree_hit_1.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_interact_environment_tree_hit"
+          }
+        }
+      ],
+      "DebugName": "play_interact_environment_tree_hit",
+      "EventId": 3166214131
+    },
+    "MaximumDuration": 0.11976307,
+    "MinimumDuration": 0.06348768,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

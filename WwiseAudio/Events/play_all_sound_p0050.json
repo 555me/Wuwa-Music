@@ -1,0 +1,68 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_all_sound_p0050",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_all_sound_p0050",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3428888565,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3428888565,
+                "SoundBankPathName": "Event/play_all_sound_P0050.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_all_sound_P0050",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 360566843,
+                "MediaPathName": "Media/360566843.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "sfx_lva_p0050_MIX.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 935319675,
+                "MediaPathName": "Media/935319675.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\level_a\\3.5\\mov-story_video_yishikongjian_p0050-all-full-null-null.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_all_sound_P0050"
+          }
+        }
+      ],
+      "DebugName": "play_all_sound_P0050",
+      "EventId": 3428888565
+    },
+    "MaximumDuration": 18.566668,
+    "MinimumDuration": 18.566668,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

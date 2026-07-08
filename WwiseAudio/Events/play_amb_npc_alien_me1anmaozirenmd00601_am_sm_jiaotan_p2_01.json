@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_amb_npc_alien_me1anmaozirenmd00601_am_sm_jiaotan_p2_01",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_amb_npc_alien_me1anmaozirenmd00601_am_sm_jiaotan_p2_01",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1160371070,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1160371070,
+                "SoundBankPathName": "Event/play_amb_npc_alien_me1anmaozirenmd00601_am_sm_jiaotan_p2_01.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_amb_npc_alien_me1anmaozirenmd00601_am_sm_jiaotan_p2_01",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 733990462,
+                "MediaPathName": "Media/733990462.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb_npc_alien_ME1AnMaoziRenMd00601_AM_SM_JiaoTan_P2-立体声.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_amb_npc_alien_me1anmaozirenmd00601_am_sm_jiaotan_p2_01"
+          }
+        }
+      ],
+      "DebugName": "play_amb_npc_alien_me1anmaozirenmd00601_am_sm_jiaotan_p2_01",
+      "EventId": 1160371070
+    },
+    "MaximumDuration": 22.78875,
+    "MinimumDuration": 22.78875,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 1500.0
+  }
+]

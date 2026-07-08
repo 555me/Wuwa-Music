@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_zhaidi_sword_clashing",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_zhaidi_sword_clashing",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 906083605,
+            "SoundBanks": [
+              {
+                "SoundBankId": 906083605,
+                "SoundBankPathName": "Event/play_sfx_gp_zhaidi_sword_clashing.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_zhaidi_sword_clashing",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 880334442,
+                "MediaPathName": "Media/880334442.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "sfx_gp_zhaidi_sword_clashing.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_zhaidi_sword_clashing"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_zhaidi_sword_clashing",
+      "EventId": 906083605
+    },
+    "MaximumDuration": 4.65331,
+    "MinimumDuration": 4.65331,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

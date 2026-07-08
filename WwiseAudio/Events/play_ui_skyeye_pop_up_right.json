@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_ui_skyeye_pop_up_right",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_ui_skyeye_pop_up_right",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 4216549204,
+            "SoundBanks": [
+              {
+                "SoundBankId": 4216549204,
+                "SoundBankPathName": "Event/play_ui_skyeye_pop_up_right.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_ui_skyeye_pop_up_right",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 206463253,
+                "MediaPathName": "Media/206463253.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,5\\skyeye\\ui_skyeye_pop_up_right.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_ui_skyeye_pop_up_right"
+          }
+        }
+      ],
+      "DebugName": "play_ui_skyeye_pop_up_right",
+      "EventId": 4216549204
+    },
+    "MaximumDuration": 1.3125,
+    "MinimumDuration": 1.3125,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

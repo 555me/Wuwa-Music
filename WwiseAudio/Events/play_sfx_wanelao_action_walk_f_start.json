@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_wanelao_action_walk_f_start",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_wanelao_action_walk_f_start",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3495951006,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3495951006,
+                "SoundBankPathName": "Event/play_sfx_wanelao_action_walk_f_start.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_wanelao_action_walk_f_start",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 180432252,
+                "MediaPathName": "Media/180432252.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\Enemy\\Lord\\Wanelao\\SFX_WanELao_Action_Walk_F_Start.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_wanelao_action_walk_f_start"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_wanelao_action_walk_f_start",
+      "EventId": 3495951006
+    },
+    "MaximumDuration": 1.8333334,
+    "MinimumDuration": 1.8333334,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 20000.0
+  }
+]

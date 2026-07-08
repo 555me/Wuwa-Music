@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_chonglou_skill_arrowrain_charge",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_chonglou_skill_arrowrain_charge",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 4175317510,
+            "SoundBanks": [
+              {
+                "SoundBankId": 4175317510,
+                "SoundBankPathName": "Event/play_sfx_chonglou_skill_arrowrain_charge.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_chonglou_skill_arrowrain_charge",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 4107997,
+                "MediaPathName": "Media/4107997.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\Enemy\\Boss\\chonglou\\SFX_ChongLou_Skill_ArrowRain_Charge.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_chonglou_skill_arrowrain_charge"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_chonglou_skill_arrowrain_charge",
+      "EventId": 4175317510
+    },
+    "MaximumDuration": 1.7,
+    "MinimumDuration": 1.7,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 50000.0
+  }
+]

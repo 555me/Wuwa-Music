@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_ls_loobyshift1",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_ls_loobyshift1",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 4119259096,
+            "SoundBanks": [
+              {
+                "SoundBankId": 4119259096,
+                "SoundBankPathName": "Event/play_sfx_gp_ls_loobyshift1.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_ls_loobyshift1",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 903891156,
+                "MediaPathName": "Media/903891156.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "sfx_gp_ls_loobyshift1.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_ls_loobyshift1"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_ls_loobyshift1",
+      "EventId": 4119259096
+    },
+    "MaximumDuration": 33.633354,
+    "MinimumDuration": 33.633354,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

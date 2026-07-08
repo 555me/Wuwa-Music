@@ -1,0 +1,78 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_chonglou_skill_exskill_jiguan_posui",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_chonglou_skill_exskill_jiguan_posui",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2828729248,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2828729248,
+                "SoundBankPathName": "Event/play_sfx_chonglou_skill_exskill_jiguan_posui.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_chonglou_skill_exskill_jiguan_posui",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 534678124,
+                "MediaPathName": "Media/534678124.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\Enemy\\Boss\\chonglou\\SFX_ChongLou_Skill_ExSkill_Jiguan_Posui_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 758521552,
+                "MediaPathName": "Media/758521552.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\Enemy\\Boss\\chonglou\\SFX_ChongLou_Skill_ExSkill_Jiguan_Posui_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1011156074,
+                "MediaPathName": "Media/1011156074.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\Enemy\\Boss\\chonglou\\SFX_ChongLou_Skill_ExSkill_Jiguan_Posui_02.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_chonglou_skill_exskill_jiguan_posui"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_chonglou_skill_exskill_jiguan_posui",
+      "EventId": 2828729248
+    },
+    "MaximumDuration": 2.1666667,
+    "MinimumDuration": 2.1666667,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 50000.0
+  }
+]

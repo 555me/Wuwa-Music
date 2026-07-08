@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_chonglou_skill_downstrick_ex_04_charge",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_chonglou_skill_downstrick_ex_04_charge",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3476052980,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3476052980,
+                "SoundBankPathName": "Event/play_sfx_chonglou_skill_downstrick_ex_04_charge.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_chonglou_skill_downstrick_ex_04_charge",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 596501637,
+                "MediaPathName": "Media/596501637.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\Enemy\\Boss\\chonglou\\SFX_ChongLou_Skill_DownStrick_EX_04_Charge.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_chonglou_skill_downstrick_ex_04_charge"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_chonglou_skill_downstrick_ex_04_charge",
+      "EventId": 3476052980
+    },
+    "MaximumDuration": 2.3666666,
+    "MinimumDuration": 2.3666666,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 50000.0
+  }
+]

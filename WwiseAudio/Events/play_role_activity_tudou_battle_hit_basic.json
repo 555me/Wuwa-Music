@@ -1,0 +1,98 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_role_activity_tudou_battle_hit_basic",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_role_activity_tudou_battle_hit_basic",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1650177828,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1650177828,
+                "SoundBankPathName": "Event/play_role_activity_tudou_battle_hit_basic.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_role_activity_tudou_battle_hit_basic",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 38168961,
+                "MediaPathName": "Media/38168961.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,5\\tudou\\role_skills\\role_activity_tudou_battle_hit_basic_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 189717850,
+                "MediaPathName": "Media/189717850.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,5\\tudou\\role_skills\\role_activity_tudou_battle_hit_basic_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 253071607,
+                "MediaPathName": "Media/253071607.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,5\\tudou\\role_skills\\role_activity_tudou_battle_hit_basic_04.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 791870594,
+                "MediaPathName": "Media/791870594.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,5\\tudou\\role_skills\\role_activity_tudou_battle_hit_basic_05.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 871116032,
+                "MediaPathName": "Media/871116032.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,5\\tudou\\role_skills\\role_activity_tudou_battle_hit_basic_03.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_role_activity_tudou_battle_hit_basic"
+          }
+        }
+      ],
+      "DebugName": "play_role_activity_tudou_battle_hit_basic",
+      "EventId": 1650177828
+    },
+    "MaximumDuration": 0.913625,
+    "MinimumDuration": 0.87645835,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

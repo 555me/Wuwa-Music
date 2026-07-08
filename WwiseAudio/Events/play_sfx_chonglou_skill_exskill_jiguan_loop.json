@@ -1,0 +1,78 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_chonglou_skill_exskill_jiguan_loop",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_chonglou_skill_exskill_jiguan_loop",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 4205084662,
+            "SoundBanks": [
+              {
+                "SoundBankId": 4205084662,
+                "SoundBankPathName": "Event/play_sfx_chonglou_skill_exskill_jiguan_loop.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_chonglou_skill_exskill_jiguan_loop",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 180916150,
+                "MediaPathName": "Media/180916150.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\Enemy\\Boss\\chonglou\\SFX_ChongLou_Skill_ExSkill_Jiguan_Loop_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 360203012,
+                "MediaPathName": "Media/360203012.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\Enemy\\Boss\\chonglou\\SFX_ChongLou_Skill_ExSkill_Jiguan_Loop_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 411205853,
+                "MediaPathName": "Media/411205853.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\Enemy\\Boss\\chonglou\\SFX_ChongLou_Skill_ExSkill_Jiguan_Loop_01.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_chonglou_skill_exskill_jiguan_loop"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_chonglou_skill_exskill_jiguan_loop",
+      "EventId": 4205084662
+    },
+    "MaximumDuration": 2.0666666,
+    "MinimumDuration": 2.0666666,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 50000.0
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_yangyang_liuxi_cam_extend",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_yangyang_liuxi_cam_extend",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 4017131099,
+            "SoundBanks": [
+              {
+                "SoundBankId": 4017131099,
+                "SoundBankPathName": "Event/play_sfx_gp_yangyang_liuxi_cam_extend.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_yangyang_liuxi_cam_extend",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 1033871984,
+                "MediaPathName": "Media/1033871984.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "sfx_gp_yangyang_liuxi_cam_extend.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_yangyang_liuxi_cam_extend"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_yangyang_liuxi_cam_extend",
+      "EventId": 4017131099
+    },
+    "MaximumDuration": 3.0210416,
+    "MinimumDuration": 3.0210416,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

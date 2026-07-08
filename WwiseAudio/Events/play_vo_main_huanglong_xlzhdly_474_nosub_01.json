@@ -1,0 +1,175 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_main_huanglong_xlzhdly_474_nosub_01",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_main_huanglong_xlzhdly_474_nosub_01",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 1819748192,
+            "LanguageName": "en",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 983365035,
+            "SoundBanks": [
+              {
+                "SoundBankId": 983365035,
+                "SoundBankPathName": "Event/en/play_vo_main_huanglong_xlzhdly_474_nosub_01.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_main_huanglong_xlzhdly_474_nosub_01",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 912464286,
+                "MediaPathName": "Media/en/912464286.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.5\\level_b\\en_vo_Main_HuangLong_XLZHDLY_474_NOSUB_01.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_main_huanglong_xlzhdly_474_nosub_01"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1735860046,
+            "LanguageName": "ja",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 983365035,
+            "SoundBanks": [
+              {
+                "SoundBankId": 983365035,
+                "SoundBankPathName": "Event/ja/play_vo_main_huanglong_xlzhdly_474_nosub_01.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_main_huanglong_xlzhdly_474_nosub_01",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 491711874,
+                "MediaPathName": "Media/ja/491711874.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.5\\level_b\\ja_vo_Main_HuangLong_XLZHDLY_474_NOSUB_01.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_main_huanglong_xlzhdly_474_nosub_01"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1719082483,
+            "LanguageName": "ko",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 983365035,
+            "SoundBanks": [
+              {
+                "SoundBankId": 983365035,
+                "SoundBankPathName": "Event/ko/play_vo_main_huanglong_xlzhdly_474_nosub_01.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_main_huanglong_xlzhdly_474_nosub_01",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 930163346,
+                "MediaPathName": "Media/ko/930163346.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.5\\level_b\\ko_vo_Main_HuangLong_XLZHDLY_474_NOSUB_01.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_main_huanglong_xlzhdly_474_nosub_01"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1467418007,
+            "LanguageName": "zh",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsDefault"
+          },
+          "Value": {
+            "EventId": 983365035,
+            "SoundBanks": [
+              {
+                "SoundBankId": 983365035,
+                "SoundBankPathName": "Event/zh/play_vo_main_huanglong_xlzhdly_474_nosub_01.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_main_huanglong_xlzhdly_474_nosub_01",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 240098196,
+                "MediaPathName": "Media/zh/240098196.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.5\\level_b\\zh_vo_Main_HuangLong_XLZHDLY_474_NOSUB_01.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_main_huanglong_xlzhdly_474_nosub_01"
+          }
+        }
+      ],
+      "DebugName": "play_vo_main_huanglong_xlzhdly_474_nosub_01",
+      "EventId": 983365035
+    },
+    "MaximumDuration": 3.6973333,
+    "MinimumDuration": 3.6973333,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

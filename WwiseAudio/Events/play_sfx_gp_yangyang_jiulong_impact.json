@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_yangyang_jiulong_impact",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_yangyang_jiulong_impact",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1541000026,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1541000026,
+                "SoundBankPathName": "Event/play_sfx_gp_yangyang_jiulong_impact.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_yangyang_jiulong_impact",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 761994605,
+                "MediaPathName": "Media/761994605.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\gameplay\\3_5\\sfx_gp_yangyang_jiulong_impact.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_yangyang_jiulong_impact"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_yangyang_jiulong_impact",
+      "EventId": 1541000026
+    },
+    "MaximumDuration": 3.67592,
+    "MinimumDuration": 3.67592,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 3000.0
+  }
+]

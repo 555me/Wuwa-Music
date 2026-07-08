@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_ost_album_26_track_15",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_ost_album_26_track_15",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 4140744932,
+            "SoundBanks": [
+              {
+                "SoundBankId": 4140744932,
+                "SoundBankPathName": "Event/play_ost_album_26_track_15.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_ost_album_26_track_15",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 390310283,
+                "MediaPathName": "Media/390310283.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_phonograph_albums\\ost_album_26\\ost-album26_15_yuanlin_qiu_D_bpm60_4-4_v0.1.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_ost_album_26_track_15"
+          }
+        }
+      ],
+      "DebugName": "play_ost_album_26_track_15",
+      "EventId": 4140744932
+    },
+    "MaximumDuration": 99.42858,
+    "MinimumDuration": 99.42858,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 2000.0
+  }
+]

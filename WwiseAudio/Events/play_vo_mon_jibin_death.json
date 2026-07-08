@@ -1,0 +1,175 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_mon_jibin_death",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_mon_jibin_death",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 1819748192,
+            "LanguageName": "en",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 3170835376,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3170835376,
+                "SoundBankPathName": "Event/en/play_vo_mon_jibin_death.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_mon_jibin_death",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 698227368,
+                "MediaPathName": "Media/en/698227368.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "enemy\\branch_3,5\\jibin\\en_vo_mon_jibin_death.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_mon_jibin_death"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1735860046,
+            "LanguageName": "ja",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 3170835376,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3170835376,
+                "SoundBankPathName": "Event/ja/play_vo_mon_jibin_death.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_mon_jibin_death",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 23276407,
+                "MediaPathName": "Media/ja/23276407.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "enemy\\branch_3,5\\jibin\\ja_vo_mon_jibin_death.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_mon_jibin_death"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1719082483,
+            "LanguageName": "ko",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 3170835376,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3170835376,
+                "SoundBankPathName": "Event/ko/play_vo_mon_jibin_death.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_mon_jibin_death",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 720011631,
+                "MediaPathName": "Media/ko/720011631.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "enemy\\branch_3,5\\jibin\\ko_vo_mon_jibin_death.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_mon_jibin_death"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1467418007,
+            "LanguageName": "zh",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsDefault"
+          },
+          "Value": {
+            "EventId": 3170835376,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3170835376,
+                "SoundBankPathName": "Event/zh/play_vo_mon_jibin_death.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_mon_jibin_death",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 493416652,
+                "MediaPathName": "Media/zh/493416652.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "enemy\\branch_3,5\\jibin\\zh_vo_mon_jibin_death.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_mon_jibin_death"
+          }
+        }
+      ],
+      "DebugName": "play_vo_mon_jibin_death",
+      "EventId": 3170835376
+    },
+    "MaximumDuration": 2.555625,
+    "MinimumDuration": 2.555625,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 2000.0
+  }
+]

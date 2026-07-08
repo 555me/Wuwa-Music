@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_interact_waves_go_trap_door_lv1",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_interact_waves_go_trap_door_lv1",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2139879819,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2139879819,
+                "SoundBankPathName": "Event/play_interact_waves_go_trap_door_lv1.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_interact_waves_go_trap_door_lv1",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 882735951,
+                "MediaPathName": "Media/882735951.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "interact_waves_go_trap_door_lv1.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_interact_waves_go_trap_door_lv1"
+          }
+        }
+      ],
+      "DebugName": "play_interact_waves_go_trap_door_lv1",
+      "EventId": 2139879819
+    },
+    "MaximumDuration": 0.7735,
+    "MinimumDuration": 0.7735,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

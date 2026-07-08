@@ -1,0 +1,88 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_favor_word_yangyang2_sys_toplayer05",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_favor_word_yangyang2_sys_toplayer05",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 398746426,
+            "SoundBanks": [
+              {
+                "SoundBankId": 398746426,
+                "SoundBankPathName": "Event/play_favor_word_yangyang2_sys_toplayer05.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_favor_word_yangyang2_sys_toplayer05",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 584607263,
+                "MediaPathName": "Media/584607263.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\en\\role\\branch_3,5\\yangyang2\\en_vo_yangyang2_sys_toplayer05_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 755852377,
+                "MediaPathName": "Media/755852377.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\zh\\role\\branch_3,5\\yangyang2\\zh_vo_yangyang2_sys_toplayer05_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 190698149,
+                "MediaPathName": "Media/190698149.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,5\\yangyang2\\ja_vo_yangyang2_sys_toplayer05_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 253457118,
+                "MediaPathName": "Media/253457118.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,5\\yangyang2\\ko_vo_yangyang2_sys_toplayer05_word.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_favor_word_yangyang2_sys_toplayer05"
+          }
+        }
+      ],
+      "DebugName": "play_favor_word_yangyang2_sys_toplayer05",
+      "EventId": 398746426
+    },
+    "MaximumDuration": 28.499292,
+    "MinimumDuration": 0.0,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

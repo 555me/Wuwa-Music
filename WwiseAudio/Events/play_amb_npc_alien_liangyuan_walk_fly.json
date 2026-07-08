@@ -1,0 +1,88 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_amb_npc_alien_liangyuan_walk_fly",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_amb_npc_alien_liangyuan_walk_fly",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3129816279,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3129816279,
+                "SoundBankPathName": "Event/play_amb_npc_alien_liangyuan_walk_fly.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_amb_npc_alien_liangyuan_walk_fly",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 204521418,
+                "MediaPathName": "Media/204521418.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "amb_npc_animal_liangyuan\\amb_npc_alien_liangyuan_walk_fly_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 800100062,
+                "MediaPathName": "Media/800100062.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "amb_npc_animal_liangyuan\\amb_npc_alien_liangyuan_walk_fly_1.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 809875472,
+                "MediaPathName": "Media/809875472.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "amb_npc_animal_liangyuan\\amb_npc_alien_liangyuan_walk_fly_2.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 960409313,
+                "MediaPathName": "Media/960409313.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "amb_npc_animal_liangyuan\\amb_npc_alien_liangyuan_walk_fly_3.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_amb_npc_alien_liangyuan_walk_fly"
+          }
+        }
+      ],
+      "DebugName": "play_amb_npc_alien_liangyuan_walk_fly",
+      "EventId": 3129816279
+    },
+    "MaximumDuration": 0.6009338,
+    "MinimumDuration": 0.37856457,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 1500.0
+  }
+]

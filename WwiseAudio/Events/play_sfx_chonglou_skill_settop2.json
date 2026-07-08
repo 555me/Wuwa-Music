@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_chonglou_skill_settop2",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_chonglou_skill_settop2",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2211818819,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2211818819,
+                "SoundBankPathName": "Event/play_sfx_chonglou_skill_settop2.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_chonglou_skill_settop2",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 767996219,
+                "MediaPathName": "Media/767996219.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\Enemy\\Boss\\chonglou\\SFX_ChongLou_Skill_SetToP2.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_chonglou_skill_settop2"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_chonglou_skill_settop2",
+      "EventId": 2211818819
+    },
+    "MaximumDuration": 3.6,
+    "MinimumDuration": 3.6,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

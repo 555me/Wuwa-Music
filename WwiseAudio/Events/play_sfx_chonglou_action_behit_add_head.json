@@ -1,0 +1,78 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_chonglou_action_behit_add_head",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_chonglou_action_behit_add_head",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 572100002,
+            "SoundBanks": [
+              {
+                "SoundBankId": 572100002,
+                "SoundBankPathName": "Event/play_sfx_chonglou_action_behit_add_head.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_chonglou_action_behit_add_head",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 90301603,
+                "MediaPathName": "Media/90301603.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\Enemy\\Boss\\chonglou\\SFX_ChongLou_Action_Behit_Add_head_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 233692115,
+                "MediaPathName": "Media/233692115.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\Enemy\\Boss\\chonglou\\SFX_ChongLou_Action_Behit_Add_head_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 829798470,
+                "MediaPathName": "Media/829798470.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\Enemy\\Boss\\chonglou\\SFX_ChongLou_Action_Behit_Add_head_02.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_chonglou_action_behit_add_head"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_chonglou_action_behit_add_head",
+      "EventId": 572100002
+    },
+    "MaximumDuration": 1.3333334,
+    "MinimumDuration": 1.3333334,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 50000.0
+  }
+]

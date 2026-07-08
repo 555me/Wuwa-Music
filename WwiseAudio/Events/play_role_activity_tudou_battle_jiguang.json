@@ -1,0 +1,78 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_role_activity_tudou_battle_jiguang",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_role_activity_tudou_battle_jiguang",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1788410741,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1788410741,
+                "SoundBankPathName": "Event/play_role_activity_tudou_battle_jiguang.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_role_activity_tudou_battle_jiguang",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 157977957,
+                "MediaPathName": "Media/157977957.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,5\\tudou\\role_skills\\role_activity_tudou_battle_jiguang_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 294780954,
+                "MediaPathName": "Media/294780954.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,5\\tudou\\role_skills\\role_activity_tudou_battle_jiguang_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 956031062,
+                "MediaPathName": "Media/956031062.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,5\\tudou\\role_skills\\role_activity_tudou_battle_jiguang_01.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_role_activity_tudou_battle_jiguang"
+          }
+        }
+      ],
+      "DebugName": "play_role_activity_tudou_battle_jiguang",
+      "EventId": 1788410741
+    },
+    "MaximumDuration": 2.5843334,
+    "MinimumDuration": 2.1,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

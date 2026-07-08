@@ -1,0 +1,188 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "map_main_3_5_main_yuancheng",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/map_main_3_5_main_yuancheng",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1967855920,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1967855920,
+                "SoundBankPathName": "Event/map_main_3_5_main_yuancheng.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "map_main_3_5_main_yuancheng",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 241914355,
+                "MediaPathName": "Media/241914355.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_dungeon\\3_5_dungeon\\yuancheng\\bgm-dungeon_scene_yuancheng_trans_04_05-all-full-null-null.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 353497922,
+                "MediaPathName": "Media/353497922.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_dungeon\\3_5_dungeon\\yuancheng\\bgm-dungeon_scene_yuancheng_trans_02_03-all-full-null-null.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 493784535,
+                "MediaPathName": "Media/493784535.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\amb_bed_3_5_Day_countryside.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 812256490,
+                "MediaPathName": "Media/812256490.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\amb_bed_3_5_TacticalHologram.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 941152338,
+                "MediaPathName": "Media/941152338.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\amb_bed_3_5_TinYuan_Disaster.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 350661259,
+                "MediaPathName": "Media/350661259.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\amb_bed_3_5_Material_QianYi_WYQ_JL.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 82495250,
+                "MediaPathName": "Media/82495250.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\2.8\\leaves\\amb_bed_wind_howl_light_loop.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 216560787,
+                "MediaPathName": "Media/216560787.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_dungeon\\3_5_dungeon\\yuancheng\\bgm-dungeon_scene_yuancheng_05_outro-all-full-null-null.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 62232247,
+                "MediaPathName": "Media/62232247.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_dungeon\\3_5_dungeon\\yuancheng\\bgm-dungeon_scene_yuancheng_04_intro-all-full-80bpm-4_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 353470007,
+                "MediaPathName": "Media/353470007.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_dungeon\\3_5_dungeon\\yuancheng\\bgm-dungeon_scene_yuancheng_04_loop-all-full-80bpm-4_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1041574340,
+                "MediaPathName": "Media/1041574340.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_dungeon\\3_5_dungeon\\yuancheng\\bgm-dungeon_scene_yuancheng_03-all-full-null-null.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 237277553,
+                "MediaPathName": "Media/237277553.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_dungeon\\3_5_dungeon\\yuancheng\\bgm-dungeon_scene_yuancheng_intro_02-all-full-70bpm-3_8.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 453045742,
+                "MediaPathName": "Media/453045742.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_dungeon\\3_5_dungeon\\yuancheng\\bgm-dungeon_scene_yuancheng_02_loop-all-full-70bpm-3_8.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 715907611,
+                "MediaPathName": "Media/715907611.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_dungeon\\3_5_dungeon\\yuancheng\\bgm-dungeon_scene_yuancheng_01-all-full-null-null.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "map_main_3_5_main_yuancheng"
+          }
+        }
+      ],
+      "DebugName": "map_main_3_5_main_yuancheng",
+      "EventId": 1967855920
+    },
+    "MaximumDuration": 0.0,
+    "MinimumDuration": 0.0,
+    "IsInfinite": true,
+    "MaxAttenuationRadius": 0.0
+  }
+]

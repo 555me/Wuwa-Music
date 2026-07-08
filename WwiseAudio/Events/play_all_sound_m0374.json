@@ -1,0 +1,243 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_all_sound_m0374",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_all_sound_m0374",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 1819748192,
+            "LanguageName": "en",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 4102954561,
+            "SoundBanks": [
+              {
+                "SoundBankId": 4102954561,
+                "SoundBankPathName": "Event/en/play_all_sound_m0374.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_all_sound_m0374",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 379912756,
+                "MediaPathName": "Media/en/379912756.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.5\\en_vo_story_m0374_mixed.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 410668537,
+                "MediaPathName": "Media/410668537.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\Plot_LevelA\\3.5\\sfx_lva_m0374.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [
+              {
+                "Type": "EWwiseGroupType::State",
+                "GroupId": 1090969866,
+                "Id": 263082264,
+                "DebugName": "m0374"
+              }
+            ],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_all_sound_m0374"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1735860046,
+            "LanguageName": "ja",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 4102954561,
+            "SoundBanks": [
+              {
+                "SoundBankId": 4102954561,
+                "SoundBankPathName": "Event/ja/play_all_sound_m0374.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_all_sound_m0374",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 410668537,
+                "MediaPathName": "Media/410668537.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\Plot_LevelA\\3.5\\sfx_lva_m0374.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 741257113,
+                "MediaPathName": "Media/ja/741257113.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.5\\ja_vo_story_m0374_mixed.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [
+              {
+                "Type": "EWwiseGroupType::State",
+                "GroupId": 1090969866,
+                "Id": 263082264,
+                "DebugName": "m0374"
+              }
+            ],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_all_sound_m0374"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1719082483,
+            "LanguageName": "ko",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 4102954561,
+            "SoundBanks": [
+              {
+                "SoundBankId": 4102954561,
+                "SoundBankPathName": "Event/ko/play_all_sound_m0374.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_all_sound_m0374",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 410668537,
+                "MediaPathName": "Media/410668537.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\Plot_LevelA\\3.5\\sfx_lva_m0374.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1010883368,
+                "MediaPathName": "Media/ko/1010883368.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.5\\ko_vo_story_m0374_mixed.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [
+              {
+                "Type": "EWwiseGroupType::State",
+                "GroupId": 1090969866,
+                "Id": 263082264,
+                "DebugName": "m0374"
+              }
+            ],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_all_sound_m0374"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1467418007,
+            "LanguageName": "zh",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsDefault"
+          },
+          "Value": {
+            "EventId": 4102954561,
+            "SoundBanks": [
+              {
+                "SoundBankId": 4102954561,
+                "SoundBankPathName": "Event/zh/play_all_sound_m0374.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_all_sound_m0374",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 410668537,
+                "MediaPathName": "Media/410668537.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\Plot_LevelA\\3.5\\sfx_lva_m0374.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 909355163,
+                "MediaPathName": "Media/zh/909355163.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.5\\zh_vo_story_m0374_mixed.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [
+              {
+                "Type": "EWwiseGroupType::State",
+                "GroupId": 1090969866,
+                "Id": 263082264,
+                "DebugName": "m0374"
+              }
+            ],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_all_sound_m0374"
+          }
+        }
+      ],
+      "DebugName": "play_all_sound_m0374",
+      "EventId": 4102954561
+    },
+    "MaximumDuration": 170.02448,
+    "MinimumDuration": 170.02448,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

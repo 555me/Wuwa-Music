@@ -39,6 +39,26 @@
                 "PackagedFile": null
               },
               {
+                "MediaId": 236471541,
+                "MediaPathName": "Media/236471541.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\Enemy\\Boss\\boss_gui_fx_icespike_break_04.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 247889992,
+                "MediaPathName": "Media/247889992.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\Enemy\\Boss\\boss_gui_fx_icespike_break_01.wav",
+                "PackagedFile": null
+              },
+              {
                 "MediaId": 375058723,
                 "MediaPathName": "Media/375058723.wem",
                 "PrefetchSize": 0,
@@ -69,6 +89,16 @@
                 "PackagedFile": null
               },
               {
+                "MediaId": 911563562,
+                "MediaPathName": "Media/911563562.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\Enemy\\Boss\\boss_gui_fx_icespike_break_02.wav",
+                "PackagedFile": null
+              },
+              {
                 "MediaId": 969165752,
                 "MediaPathName": "Media/969165752.wem",
                 "PrefetchSize": 0,
@@ -87,6 +117,16 @@
                 "bStreaming": true,
                 "DebugName": "not_in_folder\\TPrefab_Des_Luoyi_box2.wav",
                 "PackagedFile": null
+              },
+              {
+                "MediaId": 1027584049,
+                "MediaPathName": "Media/1027584049.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\Enemy\\Boss\\boss_gui_fx_icespike_break_03.wav",
+                "PackagedFile": null
               }
             ],
             "ExternalSources": [],
@@ -100,8 +140,8 @@
       "DebugName": "play_sfx_gp_com_motorrock",
       "EventId": 3701170408
     },
-    "MaximumDuration": 2.0402915,
-    "MinimumDuration": 1.8283889,
+    "MaximumDuration": 2.9226875,
+    "MinimumDuration": 2.9226875,
     "IsInfinite": false,
     "MaxAttenuationRadius": 5000.0
   }

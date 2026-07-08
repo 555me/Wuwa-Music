@@ -1,0 +1,68 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_all_sound_m0371_qte1",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_all_sound_m0371_qte1",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 667023282,
+            "SoundBanks": [
+              {
+                "SoundBankId": 667023282,
+                "SoundBankPathName": "Event/play_all_sound_m0371_qte1.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_all_sound_m0371_qte1",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 360723947,
+                "MediaPathName": "Media/360723947.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\Plot_LevelA\\3.5\\sfx_lva_m0371_qte1.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 870357418,
+                "MediaPathName": "Media/870357418.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\Plot_LevelA\\3.5\\music_m0371_qte_水波纹_v1.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_all_sound_m0371_qte1"
+          }
+        }
+      ],
+      "DebugName": "play_all_sound_m0371_qte1",
+      "EventId": 667023282
+    },
+    "MaximumDuration": 15.428562,
+    "MinimumDuration": 15.428562,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_role_activity_tudou_battle_pingdiguo",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_role_activity_tudou_battle_pingdiguo",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3231140832,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3231140832,
+                "SoundBankPathName": "Event/play_role_activity_tudou_battle_pingdiguo.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_role_activity_tudou_battle_pingdiguo",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 313449344,
+                "MediaPathName": "Media/313449344.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,5\\tudou\\role_skills\\role_activity_tudou_battle_pingdiguo_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 401650225,
+                "MediaPathName": "Media/401650225.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,5\\tudou\\role_skills\\role_activity_tudou_battle_pingdiguo_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 500693668,
+                "MediaPathName": "Media/500693668.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,5\\tudou\\role_skills\\role_activity_tudou_battle_pingdiguo_04.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 703783504,
+                "MediaPathName": "Media/703783504.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,5\\tudou\\role_skills\\role_activity_tudou_battle_pingdiguo_05.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 778439002,
+                "MediaPathName": "Media/778439002.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,5\\tudou\\role_skills\\role_activity_tudou_battle_pingdiguo_02.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_role_activity_tudou_battle_pingdiguo"
+          }
+        }
+      ],
+      "DebugName": "play_role_activity_tudou_battle_pingdiguo",
+      "EventId": 3231140832
+    },
+    "MaximumDuration": 1.4967083,
+    "MinimumDuration": 1.13075,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_jbgc_zipline_fade",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_jbgc_zipline_fade",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3520981635,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3520981635,
+                "SoundBankPathName": "Event/play_sfx_gp_jbgc_zipline_fade.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_jbgc_zipline_fade",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 424898760,
+                "MediaPathName": "Media/424898760.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\gameplay\\3_5\\sfx_gp_jbgc_zipline_fade.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_jbgc_zipline_fade"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_jbgc_zipline_fade",
+      "EventId": 3520981635
+    },
+    "MaximumDuration": 1.5,
+    "MinimumDuration": 1.5,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_mon_activity_tudou_battle_zidan_yujin",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_mon_activity_tudou_battle_zidan_yujin",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 843034702,
+            "SoundBanks": [
+              {
+                "SoundBankId": 843034702,
+                "SoundBankPathName": "Event/play_mon_activity_tudou_battle_zidan_yujin.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_mon_activity_tudou_battle_zidan_yujin",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 502664305,
+                "MediaPathName": "Media/502664305.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,5\\tudou\\monster_skills\\mon_activity_tudou_battle_zidan_yujin_04.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 553768480,
+                "MediaPathName": "Media/553768480.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,5\\tudou\\monster_skills\\mon_activity_tudou_battle_zidan_yujin_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 830158419,
+                "MediaPathName": "Media/830158419.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,5\\tudou\\monster_skills\\mon_activity_tudou_battle_zidan_yujin_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 886020973,
+                "MediaPathName": "Media/886020973.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,5\\tudou\\monster_skills\\mon_activity_tudou_battle_zidan_yujin_05.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1043880436,
+                "MediaPathName": "Media/1043880436.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,5\\tudou\\monster_skills\\mon_activity_tudou_battle_zidan_yujin_03.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_mon_activity_tudou_battle_zidan_yujin"
+          }
+        }
+      ],
+      "DebugName": "play_mon_activity_tudou_battle_zidan_yujin",
+      "EventId": 843034702
+    },
+    "MaximumDuration": 2.3775418,
+    "MinimumDuration": 2.1146457,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

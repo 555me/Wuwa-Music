@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_ls_jlf_enterroom",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_ls_jlf_enterroom",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3916266550,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3916266550,
+                "SoundBankPathName": "Event/play_sfx_gp_ls_jlf_enterroom.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_ls_jlf_enterroom",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 16339521,
+                "MediaPathName": "Media/16339521.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "sfx_gp_ls_jlf_enterroom.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_ls_jlf_enterroom"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_ls_jlf_enterroom",
+      "EventId": 3916266550
+    },
+    "MaximumDuration": 15.528438,
+    "MinimumDuration": 15.528438,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

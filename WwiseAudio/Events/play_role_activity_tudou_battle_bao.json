@@ -1,0 +1,78 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_role_activity_tudou_battle_bao",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_role_activity_tudou_battle_bao",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3723537034,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3723537034,
+                "SoundBankPathName": "Event/play_role_activity_tudou_battle_bao.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_role_activity_tudou_battle_bao",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 703779164,
+                "MediaPathName": "Media/703779164.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,5\\tudou\\role_skills\\role_activity_tudou_battle_bao_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 739687379,
+                "MediaPathName": "Media/739687379.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,5\\tudou\\role_skills\\role_activity_tudou_battle_bao_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1014229765,
+                "MediaPathName": "Media/1014229765.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,5\\tudou\\role_skills\\role_activity_tudou_battle_bao_01.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_role_activity_tudou_battle_bao"
+          }
+        }
+      ],
+      "DebugName": "play_role_activity_tudou_battle_bao",
+      "EventId": 3723537034
+    },
+    "MaximumDuration": 1.0859166,
+    "MinimumDuration": 0.96666664,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

@@ -1,0 +1,118 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_music_quest_3_5_yingdi_battle_yangyang",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_music_quest_3_5_yingdi_battle_yangyang",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 104015667,
+            "SoundBanks": [
+              {
+                "SoundBankId": 104015667,
+                "SoundBankPathName": "Event/play_music_quest_3_5_yingdi_battle_yangyang.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_music_quest_3_5_yingdi_battle_yangyang",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 601522890,
+                "MediaPathName": "Media/601522890.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_5\\process\\bgm-story_plot_quest_unusual_battle-all-full-74bpm-null.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 324921673,
+                "MediaPathName": "Media/324921673.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music\\music_scene\\silence.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 448456274,
+                "MediaPathName": "Media/448456274.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_5\\yangyang\\bgm-story_plot_m3_10_16_p3_folksong-all-full-null-null.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 101952194,
+                "MediaPathName": "Media/101952194.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music\\music_scene\\silence_5s.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 958436019,
+                "MediaPathName": "Media/958436019.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_5\\yangyang\\bgm-story_plot_m3_10_16_stinger2-all-full-null-null.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 661371315,
+                "MediaPathName": "Media/661371315.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_5\\bgm-story_common_3_5_calmness_suspense_01-all-full-null-null.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 442702179,
+                "MediaPathName": "Media/442702179.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_5\\yangyang\\bgm-story_plot_m3_10_16_stinger1-all-full-null-null.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_music_quest_3_5_yingdi_battle_yangyang"
+          }
+        }
+      ],
+      "DebugName": "play_music_quest_3_5_yingdi_battle_yangyang",
+      "EventId": 104015667
+    },
+    "MaximumDuration": 0.0,
+    "MinimumDuration": 0.0,
+    "IsInfinite": true,
+    "MaxAttenuationRadius": 0.0
+  }
+]

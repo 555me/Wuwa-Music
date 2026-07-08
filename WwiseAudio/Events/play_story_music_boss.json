@@ -1,0 +1,158 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_story_music_boss",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_story_music_boss",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 4227413819,
+            "SoundBanks": [
+              {
+                "SoundBankId": 4227413819,
+                "SoundBankPathName": "Event/play_story_music_boss.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_story_music_boss",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 58902109,
+                "MediaPathName": "Media/58902109.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_battle\\3.5\\qiankui\\bgm-battle_boss_qiankui_intro_p5-all-full-172bpm-null.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 423589946,
+                "MediaPathName": "Media/423589946.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_battle\\3.5\\qiankui\\bgm-battle_boss_qiankui_loop_p5-all-full-172bpm-null.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 789985577,
+                "MediaPathName": "Media/789985577.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\level_a\\3.5\\bgm-story_video_m0393-all-full-null-null.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 539404349,
+                "MediaPathName": "Media/539404349.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\bgm-battle_boss_qiankui_intro_p4-all-full-null-null.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1840697,
+                "MediaPathName": "Media/1840697.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\level_a\\3.5\\bgm-story_video_m0374-all-full-null-null.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 551406103,
+                "MediaPathName": "Media/551406103.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_5\\qiankui\\bgm-battle_boss_qiankui_loop_p3-all-full-120bpm-3_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 844196167,
+                "MediaPathName": "Media/844196167.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_battle\\3.5\\qiankui\\bgm-battle_boss_qiankui_2_loop_p2-all-full-90bpm-null.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 582445120,
+                "MediaPathName": "Media/582445120.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_battle\\3.5\\qiankui\\bgm-battle_boss_qiankui_2_intro_p2-all-full-90bpm-null.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 325938591,
+                "MediaPathName": "Media/325938591.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_battle\\3.5\\qiankui\\bgm-battle_boss_qiankui_1_loop-all-full-90bpm-null.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 471681441,
+                "MediaPathName": "Media/471681441.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_battle\\3.5\\qiankui\\bgm-battle_boss_qiankui_1_intro_p2-all-full-90bpm-null.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 743343187,
+                "MediaPathName": "Media/743343187.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_5\\qiankui\\bgm-battle_boss_qiangkui_p1-all-full-90bpm-null.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_story_music_boss"
+          }
+        }
+      ],
+      "DebugName": "play_story_music_boss",
+      "EventId": 4227413819
+    },
+    "MaximumDuration": 0.0,
+    "MinimumDuration": 0.0,
+    "IsInfinite": true,
+    "MaxAttenuationRadius": 0.0
+  }
+]

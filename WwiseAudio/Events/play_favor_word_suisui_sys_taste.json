@@ -1,0 +1,88 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_favor_word_suisui_sys_taste",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_favor_word_suisui_sys_taste",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2484850212,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2484850212,
+                "SoundBankPathName": "Event/play_favor_word_suisui_sys_taste.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_favor_word_suisui_sys_taste",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 844712475,
+                "MediaPathName": "Media/844712475.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\zh\\role\\branch_3,5\\suisui\\zh_vo_suisui_sys_taste_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1007382261,
+                "MediaPathName": "Media/1007382261.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,5\\suisui\\ja_vo_suisui_sys_taste_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 790116735,
+                "MediaPathName": "Media/790116735.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,5\\suisui\\ko_vo_suisui_sys_taste_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 66657562,
+                "MediaPathName": "Media/66657562.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\en\\role\\branch_3,5\\suisui\\en_vo_suisui_sys_taste_word.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_favor_word_suisui_sys_taste"
+          }
+        }
+      ],
+      "DebugName": "play_favor_word_suisui_sys_taste",
+      "EventId": 2484850212
+    },
+    "MaximumDuration": 26.457022,
+    "MinimumDuration": 0.0,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_ost_album_26_track_16",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_ost_album_26_track_16",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 4140744935,
+            "SoundBanks": [
+              {
+                "SoundBankId": 4140744935,
+                "SoundBankPathName": "Event/play_ost_album_26_track_16.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_ost_album_26_track_16",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 1053215634,
+                "MediaPathName": "Media/1053215634.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_phonograph_albums\\ost_album_26\\ost-album26_16_yuanlin_xia_D_bpm100_4-4_0527.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_ost_album_26_track_16"
+          }
+        }
+      ],
+      "DebugName": "play_ost_album_26_track_16",
+      "EventId": 4140744935
+    },
+    "MaximumDuration": 79.2,
+    "MinimumDuration": 79.2,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 2000.0
+  }
+]

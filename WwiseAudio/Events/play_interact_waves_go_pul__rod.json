@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_interact_waves_go_pul__rod",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_interact_waves_go_pul__rod",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 740497351,
+            "SoundBanks": [
+              {
+                "SoundBankId": 740497351,
+                "SoundBankPathName": "Event/play_interact_waves_go_pul__rod.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_interact_waves_go_pul__rod",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 843551505,
+                "MediaPathName": "Media/843551505.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "interact_waves_go_pul_ rod.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_interact_waves_go_pul__rod"
+          }
+        }
+      ],
+      "DebugName": "play_interact_waves_go_pul__rod",
+      "EventId": 740497351
+    },
+    "MaximumDuration": 2.9632084,
+    "MinimumDuration": 2.9632084,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

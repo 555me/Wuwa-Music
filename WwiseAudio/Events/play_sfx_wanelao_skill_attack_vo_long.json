@@ -1,0 +1,98 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_wanelao_skill_attack_vo_long",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_wanelao_skill_attack_vo_long",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 231270275,
+            "SoundBanks": [
+              {
+                "SoundBankId": 231270275,
+                "SoundBankPathName": "Event/play_sfx_wanelao_skill_attack_vo_long.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_wanelao_skill_attack_vo_long",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 39101841,
+                "MediaPathName": "Media/39101841.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\Enemy\\Lord\\Wanelao\\SFX_WanELao_Skill_Attack_VO_Long_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 279182713,
+                "MediaPathName": "Media/279182713.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\Enemy\\Lord\\Wanelao\\SFX_WanELao_Skill_Attack_VO_Long_04.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 485709556,
+                "MediaPathName": "Media/485709556.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\Enemy\\Lord\\Wanelao\\SFX_WanELao_Skill_Attack_VO_Long_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 505979934,
+                "MediaPathName": "Media/505979934.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\Enemy\\Lord\\Wanelao\\SFX_WanELao_Skill_Attack_VO_Long_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 812866866,
+                "MediaPathName": "Media/812866866.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\Enemy\\Lord\\Wanelao\\SFX_WanELao_Skill_Attack_VO_Long_05.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_wanelao_skill_attack_vo_long"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_wanelao_skill_attack_vo_long",
+      "EventId": 231270275
+    },
+    "MaximumDuration": 1.7,
+    "MinimumDuration": 1.7,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 20000.0
+  }
+]

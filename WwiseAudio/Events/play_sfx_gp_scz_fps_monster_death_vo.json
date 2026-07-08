@@ -1,0 +1,118 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_scz_fps_monster_death_vo",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_scz_fps_monster_death_vo",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1080601512,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1080601512,
+                "SoundBankPathName": "Event/play_sfx_gp_scz_fps_monster_death_vo.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_scz_fps_monster_death_vo",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 416487459,
+                "MediaPathName": "Media/416487459.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\Enemy\\Ordinary\\Shihuaxi\\mon_shihuaxi_death_vo_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 573249972,
+                "MediaPathName": "Media/573249972.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "not_in_folder\\elite_duguizu_stand2_action2_vo_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 604650906,
+                "MediaPathName": "Media/604650906.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\Enemy\\Monster\\mon_cb3_jcx_death_vo_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 705894903,
+                "MediaPathName": "Media/705894903.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\Enemy\\Monster\\mon_cb3_jcx_death_vo_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 915358856,
+                "MediaPathName": "Media/915358856.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "not_in_folder\\elite_duguizu_stand2_action2_vo_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 944213129,
+                "MediaPathName": "Media/944213129.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\Enemy\\Monster\\mon_bingpaotai_bat_death_vo.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1002356781,
+                "MediaPathName": "Media/1002356781.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\Enemy\\Monster\\mon_cb3_jcx_death_vo_02.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_scz_fps_monster_death_vo"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_scz_fps_monster_death_vo",
+      "EventId": 1080601512
+    },
+    "MaximumDuration": 1.5297533,
+    "MinimumDuration": 0.62610286,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 10000.0
+  }
+]

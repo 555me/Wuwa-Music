@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_interact_crane_game_item_out_points",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_interact_crane_game_item_out_points",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1123840160,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1123840160,
+                "SoundBankPathName": "Event/play_interact_crane_game_item_out_points.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_interact_crane_game_item_out_points",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 673994133,
+                "MediaPathName": "Media/673994133.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "interact_crane_game_item_out_points.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_interact_crane_game_item_out_points"
+          }
+        }
+      ],
+      "DebugName": "play_interact_crane_game_item_out_points",
+      "EventId": 1123840160
+    },
+    "MaximumDuration": 1.9554583,
+    "MinimumDuration": 1.9554583,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

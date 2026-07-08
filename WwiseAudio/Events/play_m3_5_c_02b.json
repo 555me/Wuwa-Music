@@ -1,0 +1,47 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_m3_5_c_02b",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_m3_5_c_02b",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1424729105,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1424729105,
+                "SoundBankPathName": "Event/play_m3_5_c_02b.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_m3_5_c_02b",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_m3_5_c_02b"
+          }
+        }
+      ],
+      "DebugName": "play_m3_5_c_02b",
+      "EventId": 1424729105
+    },
+    "MaximumDuration": 1.0,
+    "MinimumDuration": 1.0,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

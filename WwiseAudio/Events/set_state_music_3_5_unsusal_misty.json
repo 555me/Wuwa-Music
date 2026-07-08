@@ -1,0 +1,54 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "set_state_music_3_5_unsusal_misty",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/set_state_music_3_5_unsusal_misty",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1359418732,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1359418732,
+                "SoundBankPathName": "Event/set_state_music_3_5_unsusal_misty.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "set_state_music_3_5_unsusal_misty",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [
+              {
+                "Type": "EWwiseGroupType::State",
+                "GroupId": -668479127,
+                "Id": -573060419,
+                "DebugName": "unsusal_misty"
+              }
+            ],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "set_state_music_3_5_unsusal_misty"
+          }
+        }
+      ],
+      "DebugName": "set_state_music_3_5_unsusal_misty",
+      "EventId": 1359418732
+    },
+    "MaximumDuration": 0.0,
+    "MinimumDuration": 0.0,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

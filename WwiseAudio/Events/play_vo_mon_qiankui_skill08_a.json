@@ -1,0 +1,175 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_mon_qiankui_skill08_a",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_mon_qiankui_skill08_a",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 1819748192,
+            "LanguageName": "en",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 2716787023,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2716787023,
+                "SoundBankPathName": "Event/en/play_vo_mon_qiankui_skill08_a.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_mon_qiankui_skill08_a",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 247139824,
+                "MediaPathName": "Media/en/247139824.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "enemy\\branch_3,5\\qiankui\\en_vo_mon_qiankui_skill08_a.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_mon_qiankui_skill08_a"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1735860046,
+            "LanguageName": "ja",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 2716787023,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2716787023,
+                "SoundBankPathName": "Event/ja/play_vo_mon_qiankui_skill08_a.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_mon_qiankui_skill08_a",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 478042612,
+                "MediaPathName": "Media/ja/478042612.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "enemy\\branch_3,5\\qiankui\\ja_vo_mon_qiankui_skill08_a.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_mon_qiankui_skill08_a"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1719082483,
+            "LanguageName": "ko",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 2716787023,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2716787023,
+                "SoundBankPathName": "Event/ko/play_vo_mon_qiankui_skill08_a.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_mon_qiankui_skill08_a",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 65091143,
+                "MediaPathName": "Media/ko/65091143.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "enemy\\branch_3,5\\qiankui\\ko_vo_mon_qiankui_skill08_a.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_mon_qiankui_skill08_a"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1467418007,
+            "LanguageName": "zh",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsDefault"
+          },
+          "Value": {
+            "EventId": 2716787023,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2716787023,
+                "SoundBankPathName": "Event/zh/play_vo_mon_qiankui_skill08_a.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_mon_qiankui_skill08_a",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 22696343,
+                "MediaPathName": "Media/zh/22696343.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "enemy\\branch_3,5\\qiankui\\zh_vo_mon_qiankui_skill08_a.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_mon_qiankui_skill08_a"
+          }
+        }
+      ],
+      "DebugName": "play_vo_mon_qiankui_skill08_a",
+      "EventId": 2716787023
+    },
+    "MaximumDuration": 8.109125,
+    "MinimumDuration": 8.109125,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 7000.0
+  }
+]

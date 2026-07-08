@@ -1,0 +1,108 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_role_activity_tudou_battle_jujiqiang",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_role_activity_tudou_battle_jujiqiang",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3234235542,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3234235542,
+                "SoundBankPathName": "Event/play_role_activity_tudou_battle_jujiqiang.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_role_activity_tudou_battle_jujiqiang",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 119062380,
+                "MediaPathName": "Media/119062380.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,5\\tudou\\role_skills\\role_activity_tudou_battle_jujiqiang_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 384318967,
+                "MediaPathName": "Media/384318967.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,5\\tudou\\role_skills\\role_activity_tudou_battle_jujiqiang_05.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 506559686,
+                "MediaPathName": "Media/506559686.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,5\\tudou\\role_skills\\role_activity_tudou_battle_jujiqiang_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 618491982,
+                "MediaPathName": "Media/618491982.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,5\\tudou\\role_skills\\role_activity_tudou_battle_jujiqiang_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 766794484,
+                "MediaPathName": "Media/766794484.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,5\\tudou\\role_skills\\role_activity_tudou_battle_jujiqiang_04.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 825784319,
+                "MediaPathName": "Media/825784319.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,5\\tudou\\role_skills\\role_activity_tudou_battle_jujiqiang_06.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_role_activity_tudou_battle_jujiqiang"
+          }
+        }
+      ],
+      "DebugName": "play_role_activity_tudou_battle_jujiqiang",
+      "EventId": 3234235542
+    },
+    "MaximumDuration": 1.6065625,
+    "MinimumDuration": 1.3224167,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

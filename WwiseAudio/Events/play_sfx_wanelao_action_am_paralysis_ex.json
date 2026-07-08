@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_wanelao_action_am_paralysis_ex",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_wanelao_action_am_paralysis_ex",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2111457646,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2111457646,
+                "SoundBankPathName": "Event/play_sfx_wanelao_action_am_paralysis_ex.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_wanelao_action_am_paralysis_ex",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 259312410,
+                "MediaPathName": "Media/259312410.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\Enemy\\Lord\\Wanelao\\SFX_WanELao_Action_AM_Paralysis_Ex.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_wanelao_action_am_paralysis_ex"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_wanelao_action_am_paralysis_ex",
+      "EventId": 2111457646
+    },
+    "MaximumDuration": 6.8333335,
+    "MinimumDuration": 6.8333335,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 20000.0
+  }
+]

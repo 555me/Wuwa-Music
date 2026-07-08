@@ -1,0 +1,88 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "map_huodong_3_5_kurotato",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/map_huodong_3_5_kurotato",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 879228332,
+            "SoundBanks": [
+              {
+                "SoundBankId": 879228332,
+                "SoundBankPathName": "Event/map_huodong_3_5_kurotato.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "map_huodong_3_5_kurotato",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 501724236,
+                "MediaPathName": "Media/501724236.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\amb_bed_3_5_Kurotato.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 897427690,
+                "MediaPathName": "Media/897427690.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "not_in_folder\\amb_bed_river_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 988650657,
+                "MediaPathName": "Media/988650657.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\amb_bed_3_5_suisui_wind.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 73849365,
+                "MediaPathName": "Media/73849365.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\amb\\amb_beds\\amb_bed_lucy_bossroom1.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "map_huodong_3_5_kurotato"
+          }
+        }
+      ],
+      "DebugName": "map_huodong_3_5_kurotato",
+      "EventId": 879228332
+    },
+    "MaximumDuration": 0.0,
+    "MinimumDuration": 0.0,
+    "IsInfinite": true,
+    "MaxAttenuationRadius": 0.0
+  }
+]

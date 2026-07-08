@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_ls_jlf_gameplay1_1_metal_shelf_loop",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_ls_jlf_gameplay1_1_metal_shelf_loop",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3886340194,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3886340194,
+                "SoundBankPathName": "Event/play_sfx_gp_ls_jlf_gameplay1_1_metal_shelf_loop.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_ls_jlf_gameplay1_1_metal_shelf_loop",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 23281859,
+                "MediaPathName": "Media/23281859.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "sfx_gp_ls_jlf_gameplay1_1_metal_shelf_loop.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_ls_jlf_gameplay1_1_metal_shelf_loop"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_ls_jlf_gameplay1_1_metal_shelf_loop",
+      "EventId": 3886340194
+    },
+    "MaximumDuration": 0.0,
+    "MinimumDuration": 0.0,
+    "IsInfinite": true,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

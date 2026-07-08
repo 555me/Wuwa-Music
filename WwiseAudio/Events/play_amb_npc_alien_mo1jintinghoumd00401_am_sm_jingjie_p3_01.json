@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_amb_npc_alien_mo1jintinghoumd00401_am_sm_jingjie_p3_01",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_amb_npc_alien_mo1jintinghoumd00401_am_sm_jingjie_p3_01",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2514378360,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2514378360,
+                "SoundBankPathName": "Event/play_amb_npc_alien_mo1jintinghoumd00401_am_sm_jingjie_p3_01.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_amb_npc_alien_mo1jintinghoumd00401_am_sm_jingjie_p3_01",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 988682831,
+                "MediaPathName": "Media/988682831.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb_npc_alien_MO1JinTingHouMd00401_AM_SM_JingJie_P3.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_amb_npc_alien_mo1jintinghoumd00401_am_sm_jingjie_p3_01"
+          }
+        }
+      ],
+      "DebugName": "play_amb_npc_alien_mo1jintinghoumd00401_am_sm_jingjie_p3_01",
+      "EventId": 2514378360
+    },
+    "MaximumDuration": 5.5587916,
+    "MinimumDuration": 5.5587916,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 1500.0
+  }
+]

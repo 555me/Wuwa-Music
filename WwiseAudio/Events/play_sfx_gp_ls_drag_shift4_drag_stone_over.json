@@ -1,0 +1,78 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_ls_drag_shift4_drag_stone_over",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_ls_drag_shift4_drag_stone_over",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1542828965,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1542828965,
+                "SoundBankPathName": "Event/play_sfx_gp_ls_drag_shift4_drag_stone_over.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_ls_drag_shift4_drag_stone_over",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 392800287,
+                "MediaPathName": "Media/392800287.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\gameplay\\3_5\\sfx_gp_ls_drag_shift\\sfx_gp_ls_drag_shift4_drag_stone_over_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 673518248,
+                "MediaPathName": "Media/673518248.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\gameplay\\3_5\\sfx_gp_ls_drag_shift\\sfx_gp_ls_drag_shift4_drag_stone_over_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 904211845,
+                "MediaPathName": "Media/904211845.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\gameplay\\3_5\\sfx_gp_ls_drag_shift\\sfx_gp_ls_drag_shift4_drag_stone_over_01.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_ls_drag_shift4_drag_stone_over"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_ls_drag_shift4_drag_stone_over",
+      "EventId": 1542828965
+    },
+    "MaximumDuration": 0.7109117,
+    "MinimumDuration": 0.66973084,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

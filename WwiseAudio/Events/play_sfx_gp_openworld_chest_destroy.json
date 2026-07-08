@@ -1,0 +1,68 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_openworld_chest_destroy",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_openworld_chest_destroy",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1287438555,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1287438555,
+                "SoundBankPathName": "Event/play_sfx_gp_openworld_chest_destroy.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_openworld_chest_destroy",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 405300353,
+                "MediaPathName": "Media/405300353.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\gameplay\\3_5\\sfx_gp_jbgc_mechanism_disappear_large.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 718007697,
+                "MediaPathName": "Media/718007697.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\Interaction\\3.3\\sfx_gp_film_grounddisappear.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_openworld_chest_destroy"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_openworld_chest_destroy",
+      "EventId": 1287438555
+    },
+    "MaximumDuration": 1.59598,
+    "MinimumDuration": 1.59598,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

@@ -1,0 +1,88 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_yangyang2_sys_gacha",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_yangyang2_sys_gacha",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1331464893,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1331464893,
+                "SoundBankPathName": "Event/play_vo_yangyang2_sys_gacha.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_yangyang2_sys_gacha",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 302829989,
+                "MediaPathName": "Media/302829989.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\en\\role\\branch_3,5\\yangyang2\\en_vo_yangyang2_sys_gacha_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 25241957,
+                "MediaPathName": "Media/25241957.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\zh\\role\\branch_3,5\\yangyang2\\zh_vo_yangyang2_sys_gacha_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 146915603,
+                "MediaPathName": "Media/146915603.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,5\\yangyang2\\ja_vo_yangyang2_sys_gacha_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 832210855,
+                "MediaPathName": "Media/832210855.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,5\\yangyang2\\ko_vo_yangyang2_sys_gacha_word.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_yangyang2_sys_gacha"
+          }
+        }
+      ],
+      "DebugName": "play_vo_yangyang2_sys_gacha",
+      "EventId": 1331464893
+    },
+    "MaximumDuration": 3.7447708,
+    "MinimumDuration": 0.0,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

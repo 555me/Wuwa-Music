@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_seq_tg_hammerhit_man",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_seq_tg_hammerhit_man",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 660686680,
+            "SoundBanks": [
+              {
+                "SoundBankId": 660686680,
+                "SoundBankPathName": "Event/play_sfx_gp_seq_tg_hammerhit_man.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_seq_tg_hammerhit_man",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 694232287,
+                "MediaPathName": "Media/694232287.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\gameplay\\3_5\\sfx_gp_seq_tg_hammerhit_man.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_seq_tg_hammerhit_man"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_seq_tg_hammerhit_man",
+      "EventId": 660686680
+    },
+    "MaximumDuration": 23.80321,
+    "MinimumDuration": 23.80321,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 7000.0
+  }
+]

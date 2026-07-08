@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_jbgc_transport_jxb2",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_jbgc_transport_jxb2",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2114834523,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2114834523,
+                "SoundBankPathName": "Event/play_sfx_gp_jbgc_transport_jxb2.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_jbgc_transport_jxb2",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 746267015,
+                "MediaPathName": "Media/746267015.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\gameplay\\3_5\\sfx_gp_jbgc_transport_jxb2.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_jbgc_transport_jxb2"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_jbgc_transport_jxb2",
+      "EventId": 2114834523
+    },
+    "MaximumDuration": 4.8073335,
+    "MinimumDuration": 4.8073335,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 50000.0
+  }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_amb_emit_3_5_atmospheric_birdsong_conyons",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_amb_emit_3_5_atmospheric_birdsong_conyons",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1637216029,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1637216029,
+                "SoundBankPathName": "Event/play_amb_emit_3_5_atmospheric_birdsong_conyons.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_amb_emit_3_5_atmospheric_birdsong_conyons",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 43735146,
+                "MediaPathName": "Media/43735146.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\amb_emit_3_5_Atmospheric_Birdsong_conyons_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 206628204,
+                "MediaPathName": "Media/206628204.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\amb_emit_3_5_Atmospheric_Birdsong_conyons_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 394538041,
+                "MediaPathName": "Media/394538041.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\amb_emit_3_5_Atmospheric_Birdsong_conyons_02.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_amb_emit_3_5_atmospheric_birdsong_conyons"
+          }
+        }
+      ],
+      "DebugName": "play_amb_emit_3_5_atmospheric_birdsong_conyons",
+      "EventId": 1637216029
+    },
+    "MaximumDuration": 0.0,
+    "MinimumDuration": 0.0,
+    "IsInfinite": true,
+    "MaxAttenuationRadius": 12000.0
+  }
+]

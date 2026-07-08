@@ -1,0 +1,98 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "music_3_5_yishikongjian_jbgc",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/music_3_5_yishikongjian_jbgc",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3992668877,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3992668877,
+                "SoundBankPathName": "Event/music_3_5_yishikongjian_jbgc.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "music_3_5_yishikongjian_jbgc",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 128618471,
+                "MediaPathName": "Media/128618471.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\bgm-story_plot_yishikongjian_sidebyside-all-full-null-null.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 373771904,
+                "MediaPathName": "Media/373771904.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_5\\yishikongjian\\bgm-story_plot_yishikongjian_reboot-all-full-null-null.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 115901956,
+                "MediaPathName": "Media/115901956.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_5\\yishikongjian\\bgm-story_plot_yishikongjian_minigame2&glide-all-full-null-null.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 688199725,
+                "MediaPathName": "Media/688199725.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_5\\yishikongjian\\bgm-story_plot_yishikongjian_layer1-all-full-null-null.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 701561903,
+                "MediaPathName": "Media/701561903.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_5\\yishikongjian\\bgm-story_plot_yishikongjian_base-all-full-null-null.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "music_3_5_yishikongjian_jbgc"
+          }
+        }
+      ],
+      "DebugName": "music_3_5_yishikongjian_jbgc",
+      "EventId": 3992668877
+    },
+    "MaximumDuration": 0.0,
+    "MinimumDuration": 0.0,
+    "IsInfinite": true,
+    "MaxAttenuationRadius": 0.0
+  }
+]

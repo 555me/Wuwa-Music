@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_play_interact_dashushouwei_birth",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_play_interact_dashushouwei_birth",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3664732671,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3664732671,
+                "SoundBankPathName": "Event/play_play_interact_dashushouwei_birth.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_play_interact_dashushouwei_birth",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 937967350,
+                "MediaPathName": "Media/937967350.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "play_interact_dashushouwei_birth.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_play_interact_dashushouwei_birth"
+          }
+        }
+      ],
+      "DebugName": "play_play_interact_dashushouwei_birth",
+      "EventId": 3664732671
+    },
+    "MaximumDuration": 3.0846667,
+    "MinimumDuration": 3.0846667,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 10000.0
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_amb_emit_3_5_atmospheric_birdsong_snowowl",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_amb_emit_3_5_atmospheric_birdsong_snowowl",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 880463657,
+            "SoundBanks": [
+              {
+                "SoundBankId": 880463657,
+                "SoundBankPathName": "Event/play_amb_emit_3_5_atmospheric_birdsong_snowowl.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_amb_emit_3_5_atmospheric_birdsong_snowowl",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 403946537,
+                "MediaPathName": "Media/403946537.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\amb_emit_3_5_Atmospheric_Birdsong_Snowowl.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_amb_emit_3_5_atmospheric_birdsong_snowowl"
+          }
+        }
+      ],
+      "DebugName": "play_amb_emit_3_5_atmospheric_birdsong_snowowl",
+      "EventId": 880463657
+    },
+    "MaximumDuration": 34.84098,
+    "MinimumDuration": 34.84098,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 12000.0
+  }
+]

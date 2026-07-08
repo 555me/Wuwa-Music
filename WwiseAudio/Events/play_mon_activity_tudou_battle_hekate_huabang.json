@@ -1,0 +1,78 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_mon_activity_tudou_battle_hekate_huabang",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_mon_activity_tudou_battle_hekate_huabang",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3513787583,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3513787583,
+                "SoundBankPathName": "Event/play_mon_activity_tudou_battle_hekate_huabang.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_mon_activity_tudou_battle_hekate_huabang",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 323108243,
+                "MediaPathName": "Media/323108243.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,5\\tudou\\monster_skills\\mon_activity_tudou_battle_hekate_huabang_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 390540716,
+                "MediaPathName": "Media/390540716.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,5\\tudou\\monster_skills\\mon_activity_tudou_battle_hekate_huabang_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 969276571,
+                "MediaPathName": "Media/969276571.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,5\\tudou\\monster_skills\\mon_activity_tudou_battle_hekate_huabang_02.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_mon_activity_tudou_battle_hekate_huabang"
+          }
+        }
+      ],
+      "DebugName": "play_mon_activity_tudou_battle_hekate_huabang",
+      "EventId": 3513787583
+    },
+    "MaximumDuration": 1.9604583,
+    "MinimumDuration": 1.8184792,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

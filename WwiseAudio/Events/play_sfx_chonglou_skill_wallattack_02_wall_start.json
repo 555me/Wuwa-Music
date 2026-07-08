@@ -1,0 +1,98 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_chonglou_skill_wallattack_02_wall_start",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_chonglou_skill_wallattack_02_wall_start",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 556944419,
+            "SoundBanks": [
+              {
+                "SoundBankId": 556944419,
+                "SoundBankPathName": "Event/play_sfx_chonglou_skill_wallattack_02_wall_start.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_chonglou_skill_wallattack_02_wall_start",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 160255563,
+                "MediaPathName": "Media/160255563.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\Enemy\\Boss\\chonglou\\SFX_ChongLou_Skill_WallAttack_02_Wall_Start_04.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 382648845,
+                "MediaPathName": "Media/382648845.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\Enemy\\Boss\\chonglou\\SFX_ChongLou_Skill_WallAttack_02_Wall_Start_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 407344131,
+                "MediaPathName": "Media/407344131.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\Enemy\\Boss\\chonglou\\SFX_ChongLou_Skill_WallAttack_02_Wall_Start_05.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 407763215,
+                "MediaPathName": "Media/407763215.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\Enemy\\Boss\\chonglou\\SFX_ChongLou_Skill_WallAttack_02_Wall_Start_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1011579486,
+                "MediaPathName": "Media/1011579486.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\Enemy\\Boss\\chonglou\\SFX_ChongLou_Skill_WallAttack_02_Wall_Start_02.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_chonglou_skill_wallattack_02_wall_start"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_chonglou_skill_wallattack_02_wall_start",
+      "EventId": 556944419
+    },
+    "MaximumDuration": 0.7,
+    "MinimumDuration": 0.7,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 50000.0
+  }
+]

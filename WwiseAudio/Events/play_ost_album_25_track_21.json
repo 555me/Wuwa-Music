@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_ost_album_25_track_21",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_ost_album_25_track_21",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2598250232,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2598250232,
+                "SoundBankPathName": "Event/play_ost_album_25_track_21.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_ost_album_25_track_21",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 208550014,
+                "MediaPathName": "Media/208550014.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_phonograph_albums\\ost_album_25\\ost-album25_21_TURNING AROUND_Final.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_ost_album_25_track_21"
+          }
+        }
+      ],
+      "DebugName": "play_ost_album_25_track_21",
+      "EventId": 2598250232
+    },
+    "MaximumDuration": 247.8,
+    "MinimumDuration": 247.8,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 2000.0
+  }
+]

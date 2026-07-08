@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_ui_gacha_weapon_changli",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_ui_gacha_weapon_changli",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 888846101,
+            "SoundBanks": [
+              {
+                "SoundBankId": 888846101,
+                "SoundBankPathName": "Event/play_ui_gacha_weapon_changli.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_ui_gacha_weapon_changli",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 772838340,
+                "MediaPathName": "Media/772838340.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "role\\role_bat_Changli\\Gacha\\ui_gacha_weapon_changli.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_ui_gacha_weapon_changli"
+          }
+        }
+      ],
+      "DebugName": "play_ui_gacha_weapon_changli",
+      "EventId": 888846101
+    },
+    "MaximumDuration": 18.0,
+    "MinimumDuration": 18.0,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

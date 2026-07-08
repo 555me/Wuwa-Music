@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_amb_npc_animal_na071_idle_lp",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_amb_npc_animal_na071_idle_lp",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 675426157,
+            "SoundBanks": [
+              {
+                "SoundBankId": 675426157,
+                "SoundBankPathName": "Event/play_amb_npc_animal_na071_idle_lp.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_amb_npc_animal_na071_idle_lp",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 755391299,
+                "MediaPathName": "Media/755391299.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "npc\\animal\\amb_npc_animal_na071_idle_lp.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_amb_npc_animal_na071_idle_lp"
+          }
+        }
+      ],
+      "DebugName": "play_amb_npc_animal_na071_idle_lp",
+      "EventId": 675426157
+    },
+    "MaximumDuration": 2.2769375,
+    "MinimumDuration": 2.2769375,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 1500.0
+  }
+]

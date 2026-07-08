@@ -1,0 +1,98 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_role_thunderlead_fps_burst01_reload",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_role_thunderlead_fps_burst01_reload",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 329793995,
+            "SoundBanks": [
+              {
+                "SoundBankId": 329793995,
+                "SoundBankPathName": "Event/play_role_thunderlead_fps_burst01_reload.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_role_thunderlead_fps_burst01_reload",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 439141252,
+                "MediaPathName": "Media/439141252.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "role\\role_bat_Thunderlead\\FPS\\role_Thunderlead_FPS_burst01_reload_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 736579069,
+                "MediaPathName": "Media/736579069.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "role\\role_bat_Thunderlead\\FPS\\role_Thunderlead_FPS_burst01_reload_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 791428760,
+                "MediaPathName": "Media/791428760.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "role\\role_bat_Thunderlead\\FPS\\role_Thunderlead_FPS_burst01_reload_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 833566929,
+                "MediaPathName": "Media/833566929.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "role\\role_bat_Thunderlead\\FPS\\role_Thunderlead_FPS_burst01_reload_04.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 865300228,
+                "MediaPathName": "Media/865300228.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "role\\role_bat_Thunderlead\\FPS\\role_Thunderlead_FPS_burst01_reload_05.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_role_thunderlead_fps_burst01_reload"
+          }
+        }
+      ],
+      "DebugName": "play_role_thunderlead_fps_burst01_reload",
+      "EventId": 329793995
+    },
+    "MaximumDuration": 1.5,
+    "MinimumDuration": 1.5,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

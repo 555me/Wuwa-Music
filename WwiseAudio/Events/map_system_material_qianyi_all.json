@@ -1,0 +1,68 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "map_system_material_qianyi_all",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/map_system_material_qianyi_all",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 540968029,
+            "SoundBanks": [
+              {
+                "SoundBankId": 540968029,
+                "SoundBankPathName": "Event/map_system_material_qianyi_all.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "map_system_material_qianyi_all",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 632959455,
+                "MediaPathName": "Media/632959455.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\amb_bed_3_5_Material_QianYi_All_enemy.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 326648584,
+                "MediaPathName": "Media/326648584.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\amb_bed_3_5_Material_QianYi_All.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "map_system_material_qianyi_all"
+          }
+        }
+      ],
+      "DebugName": "map_system_material_qianyi_all",
+      "EventId": 540968029
+    },
+    "MaximumDuration": 0.0,
+    "MinimumDuration": 0.0,
+    "IsInfinite": true,
+    "MaxAttenuationRadius": 0.0
+  }
+]

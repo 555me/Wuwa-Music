@@ -1,0 +1,175 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_npc_3_5_seq_sparring_a",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_npc_3_5_seq_sparring_a",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 1819748192,
+            "LanguageName": "en",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 1141225566,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1141225566,
+                "SoundBankPathName": "Event/en/play_vo_npc_3_5_seq_sparring_a.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_npc_3_5_seq_sparring_a",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 409058435,
+                "MediaPathName": "Media/en/409058435.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.5\\npc_3_5\\en_vo_npc_3_5_seq_sparring_a.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_npc_3_5_seq_sparring_a"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1735860046,
+            "LanguageName": "ja",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 1141225566,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1141225566,
+                "SoundBankPathName": "Event/ja/play_vo_npc_3_5_seq_sparring_a.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_npc_3_5_seq_sparring_a",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 65314721,
+                "MediaPathName": "Media/ja/65314721.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.5\\npc_3_5\\ja_vo_npc_3_5_seq_sparring_a.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_npc_3_5_seq_sparring_a"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1719082483,
+            "LanguageName": "ko",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 1141225566,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1141225566,
+                "SoundBankPathName": "Event/ko/play_vo_npc_3_5_seq_sparring_a.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_npc_3_5_seq_sparring_a",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 372907295,
+                "MediaPathName": "Media/ko/372907295.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.5\\npc_3_5\\ko_vo_npc_3_5_seq_sparring_a.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_npc_3_5_seq_sparring_a"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1467418007,
+            "LanguageName": "zh",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsDefault"
+          },
+          "Value": {
+            "EventId": 1141225566,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1141225566,
+                "SoundBankPathName": "Event/zh/play_vo_npc_3_5_seq_sparring_a.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_npc_3_5_seq_sparring_a",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 938287054,
+                "MediaPathName": "Media/zh/938287054.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.5\\npc_3_5\\zh_vo_npc_3_5_seq_sparring_a.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_npc_3_5_seq_sparring_a"
+          }
+        }
+      ],
+      "DebugName": "play_vo_npc_3_5_seq_sparring_a",
+      "EventId": 1141225566
+    },
+    "MaximumDuration": 30.1,
+    "MinimumDuration": 30.1,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 3000.0
+  }
+]

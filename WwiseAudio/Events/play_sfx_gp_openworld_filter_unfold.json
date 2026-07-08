@@ -1,0 +1,88 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_openworld_filter_unfold",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_openworld_filter_unfold",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1104104578,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1104104578,
+                "SoundBankPathName": "Event/play_sfx_gp_openworld_filter_unfold.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_openworld_filter_unfold",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 159804825,
+                "MediaPathName": "Media/159804825.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\Interaction\\3.3\\sfx_gp_pointlight_active_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 336474470,
+                "MediaPathName": "Media/336474470.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\Interaction\\3.3\\sfx_gp_planelight_open.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 358979182,
+                "MediaPathName": "Media/358979182.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\Interaction\\3.3\\sfx_gp_pointlight_active_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 665557343,
+                "MediaPathName": "Media/665557343.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\Interaction\\3.3\\sfx_gp_pointlight_active_02.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_openworld_filter_unfold"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_openworld_filter_unfold",
+      "EventId": 1104104578
+    },
+    "MaximumDuration": 1.7794375,
+    "MinimumDuration": 1.7794167,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 15000.0
+  }
+]

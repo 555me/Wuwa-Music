@@ -1,0 +1,54 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "set_music_m3_11_21_p3_amb",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/set_music_m3_11_21_p3_amb",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2407800814,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2407800814,
+                "SoundBankPathName": "Event/set_music_m3_11_21_p3_amb.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "set_music_m3_11_21_p3_amb",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [
+              {
+                "Type": "EWwiseGroupType::State",
+                "GroupId": -1117463076,
+                "Id": -1932185,
+                "DebugName": "p3_amb"
+              }
+            ],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "set_music_m3_11_21_p3_amb"
+          }
+        }
+      ],
+      "DebugName": "set_music_m3_11_21_p3_amb",
+      "EventId": 2407800814
+    },
+    "MaximumDuration": 0.0,
+    "MinimumDuration": 0.0,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

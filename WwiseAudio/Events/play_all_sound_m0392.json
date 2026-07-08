@@ -1,0 +1,65 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_all_sound_m0392",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_all_sound_m0392",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 4136509865,
+            "SoundBanks": [
+              {
+                "SoundBankId": 4136509865,
+                "SoundBankPathName": "Event/play_all_sound_m0392.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_all_sound_m0392",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 752297381,
+                "MediaPathName": "Media/752297381.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\Plot_LevelA\\3.5\\sfx_lva_m0392.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [
+              {
+                "Type": "EWwiseGroupType::State",
+                "GroupId": 1090969866,
+                "Id": 363748012,
+                "DebugName": "m0392"
+              }
+            ],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_all_sound_m0392"
+          }
+        }
+      ],
+      "DebugName": "play_all_sound_m0392",
+      "EventId": 4136509865
+    },
+    "MaximumDuration": 10.230979,
+    "MinimumDuration": 10.230979,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

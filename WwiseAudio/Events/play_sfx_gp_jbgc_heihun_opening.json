@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_jbgc_heihun_opening",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_jbgc_heihun_opening",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 4139709457,
+            "SoundBanks": [
+              {
+                "SoundBankId": 4139709457,
+                "SoundBankPathName": "Event/play_sfx_gp_jbgc_heihun_opening.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_jbgc_heihun_opening",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 646348583,
+                "MediaPathName": "Media/646348583.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\Interaction\\3.4\\sfx_gp_lxrecall_gallery.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_jbgc_heihun_opening"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_jbgc_heihun_opening",
+      "EventId": 4139709457
+    },
+    "MaximumDuration": 4.98529,
+    "MinimumDuration": 4.98529,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

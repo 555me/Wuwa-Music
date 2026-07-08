@@ -1,0 +1,68 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_bgm_quest_3_5_gaobiexueyuan",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_bgm_quest_3_5_gaobiexueyuan",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 196052742,
+            "SoundBanks": [
+              {
+                "SoundBankId": 196052742,
+                "SoundBankPathName": "Event/play_bgm_quest_3_5_gaobiexueyuan.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_bgm_quest_3_5_gaobiexueyuan",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 958128862,
+                "MediaPathName": "Media/958128862.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_5\\bgm-story_plot_gaobiexueyuan_x02-all-full-75bpm-null.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 813335269,
+                "MediaPathName": "Media/813335269.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_5\\bgm-story_plot_gaobiexueyuan_x01-all-full-75bpm-null.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_bgm_quest_3_5_gaobiexueyuan"
+          }
+        }
+      ],
+      "DebugName": "play_bgm_quest_3_5_gaobiexueyuan",
+      "EventId": 196052742
+    },
+    "MaximumDuration": 0.0,
+    "MinimumDuration": 0.0,
+    "IsInfinite": true,
+    "MaxAttenuationRadius": 0.0
+  }
+]

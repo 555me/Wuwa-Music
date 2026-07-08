@@ -1,0 +1,88 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_interact_waves_go_wall_move_01",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_interact_waves_go_wall_move_01",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2138262697,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2138262697,
+                "SoundBankPathName": "Event/play_interact_waves_go_wall_move_01.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_interact_waves_go_wall_move_01",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 131672798,
+                "MediaPathName": "Media/131672798.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "interact_waves_go_wall_move_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 228332853,
+                "MediaPathName": "Media/228332853.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "interact_waves_go_wall_move_04.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 859913456,
+                "MediaPathName": "Media/859913456.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "interact_waves_go_wall_move_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 896873346,
+                "MediaPathName": "Media/896873346.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "interact_waves_go_wall_move_01.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_interact_waves_go_wall_move_01"
+          }
+        }
+      ],
+      "DebugName": "play_interact_waves_go_wall_move_01",
+      "EventId": 2138262697
+    },
+    "MaximumDuration": 1.2014709,
+    "MinimumDuration": 0.7646026,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_ost_album_26_track_11",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_ost_album_26_track_11",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 4140744928,
+            "SoundBanks": [
+              {
+                "SoundBankId": 4140744928,
+                "SoundBankPathName": "Event/play_ost_album_26_track_11.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_ost_album_26_track_11",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 794745130,
+                "MediaPathName": "Media/794745130.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_phonograph_albums\\ost_album_26\\ost-album26_11_玄方城昼_Amin_bpm60_4-4_v1.3.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_ost_album_26_track_11"
+          }
+        }
+      ],
+      "DebugName": "play_ost_album_26_track_11",
+      "EventId": 4140744928
+    },
+    "MaximumDuration": 188.26273,
+    "MinimumDuration": 188.26273,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 2000.0
+  }
+]

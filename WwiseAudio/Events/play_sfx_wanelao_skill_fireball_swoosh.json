@@ -1,0 +1,78 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_wanelao_skill_fireball_swoosh",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_wanelao_skill_fireball_swoosh",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1861888415,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1861888415,
+                "SoundBankPathName": "Event/play_sfx_wanelao_skill_fireball_swoosh.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_wanelao_skill_fireball_swoosh",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 21781090,
+                "MediaPathName": "Media/21781090.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\Enemy\\Lord\\Wanelao\\SFX_WanELao_Skill_Fireball_Swoosh_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 137985900,
+                "MediaPathName": "Media/137985900.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\Enemy\\Lord\\Wanelao\\SFX_WanELao_Skill_Fireball_Swoosh_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 307778892,
+                "MediaPathName": "Media/307778892.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\Enemy\\Lord\\Wanelao\\SFX_WanELao_Skill_Fireball_Swoosh_01.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_wanelao_skill_fireball_swoosh"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_wanelao_skill_fireball_swoosh",
+      "EventId": 1861888415
+    },
+    "MaximumDuration": 1.95,
+    "MinimumDuration": 1.95,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 20000.0
+  }
+]

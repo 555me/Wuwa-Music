@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_dungeon_music_huodong_3_5_paizhao_daniya",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_dungeon_music_huodong_3_5_paizhao_daniya",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 885426223,
+            "SoundBanks": [
+              {
+                "SoundBankId": 885426223,
+                "SoundBankPathName": "Event/play_dungeon_music_huodong_3_5_paizhao_daniya.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_dungeon_music_huodong_3_5_paizhao_daniya",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 996830180,
+                "MediaPathName": "Media/996830180.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_scene\\3_3\\bgm-scene_anyuan_poi_b-all-full-68bpm-4_4.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_dungeon_music_huodong_3_5_paizhao_daniya"
+          }
+        }
+      ],
+      "DebugName": "play_dungeon_music_huodong_3_5_paizhao_daniya",
+      "EventId": 885426223
+    },
+    "MaximumDuration": 0.0,
+    "MinimumDuration": 0.0,
+    "IsInfinite": true,
+    "MaxAttenuationRadius": 0.0
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_yangyang_door_knock",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_yangyang_door_knock",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2718486212,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2718486212,
+                "SoundBankPathName": "Event/play_sfx_gp_yangyang_door_knock.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_yangyang_door_knock",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 177866056,
+                "MediaPathName": "Media/177866056.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\gameplay\\3_5\\sfx_gp_yangyang_door_knock.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_yangyang_door_knock"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_yangyang_door_knock",
+      "EventId": 2718486212
+    },
+    "MaximumDuration": 4.9361043,
+    "MinimumDuration": 4.9361043,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 3000.0
+  }
+]

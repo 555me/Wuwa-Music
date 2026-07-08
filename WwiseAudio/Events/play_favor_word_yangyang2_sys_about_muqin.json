@@ -1,0 +1,88 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_favor_word_yangyang2_sys_about_muqin",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_favor_word_yangyang2_sys_about_muqin",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1792202445,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1792202445,
+                "SoundBankPathName": "Event/play_favor_word_yangyang2_sys_about_muqin.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_favor_word_yangyang2_sys_about_muqin",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 25092038,
+                "MediaPathName": "Media/25092038.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\en\\role\\branch_3,5\\yangyang2\\en_vo_yangyang2_sys_about_muqin_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 269549524,
+                "MediaPathName": "Media/269549524.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\zh\\role\\branch_3,5\\yangyang2\\zh_vo_yangyang2_sys_about_muqin_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 900131035,
+                "MediaPathName": "Media/900131035.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,5\\yangyang2\\ja_vo_yangyang2_sys_about_muqin_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 378431229,
+                "MediaPathName": "Media/378431229.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,5\\yangyang2\\ko_vo_yangyang2_sys_about_muqin_word.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_favor_word_yangyang2_sys_about_muqin"
+          }
+        }
+      ],
+      "DebugName": "play_favor_word_yangyang2_sys_about_muqin",
+      "EventId": 1792202445
+    },
+    "MaximumDuration": 33.35002,
+    "MinimumDuration": 0.0,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

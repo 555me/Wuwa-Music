@@ -1,0 +1,68 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_chonglou_skill_start_bao",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_chonglou_skill_start_bao",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3440999993,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3440999993,
+                "SoundBankPathName": "Event/play_sfx_chonglou_skill_start_bao.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_chonglou_skill_start_bao",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 804392851,
+                "MediaPathName": "Media/804392851.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\Enemy\\Boss\\chonglou\\SFX_ChongLou_Skill_Start_Bao_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 939049896,
+                "MediaPathName": "Media/939049896.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\Enemy\\Boss\\chonglou\\SFX_ChongLou_Skill_Start_Bao_01.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_chonglou_skill_start_bao"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_chonglou_skill_start_bao",
+      "EventId": 3440999993
+    },
+    "MaximumDuration": 0.6,
+    "MinimumDuration": 0.53333336,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 50000.0
+  }
+]

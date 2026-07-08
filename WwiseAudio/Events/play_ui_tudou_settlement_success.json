@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_ui_tudou_settlement_success",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_ui_tudou_settlement_success",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1760677552,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1760677552,
+                "SoundBankPathName": "Event/play_ui_tudou_settlement_success.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_ui_tudou_settlement_success",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 171625152,
+                "MediaPathName": "Media/171625152.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,5\\tudou\\ui_tudou_settlement_success.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_ui_tudou_settlement_success"
+          }
+        }
+      ],
+      "DebugName": "play_ui_tudou_settlement_success",
+      "EventId": 1760677552
+    },
+    "MaximumDuration": 1.1004167,
+    "MinimumDuration": 1.1004167,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

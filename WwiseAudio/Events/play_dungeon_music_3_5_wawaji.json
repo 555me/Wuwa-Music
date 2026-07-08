@@ -1,0 +1,78 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_dungeon_music_3_5_wawaji",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_dungeon_music_3_5_wawaji",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3212158682,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3212158682,
+                "SoundBankPathName": "Event/play_dungeon_music_3_5_wawaji.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_dungeon_music_3_5_wawaji",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 505139419,
+                "MediaPathName": "Media/505139419.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_ui\\3_5\\3_5_wawaji\\ui_music_3_5_wawaji_Am+2_130bpm_full.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 539736028,
+                "MediaPathName": "Media/539736028.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_ui\\3_5\\3_5_wawaji\\ui_music_3_5_wawaji_Am+1_110bpm_full.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 32477550,
+                "MediaPathName": "Media/32477550.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_ui\\3_5\\3_5_wawaji\\ui_music_3_5_wawaji_Am+0_92bpm_full.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_dungeon_music_3_5_wawaji"
+          }
+        }
+      ],
+      "DebugName": "play_dungeon_music_3_5_wawaji",
+      "EventId": 3212158682
+    },
+    "MaximumDuration": 0.0,
+    "MinimumDuration": 0.0,
+    "IsInfinite": true,
+    "MaxAttenuationRadius": 0.0
+  }
+]

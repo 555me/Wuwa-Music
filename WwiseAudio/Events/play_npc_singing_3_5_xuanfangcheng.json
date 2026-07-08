@@ -1,0 +1,68 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_npc_singing_3_5_xuanfangcheng",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_npc_singing_3_5_xuanfangcheng",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3439638751,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3439638751,
+                "SoundBankPathName": "Event/play_npc_singing_3_5_xuanfangcheng.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_npc_singing_3_5_xuanfangcheng",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 139838678,
+                "MediaPathName": "Media/139838678.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_interact\\3_5\\music_interact_3_5_xuanfangcheng_npc_singing01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 215040824,
+                "MediaPathName": "Media/215040824.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_interact\\3_5\\music_interact_3_5_xuanfangcheng_npc_singing02.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_npc_singing_3_5_xuanfangcheng"
+          }
+        }
+      ],
+      "DebugName": "play_npc_singing_3_5_xuanfangcheng",
+      "EventId": 3439638751
+    },
+    "MaximumDuration": 79.8125,
+    "MinimumDuration": 79.8125,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 1000.0
+  }
+]

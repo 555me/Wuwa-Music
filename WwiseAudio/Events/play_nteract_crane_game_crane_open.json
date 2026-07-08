@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_nteract_crane_game_crane_open",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_nteract_crane_game_crane_open",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 70949795,
+            "SoundBanks": [
+              {
+                "SoundBankId": 70949795,
+                "SoundBankPathName": "Event/play_nteract_crane_game_crane_open.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_nteract_crane_game_crane_open",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 412487941,
+                "MediaPathName": "Media/412487941.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "nteract_crane_game_crane_open.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_nteract_crane_game_crane_open"
+          }
+        }
+      ],
+      "DebugName": "play_nteract_crane_game_crane_open",
+      "EventId": 70949795
+    },
+    "MaximumDuration": 0.7786875,
+    "MinimumDuration": 0.7786875,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

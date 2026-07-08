@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_chonglou_skill_exskil",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_chonglou_skill_exskil",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1148623884,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1148623884,
+                "SoundBankPathName": "Event/play_sfx_chonglou_skill_exskil.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_chonglou_skill_exskil",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 454238786,
+                "MediaPathName": "Media/454238786.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\Enemy\\Boss\\chonglou\\SFX_ChongLou_Skill_ExSkil.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_chonglou_skill_exskil"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_chonglou_skill_exskil",
+      "EventId": 1148623884
+    },
+    "MaximumDuration": 26.703417,
+    "MinimumDuration": 26.703417,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

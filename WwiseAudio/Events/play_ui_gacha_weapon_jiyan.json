@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_ui_gacha_weapon_jiyan",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_ui_gacha_weapon_jiyan",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 875194890,
+            "SoundBanks": [
+              {
+                "SoundBankId": 875194890,
+                "SoundBankPathName": "Event/play_ui_gacha_weapon_jiyan.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_ui_gacha_weapon_jiyan",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 671669348,
+                "MediaPathName": "Media/671669348.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "role\\role_bat_Jiyan\\Gacha\\ui_gacha_weapon_jiyan.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_ui_gacha_weapon_jiyan"
+          }
+        }
+      ],
+      "DebugName": "play_ui_gacha_weapon_jiyan",
+      "EventId": 875194890
+    },
+    "MaximumDuration": 17.0,
+    "MinimumDuration": 17.0,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

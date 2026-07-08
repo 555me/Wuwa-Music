@@ -1,0 +1,548 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_role_thunderlead_fps_skill01_shot",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_role_thunderlead_fps_skill01_shot",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1535609495,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1535609495,
+                "SoundBankPathName": "Event/play_role_thunderlead_fps_skill01_shot.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_role_thunderlead_fps_skill01_shot",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 30999154,
+                "MediaPathName": "Media/30999154.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "role\\role_bat_Thunderlead\\FPS\\role_Thunderlead_FPS_skill01_shot_DryFire_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 36039377,
+                "MediaPathName": "Media/36039377.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "role\\role_bat_Thunderlead\\FPS\\role_Thunderlead_FPS_skill01_shot_ArrowWhoosh_05.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 43742443,
+                "MediaPathName": "Media/43742443.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "role\\role_bat_Thunderlead\\FPS\\role_Thunderlead_FPS_skill01_shot_BlueEnergy_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 47016843,
+                "MediaPathName": "Media/47016843.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "role\\role_bat_Thunderlead\\FPS\\role_Thunderlead_FPS_skill01_shot_SciFiWhoosh_04.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 84093351,
+                "MediaPathName": "Media/84093351.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "role\\role_bat_Thunderlead\\FPS\\role_Thunderlead_FPS_skill01_shot_PluckWobble_04.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 93177361,
+                "MediaPathName": "Media/93177361.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "role\\role_bat_Thunderlead\\FPS\\role_Thunderlead_FPS_skill01_shot_PluckWobble_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 94794170,
+                "MediaPathName": "Media/94794170.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "role\\role_bat_Thunderlead\\FPS\\role_Thunderlead_FPS_skill01_shot_PluckWobble_05.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 123036802,
+                "MediaPathName": "Media/123036802.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "role\\role_bat_Thunderlead\\FPS\\role_Thunderlead_FPS_skill01_shot_BlueEnergy_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 127488373,
+                "MediaPathName": "Media/127488373.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "role\\role_bat_Thunderlead\\FPS\\role_Thunderlead_FPS_skill01_shot_ArrowWhoosh_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 144327021,
+                "MediaPathName": "Media/144327021.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "role\\role_bat_Thunderlead\\FPS\\role_Thunderlead_FPS_skill01_shot_ArrowWhoosh_04.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 175517359,
+                "MediaPathName": "Media/175517359.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "role\\role_bat_Thunderlead\\FPS\\role_Thunderlead_FPS_skill01_shot_DryFire_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 196569867,
+                "MediaPathName": "Media/196569867.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "role\\role_bat_Thunderlead\\FPS\\role_Thunderlead_FPS_skill01_shot_Silenced_04.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 205563156,
+                "MediaPathName": "Media/205563156.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "role\\role_bat_Thunderlead\\FPS\\role_Thunderlead_FPS_skill01_shot_Trigger_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 243814312,
+                "MediaPathName": "Media/243814312.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "role\\role_bat_Thunderlead\\FPS\\role_Thunderlead_FPS_skill01_shot_DryFire_05.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 258088520,
+                "MediaPathName": "Media/258088520.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "role\\role_bat_Thunderlead\\FPS\\role_Thunderlead_FPS_skill01_shot_Silenced_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 346325246,
+                "MediaPathName": "Media/346325246.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "role\\role_bat_Thunderlead\\FPS\\role_Thunderlead_FPS_skill01_shot_Trigger_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 352595385,
+                "MediaPathName": "Media/352595385.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "role\\role_bat_Thunderlead\\FPS\\role_Thunderlead_FPS_skill01_shot_ArrowWhoosh_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 370053129,
+                "MediaPathName": "Media/370053129.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "role\\role_bat_Thunderlead\\FPS\\role_Thunderlead_FPS_skill01_shot_Trigger_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 383782238,
+                "MediaPathName": "Media/383782238.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "role\\role_bat_Thunderlead\\FPS\\role_Thunderlead_FPS_skill01_shot_SciFiWhoosh_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 385916388,
+                "MediaPathName": "Media/385916388.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "role\\role_bat_Thunderlead\\FPS\\role_Thunderlead_FPS_skill01_shot_Thump_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 433395437,
+                "MediaPathName": "Media/433395437.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "role\\role_bat_Thunderlead\\FPS\\role_Thunderlead_FPS_skill01_shot_BlueEnergy_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 439330912,
+                "MediaPathName": "Media/439330912.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "role\\role_bat_Thunderlead\\FPS\\role_Thunderlead_FPS_skill01_shot_SciFiWhoosh_05.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 456255335,
+                "MediaPathName": "Media/456255335.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "role\\role_bat_Thunderlead\\FPS\\role_Thunderlead_FPS_skill01_shot_Trigger_04.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 471419490,
+                "MediaPathName": "Media/471419490.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "role\\role_bat_Thunderlead\\FPS\\role_Thunderlead_FPS_skill01_shot_Trigger_05.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 471558394,
+                "MediaPathName": "Media/471558394.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "role\\role_bat_Thunderlead\\FPS\\role_Thunderlead_FPS_skill01_shot_Thump_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 500688650,
+                "MediaPathName": "Media/500688650.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "role\\role_bat_Thunderlead\\FPS\\role_Thunderlead_FPS_skill01_shot_Energy_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 502919537,
+                "MediaPathName": "Media/502919537.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "role\\role_bat_Thunderlead\\FPS\\role_Thunderlead_FPS_skill01_shot_Thump_05.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 517666924,
+                "MediaPathName": "Media/517666924.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "role\\role_bat_Thunderlead\\FPS\\role_Thunderlead_FPS_skill01_shot_BlueEnergy_04.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 527854109,
+                "MediaPathName": "Media/527854109.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "role\\role_bat_Thunderlead\\FPS\\role_Thunderlead_FPS_skill01_shot_SciFiWhoosh_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 541779603,
+                "MediaPathName": "Media/541779603.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "role\\role_bat_Thunderlead\\FPS\\role_Thunderlead_FPS_skill01_shot_Silenced_05.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 574459881,
+                "MediaPathName": "Media/574459881.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "role\\role_bat_Thunderlead\\FPS\\role_Thunderlead_FPS_skill01_shot_Energy_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 599853723,
+                "MediaPathName": "Media/599853723.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "role\\role_bat_Thunderlead\\FPS\\role_Thunderlead_FPS_skill01_shot_PluckAttack_05.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 620194868,
+                "MediaPathName": "Media/620194868.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "role\\role_bat_Thunderlead\\FPS\\role_Thunderlead_FPS_skill01_shot_DryFire_04.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 632505038,
+                "MediaPathName": "Media/632505038.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "role\\role_bat_Thunderlead\\FPS\\role_Thunderlead_FPS_skill01_shot_PluckWobble_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 646537792,
+                "MediaPathName": "Media/646537792.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "role\\role_bat_Thunderlead\\FPS\\role_Thunderlead_FPS_skill01_shot_PluckAttack_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 646823533,
+                "MediaPathName": "Media/646823533.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "role\\role_bat_Thunderlead\\FPS\\role_Thunderlead_FPS_skill01_shot_Silenced_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 675940519,
+                "MediaPathName": "Media/675940519.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "role\\role_bat_Thunderlead\\FPS\\role_Thunderlead_FPS_skill01_shot_Energy_04.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 716024421,
+                "MediaPathName": "Media/716024421.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "role\\role_bat_Thunderlead\\FPS\\role_Thunderlead_FPS_skill01_shot_Silenced_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 788466257,
+                "MediaPathName": "Media/788466257.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "role\\role_bat_Thunderlead\\FPS\\role_Thunderlead_FPS_skill01_shot_PluckAttack_04.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 803255202,
+                "MediaPathName": "Media/803255202.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "role\\role_bat_Thunderlead\\FPS\\role_Thunderlead_FPS_skill01_shot_ArrowWhoosh_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 815800135,
+                "MediaPathName": "Media/815800135.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "role\\role_bat_Thunderlead\\FPS\\role_Thunderlead_FPS_skill01_shot_PluckAttack_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 840002953,
+                "MediaPathName": "Media/840002953.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "role\\role_bat_Thunderlead\\FPS\\role_Thunderlead_FPS_skill01_shot_Thump_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 868437308,
+                "MediaPathName": "Media/868437308.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "role\\role_bat_Thunderlead\\FPS\\role_Thunderlead_FPS_skill01_shot_Energy_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 885868686,
+                "MediaPathName": "Media/885868686.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "role\\role_bat_Thunderlead\\FPS\\role_Thunderlead_FPS_skill01_shot_Energy_05.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 907070463,
+                "MediaPathName": "Media/907070463.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "role\\role_bat_Thunderlead\\FPS\\role_Thunderlead_FPS_skill01_shot_Thump_04.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 927517573,
+                "MediaPathName": "Media/927517573.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "role\\role_bat_Thunderlead\\FPS\\role_Thunderlead_FPS_skill01_shot_DryFire_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 928124413,
+                "MediaPathName": "Media/928124413.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "role\\role_bat_Thunderlead\\FPS\\role_Thunderlead_FPS_skill01_shot_BlueEnergy_05.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 934139839,
+                "MediaPathName": "Media/934139839.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "role\\role_bat_Thunderlead\\FPS\\role_Thunderlead_FPS_skill01_shot_PluckAttack_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 993482941,
+                "MediaPathName": "Media/993482941.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "role\\role_bat_Thunderlead\\FPS\\role_Thunderlead_FPS_skill01_shot_PluckWobble_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1062646151,
+                "MediaPathName": "Media/1062646151.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "role\\role_bat_Thunderlead\\FPS\\role_Thunderlead_FPS_skill01_shot_SciFiWhoosh_01.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_role_thunderlead_fps_skill01_shot"
+          }
+        }
+      ],
+      "DebugName": "play_role_thunderlead_fps_skill01_shot",
+      "EventId": 1535609495
+    },
+    "MaximumDuration": 1.5439534,
+    "MinimumDuration": 1.4572979,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

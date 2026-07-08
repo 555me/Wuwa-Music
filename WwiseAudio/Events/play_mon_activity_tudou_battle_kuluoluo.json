@@ -1,0 +1,78 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_mon_activity_tudou_battle_kuluoluo",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_mon_activity_tudou_battle_kuluoluo",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3373433158,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3373433158,
+                "SoundBankPathName": "Event/play_mon_activity_tudou_battle_kuluoluo.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_mon_activity_tudou_battle_kuluoluo",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 413828689,
+                "MediaPathName": "Media/413828689.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,5\\tudou\\creature\\mon_activity_tudou_battle_kuluoluo_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 839420796,
+                "MediaPathName": "Media/839420796.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,5\\tudou\\creature\\mon_activity_tudou_battle_kuluoluo_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1042563092,
+                "MediaPathName": "Media/1042563092.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,5\\tudou\\creature\\mon_activity_tudou_battle_kuluoluo_01.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_mon_activity_tudou_battle_kuluoluo"
+          }
+        }
+      ],
+      "DebugName": "play_mon_activity_tudou_battle_kuluoluo",
+      "EventId": 3373433158
+    },
+    "MaximumDuration": 0.8682708,
+    "MinimumDuration": 0.8682708,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_role_thunderlead_fps_hit_skill01",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_role_thunderlead_fps_hit_skill01",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3116288218,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3116288218,
+                "SoundBankPathName": "Event/play_role_thunderlead_fps_hit_skill01.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_role_thunderlead_fps_hit_skill01",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 255207264,
+                "MediaPathName": "Media/255207264.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "role\\role_bat_Thunderlead\\Hit\\role_Thunderlead_FPS_hit_skill01_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 466875515,
+                "MediaPathName": "Media/466875515.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "role\\role_bat_Thunderlead\\Hit\\role_Thunderlead_FPS_hit_skill01_04.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 718187707,
+                "MediaPathName": "Media/718187707.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "role\\role_bat_Thunderlead\\Hit\\role_Thunderlead_FPS_hit_skill01_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 784880167,
+                "MediaPathName": "Media/784880167.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "role\\role_bat_Thunderlead\\Hit\\role_Thunderlead_FPS_hit_skill01_05.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 979039021,
+                "MediaPathName": "Media/979039021.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "role\\role_bat_Thunderlead\\Hit\\role_Thunderlead_FPS_hit_skill01_02.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_role_thunderlead_fps_hit_skill01"
+          }
+        }
+      ],
+      "DebugName": "play_role_thunderlead_fps_hit_skill01",
+      "EventId": 3116288218
+    },
+    "MaximumDuration": 1.0293022,
+    "MinimumDuration": 0.9715319,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 7000.0
+  }
+]

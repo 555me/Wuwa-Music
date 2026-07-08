@@ -1,0 +1,118 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_amb_emit_3_5_cicadachirp",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_amb_emit_3_5_cicadachirp",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2153876352,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2153876352,
+                "SoundBankPathName": "Event/play_amb_emit_3_5_cicadachirp.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_amb_emit_3_5_cicadachirp",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 457923432,
+                "MediaPathName": "Media/457923432.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\amb_emit_3_5_CicadaChirp_05.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 558252792,
+                "MediaPathName": "Media/558252792.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\amb_emit_3_5_CicadaChirp_07.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 625308430,
+                "MediaPathName": "Media/625308430.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\amb_emit_3_5_CicadaChirp_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 654812915,
+                "MediaPathName": "Media/654812915.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\amb_emit_3_5_CicadaChirp_04.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 790704236,
+                "MediaPathName": "Media/790704236.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\amb_emit_3_5_CicadaChirp_06.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 903624527,
+                "MediaPathName": "Media/903624527.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\amb_emit_3_5_CicadaChirp_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 938369385,
+                "MediaPathName": "Media/938369385.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\amb_emit_3_5_CicadaChirp_03.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_amb_emit_3_5_cicadachirp"
+          }
+        }
+      ],
+      "DebugName": "play_amb_emit_3_5_cicadachirp",
+      "EventId": 2153876352
+    },
+    "MaximumDuration": 30.506666,
+    "MinimumDuration": 23.4,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

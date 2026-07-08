@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_jbgc_seq_mechanical_arm_sweep_jibing_knockback",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_jbgc_seq_mechanical_arm_sweep_jibing_knockback",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 143412854,
+            "SoundBanks": [
+              {
+                "SoundBankId": 143412854,
+                "SoundBankPathName": "Event/play_sfx_gp_jbgc_seq_mechanical_arm_sweep_jibing_knockback.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_jbgc_seq_mechanical_arm_sweep_jibing_knockback",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 829160439,
+                "MediaPathName": "Media/829160439.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\gameplay\\3_5\\sfx_gp_jbgc_seq_mechanical_arm_sweep_jibing_knockback.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_jbgc_seq_mechanical_arm_sweep_jibing_knockback"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_jbgc_seq_mechanical_arm_sweep_jibing_knockback",
+      "EventId": 143412854
+    },
+    "MaximumDuration": 5.37009,
+    "MinimumDuration": 5.37009,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

@@ -1,0 +1,175 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_mon_jibin_atk06_b",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_mon_jibin_atk06_b",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 1819748192,
+            "LanguageName": "en",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 2157291137,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2157291137,
+                "SoundBankPathName": "Event/en/play_vo_mon_jibin_atk06_b.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_mon_jibin_atk06_b",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 503916493,
+                "MediaPathName": "Media/en/503916493.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "enemy\\branch_3,5\\jibin\\en_vo_mon_jibin_atk06_b.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_mon_jibin_atk06_b"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1735860046,
+            "LanguageName": "ja",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 2157291137,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2157291137,
+                "SoundBankPathName": "Event/ja/play_vo_mon_jibin_atk06_b.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_mon_jibin_atk06_b",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 246977660,
+                "MediaPathName": "Media/ja/246977660.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "enemy\\branch_3,5\\jibin\\ja_vo_mon_jibin_atk06_b.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_mon_jibin_atk06_b"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1719082483,
+            "LanguageName": "ko",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 2157291137,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2157291137,
+                "SoundBankPathName": "Event/ko/play_vo_mon_jibin_atk06_b.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_mon_jibin_atk06_b",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 885896895,
+                "MediaPathName": "Media/ko/885896895.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "enemy\\branch_3,5\\jibin\\ko_vo_mon_jibin_atk06_b.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_mon_jibin_atk06_b"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1467418007,
+            "LanguageName": "zh",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsDefault"
+          },
+          "Value": {
+            "EventId": 2157291137,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2157291137,
+                "SoundBankPathName": "Event/zh/play_vo_mon_jibin_atk06_b.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_mon_jibin_atk06_b",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 945096979,
+                "MediaPathName": "Media/zh/945096979.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "enemy\\branch_3,5\\jibin\\zh_vo_mon_jibin_atk06_b.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_mon_jibin_atk06_b"
+          }
+        }
+      ],
+      "DebugName": "play_vo_mon_jibin_atk06_b",
+      "EventId": 2157291137
+    },
+    "MaximumDuration": 1.8195,
+    "MinimumDuration": 1.8195,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 2000.0
+  }
+]

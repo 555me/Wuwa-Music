@@ -1,0 +1,175 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_npc_3_5_war_dingxuanwei_a",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_npc_3_5_war_dingxuanwei_a",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 1819748192,
+            "LanguageName": "en",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 2150826274,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2150826274,
+                "SoundBankPathName": "Event/en/play_vo_npc_3_5_war_dingxuanwei_a.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_npc_3_5_war_dingxuanwei_a",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 84025096,
+                "MediaPathName": "Media/en/84025096.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.5\\npc_3_5\\en_vo_npc_3_5_war_dingxuanwei_a.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_npc_3_5_war_dingxuanwei_a"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1735860046,
+            "LanguageName": "ja",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 2150826274,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2150826274,
+                "SoundBankPathName": "Event/ja/play_vo_npc_3_5_war_dingxuanwei_a.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_npc_3_5_war_dingxuanwei_a",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 382561373,
+                "MediaPathName": "Media/ja/382561373.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.5\\npc_3_5\\ja_vo_npc_3_5_war_dingxuanwei_a.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_npc_3_5_war_dingxuanwei_a"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1719082483,
+            "LanguageName": "ko",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 2150826274,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2150826274,
+                "SoundBankPathName": "Event/ko/play_vo_npc_3_5_war_dingxuanwei_a.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_npc_3_5_war_dingxuanwei_a",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 549760250,
+                "MediaPathName": "Media/ko/549760250.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.5\\npc_3_5\\ko_vo_npc_3_5_war_dingxuanwei_a.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_npc_3_5_war_dingxuanwei_a"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1467418007,
+            "LanguageName": "zh",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsDefault"
+          },
+          "Value": {
+            "EventId": 2150826274,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2150826274,
+                "SoundBankPathName": "Event/zh/play_vo_npc_3_5_war_dingxuanwei_a.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_npc_3_5_war_dingxuanwei_a",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 709459804,
+                "MediaPathName": "Media/zh/709459804.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.5\\npc_3_5\\zh_vo_npc_3_5_war_dingxuanwei_a.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_npc_3_5_war_dingxuanwei_a"
+          }
+        }
+      ],
+      "DebugName": "play_vo_npc_3_5_war_dingxuanwei_a",
+      "EventId": 2150826274
+    },
+    "MaximumDuration": 22.58,
+    "MinimumDuration": 22.58,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

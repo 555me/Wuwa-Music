@@ -1,0 +1,95 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_music_yangyang_houritan",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_music_yangyang_houritan",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 4226352337,
+            "SoundBanks": [
+              {
+                "SoundBankId": 4226352337,
+                "SoundBankPathName": "Event/play_music_yangyang_houritan.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_music_yangyang_houritan",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 101952194,
+                "MediaPathName": "Media/101952194.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music\\music_scene\\silence_5s.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 427600544,
+                "MediaPathName": "Media/427600544.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_dungeon\\3_5_dungeon\\bgm-story_plot_m3_11_24-all-full-70bpm-4_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 733731223,
+                "MediaPathName": "Media/733731223.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_5\\bgm-story_plot_m3_11_23-all-full-70bpm-4_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 765088897,
+                "MediaPathName": "Media/765088897.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_5\\bgm-story_plot_m3_11_22-all-full-70bpm-4_4.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [
+              {
+                "Type": "EWwiseGroupType::State",
+                "GroupId": -206454896,
+                "Id": 748895195,
+                "DebugName": "None"
+              }
+            ],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_music_yangyang_houritan"
+          }
+        }
+      ],
+      "DebugName": "play_music_yangyang_houritan",
+      "EventId": 4226352337
+    },
+    "MaximumDuration": 0.0,
+    "MinimumDuration": 0.0,
+    "IsInfinite": true,
+    "MaxAttenuationRadius": 0.0
+  }
+]

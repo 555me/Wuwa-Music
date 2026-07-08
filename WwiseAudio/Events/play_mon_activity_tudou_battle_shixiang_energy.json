@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_mon_activity_tudou_battle_shixiang_energy",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_mon_activity_tudou_battle_shixiang_energy",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 369373218,
+            "SoundBanks": [
+              {
+                "SoundBankId": 369373218,
+                "SoundBankPathName": "Event/play_mon_activity_tudou_battle_shixiang_energy.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_mon_activity_tudou_battle_shixiang_energy",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 412724240,
+                "MediaPathName": "Media/412724240.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,5\\tudou\\monster_skills\\mon_activity_tudou_battle_shixiang_energy.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_mon_activity_tudou_battle_shixiang_energy"
+          }
+        }
+      ],
+      "DebugName": "play_mon_activity_tudou_battle_shixiang_energy",
+      "EventId": 369373218
+    },
+    "MaximumDuration": 4.0070624,
+    "MinimumDuration": 4.0070624,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

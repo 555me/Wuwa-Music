@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_ui_tudou_success_tip_large",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_ui_tudou_success_tip_large",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1809767992,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1809767992,
+                "SoundBankPathName": "Event/play_ui_tudou_success_tip_large.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_ui_tudou_success_tip_large",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 851043195,
+                "MediaPathName": "Media/851043195.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,5\\tudou\\ui_tudou_success_tip_large.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_ui_tudou_success_tip_large"
+          }
+        }
+      ],
+      "DebugName": "play_ui_tudou_success_tip_large",
+      "EventId": 1809767992
+    },
+    "MaximumDuration": 2.0333333,
+    "MinimumDuration": 2.0333333,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

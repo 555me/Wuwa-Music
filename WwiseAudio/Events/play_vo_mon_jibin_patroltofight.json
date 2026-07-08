@@ -1,0 +1,175 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_mon_jibin_patroltofight",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_mon_jibin_patroltofight",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 1819748192,
+            "LanguageName": "en",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 4261526711,
+            "SoundBanks": [
+              {
+                "SoundBankId": 4261526711,
+                "SoundBankPathName": "Event/en/play_vo_mon_jibin_patroltofight.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_mon_jibin_patroltofight",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 451389658,
+                "MediaPathName": "Media/en/451389658.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "enemy\\branch_3,5\\jibin\\en_vo_mon_jibin_patroltofight.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_mon_jibin_patroltofight"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1735860046,
+            "LanguageName": "ja",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 4261526711,
+            "SoundBanks": [
+              {
+                "SoundBankId": 4261526711,
+                "SoundBankPathName": "Event/ja/play_vo_mon_jibin_patroltofight.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_mon_jibin_patroltofight",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 80486433,
+                "MediaPathName": "Media/ja/80486433.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "enemy\\branch_3,5\\jibin\\ja_vo_mon_jibin_patroltofight.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_mon_jibin_patroltofight"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1719082483,
+            "LanguageName": "ko",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 4261526711,
+            "SoundBanks": [
+              {
+                "SoundBankId": 4261526711,
+                "SoundBankPathName": "Event/ko/play_vo_mon_jibin_patroltofight.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_mon_jibin_patroltofight",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 748797573,
+                "MediaPathName": "Media/ko/748797573.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "enemy\\branch_3,5\\jibin\\ko_vo_mon_jibin_patroltofight.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_mon_jibin_patroltofight"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1467418007,
+            "LanguageName": "zh",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsDefault"
+          },
+          "Value": {
+            "EventId": 4261526711,
+            "SoundBanks": [
+              {
+                "SoundBankId": 4261526711,
+                "SoundBankPathName": "Event/zh/play_vo_mon_jibin_patroltofight.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_mon_jibin_patroltofight",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 922332164,
+                "MediaPathName": "Media/zh/922332164.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "enemy\\branch_3,5\\jibin\\zh_vo_mon_jibin_patroltofight.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_mon_jibin_patroltofight"
+          }
+        }
+      ],
+      "DebugName": "play_vo_mon_jibin_patroltofight",
+      "EventId": 4261526711
+    },
+    "MaximumDuration": 3.1099167,
+    "MinimumDuration": 3.1099167,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 2000.0
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_interact_waves_go_summit_retreat_wall",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_interact_waves_go_summit_retreat_wall",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2036172913,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2036172913,
+                "SoundBankPathName": "Event/play_interact_waves_go_summit_retreat_wall.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_interact_waves_go_summit_retreat_wall",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 856141400,
+                "MediaPathName": "Media/856141400.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "interact_waves_go_summit_retreat_wall.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_interact_waves_go_summit_retreat_wall"
+          }
+        }
+      ],
+      "DebugName": "play_interact_waves_go_summit_retreat_wall",
+      "EventId": 2036172913
+    },
+    "MaximumDuration": 2.2437084,
+    "MinimumDuration": 2.2437084,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_ui_daoguan_3_5_loadinglittle_start",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_ui_daoguan_3_5_loadinglittle_start",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2358760870,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2358760870,
+                "SoundBankPathName": "Event/play_ui_daoguan_3_5_loadinglittle_start.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_ui_daoguan_3_5_loadinglittle_start",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 912441265,
+                "MediaPathName": "Media/912441265.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,5\\daoguan_3_5\\ui_daoguan_3_5_loadinglittle_start.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_ui_daoguan_3_5_loadinglittle_start"
+          }
+        }
+      ],
+      "DebugName": "play_ui_daoguan_3_5_loadinglittle_start",
+      "EventId": 2358760870
+    },
+    "MaximumDuration": 7.091521,
+    "MinimumDuration": 7.091521,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

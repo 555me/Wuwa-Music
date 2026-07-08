@@ -1,0 +1,68 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_chonglou_skill_end_floor",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_chonglou_skill_end_floor",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1633988014,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1633988014,
+                "SoundBankPathName": "Event/play_sfx_chonglou_skill_end_floor.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_chonglou_skill_end_floor",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 371162274,
+                "MediaPathName": "Media/371162274.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\Enemy\\Boss\\chonglou\\SFX_ChongLou_Skill_End_Floor_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 961226893,
+                "MediaPathName": "Media/961226893.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\Enemy\\Boss\\chonglou\\SFX_ChongLou_Skill_End_Floor_02.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_chonglou_skill_end_floor"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_chonglou_skill_end_floor",
+      "EventId": 1633988014
+    },
+    "MaximumDuration": 1.6333333,
+    "MinimumDuration": 1.5333333,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 50000.0
+  }
+]

@@ -1,0 +1,178 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "map_main_suisui",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/map_main_suisui",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1966669996,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1966669996,
+                "SoundBankPathName": "Event/map_main_suisui.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "map_main_suisui",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 871453927,
+                "MediaPathName": "Media/871453927.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\amb_bed_3_5_suisui_Nature.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 949440232,
+                "MediaPathName": "Media/949440232.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\amb_bed_3_5_Autumnroom.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 897427690,
+                "MediaPathName": "Media/897427690.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "not_in_folder\\amb_bed_river_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 834391601,
+                "MediaPathName": "Media/834391601.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\amb_bed_3_5_suisui_wind.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 92841206,
+                "MediaPathName": "Media/92841206.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\amb_bed_3_5_suisui_Disaster.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 601522890,
+                "MediaPathName": "Media/601522890.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_5\\process\\bgm-story_plot_quest_unusual_battle-all-full-74bpm-null.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 379223687,
+                "MediaPathName": "Media/379223687.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_5\\bgm-story_plot_m3_11_08-all-full-72bpm-null.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 138750836,
+                "MediaPathName": "Media/138750836.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_scene\\3_5\\bgm-scene_suisui_xinyuehu-all-full-72bpm-null.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 529865649,
+                "MediaPathName": "Media/529865649.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_dungeon\\3_5_dungeon\\bgm-scene_suisui_yuanling_night-all-full-116bpm-null.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 926764177,
+                "MediaPathName": "Media/926764177.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_dungeon\\3_5_dungeon\\bgm-scene_suisui_yuanling-all-full-116bpm-null.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 324921673,
+                "MediaPathName": "Media/324921673.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music\\music_scene\\silence.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 811524789,
+                "MediaPathName": "Media/811524789.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_dungeon\\3_5_dungeon\\bgm-scene_suisui_yanhui-all-full-90bpm-7_8.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 928517847,
+                "MediaPathName": "Media/928517847.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_dungeon\\3_5_dungeon\\bgm-scene_suisui_zhaidi-all-full-115bpm-null.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "map_main_suisui"
+          }
+        }
+      ],
+      "DebugName": "map_main_suisui",
+      "EventId": 1966669996
+    },
+    "MaximumDuration": 0.0,
+    "MinimumDuration": 0.0,
+    "IsInfinite": true,
+    "MaxAttenuationRadius": 0.0
+  }
+]

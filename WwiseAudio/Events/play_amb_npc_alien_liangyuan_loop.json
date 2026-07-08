@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_amb_npc_alien_liangyuan_loop",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_amb_npc_alien_liangyuan_loop",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2263839080,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2263839080,
+                "SoundBankPathName": "Event/play_amb_npc_alien_liangyuan_loop.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_amb_npc_alien_liangyuan_loop",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 580317332,
+                "MediaPathName": "Media/580317332.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb_npc_alien_idle_loop.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_amb_npc_alien_liangyuan_loop"
+          }
+        }
+      ],
+      "DebugName": "play_amb_npc_alien_liangyuan_loop",
+      "EventId": 2263839080
+    },
+    "MaximumDuration": 3.8217916,
+    "MinimumDuration": 3.8217916,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 1500.0
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_wanelao_skill_attack02_begin_hanger",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_wanelao_skill_attack02_begin_hanger",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1017948666,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1017948666,
+                "SoundBankPathName": "Event/play_sfx_wanelao_skill_attack02_begin_hanger.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_wanelao_skill_attack02_begin_hanger",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 503226565,
+                "MediaPathName": "Media/503226565.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\Enemy\\Lord\\Wanelao\\SFX_WanELao_Skill_Attack02_Begin_Hanger.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_wanelao_skill_attack02_begin_hanger"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_wanelao_skill_attack02_begin_hanger",
+      "EventId": 1017948666
+    },
+    "MaximumDuration": 4.9,
+    "MinimumDuration": 4.9,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 20000.0
+  }
+]

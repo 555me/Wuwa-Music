@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_amb_npc_alien_ss1suotiangong_am_sm_idle_01_sustain",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_amb_npc_alien_ss1suotiangong_am_sm_idle_01_sustain",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 106594579,
+            "SoundBanks": [
+              {
+                "SoundBankId": 106594579,
+                "SoundBankPathName": "Event/play_amb_npc_alien_ss1suotiangong_am_sm_idle_01_sustain.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_amb_npc_alien_ss1suotiangong_am_sm_idle_01_sustain",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 653835151,
+                "MediaPathName": "Media/653835151.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "npc\\alien\\amb_npc_alien_ss1suotiangong_am_sm_idle_01_sustain.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_amb_npc_alien_ss1suotiangong_am_sm_idle_01_sustain"
+          }
+        }
+      ],
+      "DebugName": "play_amb_npc_alien_ss1suotiangong_am_sm_idle_01_sustain",
+      "EventId": 106594579
+    },
+    "MaximumDuration": 0.5,
+    "MinimumDuration": 0.5,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 1500.0
+  }
+]

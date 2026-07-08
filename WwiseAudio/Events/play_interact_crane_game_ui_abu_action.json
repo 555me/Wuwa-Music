@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_interact_crane_game_ui_abu_action",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_interact_crane_game_ui_abu_action",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3355426032,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3355426032,
+                "SoundBankPathName": "Event/play_interact_crane_game_ui_abu_action.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_interact_crane_game_ui_abu_action",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 42602177,
+                "MediaPathName": "Media/42602177.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "interact_crane_game_UI_abu_action.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_interact_crane_game_ui_abu_action"
+          }
+        }
+      ],
+      "DebugName": "play_interact_crane_game_ui_abu_action",
+      "EventId": 3355426032
+    },
+    "MaximumDuration": 4.338333,
+    "MinimumDuration": 4.338333,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_amb_npc_alien_mro1zhuazirenmd00001_am_sm_paoxiao_p2_01",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_amb_npc_alien_mro1zhuazirenmd00001_am_sm_paoxiao_p2_01",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1586744831,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1586744831,
+                "SoundBankPathName": "Event/play_amb_npc_alien_mro1zhuazirenmd00001_am_sm_paoxiao_p2_01.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_amb_npc_alien_mro1zhuazirenmd00001_am_sm_paoxiao_p2_01",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 1044527826,
+                "MediaPathName": "Media/1044527826.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb_npc_alien_MRO1ZhuaZiRenMd00001_AM_SM_PaoXiao_P2.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_amb_npc_alien_mro1zhuazirenmd00001_am_sm_paoxiao_p2_01"
+          }
+        }
+      ],
+      "DebugName": "play_amb_npc_alien_mro1zhuazirenmd00001_am_sm_paoxiao_p2_01",
+      "EventId": 1586744831
+    },
+    "MaximumDuration": 8.469916,
+    "MinimumDuration": 8.469916,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 1500.0
+  }
+]

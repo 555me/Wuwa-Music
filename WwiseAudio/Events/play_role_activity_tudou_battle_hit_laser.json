@@ -1,0 +1,98 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_role_activity_tudou_battle_hit_laser",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_role_activity_tudou_battle_hit_laser",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2287160679,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2287160679,
+                "SoundBankPathName": "Event/play_role_activity_tudou_battle_hit_laser.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_role_activity_tudou_battle_hit_laser",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 12064247,
+                "MediaPathName": "Media/12064247.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,5\\tudou\\role_skills\\role_activity_tudou_battle_hit_laser_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 137090065,
+                "MediaPathName": "Media/137090065.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,5\\tudou\\role_skills\\role_activity_tudou_battle_hit_laser_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 505069926,
+                "MediaPathName": "Media/505069926.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,5\\tudou\\role_skills\\role_activity_tudou_battle_hit_laser_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 666703564,
+                "MediaPathName": "Media/666703564.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,5\\tudou\\role_skills\\role_activity_tudou_battle_hit_laser_05.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 808133836,
+                "MediaPathName": "Media/808133836.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,5\\tudou\\role_skills\\role_activity_tudou_battle_hit_laser_04.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_role_activity_tudou_battle_hit_laser"
+          }
+        }
+      ],
+      "DebugName": "play_role_activity_tudou_battle_hit_laser",
+      "EventId": 2287160679
+    },
+    "MaximumDuration": 0.73629165,
+    "MinimumDuration": 0.71585417,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

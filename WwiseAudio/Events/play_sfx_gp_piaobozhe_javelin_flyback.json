@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_piaobozhe_javelin_flyback",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_piaobozhe_javelin_flyback",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3935259806,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3935259806,
+                "SoundBankPathName": "Event/play_sfx_gp_piaobozhe_javelin_flyback.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_piaobozhe_javelin_flyback",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 426718733,
+                "MediaPathName": "Media/426718733.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\gameplay\\3_5\\sfx_gp_piaobozhe_javelin_flyback.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_piaobozhe_javelin_flyback"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_piaobozhe_javelin_flyback",
+      "EventId": 3935259806
+    },
+    "MaximumDuration": 2.0634584,
+    "MinimumDuration": 2.0634584,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 100000.0
+  }
+]

@@ -1,0 +1,118 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_story_music_m3_10_13",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_story_music_m3_10_13",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1288329119,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1288329119,
+                "SoundBankPathName": "Event/play_story_music_m3_10_13.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_story_music_m3_10_13",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 101952194,
+                "MediaPathName": "Media/101952194.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music\\music_scene\\silence_5s.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 323631558,
+                "MediaPathName": "Media/323631558.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_5\\yangyang\\bgm-story_plot_m3_10_13_stinger2-all-full-null-null.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 187246335,
+                "MediaPathName": "Media/187246335.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_5\\yangyang\\bgm-story_plot_m3_10_13_stinger1-all-full-null-null.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1041574340,
+                "MediaPathName": "Media/1041574340.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_dungeon\\3_5_dungeon\\yuancheng\\bgm-dungeon_scene_yuancheng_03-all-full-null-null.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 163871188,
+                "MediaPathName": "Media/163871188.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_5\\yangyang\\yuancheng\\bgm-story_plot_yhunayuan_x02-all-full-156bpm-null.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1011329538,
+                "MediaPathName": "Media/1011329538.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_5\\yangyang\\bgm-story_plot_m3_10_13_x02-all-full-null-null.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 130108517,
+                "MediaPathName": "Media/130108517.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_5\\process\\bgm-story_plot_suspense-all-full-75bpm-null.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_story_music_m3_10_13"
+          }
+        }
+      ],
+      "DebugName": "play_story_music_m3_10_13",
+      "EventId": 1288329119
+    },
+    "MaximumDuration": 0.0,
+    "MinimumDuration": 0.0,
+    "IsInfinite": true,
+    "MaxAttenuationRadius": 0.0
+  }
+]

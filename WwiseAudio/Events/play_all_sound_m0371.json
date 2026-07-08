@@ -1,0 +1,295 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_all_sound_m0371",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_all_sound_m0371",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 1819748192,
+            "LanguageName": "en",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 4102954564,
+            "SoundBanks": [
+              {
+                "SoundBankId": 4102954564,
+                "SoundBankPathName": "Event/en/play_all_sound_m0371.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_all_sound_m0371",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 223076898,
+                "MediaPathName": "Media/223076898.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\Plot_LevelA\\3.5\\sfx_lva_m0371.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 294191907,
+                "MediaPathName": "Media/294191907.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\level_a\\3.5\\bgm-story_video_m0371-all-full-null-null.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 500168814,
+                "MediaPathName": "Media/en/500168814.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "en_vo_story_m0371.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 694933269,
+                "MediaPathName": "Media/694933269.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\level_a\\3.5\\3.5_M0371一局定输赢_Dmaj_null_v1.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_all_sound_m0371"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1735860046,
+            "LanguageName": "ja",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 4102954564,
+            "SoundBanks": [
+              {
+                "SoundBankId": 4102954564,
+                "SoundBankPathName": "Event/ja/play_all_sound_m0371.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_all_sound_m0371",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 223076898,
+                "MediaPathName": "Media/223076898.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\Plot_LevelA\\3.5\\sfx_lva_m0371.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 255338727,
+                "MediaPathName": "Media/ja/255338727.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "ja_vo_story_m0371.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 294191907,
+                "MediaPathName": "Media/294191907.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\level_a\\3.5\\bgm-story_video_m0371-all-full-null-null.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 694933269,
+                "MediaPathName": "Media/694933269.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\level_a\\3.5\\3.5_M0371一局定输赢_Dmaj_null_v1.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_all_sound_m0371"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1719082483,
+            "LanguageName": "ko",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 4102954564,
+            "SoundBanks": [
+              {
+                "SoundBankId": 4102954564,
+                "SoundBankPathName": "Event/ko/play_all_sound_m0371.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_all_sound_m0371",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 223076898,
+                "MediaPathName": "Media/223076898.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\Plot_LevelA\\3.5\\sfx_lva_m0371.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 294191907,
+                "MediaPathName": "Media/294191907.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\level_a\\3.5\\bgm-story_video_m0371-all-full-null-null.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 535884855,
+                "MediaPathName": "Media/ko/535884855.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "ko_vo_story_m0371.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 694933269,
+                "MediaPathName": "Media/694933269.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\level_a\\3.5\\3.5_M0371一局定输赢_Dmaj_null_v1.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_all_sound_m0371"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1467418007,
+            "LanguageName": "zh",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsDefault"
+          },
+          "Value": {
+            "EventId": 4102954564,
+            "SoundBanks": [
+              {
+                "SoundBankId": 4102954564,
+                "SoundBankPathName": "Event/zh/play_all_sound_m0371.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_all_sound_m0371",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 49320327,
+                "MediaPathName": "Media/zh/49320327.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "zh_vo_story_m0371.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 223076898,
+                "MediaPathName": "Media/223076898.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\Plot_LevelA\\3.5\\sfx_lva_m0371.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 294191907,
+                "MediaPathName": "Media/294191907.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\level_a\\3.5\\bgm-story_video_m0371-all-full-null-null.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 694933269,
+                "MediaPathName": "Media/694933269.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\level_a\\3.5\\3.5_M0371一局定输赢_Dmaj_null_v1.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_all_sound_m0371"
+          }
+        }
+      ],
+      "DebugName": "play_all_sound_m0371",
+      "EventId": 4102954564
+    },
+    "MaximumDuration": 84.634,
+    "MinimumDuration": 84.634,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

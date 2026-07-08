@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_yangyang_liuxi_tantu_action_effect",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_yangyang_liuxi_tantu_action_effect",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2826865086,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2826865086,
+                "SoundBankPathName": "Event/play_sfx_gp_yangyang_liuxi_tantu_action_effect.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_yangyang_liuxi_tantu_action_effect",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 971162805,
+                "MediaPathName": "Media/971162805.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\gameplay\\3_5\\sfx_gp_yangyang_liuxi_tantu_action_effect.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_yangyang_liuxi_tantu_action_effect"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_yangyang_liuxi_tantu_action_effect",
+      "EventId": 2826865086
+    },
+    "MaximumDuration": 5.13505,
+    "MinimumDuration": 5.13505,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 3000.0
+  }
+]

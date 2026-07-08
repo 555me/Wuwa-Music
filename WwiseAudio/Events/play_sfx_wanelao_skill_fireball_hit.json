@@ -1,0 +1,98 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_wanelao_skill_fireball_hit",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_wanelao_skill_fireball_hit",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2622059533,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2622059533,
+                "SoundBankPathName": "Event/play_sfx_wanelao_skill_fireball_hit.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_wanelao_skill_fireball_hit",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 171421257,
+                "MediaPathName": "Media/171421257.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\Enemy\\Lord\\Wanelao\\SFX_WanELao_Skill_Fireball_Hit_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 630407888,
+                "MediaPathName": "Media/630407888.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\Enemy\\Lord\\Wanelao\\SFX_WanELao_Skill_Fireball_Hit_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 944525983,
+                "MediaPathName": "Media/944525983.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\Enemy\\Lord\\Wanelao\\SFX_WanELao_Skill_Fireball_Hit_05.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 957343276,
+                "MediaPathName": "Media/957343276.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\Enemy\\Lord\\Wanelao\\SFX_WanELao_Skill_Fireball_Hit_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 998867003,
+                "MediaPathName": "Media/998867003.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\Enemy\\Lord\\Wanelao\\SFX_WanELao_Skill_Fireball_Hit_04.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_wanelao_skill_fireball_hit"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_wanelao_skill_fireball_hit",
+      "EventId": 2622059533
+    },
+    "MaximumDuration": 2.513146,
+    "MinimumDuration": 2.513146,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 20000.0
+  }
+]

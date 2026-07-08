@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_wanelao_skill_attack08_impact",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_wanelao_skill_attack08_impact",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1302601517,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1302601517,
+                "SoundBankPathName": "Event/play_sfx_wanelao_skill_attack08_impact.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_wanelao_skill_attack08_impact",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 344772382,
+                "MediaPathName": "Media/344772382.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\Enemy\\Lord\\Wanelao\\SFX_WanELao_Skill_Attack08_Impact.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_wanelao_skill_attack08_impact"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_wanelao_skill_attack08_impact",
+      "EventId": 1302601517
+    },
+    "MaximumDuration": 2.6394167,
+    "MinimumDuration": 2.6394167,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 20000.0
+  }
+]

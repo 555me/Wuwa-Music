@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_amb_npc_alien_ss1jiazhongren_interact_04",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_amb_npc_alien_ss1jiazhongren_interact_04",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1524940443,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1524940443,
+                "SoundBankPathName": "Event/play_amb_npc_alien_ss1jiazhongren_interact_04.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_amb_npc_alien_ss1jiazhongren_interact_04",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 218227063,
+                "MediaPathName": "Media/218227063.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "amb_npc_alien_SS1JiaZhongRen_Interact_04.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_amb_npc_alien_ss1jiazhongren_interact_04"
+          }
+        }
+      ],
+      "DebugName": "play_amb_npc_alien_ss1jiazhongren_interact_04",
+      "EventId": 1524940443
+    },
+    "MaximumDuration": 1.26679,
+    "MinimumDuration": 1.26679,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 1500.0
+  }
+]

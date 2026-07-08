@@ -1,0 +1,88 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_rogue_link_thunder_nvzhu",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_rogue_link_thunder_nvzhu",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2586252506,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2586252506,
+                "SoundBankPathName": "Event/play_vo_rogue_link_thunder_nvzhu.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_rogue_link_thunder_nvzhu",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 309949975,
+                "MediaPathName": "Media/309949975.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\sp_sys\\rogue_link\\branch_1.4\\zh_vo_rogue_link_rover_common_f.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 22435525,
+                "MediaPathName": "Media/22435525.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\ko\\sp_sys\\rogue_link\\branch_1.4\\ko_vo_rogue_link_rover_common_f.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 264087731,
+                "MediaPathName": "Media/264087731.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\sp_sys\\rogue_link\\branch_1.4\\en_vo_rogue_link_rover_common_f.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 921944054,
+                "MediaPathName": "Media/921944054.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\ja\\sp_sys\\rogue_link\\branch_1.4\\ja_vo_rogue_link_rover_common_f.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_rogue_link_thunder_nvzhu"
+          }
+        }
+      ],
+      "DebugName": "play_vo_rogue_link_thunder_nvzhu",
+      "EventId": 2586252506
+    },
+    "MaximumDuration": 2.6979167,
+    "MinimumDuration": 1.932,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

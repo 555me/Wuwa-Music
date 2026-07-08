@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_gacha_weapon_yinlin",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_gacha_weapon_yinlin",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3436939107,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3436939107,
+                "SoundBankPathName": "Event/play_gacha_weapon_yinlin.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_gacha_weapon_yinlin",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 665831398,
+                "MediaPathName": "Media/665831398.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_ui\\ui_music_gacha\\3.5\\mov-gacha_weapon_yinlin-all-full-null.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_gacha_weapon_yinlin"
+          }
+        }
+      ],
+      "DebugName": "play_gacha_weapon_yinlin",
+      "EventId": 3436939107
+    },
+    "MaximumDuration": 15.056,
+    "MinimumDuration": 15.056,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

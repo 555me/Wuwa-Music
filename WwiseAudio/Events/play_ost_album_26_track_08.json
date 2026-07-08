@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_ost_album_26_track_08",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_ost_album_26_track_08",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 4123967238,
+            "SoundBanks": [
+              {
+                "SoundBankId": 4123967238,
+                "SoundBankPathName": "Event/play_ost_album_26_track_08.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_ost_album_26_track_08",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 927562507,
+                "MediaPathName": "Media/927562507.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_phonograph_albums\\ost_album_26\\ost-album26_08_告别学院1-layer1_bpm75_Gmaj_4-4_L23M-P2B.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_ost_album_26_track_08"
+          }
+        }
+      ],
+      "DebugName": "play_ost_album_26_track_08",
+      "EventId": 4123967238
+    },
+    "MaximumDuration": 81.60002,
+    "MinimumDuration": 81.60002,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 2000.0
+  }
+]

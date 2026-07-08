@@ -1,0 +1,88 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_shoucheng_huoliuxing_explode",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_shoucheng_huoliuxing_explode",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 623520553,
+            "SoundBanks": [
+              {
+                "SoundBankId": 623520553,
+                "SoundBankPathName": "Event/play_sfx_gp_shoucheng_huoliuxing_explode.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_shoucheng_huoliuxing_explode",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 230677317,
+                "MediaPathName": "Media/230677317.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\DamageHit\\am_damagehit_fire_04_v2.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 259628042,
+                "MediaPathName": "Media/259628042.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\DamageHit\\am_damagehit_fire_05_v2.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 356757983,
+                "MediaPathName": "Media/356757983.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\DamageHit\\am_damagehit_fire_06_v2.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 893761606,
+                "MediaPathName": "Media/893761606.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\DamageHit\\am_damagehit_fire_02_v2.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_shoucheng_huoliuxing_explode"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_shoucheng_huoliuxing_explode",
+      "EventId": 623520553
+    },
+    "MaximumDuration": 3.3447292,
+    "MinimumDuration": 3.13575,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 100000.0
+  }
+]

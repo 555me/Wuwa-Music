@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_nteract_crane_game_light_bulb_03",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_nteract_crane_game_light_bulb_03",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3521498725,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3521498725,
+                "SoundBankPathName": "Event/play_nteract_crane_game_light_bulb_03.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_nteract_crane_game_light_bulb_03",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 216305395,
+                "MediaPathName": "Media/216305395.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "nteract_crane_game_light_bulb_03.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_nteract_crane_game_light_bulb_03"
+          }
+        }
+      ],
+      "DebugName": "play_nteract_crane_game_light_bulb_03",
+      "EventId": 3521498725
+    },
+    "MaximumDuration": 1.5001667,
+    "MinimumDuration": 1.5001667,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

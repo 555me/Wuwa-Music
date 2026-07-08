@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_interact_waves_go_pedal_on",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_interact_waves_go_pedal_on",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3031643611,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3031643611,
+                "SoundBankPathName": "Event/play_interact_waves_go_pedal_on.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_interact_waves_go_pedal_on",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 211146324,
+                "MediaPathName": "Media/211146324.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "interact_waves_go_pedal_on.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_interact_waves_go_pedal_on"
+          }
+        }
+      ],
+      "DebugName": "play_interact_waves_go_pedal_on",
+      "EventId": 3031643611
+    },
+    "MaximumDuration": 0.96110415,
+    "MinimumDuration": 0.96110415,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

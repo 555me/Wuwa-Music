@@ -1,0 +1,98 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_shoucheng_xuanling_que_call",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_shoucheng_xuanling_que_call",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 620265878,
+            "SoundBanks": [
+              {
+                "SoundBankId": 620265878,
+                "SoundBankPathName": "Event/play_sfx_gp_shoucheng_xuanling_que_call.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_shoucheng_xuanling_que_call",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 14836791,
+                "MediaPathName": "Media/14836791.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "not_in_folder\\amb_emit_bird_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 126522469,
+                "MediaPathName": "Media/126522469.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\gameplay\\3_5\\sfx_gp_shoucheng_xuanling_que_call.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 191511953,
+                "MediaPathName": "Media/191511953.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "not_in_folder\\amb_emit_bird_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 197301744,
+                "MediaPathName": "Media/197301744.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "not_in_folder\\amb_emit_bird_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 980720783,
+                "MediaPathName": "Media/980720783.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "not_in_folder\\amb_emit_bird_01.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_shoucheng_xuanling_que_call"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_shoucheng_xuanling_que_call",
+      "EventId": 620265878
+    },
+    "MaximumDuration": 2.1034925,
+    "MinimumDuration": 1.0,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 7000.0
+  }
+]

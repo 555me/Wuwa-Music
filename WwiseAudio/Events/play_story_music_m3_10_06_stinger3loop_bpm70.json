@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_story_music_m3_10_06_stinger3loop_bpm70",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_story_music_m3_10_06_stinger3loop_bpm70",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2863658548,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2863658548,
+                "SoundBankPathName": "Event/play_story_music_m3_10_06_stinger3loop_bpm70.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_story_music_m3_10_06_stinger3loop_bpm70",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 496358771,
+                "MediaPathName": "Media/496358771.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_5\\3.5_m3_10_06_stinger3loop_bpm70_intro2beat.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_story_music_m3_10_06_stinger3loop_bpm70"
+          }
+        }
+      ],
+      "DebugName": "play_story_music_m3_10_06_stinger3loop_bpm70",
+      "EventId": 2863658548
+    },
+    "MaximumDuration": 0.0,
+    "MinimumDuration": 0.0,
+    "IsInfinite": true,
+    "MaxAttenuationRadius": 0.0
+  }
+]

@@ -1,0 +1,178 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_story_music_wanelao",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_story_music_wanelao",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3399690197,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3399690197,
+                "SoundBankPathName": "Event/play_story_music_wanelao.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_story_music_wanelao",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 989837879,
+                "MediaPathName": "Media/989837879.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_battle\\3.5\\wanelao\\bgm-battle_boss_wanelao_01_p1-all-full-115bpm-null.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 513932818,
+                "MediaPathName": "Media/513932818.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_battle\\3.5\\wanelao\\bgm-battle_boss_wanelao_01_p2-all-full-150bpm-null.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 61234686,
+                "MediaPathName": "Media/61234686.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_battle\\3.5\\wanelao\\bgm-battle_boss_wanelao_02_p1-all-full-115bpm-null.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 259554435,
+                "MediaPathName": "Media/259554435.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_battle\\3.5\\wanelao\\bgm-battle_boss_wanelao_0301_p1-all-full-115bpm-null.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 324921673,
+                "MediaPathName": "Media/324921673.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music\\music_scene\\silence.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 786173370,
+                "MediaPathName": "Media/786173370.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_battle\\3.5\\wanelao\\bgm-battle_boss_wanelao_0302_p1-all-full-115bpm-null.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 347557528,
+                "MediaPathName": "Media/347557528.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_battle\\3.5\\wanelao\\bgm-battle_boss_wanelao_01_p0-all-full-80bpm-4_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 382372638,
+                "MediaPathName": "Media/382372638.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_battle\\3.5\\wanelao\\bgm-battle_boss_wanelao_02_p0-all-full-80bpm-null.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 52608258,
+                "MediaPathName": "Media/52608258.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\level_a\\3.5\\bgm-story_video_m0370-all-full-null-null_ko.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 101952194,
+                "MediaPathName": "Media/101952194.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music\\music_scene\\silence_5s.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 841570598,
+                "MediaPathName": "Media/841570598.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\level_a\\3.5\\bgm-story_video_m0370-all-full-null-null_ja.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 419325668,
+                "MediaPathName": "Media/419325668.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\level_a\\3.5\\bgm-story_video_m0370-all-full-null-null_en.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 425632187,
+                "MediaPathName": "Media/425632187.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\level_a\\3.5\\bgm-story_video_m0370-all-full-null-null_zh.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_story_music_wanelao"
+          }
+        }
+      ],
+      "DebugName": "play_story_music_wanelao",
+      "EventId": 3399690197
+    },
+    "MaximumDuration": 0.0,
+    "MinimumDuration": 0.0,
+    "IsInfinite": true,
+    "MaxAttenuationRadius": 0.0
+  }
+]

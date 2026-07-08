@@ -1,0 +1,255 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_mon_qiankui_behit_weakness",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_mon_qiankui_behit_weakness",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 1819748192,
+            "LanguageName": "en",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 3595185784,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3595185784,
+                "SoundBankPathName": "Event/en/play_vo_mon_qiankui_behit_weakness.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_mon_qiankui_behit_weakness",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 176847289,
+                "MediaPathName": "Media/en/176847289.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "enemy\\branch_3,5\\qiankui\\en_vo_mon_qiankui_behit_weakness_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 668691618,
+                "MediaPathName": "Media/en/668691618.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "enemy\\branch_3,5\\qiankui\\en_vo_mon_qiankui_behit_weakness_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 764551250,
+                "MediaPathName": "Media/en/764551250.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "enemy\\branch_3,5\\qiankui\\en_vo_mon_qiankui_behit_weakness_01.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_mon_qiankui_behit_weakness"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1735860046,
+            "LanguageName": "ja",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 3595185784,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3595185784,
+                "SoundBankPathName": "Event/ja/play_vo_mon_qiankui_behit_weakness.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_mon_qiankui_behit_weakness",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 321444428,
+                "MediaPathName": "Media/ja/321444428.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "enemy\\branch_3,5\\qiankui\\ja_vo_mon_qiankui_behit_weakness_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 422866884,
+                "MediaPathName": "Media/ja/422866884.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "enemy\\branch_3,5\\qiankui\\ja_vo_mon_qiankui_behit_weakness_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 829236432,
+                "MediaPathName": "Media/ja/829236432.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "enemy\\branch_3,5\\qiankui\\ja_vo_mon_qiankui_behit_weakness_03.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_mon_qiankui_behit_weakness"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1719082483,
+            "LanguageName": "ko",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 3595185784,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3595185784,
+                "SoundBankPathName": "Event/ko/play_vo_mon_qiankui_behit_weakness.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_mon_qiankui_behit_weakness",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 593188750,
+                "MediaPathName": "Media/ko/593188750.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "enemy\\branch_3,5\\qiankui\\ko_vo_mon_qiankui_behit_weakness_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 644398986,
+                "MediaPathName": "Media/ko/644398986.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "enemy\\branch_3,5\\qiankui\\ko_vo_mon_qiankui_behit_weakness_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 778686123,
+                "MediaPathName": "Media/ko/778686123.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "enemy\\branch_3,5\\qiankui\\ko_vo_mon_qiankui_behit_weakness_01.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_mon_qiankui_behit_weakness"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1467418007,
+            "LanguageName": "zh",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsDefault"
+          },
+          "Value": {
+            "EventId": 3595185784,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3595185784,
+                "SoundBankPathName": "Event/zh/play_vo_mon_qiankui_behit_weakness.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_mon_qiankui_behit_weakness",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 414856493,
+                "MediaPathName": "Media/zh/414856493.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "enemy\\branch_3,5\\qiankui\\zh_vo_mon_qiankui_behit_weakness_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 515065201,
+                "MediaPathName": "Media/zh/515065201.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "enemy\\branch_3,5\\qiankui\\zh_vo_mon_qiankui_behit_weakness_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 747076965,
+                "MediaPathName": "Media/zh/747076965.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "enemy\\branch_3,5\\qiankui\\zh_vo_mon_qiankui_behit_weakness_03.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_mon_qiankui_behit_weakness"
+          }
+        }
+      ],
+      "DebugName": "play_vo_mon_qiankui_behit_weakness",
+      "EventId": 3595185784
+    },
+    "MaximumDuration": 5.7651043,
+    "MinimumDuration": 4.1532083,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 7000.0
+  }
+]

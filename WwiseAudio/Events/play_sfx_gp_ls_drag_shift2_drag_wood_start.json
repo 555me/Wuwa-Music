@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_ls_drag_shift2_drag_wood_start",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_ls_drag_shift2_drag_wood_start",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1436826629,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1436826629,
+                "SoundBankPathName": "Event/play_sfx_gp_ls_drag_shift2_drag_wood_start.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_ls_drag_shift2_drag_wood_start",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 450044866,
+                "MediaPathName": "Media/450044866.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\gameplay\\3_5\\sfx_gp_ls_drag_shift\\sfx_gp_ls_drag_shift2_drag_wood_start.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_ls_drag_shift2_drag_wood_start"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_ls_drag_shift2_drag_wood_start",
+      "EventId": 1436826629
+    },
+    "MaximumDuration": 1.2305208,
+    "MinimumDuration": 1.2305208,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

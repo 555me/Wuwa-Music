@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_amb_npc_animal_na072_fly_loop",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_amb_npc_animal_na072_fly_loop",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3240397705,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3240397705,
+                "SoundBankPathName": "Event/play_amb_npc_animal_na072_fly_loop.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_amb_npc_animal_na072_fly_loop",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 932780349,
+                "MediaPathName": "Media/932780349.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "npc\\animal\\amb_npc_animal_na072_fly_loop.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_amb_npc_animal_na072_fly_loop"
+          }
+        }
+      ],
+      "DebugName": "play_amb_npc_animal_na072_fly_loop",
+      "EventId": 3240397705
+    },
+    "MaximumDuration": 4.4175625,
+    "MinimumDuration": 4.4175625,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 1500.0
+  }
+]

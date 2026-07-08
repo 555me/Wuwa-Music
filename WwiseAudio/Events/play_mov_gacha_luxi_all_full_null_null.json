@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_mov_gacha_luxi_all_full_null_null",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_mov_gacha_luxi_all_full_null_null",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 445609190,
+            "SoundBanks": [
+              {
+                "SoundBankId": 445609190,
+                "SoundBankPathName": "Event/play_mov_gacha_luxi_all_full_null_null.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_mov_gacha_luxi_all_full_null_null",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 759489682,
+                "MediaPathName": "Media/759489682.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_ui\\ui_music_gacha\\3.4\\mov-gacha_luxi-all-full-null-null.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_mov_gacha_luxi_all_full_null_null"
+          }
+        }
+      ],
+      "DebugName": "play_mov_gacha_luxi_all_full_null_null",
+      "EventId": 445609190
+    },
+    "MaximumDuration": 39.04596,
+    "MinimumDuration": 39.04596,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

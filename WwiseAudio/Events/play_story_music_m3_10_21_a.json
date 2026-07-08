@@ -1,0 +1,68 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_story_music_m3_10_21_a",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_story_music_m3_10_21_a",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2175280056,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2175280056,
+                "SoundBankPathName": "Event/play_story_music_m3_10_21_a.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_story_music_m3_10_21_a",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 679445961,
+                "MediaPathName": "Media/679445961.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_5\\yangyang\\bgm-story_plot__m3_10_21_stinger1.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 831774590,
+                "MediaPathName": "Media/831774590.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_5\\jibing\\bgm-story_plot_muyu_x01-all-full-100bpm-3_4.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_story_music_m3_10_21_a"
+          }
+        }
+      ],
+      "DebugName": "play_story_music_m3_10_21_a",
+      "EventId": 2175280056
+    },
+    "MaximumDuration": 18.0,
+    "MinimumDuration": 18.0,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

@@ -1,0 +1,148 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_music_quest_3_5_shouchen",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_music_quest_3_5_shouchen",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 326042300,
+            "SoundBanks": [
+              {
+                "SoundBankId": 326042300,
+                "SoundBankPathName": "Event/play_music_quest_3_5_shouchen.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_music_quest_3_5_shouchen",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 851059795,
+                "MediaPathName": "Media/851059795.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_5\\bgm-story_plot_200_scene-all-full-60bpm-null.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 320677170,
+                "MediaPathName": "Media/320677170.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\level_a\\3.5\\bgm-story_plot_m3_11_15_c_x02-all-full-140bpm-null.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 342607331,
+                "MediaPathName": "Media/342607331.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\level_a\\3.5\\bgm-story_plot_m3_11_15_b_x02-all-full-null-null.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 913245474,
+                "MediaPathName": "Media/913245474.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\level_a\\3.5\\bgm-story_plot_m3_11_15_c_x01-all-full-null-null.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1063605714,
+                "MediaPathName": "Media/1063605714.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\level_a\\3.5\\bgm-story_plot_m3_11_15_b_x01-all-full-null-null.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 141156910,
+                "MediaPathName": "Media/141156910.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\level_a\\3.5\\bgm-story_plot_m3_11_15_a_x01-all-full-null-null.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 685384517,
+                "MediaPathName": "Media/685384517.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\level_a\\3.5\\bgm-story_plot_m3_11_15_a_x02-all-full-null-null.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 689226113,
+                "MediaPathName": "Media/689226113.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\level_a\\3.5\\bgm-story_video_m0373-all-full-125bpm-4_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 341007896,
+                "MediaPathName": "Media/341007896.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\level_a\\3.5\\mov-story_video_m0372-all-full-null-null.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 217339705,
+                "MediaPathName": "Media/217339705.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_5\\shouchengzhan\\bgm-battle_scene_shoucheng_small-all-full-140bpm-null.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_music_quest_3_5_shouchen"
+          }
+        }
+      ],
+      "DebugName": "play_music_quest_3_5_shouchen",
+      "EventId": 326042300
+    },
+    "MaximumDuration": 0.0,
+    "MinimumDuration": 0.0,
+    "IsInfinite": true,
+    "MaxAttenuationRadius": 0.0
+  }
+]

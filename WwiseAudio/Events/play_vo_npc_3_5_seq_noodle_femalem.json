@@ -1,0 +1,175 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_npc_3_5_seq_noodle_femalem",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_npc_3_5_seq_noodle_femalem",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 1819748192,
+            "LanguageName": "en",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 3782552425,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3782552425,
+                "SoundBankPathName": "Event/en/play_vo_npc_3_5_seq_noodle_femalem.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_npc_3_5_seq_noodle_femalem",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 619980664,
+                "MediaPathName": "Media/en/619980664.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.5\\npc_3_5\\en_vo_npc_3_5_seq_noodle_femalem.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_npc_3_5_seq_noodle_femalem"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1735860046,
+            "LanguageName": "ja",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 3782552425,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3782552425,
+                "SoundBankPathName": "Event/ja/play_vo_npc_3_5_seq_noodle_femalem.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_npc_3_5_seq_noodle_femalem",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 490594432,
+                "MediaPathName": "Media/ja/490594432.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.5\\npc_3_5\\ja_vo_npc_3_5_seq_noodle_femalem.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_npc_3_5_seq_noodle_femalem"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1719082483,
+            "LanguageName": "ko",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 3782552425,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3782552425,
+                "SoundBankPathName": "Event/ko/play_vo_npc_3_5_seq_noodle_femalem.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_npc_3_5_seq_noodle_femalem",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 467882126,
+                "MediaPathName": "Media/ko/467882126.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.5\\npc_3_5\\ko_vo_npc_3_5_seq_noodle_femalem.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_npc_3_5_seq_noodle_femalem"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1467418007,
+            "LanguageName": "zh",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsDefault"
+          },
+          "Value": {
+            "EventId": 3782552425,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3782552425,
+                "SoundBankPathName": "Event/zh/play_vo_npc_3_5_seq_noodle_femalem.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_npc_3_5_seq_noodle_femalem",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 353110298,
+                "MediaPathName": "Media/zh/353110298.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.5\\npc_3_5\\zh_vo_npc_3_5_seq_noodle_femalem.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_npc_3_5_seq_noodle_femalem"
+          }
+        }
+      ],
+      "DebugName": "play_vo_npc_3_5_seq_noodle_femalem",
+      "EventId": 3782552425
+    },
+    "MaximumDuration": 46.466667,
+    "MinimumDuration": 46.466667,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 3000.0
+  }
+]

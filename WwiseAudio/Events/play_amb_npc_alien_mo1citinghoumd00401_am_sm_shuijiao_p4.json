@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_amb_npc_alien_mo1citinghoumd00401_am_sm_shuijiao_p4",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_amb_npc_alien_mo1citinghoumd00401_am_sm_shuijiao_p4",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2627765232,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2627765232,
+                "SoundBankPathName": "Event/play_amb_npc_alien_mo1citinghoumd00401_am_sm_shuijiao_p4.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_amb_npc_alien_mo1citinghoumd00401_am_sm_shuijiao_p4",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 143757093,
+                "MediaPathName": "Media/143757093.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "npc\\alien\\amb_npc_alien_mo1citinghoumd00401_am_sm_shuijiao_p4.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_amb_npc_alien_mo1citinghoumd00401_am_sm_shuijiao_p4"
+          }
+        }
+      ],
+      "DebugName": "play_amb_npc_alien_mo1citinghoumd00401_am_sm_shuijiao_p4",
+      "EventId": 2627765232
+    },
+    "MaximumDuration": 0.5,
+    "MinimumDuration": 0.5,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 1500.0
+  }
+]

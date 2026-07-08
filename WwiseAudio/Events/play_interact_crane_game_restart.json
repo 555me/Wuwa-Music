@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_interact_crane_game_restart",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_interact_crane_game_restart",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3620494071,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3620494071,
+                "SoundBankPathName": "Event/play_interact_crane_game_restart.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_interact_crane_game_restart",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 633261108,
+                "MediaPathName": "Media/633261108.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "interact_crane_game_restart.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_interact_crane_game_restart"
+          }
+        }
+      ],
+      "DebugName": "play_interact_crane_game_restart",
+      "EventId": 3620494071
+    },
+    "MaximumDuration": 4.117625,
+    "MinimumDuration": 4.117625,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

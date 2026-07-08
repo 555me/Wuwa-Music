@@ -1,0 +1,108 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_role_activity_tudou_battle_jiatelin",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_role_activity_tudou_battle_jiatelin",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 29357766,
+            "SoundBanks": [
+              {
+                "SoundBankId": 29357766,
+                "SoundBankPathName": "Event/play_role_activity_tudou_battle_jiatelin.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_role_activity_tudou_battle_jiatelin",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 167033016,
+                "MediaPathName": "Media/167033016.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,5\\tudou\\role_skills\\role_activity_tudou_battle_jiatelin_05.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 168895473,
+                "MediaPathName": "Media/168895473.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,5\\tudou\\role_skills\\role_activity_tudou_battle_jiatelin_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 266792754,
+                "MediaPathName": "Media/266792754.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,5\\tudou\\role_skills\\role_activity_tudou_battle_jiatelin_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 347233472,
+                "MediaPathName": "Media/347233472.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,5\\tudou\\role_skills\\role_activity_tudou_battle_jiatelin_06.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 796694465,
+                "MediaPathName": "Media/796694465.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,5\\tudou\\role_skills\\role_activity_tudou_battle_jiatelin_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 808032306,
+                "MediaPathName": "Media/808032306.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,5\\tudou\\role_skills\\role_activity_tudou_battle_jiatelin_04.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_role_activity_tudou_battle_jiatelin"
+          }
+        }
+      ],
+      "DebugName": "play_role_activity_tudou_battle_jiatelin",
+      "EventId": 29357766
+    },
+    "MaximumDuration": 1.0,
+    "MinimumDuration": 1.0,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

@@ -1,0 +1,118 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_story_music_m3_11_10",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_story_music_m3_11_10",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3377639447,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3377639447,
+                "SoundBankPathName": "Event/play_story_music_m3_11_10.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_story_music_m3_11_10",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 209348387,
+                "MediaPathName": "Media/209348387.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_5\\suisui\\bgm-story_plot_m3_11_10_c-all-full-74bpm-null.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 35264537,
+                "MediaPathName": "Media/35264537.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_scene\\3_5\\bgm-scene_yuanlin_qiu-all-full-60bpm-4_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 324921673,
+                "MediaPathName": "Media/324921673.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music\\music_scene\\silence.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 363175107,
+                "MediaPathName": "Media/363175107.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_5\\suisui\\bgm-story_plot_m3_11_10_b-all-full-74bpm-null.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 266748612,
+                "MediaPathName": "Media/266748612.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_5\\suisui\\bgm-story_plot_m3_11_10_battle-all-full-74bpm-null.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 678204992,
+                "MediaPathName": "Media/678204992.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_5\\yangyang\\bgm-story_plot_m3_10_11a-all-full-74bpm-null.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 752497274,
+                "MediaPathName": "Media/752497274.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_5\\suisui\\bgm-story_plot_m3_11_10_a-all-full-74bpm-null.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_story_music_m3_11_10"
+          }
+        }
+      ],
+      "DebugName": "play_story_music_m3_11_10",
+      "EventId": 3377639447
+    },
+    "MaximumDuration": 0.0,
+    "MinimumDuration": 0.0,
+    "IsInfinite": true,
+    "MaxAttenuationRadius": 0.0
+  }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_jbgc_explosive_barrel_explode",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_jbgc_explosive_barrel_explode",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1294073901,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1294073901,
+                "SoundBankPathName": "Event/play_sfx_gp_jbgc_explosive_barrel_explode.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_jbgc_explosive_barrel_explode",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 26715132,
+                "MediaPathName": "Media/26715132.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\gameplay\\3_5\\sfx_gp_jbgc_explosive_barrel_explode_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 780783207,
+                "MediaPathName": "Media/780783207.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\gameplay\\3_5\\sfx_gp_jbgc_explosive_barrel_explode_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 958354984,
+                "MediaPathName": "Media/958354984.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\gameplay\\3_5\\sfx_gp_jbgc_explosive_barrel_explode_01.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_jbgc_explosive_barrel_explode"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_jbgc_explosive_barrel_explode",
+      "EventId": 1294073901
+    },
+    "MaximumDuration": 2.8666666,
+    "MinimumDuration": 2.2666667,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 7000.0
+  }
+]

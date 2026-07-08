@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_wanelao_skill_attack10_chilun",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_wanelao_skill_attack10_chilun",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1070900773,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1070900773,
+                "SoundBankPathName": "Event/play_sfx_wanelao_skill_attack10_chilun.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_wanelao_skill_attack10_chilun",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 418955810,
+                "MediaPathName": "Media/418955810.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\Enemy\\Lord\\Wanelao\\SFX_WanELao_Skill_Attack10_Chilun.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_wanelao_skill_attack10_chilun"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_wanelao_skill_attack10_chilun",
+      "EventId": 1070900773
+    },
+    "MaximumDuration": 3.5666666,
+    "MinimumDuration": 3.5666666,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 20000.0
+  }
+]

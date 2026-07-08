@@ -1,0 +1,68 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_openworld_liangyuan_shengxia_get",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_openworld_liangyuan_shengxia_get",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1424549772,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1424549772,
+                "SoundBankPathName": "Event/play_sfx_gp_openworld_liangyuan_shengxia_get.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_openworld_liangyuan_shengxia_get",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 505106209,
+                "MediaPathName": "Media/505106209.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\ui_jingjichang_card_unlock.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 596375864,
+                "MediaPathName": "Media/596375864.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\ui_fx_spl_huanyu_unlock.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_openworld_liangyuan_shengxia_get"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_openworld_liangyuan_shengxia_get",
+      "EventId": 1424549772
+    },
+    "MaximumDuration": 2.317236,
+    "MinimumDuration": 2.317236,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_story_music_m3_10_19_b",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_story_music_m3_10_19_b",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 4209333266,
+            "SoundBanks": [
+              {
+                "SoundBankId": 4209333266,
+                "SoundBankPathName": "Event/play_story_music_m3_10_19_b.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_story_music_m3_10_19_b",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 267440018,
+                "MediaPathName": "Media/267440018.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_5\\bgm-story_plot_suspension_outro-all-full-120bpm-null.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_story_music_m3_10_19_b"
+          }
+        }
+      ],
+      "DebugName": "play_story_music_m3_10_19_b",
+      "EventId": 4209333266
+    },
+    "MaximumDuration": 7.5,
+    "MinimumDuration": 7.5,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

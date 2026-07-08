@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_play_interact_dashushouwei_execute",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_play_interact_dashushouwei_execute",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2425593505,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2425593505,
+                "SoundBankPathName": "Event/play_play_interact_dashushouwei_execute.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_play_interact_dashushouwei_execute",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 616350439,
+                "MediaPathName": "Media/616350439.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "play_interact_dashushouwei_execute.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_play_interact_dashushouwei_execute"
+          }
+        }
+      ],
+      "DebugName": "play_play_interact_dashushouwei_execute",
+      "EventId": 2425593505
+    },
+    "MaximumDuration": 2.413771,
+    "MinimumDuration": 2.413771,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

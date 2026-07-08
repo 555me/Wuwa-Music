@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_nteract_crane_game_crane_close",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_nteract_crane_game_crane_close",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1482696193,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1482696193,
+                "SoundBankPathName": "Event/play_nteract_crane_game_crane_close.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_nteract_crane_game_crane_close",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 564003326,
+                "MediaPathName": "Media/564003326.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "nteract_crane_game_crane_close.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_nteract_crane_game_crane_close"
+          }
+        }
+      ],
+      "DebugName": "play_nteract_crane_game_crane_close",
+      "EventId": 1482696193
+    },
+    "MaximumDuration": 0.859125,
+    "MinimumDuration": 0.859125,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

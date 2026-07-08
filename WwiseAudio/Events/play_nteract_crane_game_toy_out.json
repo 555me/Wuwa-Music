@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_nteract_crane_game_toy_out",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_nteract_crane_game_toy_out",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 916133994,
+            "SoundBanks": [
+              {
+                "SoundBankId": 916133994,
+                "SoundBankPathName": "Event/play_nteract_crane_game_toy_out.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_nteract_crane_game_toy_out",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 910781422,
+                "MediaPathName": "Media/910781422.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "nteract_crane_game_toy_out.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_nteract_crane_game_toy_out"
+          }
+        }
+      ],
+      "DebugName": "play_nteract_crane_game_toy_out",
+      "EventId": 916133994
+    },
+    "MaximumDuration": 3.181146,
+    "MinimumDuration": 3.181146,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

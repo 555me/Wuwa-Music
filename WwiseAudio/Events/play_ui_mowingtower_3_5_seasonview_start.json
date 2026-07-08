@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_ui_mowingtower_3_5_seasonview_start",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_ui_mowingtower_3_5_seasonview_start",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2932568931,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2932568931,
+                "SoundBankPathName": "Event/play_ui_mowingtower_3_5_seasonview_start.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_ui_mowingtower_3_5_seasonview_start",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 208348928,
+                "MediaPathName": "Media/208348928.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,5\\mowingtower_3_5\\ui_mowingtower_3_5_seasonview_start.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_ui_mowingtower_3_5_seasonview_start"
+          }
+        }
+      ],
+      "DebugName": "play_ui_mowingtower_3_5_seasonview_start",
+      "EventId": 2932568931
+    },
+    "MaximumDuration": 3.6666667,
+    "MinimumDuration": 3.6666667,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

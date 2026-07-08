@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_interact_waves_go_ui_mouse_choice",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_interact_waves_go_ui_mouse_choice",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1313206229,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1313206229,
+                "SoundBankPathName": "Event/play_interact_waves_go_ui_mouse_choice.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_interact_waves_go_ui_mouse_choice",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 981752986,
+                "MediaPathName": "Media/981752986.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "interact_waves_go_UI_mouse_choice.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_interact_waves_go_ui_mouse_choice"
+          }
+        }
+      ],
+      "DebugName": "play_interact_waves_go_ui_mouse_choice",
+      "EventId": 1313206229
+    },
+    "MaximumDuration": 0.31995833,
+    "MinimumDuration": 0.31995833,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

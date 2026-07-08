@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_ui_meteoro_button_confirm",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_ui_meteoro_button_confirm",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3729684832,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3729684832,
+                "SoundBankPathName": "Event/play_ui_meteoro_button_confirm.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_ui_meteoro_button_confirm",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 922788485,
+                "MediaPathName": "Media/922788485.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,5\\meteoro_3_5\\ui_meteoro_button_confirm.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_ui_meteoro_button_confirm"
+          }
+        }
+      ],
+      "DebugName": "play_ui_meteoro_button_confirm",
+      "EventId": 3729684832
+    },
+    "MaximumDuration": 0.39866668,
+    "MinimumDuration": 0.39866668,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_chonglou_action_paralysis_behit_jaw_02",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_chonglou_action_paralysis_behit_jaw_02",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2541432614,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2541432614,
+                "SoundBankPathName": "Event/play_sfx_chonglou_action_paralysis_behit_jaw_02.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_chonglou_action_paralysis_behit_jaw_02",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 338197609,
+                "MediaPathName": "Media/338197609.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\Enemy\\Boss\\chonglou\\SFX_ChongLou_Action_Paralysis_Behit_jaw_02.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_chonglou_action_paralysis_behit_jaw_02"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_chonglou_action_paralysis_behit_jaw_02",
+      "EventId": 2541432614
+    },
+    "MaximumDuration": 2.7236667,
+    "MinimumDuration": 2.7236667,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 50000.0
+  }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_role_activity_tudou_battle_huoqiu",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_role_activity_tudou_battle_huoqiu",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3078303139,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3078303139,
+                "SoundBankPathName": "Event/play_role_activity_tudou_battle_huoqiu.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_role_activity_tudou_battle_huoqiu",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 282365855,
+                "MediaPathName": "Media/282365855.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,5\\tudou\\role_skills\\role_activity_tudou_battle_huoqiu_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 779562769,
+                "MediaPathName": "Media/779562769.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,5\\tudou\\role_skills\\role_activity_tudou_battle_huoqiu_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 969214883,
+                "MediaPathName": "Media/969214883.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,5\\tudou\\role_skills\\role_activity_tudou_battle_huoqiu_03.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_role_activity_tudou_battle_huoqiu"
+          }
+        }
+      ],
+      "DebugName": "play_role_activity_tudou_battle_huoqiu",
+      "EventId": 3078303139
+    },
+    "MaximumDuration": 2.06725,
+    "MinimumDuration": 1.9744792,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

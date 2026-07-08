@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_play_interact_3_5_basic_motorcycle_catapult_gousuo_tip",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_play_interact_3_5_basic_motorcycle_catapult_gousuo_tip",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1164344866,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1164344866,
+                "SoundBankPathName": "Event/play_play_interact_3_5_basic_motorcycle_catapult_gousuo_tip.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_play_interact_3_5_basic_motorcycle_catapult_gousuo_tip",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 91349755,
+                "MediaPathName": "Media/91349755.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "play_interact_3_5_basic_motorcycle_catapult_gousuo_tip.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_play_interact_3_5_basic_motorcycle_catapult_gousuo_tip"
+          }
+        }
+      ],
+      "DebugName": "play_play_interact_3_5_basic_motorcycle_catapult_gousuo_tip",
+      "EventId": 1164344866
+    },
+    "MaximumDuration": 1.5033542,
+    "MinimumDuration": 1.5033542,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 10000.0
+  }
+]

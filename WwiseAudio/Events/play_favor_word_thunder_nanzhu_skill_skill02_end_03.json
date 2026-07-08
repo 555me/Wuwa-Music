@@ -1,0 +1,88 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_favor_word_thunder_nanzhu_skill_skill02_end_03",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_favor_word_thunder_nanzhu_skill_skill02_end_03",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2261236849,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2261236849,
+                "SoundBankPathName": "Event/play_favor_word_thunder_nanzhu_skill_skill02_end_03.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_favor_word_thunder_nanzhu_skill_skill02_end_03",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 183576266,
+                "MediaPathName": "Media/183576266.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_3,5\\thunder_nanzhu\\en_vo_thunder_nanzhu_skill_skill02_end_03_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 922475236,
+                "MediaPathName": "Media/922475236.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,5\\thunder_nanzhu\\zh_vo_thunder_nanzhu_skill_skill02_end_03_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 442207984,
+                "MediaPathName": "Media/442207984.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,5\\thunder_nanzhu\\ja_vo_thunder_nanzhu_skill_skill02_end_03_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 955975289,
+                "MediaPathName": "Media/955975289.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,5\\thunder_nanzhu\\ko_vo_thunder_nanzhu_skill_skill02_end_03_word.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_favor_word_thunder_nanzhu_skill_skill02_end_03"
+          }
+        }
+      ],
+      "DebugName": "play_favor_word_thunder_nanzhu_skill_skill02_end_03",
+      "EventId": 2261236849
+    },
+    "MaximumDuration": 1.0101666,
+    "MinimumDuration": 0.0,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_ui_gacha_weapon_luhesi",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_ui_gacha_weapon_luhesi",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2005019453,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2005019453,
+                "SoundBankPathName": "Event/play_ui_gacha_weapon_luhesi.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_ui_gacha_weapon_luhesi",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 742563855,
+                "MediaPathName": "Media/742563855.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "role\\role_bat_Luhesi\\Gacha\\ui_gacha_weapon_luhesi.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_ui_gacha_weapon_luhesi"
+          }
+        }
+      ],
+      "DebugName": "play_ui_gacha_weapon_luhesi",
+      "EventId": 2005019453
+    },
+    "MaximumDuration": 12.579187,
+    "MinimumDuration": 12.579187,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

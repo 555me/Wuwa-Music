@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_yangyang_distant_battle",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_yangyang_distant_battle",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3566099477,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3566099477,
+                "SoundBankPathName": "Event/play_sfx_gp_yangyang_distant_battle.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_yangyang_distant_battle",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 586999240,
+                "MediaPathName": "Media/586999240.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "sfx_gp_yangyang_distant_battle.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_yangyang_distant_battle"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_yangyang_distant_battle",
+      "EventId": 3566099477
+    },
+    "MaximumDuration": 5.063083,
+    "MinimumDuration": 5.063083,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_boss_canxiang_pierce",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_boss_canxiang_pierce",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1796556696,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1796556696,
+                "SoundBankPathName": "Event/play_sfx_gp_boss_canxiang_pierce.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_boss_canxiang_pierce",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 496983867,
+                "MediaPathName": "Media/496983867.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\gameplay\\3_5\\sfx_gp_boss_canxiang_pierce.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_boss_canxiang_pierce"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_boss_canxiang_pierce",
+      "EventId": 1796556696
+    },
+    "MaximumDuration": 33.242004,
+    "MinimumDuration": 33.242004,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_role_suisui_ui_weapon_end",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_role_suisui_ui_weapon_end",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 324766169,
+            "SoundBanks": [
+              {
+                "SoundBankId": 324766169,
+                "SoundBankPathName": "Event/play_role_suisui_ui_weapon_end.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_role_suisui_ui_weapon_end",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 897894886,
+                "MediaPathName": "Media/897894886.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "role\\role_bat_Suisui\\ui\\role_Suisui_ui_weapom_end.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_role_suisui_ui_weapon_end"
+          }
+        }
+      ],
+      "DebugName": "play_role_suisui_ui_weapon_end",
+      "EventId": 324766169
+    },
+    "MaximumDuration": 8.883333,
+    "MinimumDuration": 8.883333,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

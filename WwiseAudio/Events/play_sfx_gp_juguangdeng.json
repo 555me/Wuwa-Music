@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_juguangdeng",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_juguangdeng",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2753954931,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2753954931,
+                "SoundBankPathName": "Event/play_sfx_gp_juguangdeng.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_juguangdeng",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 581017662,
+                "MediaPathName": "Media/581017662.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "sfx_gp_juguangdeng.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_juguangdeng"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_juguangdeng",
+      "EventId": 2753954931
+    },
+    "MaximumDuration": 5.3465624,
+    "MinimumDuration": 5.3465624,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

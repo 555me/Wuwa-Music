@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_ui_activity_page_open_newcomer_mainsignin",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_ui_activity_page_open_newcomer_mainsignin",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 4173244662,
+            "SoundBanks": [
+              {
+                "SoundBankId": 4173244662,
+                "SoundBankPathName": "Event/play_ui_activity_page_open_newcomer_mainsignin.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_ui_activity_page_open_newcomer_mainsignin",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 252329245,
+                "MediaPathName": "Media/252329245.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,5\\newcomer\\ui_activity_page_open_newcomer_mainsignin.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_ui_activity_page_open_newcomer_mainsignin"
+          }
+        }
+      ],
+      "DebugName": "play_ui_activity_page_open_newcomer_mainsignin",
+      "EventId": 4173244662
+    },
+    "MaximumDuration": 2.8,
+    "MinimumDuration": 2.8,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

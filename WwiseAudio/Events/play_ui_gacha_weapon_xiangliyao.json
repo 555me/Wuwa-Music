@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_ui_gacha_weapon_xiangliyao",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_ui_gacha_weapon_xiangliyao",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3080674422,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3080674422,
+                "SoundBankPathName": "Event/play_ui_gacha_weapon_xiangliyao.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_ui_gacha_weapon_xiangliyao",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 796939342,
+                "MediaPathName": "Media/796939342.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "role\\role_bat_Xiangliyao\\Gacha\\ui_gacha_weapon_xiangliyao.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_ui_gacha_weapon_xiangliyao"
+          }
+        }
+      ],
+      "DebugName": "play_ui_gacha_weapon_xiangliyao",
+      "EventId": 3080674422
+    },
+    "MaximumDuration": 16.374979,
+    "MinimumDuration": 16.374979,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

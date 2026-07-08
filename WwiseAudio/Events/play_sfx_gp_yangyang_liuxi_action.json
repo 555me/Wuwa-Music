@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_yangyang_liuxi_action",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_yangyang_liuxi_action",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2561933497,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2561933497,
+                "SoundBankPathName": "Event/play_sfx_gp_yangyang_liuxi_action.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_yangyang_liuxi_action",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 309967082,
+                "MediaPathName": "Media/309967082.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\gameplay\\3_5\\sfx_gp_yangyang_liuxi_action.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_yangyang_liuxi_action"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_yangyang_liuxi_action",
+      "EventId": 2561933497
+    },
+    "MaximumDuration": 1.0,
+    "MinimumDuration": 1.0,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 3000.0
+  }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_mon_activity_tudou_battle_budawang_jump",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_mon_activity_tudou_battle_budawang_jump",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1979317328,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1979317328,
+                "SoundBankPathName": "Event/play_mon_activity_tudou_battle_budawang_jump.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_mon_activity_tudou_battle_budawang_jump",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 186415839,
+                "MediaPathName": "Media/186415839.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,5\\tudou\\monster_skills\\mon_activity_tudou_battle_budawang_jump_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 472397313,
+                "MediaPathName": "Media/472397313.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,5\\tudou\\monster_skills\\mon_activity_tudou_battle_budawang_jump_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 782971217,
+                "MediaPathName": "Media/782971217.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,5\\tudou\\monster_skills\\mon_activity_tudou_battle_budawang_jump_01.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_mon_activity_tudou_battle_budawang_jump"
+          }
+        }
+      ],
+      "DebugName": "play_mon_activity_tudou_battle_budawang_jump",
+      "EventId": 1979317328
+    },
+    "MaximumDuration": 1.4350208,
+    "MinimumDuration": 1.3817917,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

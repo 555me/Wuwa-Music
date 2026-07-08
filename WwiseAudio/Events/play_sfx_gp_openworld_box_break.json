@@ -1,0 +1,78 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_openworld_box_break",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_openworld_box_break",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2491071712,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2491071712,
+                "SoundBankPathName": "Event/play_sfx_gp_openworld_box_break.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_openworld_box_break",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 144988259,
+                "MediaPathName": "Media/144988259.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\gameplay\\3_5\\sfx_gp_jbgc_box_break_3.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 497905991,
+                "MediaPathName": "Media/497905991.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\gameplay\\3_5\\sfx_gp_jbgc_box_break_2.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 757217252,
+                "MediaPathName": "Media/757217252.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\gameplay\\3_5\\sfx_gp_jbgc_box_break_1.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_openworld_box_break"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_openworld_box_break",
+      "EventId": 2491071712
+    },
+    "MaximumDuration": 2.6666667,
+    "MinimumDuration": 2.6666667,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

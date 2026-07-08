@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_fengtingxieyou_skill_attack08_cast_013c",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_fengtingxieyou_skill_attack08_cast_013c",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 4200285618,
+            "SoundBanks": [
+              {
+                "SoundBankId": 4200285618,
+                "SoundBankPathName": "Event/play_sfx_fengtingxieyou_skill_attack08_cast_013c.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_fengtingxieyou_skill_attack08_cast_013c",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 665620082,
+                "MediaPathName": "Media/665620082.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\Enemy\\Elite Pro\\FengTingXieYou\\SFX_FengTingXieYou_Skill_Attack08_Cast_01.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_fengtingxieyou_skill_attack08_cast_013c"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_fengtingxieyou_skill_attack08_cast_013c",
+      "EventId": 4200285618
+    },
+    "MaximumDuration": 7.7201815,
+    "MinimumDuration": 7.7201815,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

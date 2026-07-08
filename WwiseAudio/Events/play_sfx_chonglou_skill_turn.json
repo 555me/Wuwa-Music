@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_chonglou_skill_turn",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_chonglou_skill_turn",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1132854263,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1132854263,
+                "SoundBankPathName": "Event/play_sfx_chonglou_skill_turn.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_chonglou_skill_turn",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 869520924,
+                "MediaPathName": "Media/869520924.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\Enemy\\Boss\\chonglou\\SFX_ChongLou_Skill_Turn.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_chonglou_skill_turn"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_chonglou_skill_turn",
+      "EventId": 1132854263
+    },
+    "MaximumDuration": 3.4,
+    "MinimumDuration": 3.4,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 50000.0
+  }
+]

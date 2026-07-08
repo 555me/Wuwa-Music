@@ -1,0 +1,88 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_chonglou_hit_scifigun_heavy",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_chonglou_hit_scifigun_heavy",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 386078836,
+            "SoundBanks": [
+              {
+                "SoundBankId": 386078836,
+                "SoundBankPathName": "Event/play_sfx_chonglou_hit_scifigun_heavy.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_chonglou_hit_scifigun_heavy",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 47072985,
+                "MediaPathName": "Media/47072985.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\Enemy\\Hit other\\SFX_Enemy_Battle_Common_Hit_Scifigun_Heavy_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 130853543,
+                "MediaPathName": "Media/130853543.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\Enemy\\Hit other\\SFX_Enemy_Battle_Common_Hit_Scifigun_Heavy_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 235832107,
+                "MediaPathName": "Media/235832107.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\Enemy\\Hit other\\SFX_Enemy_Battle_Common_Hit_Scifigun_Heavy_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 249988300,
+                "MediaPathName": "Media/249988300.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\Enemy\\Hit other\\SFX_Enemy_Battle_Common_Hit_Scifigun_Heavy_04.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_chonglou_hit_scifigun_heavy"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_chonglou_hit_scifigun_heavy",
+      "EventId": 386078836
+    },
+    "MaximumDuration": 2.4333334,
+    "MinimumDuration": 1.0554374,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 10000.0
+  }
+]

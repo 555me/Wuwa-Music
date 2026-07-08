@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_ui_tudou_button_tick",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_ui_tudou_button_tick",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 653844235,
+            "SoundBanks": [
+              {
+                "SoundBankId": 653844235,
+                "SoundBankPathName": "Event/play_ui_tudou_button_tick.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_ui_tudou_button_tick",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 705625984,
+                "MediaPathName": "Media/705625984.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,5\\tudou\\ui_tudou_button_tick.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_ui_tudou_button_tick"
+          }
+        }
+      ],
+      "DebugName": "play_ui_tudou_button_tick",
+      "EventId": 653844235
+    },
+    "MaximumDuration": 0.50425,
+    "MinimumDuration": 0.50425,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

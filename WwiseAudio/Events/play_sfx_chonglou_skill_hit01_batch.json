@@ -1,0 +1,78 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_chonglou_skill_hit01_batch",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_chonglou_skill_hit01_batch",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1453048957,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1453048957,
+                "SoundBankPathName": "Event/play_sfx_chonglou_skill_hit01_batch.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_chonglou_skill_hit01_batch",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 247838535,
+                "MediaPathName": "Media/247838535.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\Enemy\\Boss\\chonglou\\SFX_ChongLou_Skill_Hit01_Batch_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 449110182,
+                "MediaPathName": "Media/449110182.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\Enemy\\Boss\\chonglou\\SFX_ChongLou_Skill_Hit01_Batch_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 846192968,
+                "MediaPathName": "Media/846192968.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\Enemy\\Boss\\chonglou\\SFX_ChongLou_Skill_Hit01_Batch_03.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_chonglou_skill_hit01_batch"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_chonglou_skill_hit01_batch",
+      "EventId": 1453048957
+    },
+    "MaximumDuration": 0.59704167,
+    "MinimumDuration": 0.407375,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 50000.0
+  }
+]

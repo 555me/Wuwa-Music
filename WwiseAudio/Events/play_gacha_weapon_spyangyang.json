@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_gacha_weapon_spyangyang",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_gacha_weapon_spyangyang",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 346894971,
+            "SoundBanks": [
+              {
+                "SoundBankId": 346894971,
+                "SoundBankPathName": "Event/play_gacha_weapon_spyangyang.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_gacha_weapon_spyangyang",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 985151723,
+                "MediaPathName": "Media/985151723.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_ui\\ui_music_gacha\\3.5\\mov-gacha_weapon_spyangyang-all-full-null-null.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_gacha_weapon_spyangyang"
+          }
+        }
+      ],
+      "DebugName": "play_gacha_weapon_spyangyang",
+      "EventId": 346894971
+    },
+    "MaximumDuration": 20.598812,
+    "MinimumDuration": 20.598812,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

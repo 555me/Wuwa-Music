@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_chonglou_skill_recover",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_chonglou_skill_recover",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 898291614,
+            "SoundBanks": [
+              {
+                "SoundBankId": 898291614,
+                "SoundBankPathName": "Event/play_sfx_chonglou_skill_recover.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_chonglou_skill_recover",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 489550430,
+                "MediaPathName": "Media/489550430.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\Enemy\\Boss\\chonglou\\SFX_ChongLou_Skill_Recover.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_chonglou_skill_recover"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_chonglou_skill_recover",
+      "EventId": 898291614
+    },
+    "MaximumDuration": 5.233333,
+    "MinimumDuration": 5.233333,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 50000.0
+  }
+]

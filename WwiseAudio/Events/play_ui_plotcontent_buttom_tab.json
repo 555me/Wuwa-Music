@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_ui_plotcontent_buttom_tab",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_ui_plotcontent_buttom_tab",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 259313515,
+            "SoundBanks": [
+              {
+                "SoundBankId": 259313515,
+                "SoundBankPathName": "Event/play_ui_plotcontent_buttom_tab.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_ui_plotcontent_buttom_tab",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 998454273,
+                "MediaPathName": "Media/998454273.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,5\\plotcontent\\ui_plotcontent_buttom_tab.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_ui_plotcontent_buttom_tab"
+          }
+        }
+      ],
+      "DebugName": "play_ui_plotcontent_buttom_tab",
+      "EventId": 259313515
+    },
+    "MaximumDuration": 0.76666665,
+    "MinimumDuration": 0.76666665,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

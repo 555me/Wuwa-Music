@@ -39,13 +39,43 @@
                 "PackagedFile": null
               },
               {
-                "MediaId": 783961551,
-                "MediaPathName": "Media/783961551.wem",
+                "MediaId": 23637954,
+                "MediaPathName": "Media/23637954.wem",
                 "PrefetchSize": 0,
                 "MemoryAlignment": 16,
                 "bDeviceMemory": false,
                 "bStreaming": true,
-                "DebugName": "music\\music_dungeon\\yinlin\\dungeon_yinlin_scene_battle_full.wav",
+                "DebugName": "music\\music_battle\\battle_outside_monster_small_intro.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 482365743,
+                "MediaPathName": "Media/482365743.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music\\music_battle\\battle_outside_monster_small_loop.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1023590044,
+                "MediaPathName": "Media/1023590044.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music\\music_battle\\battle_outside_monster_small_loop_strong_v2.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1031847557,
+                "MediaPathName": "Media/1031847557.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music\\music_battle\\battle_outside_monster_small_intro_strong_v2.wav",
                 "PackagedFile": null
               },
               {

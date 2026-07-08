@@ -1,0 +1,78 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_mon_activity_tudou_battle_budawang_bullet_square",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_mon_activity_tudou_battle_budawang_bullet_square",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1270408590,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1270408590,
+                "SoundBankPathName": "Event/play_mon_activity_tudou_battle_budawang_bullet_square.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_mon_activity_tudou_battle_budawang_bullet_square",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 7194975,
+                "MediaPathName": "Media/7194975.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,5\\tudou\\monster_skills\\mon_activity_tudou_battle_budawang_bullet_square_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 181462644,
+                "MediaPathName": "Media/181462644.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,5\\tudou\\monster_skills\\mon_activity_tudou_battle_budawang_bullet_square_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 200073927,
+                "MediaPathName": "Media/200073927.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,5\\tudou\\monster_skills\\mon_activity_tudou_battle_budawang_bullet_square_02.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_mon_activity_tudou_battle_budawang_bullet_square"
+          }
+        }
+      ],
+      "DebugName": "play_mon_activity_tudou_battle_budawang_bullet_square",
+      "EventId": 1270408590
+    },
+    "MaximumDuration": 2.0609791,
+    "MinimumDuration": 1.9601458,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

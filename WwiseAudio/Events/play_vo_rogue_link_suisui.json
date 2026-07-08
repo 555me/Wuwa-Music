@@ -1,0 +1,128 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_rogue_link_suisui",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_rogue_link_suisui",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1044051776,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1044051776,
+                "SoundBankPathName": "Event/play_vo_rogue_link_suisui.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_rogue_link_suisui",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 933157300,
+                "MediaPathName": "Media/933157300.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,5\\suisui\\zh_vo_suisui_sys_rogue_link_02_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 970084913,
+                "MediaPathName": "Media/970084913.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,5\\suisui\\ja_vo_suisui_sys_rogue_link_02_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 39236734,
+                "MediaPathName": "Media/39236734.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,5\\suisui\\ko_vo_suisui_sys_rogue_link_02_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 740752198,
+                "MediaPathName": "Media/740752198.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\en\\role\\branch_3,5\\suisui\\en_vo_suisui_sys_rogue_link_02_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 51739529,
+                "MediaPathName": "Media/51739529.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,5\\suisui\\zh_vo_suisui_sys_rogue_link_01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 240606180,
+                "MediaPathName": "Media/240606180.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,5\\suisui\\ja_vo_suisui_sys_rogue_link_01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 641785704,
+                "MediaPathName": "Media/641785704.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,5\\suisui\\ko_vo_suisui_sys_rogue_link_01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 947482861,
+                "MediaPathName": "Media/947482861.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\en\\role\\branch_3,5\\suisui\\en_vo_suisui_sys_rogue_link_01_word.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_rogue_link_suisui"
+          }
+        }
+      ],
+      "DebugName": "play_vo_rogue_link_suisui",
+      "EventId": 1044051776
+    },
+    "MaximumDuration": 2.206854,
+    "MinimumDuration": 0.0,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

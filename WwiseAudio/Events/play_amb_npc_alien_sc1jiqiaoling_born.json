@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_amb_npc_alien_sc1jiqiaoling_born",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_amb_npc_alien_sc1jiqiaoling_born",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3412983205,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3412983205,
+                "SoundBankPathName": "Event/play_amb_npc_alien_sc1jiqiaoling_born.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_amb_npc_alien_sc1jiqiaoling_born",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 862111549,
+                "MediaPathName": "Media/862111549.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "npc\\alien\\amb_npc_alien_sc1jiqiaoling_born.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_amb_npc_alien_sc1jiqiaoling_born"
+          }
+        }
+      ],
+      "DebugName": "play_amb_npc_alien_sc1jiqiaoling_born",
+      "EventId": 3412983205
+    },
+    "MaximumDuration": 0.5,
+    "MinimumDuration": 0.5,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 1500.0
+  }
+]

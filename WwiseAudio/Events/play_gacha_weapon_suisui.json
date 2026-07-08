@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_gacha_weapon_suisui",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_gacha_weapon_suisui",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2881496100,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2881496100,
+                "SoundBankPathName": "Event/play_gacha_weapon_suisui.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_gacha_weapon_suisui",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 998725142,
+                "MediaPathName": "Media/998725142.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_ui\\ui_music_gacha\\3.5\\mov-gacha_weapon_suisui-all-full-null.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_gacha_weapon_suisui"
+          }
+        }
+      ],
+      "DebugName": "play_gacha_weapon_suisui",
+      "EventId": 2881496100
+    },
+    "MaximumDuration": 14.633333,
+    "MinimumDuration": 14.633333,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

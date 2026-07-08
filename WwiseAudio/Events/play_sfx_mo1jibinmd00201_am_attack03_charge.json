@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_mo1jibinmd00201_am_attack03_charge",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_mo1jibinmd00201_am_attack03_charge",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1234182575,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1234182575,
+                "SoundBankPathName": "Event/play_sfx_mo1jibinmd00201_am_attack03_charge.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_mo1jibinmd00201_am_attack03_charge",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 147414972,
+                "MediaPathName": "Media/147414972.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\Enemy\\Ordinary\\Jibin\\SFX_MO1JiBinMd00201_AM_Attack03_Charge.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_mo1jibinmd00201_am_attack03_charge"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_mo1jibinmd00201_am_attack03_charge",
+      "EventId": 1234182575
+    },
+    "MaximumDuration": 3.1412709,
+    "MinimumDuration": 3.1412709,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

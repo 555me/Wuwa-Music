@@ -1,0 +1,88 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_wanelao_hit_arcane",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_wanelao_hit_arcane",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2544860910,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2544860910,
+                "SoundBankPathName": "Event/play_sfx_wanelao_hit_arcane.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_wanelao_hit_arcane",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 72870990,
+                "MediaPathName": "Media/72870990.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\Monster\\Common\\enm_com_hit_magic_arcane_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 806768060,
+                "MediaPathName": "Media/806768060.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\Monster\\Common\\enm_com_hit_magic_arcane_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 953137745,
+                "MediaPathName": "Media/953137745.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\Monster\\Common\\enm_com_hit_magic_arcane_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 979909401,
+                "MediaPathName": "Media/979909401.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\Monster\\Common\\enm_com_hit_magic_arcane_04.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_wanelao_hit_arcane"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_wanelao_hit_arcane",
+      "EventId": 2544860910
+    },
+    "MaximumDuration": 0.93333334,
+    "MinimumDuration": 0.76666665,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 10000.0
+  }
+]

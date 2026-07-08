@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_jbgc_pangolin_drum",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_jbgc_pangolin_drum",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1511590058,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1511590058,
+                "SoundBankPathName": "Event/play_sfx_gp_jbgc_pangolin_drum.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_jbgc_pangolin_drum",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 476633633,
+                "MediaPathName": "Media/476633633.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\gameplay\\3_5\\sfx_gp_jbgc_pangolin_drum.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_jbgc_pangolin_drum"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_jbgc_pangolin_drum",
+      "EventId": 1511590058
+    },
+    "MaximumDuration": 1.0614583,
+    "MinimumDuration": 1.0614583,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]
