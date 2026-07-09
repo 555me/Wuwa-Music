@@ -1,10 +1,10 @@
 [
   {
     "Type": "AkAudioEvent",
-    "Name": "play_sfx_gp_jbgc_jxb_elevator4",
+    "Name": "play_sfx_lvb_m3_10_16_2",
     "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
     "Class": "UScriptClass'AkAudioEvent'",
-    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_jbgc_jxb_elevator4",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_lvb_m3_10_16_2",
     "EventCookedData": {
       "EventLanguageMap": [
         {
@@ -14,28 +14,28 @@
             "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
           },
           "Value": {
-            "EventId": 579950106,
+            "EventId": 2562161612,
             "SoundBanks": [
               {
-                "SoundBankId": 579950106,
-                "SoundBankPathName": "Event/play_sfx_gp_jbgc_jxb_elevator4.bnk",
+                "SoundBankId": 2562161612,
+                "SoundBankPathName": "Event/play_sfx_lvb_m3_10_16_2.bnk",
                 "MemoryAlignment": 16,
                 "bDeviceMemory": false,
                 "bContainsMedia": false,
                 "SoundBankType": "EWwiseSoundBankType::Event",
-                "DebugName": "play_sfx_gp_jbgc_jxb_elevator4",
+                "DebugName": "play_sfx_lvb_m3_10_16_2",
                 "PackagedFile": null
               }
             ],
             "Media": [
               {
-                "MediaId": 799085621,
-                "MediaPathName": "Media/799085621.wem",
+                "MediaId": 286171456,
+                "MediaPathName": "Media/286171456.wem",
                 "PrefetchSize": 0,
                 "MemoryAlignment": 16,
                 "bDeviceMemory": false,
                 "bStreaming": true,
-                "DebugName": "SFX\\gameplay\\3_5\\sfx_gp_jbgc_jxb_elevator4.wav",
+                "DebugName": "levelb\\section03\\sfx_lvb_m3_10_16_2.wav",
                 "PackagedFile": null
               }
             ],
@@ -43,16 +43,16 @@
             "SwitchContainerLeaves": [],
             "RequiredGroupValueSet": [],
             "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
-            "DebugName": "play_sfx_gp_jbgc_jxb_elevator4"
+            "DebugName": "play_sfx_lvb_m3_10_16_2"
           }
         }
       ],
-      "DebugName": "play_sfx_gp_jbgc_jxb_elevator4",
-      "EventId": 579950106
+      "DebugName": "play_sfx_lvb_m3_10_16_2",
+      "EventId": 2562161612
     },
-    "MaximumDuration": 4.533104,
-    "MinimumDuration": 4.533104,
+    "MaximumDuration": 9.326009,
+    "MinimumDuration": 9.326009,
     "IsInfinite": false,
-    "MaxAttenuationRadius": 10000.0
+    "MaxAttenuationRadius": 0.0
   }
 ]

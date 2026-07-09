@@ -34,7 +34,7 @@
                 "PrefetchSize": 0,
                 "MemoryAlignment": 16,
                 "bDeviceMemory": false,
-                "bStreaming": true,
+                "bStreaming": false,
                 "DebugName": "sfx_gp_yangyang_liuxi_cam_extend.wav",
                 "PackagedFile": null
               }
@@ -50,8 +50,8 @@
       "DebugName": "play_sfx_gp_yangyang_liuxi_cam_extend",
       "EventId": 4017131099
     },
-    "MaximumDuration": 3.0210416,
-    "MinimumDuration": 3.0210416,
+    "MaximumDuration": 1.9521316,
+    "MinimumDuration": 1.9521316,
     "IsInfinite": false,
     "MaxAttenuationRadius": 0.0
   }

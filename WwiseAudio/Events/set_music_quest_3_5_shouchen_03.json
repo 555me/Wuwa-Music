@@ -27,7 +27,28 @@
                 "PackagedFile": null
               }
             ],
-            "Media": [],
+            "Media": [
+              {
+                "MediaId": 342607331,
+                "MediaPathName": "Media/342607331.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\level_a\\3.5\\bgm-story_plot_m3_11_15_b_x02-all-full-null-null.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1063605714,
+                "MediaPathName": "Media/1063605714.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\level_a\\3.5\\bgm-story_plot_m3_11_15_b_x01-all-full-null-null.wav",
+                "PackagedFile": null
+              }
+            ],
             "ExternalSources": [],
             "SwitchContainerLeaves": [],
             "RequiredGroupValueSet": [
@@ -46,8 +67,8 @@
       "DebugName": "set_music_quest_3_5_shouchen_03",
       "EventId": 4120045544
     },
-    "MaximumDuration": 0.0,
-    "MinimumDuration": 0.0,
+    "MaximumDuration": 35.142857,
+    "MinimumDuration": 35.142857,
     "IsInfinite": false,
     "MaxAttenuationRadius": 0.0
   }
