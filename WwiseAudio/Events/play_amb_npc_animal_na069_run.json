@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_amb_npc_animal_na069_run",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_amb_npc_animal_na069_run",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 550451372,
+            "SoundBanks": [
+              {
+                "SoundBankId": 550451372,
+                "SoundBankPathName": "Event/play_amb_npc_animal_na069_run.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_amb_npc_animal_na069_run",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 688218212,
+                "MediaPathName": "Media/688218212.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "amb_npc_animal_na069_Run.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_amb_npc_animal_na069_run"
+          }
+        }
+      ],
+      "DebugName": "play_amb_npc_animal_na069_run",
+      "EventId": 550451372
+    },
+    "MaximumDuration": 0.56525,
+    "MinimumDuration": 0.56525,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 1500.0
+  }
+]

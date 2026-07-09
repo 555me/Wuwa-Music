@@ -1,0 +1,88 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_favor_word_suisui_com_limitdodge02_01",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_favor_word_suisui_com_limitdodge02_01",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1984390055,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1984390055,
+                "SoundBankPathName": "Event/play_favor_word_suisui_com_limitdodge02_01.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_favor_word_suisui_com_limitdodge02_01",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 218531583,
+                "MediaPathName": "Media/218531583.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,5\\suisui\\zh_vo_suisui_com_limitdodge02_01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 610433702,
+                "MediaPathName": "Media/610433702.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,5\\suisui\\ja_vo_suisui_com_limitdodge02_01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 750538242,
+                "MediaPathName": "Media/750538242.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,5\\suisui\\ko_vo_suisui_com_limitdodge02_01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1017960433,
+                "MediaPathName": "Media/1017960433.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_3,5\\suisui\\en_vo_suisui_com_limitdodge02_01_word.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_favor_word_suisui_com_limitdodge02_01"
+          }
+        }
+      ],
+      "DebugName": "play_favor_word_suisui_com_limitdodge02_01",
+      "EventId": 1984390055
+    },
+    "MaximumDuration": 1.2196041,
+    "MinimumDuration": 0.77533334,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

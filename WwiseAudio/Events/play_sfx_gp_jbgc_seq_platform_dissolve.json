@@ -1,0 +1,68 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_jbgc_seq_platform_dissolve",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_jbgc_seq_platform_dissolve",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1240855204,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1240855204,
+                "SoundBankPathName": "Event/play_sfx_gp_jbgc_seq_platform_dissolve.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_jbgc_seq_platform_dissolve",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 278688206,
+                "MediaPathName": "Media/278688206.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\amb\\amb_interact\\amb_interact_stonepillar_down02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 634162127,
+                "MediaPathName": "Media/634162127.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\Interaction\\2.0\\Interact_jimoxiaojie_book_success.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_jbgc_seq_platform_dissolve"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_jbgc_seq_platform_dissolve",
+      "EventId": 1240855204
+    },
+    "MaximumDuration": 3.545922,
+    "MinimumDuration": 3.545922,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

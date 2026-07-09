@@ -54,7 +54,7 @@
                 "PrefetchSize": 0,
                 "MemoryAlignment": 16,
                 "bDeviceMemory": false,
-                "bStreaming": false,
+                "bStreaming": true,
                 "DebugName": "Voices\\ko\\role\\branch_3,5\\suisui\\ko_vo_suisui_com_accelerate_word.wav",
                 "PackagedFile": null
               },
@@ -80,8 +80,8 @@
       "DebugName": "play_vo_suisui_com_accelerate",
       "EventId": 1180936338
     },
-    "MaximumDuration": 1.3410833,
-    "MinimumDuration": 0.0,
+    "MaximumDuration": 2.5213332,
+    "MinimumDuration": 0.91866666,
     "IsInfinite": false,
     "MaxAttenuationRadius": 5000.0
   }

@@ -54,7 +54,7 @@
                 "PrefetchSize": 0,
                 "MemoryAlignment": 16,
                 "bDeviceMemory": false,
-                "bStreaming": false,
+                "bStreaming": true,
                 "DebugName": "Voices\\ja\\role\\branch_3,5\\yangyang2\\ja_vo_yangyang2_sys_dream_word.wav",
                 "PackagedFile": null
               },
@@ -64,7 +64,7 @@
                 "PrefetchSize": 0,
                 "MemoryAlignment": 16,
                 "bDeviceMemory": false,
-                "bStreaming": false,
+                "bStreaming": true,
                 "DebugName": "Voices\\ko\\role\\branch_3,5\\yangyang2\\ko_vo_yangyang2_sys_dream_word.wav",
                 "PackagedFile": null
               }
@@ -80,8 +80,8 @@
       "DebugName": "play_favor_word_yangyang2_sys_dream",
       "EventId": 56134664
     },
-    "MaximumDuration": 35.48446,
-    "MinimumDuration": 0.0,
+    "MaximumDuration": 46.43448,
+    "MinimumDuration": 34.21521,
     "IsInfinite": false,
     "MaxAttenuationRadius": 0.0
   }

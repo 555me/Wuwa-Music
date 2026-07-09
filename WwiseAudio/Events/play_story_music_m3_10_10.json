@@ -27,31 +27,17 @@
                 "PackagedFile": null
               }
             ],
-            "Media": [
-              {
-                "MediaId": 101952194,
-                "MediaPathName": "Media/101952194.wem",
-                "PrefetchSize": 0,
-                "MemoryAlignment": 16,
-                "bDeviceMemory": false,
-                "bStreaming": true,
-                "DebugName": "music\\music_scene\\silence_5s.wav",
-                "PackagedFile": null
-              },
-              {
-                "MediaId": 661371315,
-                "MediaPathName": "Media/661371315.wem",
-                "PrefetchSize": 0,
-                "MemoryAlignment": 16,
-                "bDeviceMemory": false,
-                "bStreaming": true,
-                "DebugName": "music_next\\music_story\\3_5\\bgm-story_common_3_5_calmness_suspense_01-all-full-null-null.wav",
-                "PackagedFile": null
-              }
-            ],
+            "Media": [],
             "ExternalSources": [],
             "SwitchContainerLeaves": [],
-            "RequiredGroupValueSet": [],
+            "RequiredGroupValueSet": [
+              {
+                "Type": "EWwiseGroupType::State",
+                "GroupId": -668479127,
+                "Id": 1909462765,
+                "DebugName": "after_liangyu"
+              }
+            ],
             "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
             "DebugName": "play_story_music_m3_10_10"
           }
@@ -62,7 +48,7 @@
     },
     "MaximumDuration": 0.0,
     "MinimumDuration": 0.0,
-    "IsInfinite": true,
+    "IsInfinite": false,
     "MaxAttenuationRadius": 0.0
   }
 ]

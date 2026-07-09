@@ -54,7 +54,7 @@
                 "PrefetchSize": 0,
                 "MemoryAlignment": 16,
                 "bDeviceMemory": false,
-                "bStreaming": false,
+                "bStreaming": true,
                 "DebugName": "Voices\\ja\\role\\branch_3,5\\yangyang2\\ja_vo_yangyang2_sys_about_jinxi_word.wav",
                 "PackagedFile": null
               },
@@ -64,7 +64,7 @@
                 "PrefetchSize": 0,
                 "MemoryAlignment": 16,
                 "bDeviceMemory": false,
-                "bStreaming": false,
+                "bStreaming": true,
                 "DebugName": "Voices\\ko\\role\\branch_3,5\\yangyang2\\ko_vo_yangyang2_sys_about_jinxi_word.wav",
                 "PackagedFile": null
               }
@@ -80,8 +80,8 @@
       "DebugName": "play_favor_word_yangyang2_sys_about_jinxi",
       "EventId": 1157046701
     },
-    "MaximumDuration": 26.20625,
-    "MinimumDuration": 0.0,
+    "MaximumDuration": 35.048187,
+    "MinimumDuration": 25.026104,
     "IsInfinite": false,
     "MaxAttenuationRadius": 0.0
   }

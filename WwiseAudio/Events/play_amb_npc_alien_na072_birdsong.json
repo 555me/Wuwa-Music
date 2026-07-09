@@ -1,0 +1,78 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_amb_npc_alien_na072_birdsong",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_amb_npc_alien_na072_birdsong",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 813666050,
+            "SoundBanks": [
+              {
+                "SoundBankId": 813666050,
+                "SoundBankPathName": "Event/play_amb_npc_alien_na072_birdsong.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_amb_npc_alien_na072_birdsong",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 33419156,
+                "MediaPathName": "Media/33419156.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "amb_npc_alien_NA072_birdsong_1.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 48673875,
+                "MediaPathName": "Media/48673875.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "amb_npc_alien_NA072_birdsong_2.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 581538111,
+                "MediaPathName": "Media/581538111.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "amb_npc_alien_NA072_birdsong_3.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_amb_npc_alien_na072_birdsong"
+          }
+        }
+      ],
+      "DebugName": "play_amb_npc_alien_na072_birdsong",
+      "EventId": 813666050
+    },
+    "MaximumDuration": 1.3217292,
+    "MinimumDuration": 1.3217292,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 1500.0
+  }
+]

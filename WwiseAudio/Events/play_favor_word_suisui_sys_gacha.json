@@ -44,7 +44,7 @@
                 "PrefetchSize": 0,
                 "MemoryAlignment": 16,
                 "bDeviceMemory": false,
-                "bStreaming": false,
+                "bStreaming": true,
                 "DebugName": "Voices\\ja\\role\\branch_3,5\\suisui\\ja_vo_suisui_sys_gacha_word.wav",
                 "PackagedFile": null
               },
@@ -54,7 +54,7 @@
                 "PrefetchSize": 0,
                 "MemoryAlignment": 16,
                 "bDeviceMemory": false,
-                "bStreaming": false,
+                "bStreaming": true,
                 "DebugName": "Voices\\ko\\role\\branch_3,5\\suisui\\ko_vo_suisui_sys_gacha_word.wav",
                 "PackagedFile": null
               },
@@ -80,8 +80,8 @@
       "DebugName": "play_favor_word_suisui_sys_gacha",
       "EventId": 3214804015
     },
-    "MaximumDuration": 10.8897705,
-    "MinimumDuration": 0.0,
+    "MaximumDuration": 11.12475,
+    "MinimumDuration": 10.392813,
     "IsInfinite": false,
     "MaxAttenuationRadius": 0.0
   }

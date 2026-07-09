@@ -1,0 +1,88 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_favor_word_suisui_atk_dodgeatk_01",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_favor_word_suisui_atk_dodgeatk_01",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1885686773,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1885686773,
+                "SoundBankPathName": "Event/play_favor_word_suisui_atk_dodgeatk_01.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_favor_word_suisui_atk_dodgeatk_01",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 752648411,
+                "MediaPathName": "Media/752648411.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,5\\suisui\\zh_vo_suisui_atk_dodgeatk_01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 621632688,
+                "MediaPathName": "Media/621632688.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,5\\suisui\\ja_vo_suisui_atk_dodgeatk_01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 657911560,
+                "MediaPathName": "Media/657911560.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,5\\suisui\\ko_vo_suisui_atk_dodgeatk_01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 781378184,
+                "MediaPathName": "Media/781378184.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_3,5\\suisui\\en_vo_suisui_atk_dodgeatk_01_word.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_favor_word_suisui_atk_dodgeatk_01"
+          }
+        }
+      ],
+      "DebugName": "play_favor_word_suisui_atk_dodgeatk_01",
+      "EventId": 1885686773
+    },
+    "MaximumDuration": 1.7413334,
+    "MinimumDuration": 1.1166458,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

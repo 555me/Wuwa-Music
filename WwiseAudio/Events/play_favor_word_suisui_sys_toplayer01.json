@@ -44,7 +44,7 @@
                 "PrefetchSize": 0,
                 "MemoryAlignment": 16,
                 "bDeviceMemory": false,
-                "bStreaming": false,
+                "bStreaming": true,
                 "DebugName": "Voices\\ja\\role\\branch_3,5\\suisui\\ja_vo_suisui_sys_toplayer01_word.wav",
                 "PackagedFile": null
               },
@@ -54,7 +54,7 @@
                 "PrefetchSize": 0,
                 "MemoryAlignment": 16,
                 "bDeviceMemory": false,
-                "bStreaming": false,
+                "bStreaming": true,
                 "DebugName": "Voices\\ko\\role\\branch_3,5\\suisui\\ko_vo_suisui_sys_toplayer01_word.wav",
                 "PackagedFile": null
               },
@@ -80,8 +80,8 @@
       "DebugName": "play_favor_word_suisui_sys_toplayer01",
       "EventId": 2630579514
     },
-    "MaximumDuration": 65.918106,
-    "MinimumDuration": 0.0,
+    "MaximumDuration": 68.90683,
+    "MinimumDuration": 60.366207,
     "IsInfinite": false,
     "MaxAttenuationRadius": 0.0
   }

@@ -29,13 +29,13 @@
             ],
             "Media": [
               {
-                "MediaId": 70170094,
-                "MediaPathName": "Media/70170094.wem",
+                "MediaId": 337375588,
+                "MediaPathName": "Media/337375588.wem",
                 "PrefetchSize": 0,
                 "MemoryAlignment": 16,
                 "bDeviceMemory": false,
                 "bStreaming": false,
-                "DebugName": "SFX\\gameplay\\3_5\\sfx_gp_jbgc_player_jibing_infect_small.wav",
+                "DebugName": "SFX\\gameplay\\3_5\\sfx_gp_jbgc_mech_soldier_small_mutate.wav",
                 "PackagedFile": null
               }
             ],
@@ -50,8 +50,8 @@
       "DebugName": "play_sfx_gp_jbgc_player_jibing_infect_small",
       "EventId": 3115779654
     },
-    "MaximumDuration": 1.0,
-    "MinimumDuration": 1.0,
+    "MaximumDuration": 1.83075,
+    "MinimumDuration": 1.83075,
     "IsInfinite": false,
     "MaxAttenuationRadius": 3000.0
   }

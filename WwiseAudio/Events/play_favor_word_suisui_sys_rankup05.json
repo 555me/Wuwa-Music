@@ -44,7 +44,7 @@
                 "PrefetchSize": 0,
                 "MemoryAlignment": 16,
                 "bDeviceMemory": false,
-                "bStreaming": false,
+                "bStreaming": true,
                 "DebugName": "Voices\\ja\\role\\branch_3,5\\suisui\\ja_vo_suisui_sys_rankup05_word.wav",
                 "PackagedFile": null
               },
@@ -54,7 +54,7 @@
                 "PrefetchSize": 0,
                 "MemoryAlignment": 16,
                 "bDeviceMemory": false,
-                "bStreaming": false,
+                "bStreaming": true,
                 "DebugName": "Voices\\ko\\role\\branch_3,5\\suisui\\ko_vo_suisui_sys_rankup05_word.wav",
                 "PackagedFile": null
               },
@@ -81,7 +81,7 @@
       "EventId": 579225619
     },
     "MaximumDuration": 27.30677,
-    "MinimumDuration": 0.0,
+    "MinimumDuration": 22.712667,
     "IsInfinite": false,
     "MaxAttenuationRadius": 0.0
   }

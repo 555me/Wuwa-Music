@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_interact_waves_go_boss_appears",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_interact_waves_go_boss_appears",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3192069415,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3192069415,
+                "SoundBankPathName": "Event/play_interact_waves_go_boss_appears.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_interact_waves_go_boss_appears",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 578364546,
+                "MediaPathName": "Media/578364546.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "interact_waves_go_boss_appears.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_interact_waves_go_boss_appears"
+          }
+        }
+      ],
+      "DebugName": "play_interact_waves_go_boss_appears",
+      "EventId": 3192069415
+    },
+    "MaximumDuration": 9.261937,
+    "MinimumDuration": 9.261937,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

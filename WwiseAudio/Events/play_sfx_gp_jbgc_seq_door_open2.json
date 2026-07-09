@@ -29,6 +29,16 @@
             ],
             "Media": [
               {
+                "MediaId": 112801329,
+                "MediaPathName": "Media/112801329.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\amb\\amb_interact\\amb_interact_door_stone_single_open.wav",
+                "PackagedFile": null
+              },
+              {
                 "MediaId": 995039878,
                 "MediaPathName": "Media/995039878.wem",
                 "PrefetchSize": 0,
@@ -50,8 +60,8 @@
       "DebugName": "play_sfx_gp_jbgc_seq_door_open2",
       "EventId": 2630555544
     },
-    "MaximumDuration": 3.4810383,
-    "MinimumDuration": 3.4810383,
+    "MaximumDuration": 4.249614,
+    "MinimumDuration": 4.249614,
     "IsInfinite": false,
     "MaxAttenuationRadius": 0.0
   }

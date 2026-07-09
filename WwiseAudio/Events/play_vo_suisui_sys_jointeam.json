@@ -84,7 +84,7 @@
                 "PrefetchSize": 0,
                 "MemoryAlignment": 16,
                 "bDeviceMemory": false,
-                "bStreaming": false,
+                "bStreaming": true,
                 "DebugName": "Voices\\ja\\role\\branch_3,5\\suisui\\ja_vo_suisui_sys_jointeam_02_word.wav",
                 "PackagedFile": null
               },
@@ -94,7 +94,7 @@
                 "PrefetchSize": 0,
                 "MemoryAlignment": 16,
                 "bDeviceMemory": false,
-                "bStreaming": false,
+                "bStreaming": true,
                 "DebugName": "Voices\\ko\\role\\branch_3,5\\suisui\\ko_vo_suisui_sys_jointeam_02_word.wav",
                 "PackagedFile": null
               },
@@ -161,7 +161,7 @@
       "EventId": 862536234
     },
     "MaximumDuration": 5.021375,
-    "MinimumDuration": 0.30002084,
+    "MinimumDuration": 1.1645417,
     "IsInfinite": false,
     "MaxAttenuationRadius": 0.0
   }

@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_touzhibaozhaguo_1z",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_touzhibaozhaguo_1z",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 665439167,
+            "SoundBanks": [
+              {
+                "SoundBankId": 665439167,
+                "SoundBankPathName": "Event/play_sfx_gp_touzhibaozhaguo_1z.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_touzhibaozhaguo_1z",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 4981062,
+                "MediaPathName": "Media/4981062.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "sfx_gp_TouZhiBaoZhaGuo_1Z.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_touzhibaozhaguo_1z"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_touzhibaozhaguo_1z",
+      "EventId": 665439167
+    },
+    "MaximumDuration": 10.656313,
+    "MinimumDuration": 10.656313,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

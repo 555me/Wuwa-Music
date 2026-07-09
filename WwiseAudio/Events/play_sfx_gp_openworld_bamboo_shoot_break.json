@@ -29,13 +29,33 @@
             ],
             "Media": [
               {
-                "MediaId": 394836498,
-                "MediaPathName": "Media/394836498.wem",
+                "MediaId": 58689286,
+                "MediaPathName": "Media/58689286.wem",
                 "PrefetchSize": 0,
                 "MemoryAlignment": 16,
                 "bDeviceMemory": false,
                 "bStreaming": false,
-                "DebugName": "SFX\\gameplay\\3_5\\sfx_gp_openworld_bamboo_shoot_break.wav",
+                "DebugName": "SFX\\gameplay\\3_5\\sfx_gp_openworld_bamboo_shoot_break_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 151442034,
+                "MediaPathName": "Media/151442034.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\gameplay\\3_5\\sfx_gp_openworld_bamboo_shoot_break_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 728540644,
+                "MediaPathName": "Media/728540644.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\gameplay\\3_5\\sfx_gp_openworld_bamboo_shoot_break_01.wav",
                 "PackagedFile": null
               }
             ],
@@ -50,9 +70,9 @@
       "DebugName": "play_sfx_gp_openworld_bamboo_shoot_break",
       "EventId": 3453901321
     },
-    "MaximumDuration": 1.0,
-    "MinimumDuration": 1.0,
+    "MaximumDuration": 0.40749046,
+    "MinimumDuration": 0.3512695,
     "IsInfinite": false,
-    "MaxAttenuationRadius": 3000.0
+    "MaxAttenuationRadius": 5000.0
   }
 ]

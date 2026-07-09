@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_2d_sfx_3c_fengtingxieyou_am_pulling_start",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_2d_sfx_3c_fengtingxieyou_am_pulling_start",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1526508189,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1526508189,
+                "SoundBankPathName": "Event/play_2d_sfx_3c_fengtingxieyou_am_pulling_start.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_2d_sfx_3c_fengtingxieyou_am_pulling_start",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 610653071,
+                "MediaPathName": "Media/610653071.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\gameplay\\3_5\\3C_fengtingxieyou\\SFX_3C_FengTingXieYou_AM_Pulling_Start.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_2d_sfx_3c_fengtingxieyou_am_pulling_start"
+          }
+        }
+      ],
+      "DebugName": "play_2d_sfx_3c_fengtingxieyou_am_pulling_start",
+      "EventId": 1526508189
+    },
+    "MaximumDuration": 2.5922666,
+    "MinimumDuration": 2.5922666,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

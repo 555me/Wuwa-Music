@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_amb_npc_animal_mo1jintinghoumd00401_am_sm_wanshua_p1",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_amb_npc_animal_mo1jintinghoumd00401_am_sm_wanshua_p1",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3157048470,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3157048470,
+                "SoundBankPathName": "Event/play_amb_npc_animal_mo1jintinghoumd00401_am_sm_wanshua_p1.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_amb_npc_animal_mo1jintinghoumd00401_am_sm_wanshua_p1",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 558062671,
+                "MediaPathName": "Media/558062671.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "amb_npc_animal_MO1JinTingHouMd00401_AM_SM_WanShua_P1.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_amb_npc_animal_mo1jintinghoumd00401_am_sm_wanshua_p1"
+          }
+        }
+      ],
+      "DebugName": "play_amb_npc_animal_mo1jintinghoumd00401_am_sm_wanshua_p1",
+      "EventId": 3157048470
+    },
+    "MaximumDuration": 1.9616041,
+    "MinimumDuration": 1.9616041,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 1500.0
+  }
+]

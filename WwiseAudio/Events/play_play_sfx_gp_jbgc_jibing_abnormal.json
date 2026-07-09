@@ -1,0 +1,78 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_play_sfx_gp_jbgc_jibing_abnormal",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_play_sfx_gp_jbgc_jibing_abnormal",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2257059186,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2257059186,
+                "SoundBankPathName": "Event/play_play_sfx_gp_jbgc_jibing_abnormal.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_play_sfx_gp_jbgc_jibing_abnormal",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 287197865,
+                "MediaPathName": "Media/287197865.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\2.7\\amb_emit_wood_hits_loop.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 470462031,
+                "MediaPathName": "Media/470462031.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\RoleBattle\\Impact\\role_com_imp_texture_wood_light_05.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 797419433,
+                "MediaPathName": "Media/797419433.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\amb_emit_3_5_metalgears.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_play_sfx_gp_jbgc_jibing_abnormal"
+          }
+        }
+      ],
+      "DebugName": "play_play_sfx_gp_jbgc_jibing_abnormal",
+      "EventId": 2257059186
+    },
+    "MaximumDuration": 3.8737133,
+    "MinimumDuration": 3.8737133,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

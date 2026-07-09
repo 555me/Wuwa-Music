@@ -44,7 +44,7 @@
                 "PrefetchSize": 0,
                 "MemoryAlignment": 16,
                 "bDeviceMemory": false,
-                "bStreaming": false,
+                "bStreaming": true,
                 "DebugName": "Voices\\ja\\role\\branch_3,5\\suisui\\ja_vo_suisui_com_hpdown01_word.wav",
                 "PackagedFile": null
               },
@@ -81,7 +81,7 @@
       "EventId": 3094113048
     },
     "MaximumDuration": 2.1565626,
-    "MinimumDuration": 0.0,
+    "MinimumDuration": 1.2046666,
     "IsInfinite": false,
     "MaxAttenuationRadius": 5000.0
   }

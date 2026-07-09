@@ -54,7 +54,7 @@
                 "PrefetchSize": 0,
                 "MemoryAlignment": 16,
                 "bDeviceMemory": false,
-                "bStreaming": false,
+                "bStreaming": true,
                 "DebugName": "Voices\\ja\\role\\branch_3,5\\yangyang2\\ja_vo_yangyang2_com_hxchange_word.wav",
                 "PackagedFile": null
               },
@@ -80,8 +80,8 @@
       "DebugName": "play_vo_yangyang2_com_hxchange",
       "EventId": 3065762525
     },
-    "MaximumDuration": 1.4701458,
-    "MinimumDuration": 0.0,
+    "MaximumDuration": 2.23325,
+    "MinimumDuration": 0.8054583,
     "IsInfinite": false,
     "MaxAttenuationRadius": 5000.0
   }

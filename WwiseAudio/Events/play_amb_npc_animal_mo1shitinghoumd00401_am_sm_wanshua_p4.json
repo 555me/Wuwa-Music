@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_amb_npc_animal_mo1shitinghoumd00401_am_sm_wanshua_p4",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_amb_npc_animal_mo1shitinghoumd00401_am_sm_wanshua_p4",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1371141268,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1371141268,
+                "SoundBankPathName": "Event/play_amb_npc_animal_mo1shitinghoumd00401_am_sm_wanshua_p4.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_amb_npc_animal_mo1shitinghoumd00401_am_sm_wanshua_p4",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 875248548,
+                "MediaPathName": "Media/875248548.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "amb_npc_animal_MO1ShiTingHouMd00401_AM_SM_WanShua_P4.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_amb_npc_animal_mo1shitinghoumd00401_am_sm_wanshua_p4"
+          }
+        }
+      ],
+      "DebugName": "play_amb_npc_animal_mo1shitinghoumd00401_am_sm_wanshua_p4",
+      "EventId": 1371141268
+    },
+    "MaximumDuration": 1.8379583,
+    "MinimumDuration": 1.8379583,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 1500.0
+  }
+]

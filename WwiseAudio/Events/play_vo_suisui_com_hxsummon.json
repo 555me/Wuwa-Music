@@ -44,7 +44,7 @@
                 "PrefetchSize": 0,
                 "MemoryAlignment": 16,
                 "bDeviceMemory": false,
-                "bStreaming": false,
+                "bStreaming": true,
                 "DebugName": "Voices\\ja\\role\\branch_3,5\\suisui\\ja_vo_suisui_com_hxsummon_word.wav",
                 "PackagedFile": null
               },
@@ -54,7 +54,7 @@
                 "PrefetchSize": 0,
                 "MemoryAlignment": 16,
                 "bDeviceMemory": false,
-                "bStreaming": false,
+                "bStreaming": true,
                 "DebugName": "Voices\\ko\\role\\branch_3,5\\suisui\\ko_vo_suisui_com_hxsummon_word.wav",
                 "PackagedFile": null
               },
@@ -81,7 +81,7 @@
       "EventId": 3002588176
     },
     "MaximumDuration": 2.7629583,
-    "MinimumDuration": 0.0,
+    "MinimumDuration": 2.0345,
     "IsInfinite": false,
     "MaxAttenuationRadius": 5000.0
   }

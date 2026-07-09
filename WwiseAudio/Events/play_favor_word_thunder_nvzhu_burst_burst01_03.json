@@ -44,7 +44,7 @@
                 "PrefetchSize": 0,
                 "MemoryAlignment": 16,
                 "bDeviceMemory": false,
-                "bStreaming": false,
+                "bStreaming": true,
                 "DebugName": "Voices\\ko\\role\\branch_3,5\\thunder_nvzhu\\ko_vo_thunder_nvzhu_burst_burst01_03_word.wav",
                 "PackagedFile": null
               },
@@ -64,7 +64,7 @@
                 "PrefetchSize": 0,
                 "MemoryAlignment": 16,
                 "bDeviceMemory": false,
-                "bStreaming": false,
+                "bStreaming": true,
                 "DebugName": "Voices\\ja\\role\\branch_3,5\\thunder_nvzhu\\ja_vo_thunder_nvzhu_burst_burst01_03_word.wav",
                 "PackagedFile": null
               }
@@ -81,7 +81,7 @@
       "EventId": 983588719
     },
     "MaximumDuration": 2.693771,
-    "MinimumDuration": 0.0,
+    "MinimumDuration": 2.4360833,
     "IsInfinite": false,
     "MaxAttenuationRadius": 0.0
   }

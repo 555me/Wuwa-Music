@@ -37,6 +37,16 @@
                 "bStreaming": true,
                 "DebugName": "SFX\\gameplay\\3_5\\sfx_gp_boss_canxiang_pierce.wav",
                 "PackagedFile": null
+              },
+              {
+                "MediaId": 995777262,
+                "MediaPathName": "Media/995777262.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\gameplay\\3_5\\sfx_gp_boss_canxiang_pierce.wav",
+                "PackagedFile": null
               }
             ],
             "ExternalSources": [],
@@ -50,8 +60,8 @@
       "DebugName": "play_sfx_gp_boss_canxiang_pierce",
       "EventId": 1796556696
     },
-    "MaximumDuration": 33.242004,
-    "MinimumDuration": 33.242004,
+    "MaximumDuration": 31.825302,
+    "MinimumDuration": 31.825302,
     "IsInfinite": false,
     "MaxAttenuationRadius": 0.0
   }

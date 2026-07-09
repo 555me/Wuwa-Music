@@ -30,7 +30,14 @@
             "Media": [],
             "ExternalSources": [],
             "SwitchContainerLeaves": [],
-            "RequiredGroupValueSet": [],
+            "RequiredGroupValueSet": [
+              {
+                "Type": "EWwiseGroupType::State",
+                "GroupId": -1180648622,
+                "Id": 1842718300,
+                "DebugName": "demo"
+              }
+            ],
             "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
             "DebugName": "play_music_stinger_09"
           }

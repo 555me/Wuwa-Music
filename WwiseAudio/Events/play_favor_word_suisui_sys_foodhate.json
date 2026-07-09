@@ -44,7 +44,7 @@
                 "PrefetchSize": 0,
                 "MemoryAlignment": 16,
                 "bDeviceMemory": false,
-                "bStreaming": false,
+                "bStreaming": true,
                 "DebugName": "Voices\\ja\\role\\branch_3,5\\suisui\\ja_vo_suisui_sys_foodhate_word.wav",
                 "PackagedFile": null
               },
@@ -54,7 +54,7 @@
                 "PrefetchSize": 0,
                 "MemoryAlignment": 16,
                 "bDeviceMemory": false,
-                "bStreaming": false,
+                "bStreaming": true,
                 "DebugName": "Voices\\ko\\role\\branch_3,5\\suisui\\ko_vo_suisui_sys_foodhate_word.wav",
                 "PackagedFile": null
               },
@@ -81,7 +81,7 @@
       "EventId": 170216899
     },
     "MaximumDuration": 21.58475,
-    "MinimumDuration": 0.0,
+    "MinimumDuration": 15.270667,
     "IsInfinite": false,
     "MaxAttenuationRadius": 0.0
   }

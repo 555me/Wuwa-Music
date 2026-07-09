@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_amb_npc_animal_mo1yujiamd00101_am_sm_paoxiao_p3",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_amb_npc_animal_mo1yujiamd00101_am_sm_paoxiao_p3",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2351084638,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2351084638,
+                "SoundBankPathName": "Event/play_amb_npc_animal_mo1yujiamd00101_am_sm_paoxiao_p3.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_amb_npc_animal_mo1yujiamd00101_am_sm_paoxiao_p3",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 221094051,
+                "MediaPathName": "Media/221094051.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb_npc_animal_MO1YuJiaMd00101_AM_SM_PaoXiao_P3.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_amb_npc_animal_mo1yujiamd00101_am_sm_paoxiao_p3"
+          }
+        }
+      ],
+      "DebugName": "play_amb_npc_animal_mo1yujiamd00101_am_sm_paoxiao_p3",
+      "EventId": 2351084638
+    },
+    "MaximumDuration": 4.701479,
+    "MinimumDuration": 4.701479,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 1500.0
+  }
+]

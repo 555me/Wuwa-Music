@@ -1,0 +1,57 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "stop_music_3_5_yishikongjian_jbgc",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/stop_music_3_5_yishikongjian_jbgc",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2734487524,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2734487524,
+                "SoundBankPathName": "Event/stop_music_3_5_yishikongjian_jbgc.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "stop_music_3_5_yishikongjian_jbgc",
+                "PackagedFile": null
+              },
+              {
+                "SoundBankId": 824092782,
+                "SoundBankPathName": "Event/play_music_3_5_yishikongjian_jbgc.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_music_3_5_yishikongjian_jbgc",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "stop_music_3_5_yishikongjian_jbgc"
+          }
+        }
+      ],
+      "DebugName": "stop_music_3_5_yishikongjian_jbgc",
+      "EventId": 2734487524
+    },
+    "MaximumDuration": 0.0,
+    "MinimumDuration": 0.0,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

@@ -1,0 +1,88 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_mp1mo1jibinmd00001_move",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_mp1mo1jibinmd00001_move",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3757193023,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3757193023,
+                "SoundBankPathName": "Event/play_sfx_mp1mo1jibinmd00001_move.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_mp1mo1jibinmd00001_move",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 28128352,
+                "MediaPathName": "Media/28128352.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX_MP1MO1JiBinMd00001_move_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 72933690,
+                "MediaPathName": "Media/72933690.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX_MP1MO1JiBinMd00001_move_3.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 344573379,
+                "MediaPathName": "Media/344573379.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX_MP1MO1JiBinMd00001_move_2.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 483970939,
+                "MediaPathName": "Media/483970939.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX_MP1MO1JiBinMd00001_move_1.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_mp1mo1jibinmd00001_move"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_mp1mo1jibinmd00001_move",
+      "EventId": 3757193023
+    },
+    "MaximumDuration": 1.032,
+    "MinimumDuration": 1.032,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 1500.0
+  }
+]

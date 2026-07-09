@@ -54,7 +54,7 @@
                 "PrefetchSize": 0,
                 "MemoryAlignment": 16,
                 "bDeviceMemory": false,
-                "bStreaming": false,
+                "bStreaming": true,
                 "DebugName": "Voices\\ja\\role\\branch_3,5\\yangyang2\\ja_vo_yangyang2_com_accelerate_word.wav",
                 "PackagedFile": null
               },
@@ -80,8 +80,8 @@
       "DebugName": "play_favor_word_yangyang2_com_accelerate",
       "EventId": 3981840404
     },
-    "MaximumDuration": 1.4447708,
-    "MinimumDuration": 0.0,
+    "MaximumDuration": 2.44425,
+    "MinimumDuration": 1.4207083,
     "IsInfinite": false,
     "MaxAttenuationRadius": 0.0
   }

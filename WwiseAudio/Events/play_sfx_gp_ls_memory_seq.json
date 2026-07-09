@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_ls_memory_seq",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_ls_memory_seq",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3906355257,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3906355257,
+                "SoundBankPathName": "Event/play_sfx_gp_ls_memory_seq.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_ls_memory_seq",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 963902324,
+                "MediaPathName": "Media/963902324.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "sfx_gp_Ls_Memory_seq.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_ls_memory_seq"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_ls_memory_seq",
+      "EventId": 3906355257
+    },
+    "MaximumDuration": 28.919542,
+    "MinimumDuration": 28.919542,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]
