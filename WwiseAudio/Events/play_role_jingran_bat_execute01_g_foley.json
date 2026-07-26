@@ -1,10 +1,10 @@
 [
   {
     "Type": "AkAudioEvent",
-    "Name": "play_role_jingran_ui_nature_end",
+    "Name": "play_role_jingran_bat_execute01_g_foley",
     "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
     "Class": "UScriptClass'AkAudioEvent'",
-    "Package": "Client/Content/Aki/WwiseAudio/Events/play_role_jingran_ui_nature_end",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_role_jingran_bat_execute01_g_foley",
     "EventCookedData": {
       "EventLanguageMap": [
         {
@@ -14,28 +14,28 @@
             "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
           },
           "Value": {
-            "EventId": 3400766857,
+            "EventId": 3800217597,
             "SoundBanks": [
               {
-                "SoundBankId": 3400766857,
-                "SoundBankPathName": "Event/play_role_jingran_ui_nature_end.bnk",
+                "SoundBankId": 3800217597,
+                "SoundBankPathName": "Event/play_role_jingran_bat_execute01_g_foley.bnk",
                 "MemoryAlignment": 16,
                 "bDeviceMemory": false,
                 "bContainsMedia": false,
                 "SoundBankType": "EWwiseSoundBankType::Event",
-                "DebugName": "play_role_jingran_ui_nature_end",
+                "DebugName": "play_role_jingran_bat_execute01_g_foley",
                 "PackagedFile": null
               }
             ],
             "Media": [
               {
-                "MediaId": 913472176,
-                "MediaPathName": "Media/913472176.wem",
+                "MediaId": 705175510,
+                "MediaPathName": "Media/705175510.wem",
                 "PrefetchSize": 0,
                 "MemoryAlignment": 16,
                 "bDeviceMemory": false,
                 "bStreaming": true,
-                "DebugName": "role\\role_bat_Jingran\\Ui\\role_Jingran_ui_nature_end.wav",
+                "DebugName": "role\\role_bat_Jingran\\Foley\\role_Jingran_bat_execute01_g_foley.wav",
                 "PackagedFile": null
               }
             ],
@@ -43,16 +43,16 @@
             "SwitchContainerLeaves": [],
             "RequiredGroupValueSet": [],
             "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
-            "DebugName": "play_role_jingran_ui_nature_end"
+            "DebugName": "play_role_jingran_bat_execute01_g_foley"
           }
         }
       ],
-      "DebugName": "play_role_jingran_ui_nature_end",
-      "EventId": 3400766857
+      "DebugName": "play_role_jingran_bat_execute01_g_foley",
+      "EventId": 3800217597
     },
-    "MaximumDuration": 6.0,
-    "MinimumDuration": 6.0,
+    "MaximumDuration": 3.5,
+    "MinimumDuration": 3.5,
     "IsInfinite": false,
-    "MaxAttenuationRadius": 0.0
+    "MaxAttenuationRadius": 5000.0
   }
 ]

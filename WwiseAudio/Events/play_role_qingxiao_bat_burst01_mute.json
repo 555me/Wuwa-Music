@@ -1,10 +1,10 @@
 [
   {
     "Type": "AkAudioEvent",
-    "Name": "play_role_jingran_ui_weapon_end",
+    "Name": "play_role_qingxiao_bat_burst01_mute",
     "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
     "Class": "UScriptClass'AkAudioEvent'",
-    "Package": "Client/Content/Aki/WwiseAudio/Events/play_role_jingran_ui_weapon_end",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_role_qingxiao_bat_burst01_mute",
     "EventCookedData": {
       "EventLanguageMap": [
         {
@@ -14,44 +14,33 @@
             "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
           },
           "Value": {
-            "EventId": 36092340,
+            "EventId": 746219195,
             "SoundBanks": [
               {
-                "SoundBankId": 36092340,
-                "SoundBankPathName": "Event/play_role_jingran_ui_weapon_end.bnk",
+                "SoundBankId": 746219195,
+                "SoundBankPathName": "Event/play_role_qingxiao_bat_burst01_mute.bnk",
                 "MemoryAlignment": 16,
                 "bDeviceMemory": false,
                 "bContainsMedia": false,
                 "SoundBankType": "EWwiseSoundBankType::Event",
-                "DebugName": "play_role_jingran_ui_weapon_end",
+                "DebugName": "play_role_qingxiao_bat_burst01_mute",
                 "PackagedFile": null
               }
             ],
-            "Media": [
-              {
-                "MediaId": 247432196,
-                "MediaPathName": "Media/247432196.wem",
-                "PrefetchSize": 0,
-                "MemoryAlignment": 16,
-                "bDeviceMemory": false,
-                "bStreaming": true,
-                "DebugName": "role\\role_bat_Jingran\\Ui\\role_Jingran_ui_weapon_end.wav",
-                "PackagedFile": null
-              }
-            ],
+            "Media": [],
             "ExternalSources": [],
             "SwitchContainerLeaves": [],
             "RequiredGroupValueSet": [],
             "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
-            "DebugName": "play_role_jingran_ui_weapon_end"
+            "DebugName": "play_role_qingxiao_bat_burst01_mute"
           }
         }
       ],
-      "DebugName": "play_role_jingran_ui_weapon_end",
-      "EventId": 36092340
+      "DebugName": "play_role_qingxiao_bat_burst01_mute",
+      "EventId": 746219195
     },
-    "MaximumDuration": 5.0,
-    "MinimumDuration": 5.0,
+    "MaximumDuration": 0.0,
+    "MinimumDuration": 0.0,
     "IsInfinite": false,
     "MaxAttenuationRadius": 0.0
   }

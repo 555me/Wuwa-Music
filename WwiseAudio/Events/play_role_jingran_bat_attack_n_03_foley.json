@@ -27,7 +27,18 @@
                 "PackagedFile": null
               }
             ],
-            "Media": [],
+            "Media": [
+              {
+                "MediaId": 615193957,
+                "MediaPathName": "Media/615193957.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "role\\role_bat_Jingran\\Foley\\role_Jingran_bat_attack_n_03_foley.wav",
+                "PackagedFile": null
+              }
+            ],
             "ExternalSources": [],
             "SwitchContainerLeaves": [],
             "RequiredGroupValueSet": [],
@@ -39,8 +50,8 @@
       "DebugName": "play_role_jingran_bat_attack_n_03_foley",
       "EventId": 2506415994
     },
-    "MaximumDuration": 0.0,
-    "MinimumDuration": 0.0,
+    "MaximumDuration": 12.0,
+    "MinimumDuration": 12.0,
     "IsInfinite": false,
     "MaxAttenuationRadius": 5000.0
   }
