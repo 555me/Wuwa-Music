@@ -1,0 +1,78 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_role_jingran_bat_skill_n_02_loop",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_role_jingran_bat_skill_n_02_loop",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3674609413,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3674609413,
+                "SoundBankPathName": "Event/play_role_jingran_bat_skill_n_02_loop.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_role_jingran_bat_skill_n_02_loop",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 70666306,
+                "MediaPathName": "Media/70666306.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "role\\role_bat_Jingran\\role_Jingran_bat_skill_n_02_loop_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 522117208,
+                "MediaPathName": "Media/522117208.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "role\\role_bat_Jingran\\role_Jingran_bat_skill_n_02_loop_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1054863025,
+                "MediaPathName": "Media/1054863025.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "role\\role_bat_Jingran\\role_Jingran_bat_skill_n_02_loop_02.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_role_jingran_bat_skill_n_02_loop"
+          }
+        }
+      ],
+      "DebugName": "play_role_jingran_bat_skill_n_02_loop",
+      "EventId": 3674609413
+    },
+    "MaximumDuration": 6.173755,
+    "MinimumDuration": 5.8272486,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

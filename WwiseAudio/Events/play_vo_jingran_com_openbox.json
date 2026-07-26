@@ -1,0 +1,168 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_jingran_com_openbox",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_jingran_com_openbox",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3682693947,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3682693947,
+                "SoundBankPathName": "Event/play_vo_jingran_com_openbox.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_jingran_com_openbox",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 866377431,
+                "MediaPathName": "Media/866377431.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\en_vo_jingran_com_openbox_03_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 843080040,
+                "MediaPathName": "Media/843080040.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\zh_vo_jingran_com_openbox_03_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 150121299,
+                "MediaPathName": "Media/150121299.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\ko_vo_jingran_com_openbox_03_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 809685550,
+                "MediaPathName": "Media/809685550.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\ja_vo_jingran_com_openbox_03_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 889919174,
+                "MediaPathName": "Media/889919174.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\en_vo_jingran_com_openbox_01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 829119050,
+                "MediaPathName": "Media/829119050.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\zh_vo_jingran_com_openbox_01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 693570111,
+                "MediaPathName": "Media/693570111.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\ko_vo_jingran_com_openbox_01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 976322453,
+                "MediaPathName": "Media/976322453.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\ja_vo_jingran_com_openbox_01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 770081064,
+                "MediaPathName": "Media/770081064.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\en_vo_jingran_com_openbox_02_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 197662058,
+                "MediaPathName": "Media/197662058.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\zh_vo_jingran_com_openbox_02_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 235217891,
+                "MediaPathName": "Media/235217891.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\ko_vo_jingran_com_openbox_02_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 338040762,
+                "MediaPathName": "Media/338040762.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\ja_vo_jingran_com_openbox_02_word.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_jingran_com_openbox"
+          }
+        }
+      ],
+      "DebugName": "play_vo_jingran_com_openbox",
+      "EventId": 3682693947
+    },
+    "MaximumDuration": 3.68625,
+    "MinimumDuration": 0.0,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

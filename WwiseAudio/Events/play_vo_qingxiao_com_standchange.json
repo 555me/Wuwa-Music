@@ -1,0 +1,88 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_qingxiao_com_standchange",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_qingxiao_com_standchange",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 536734955,
+            "SoundBanks": [
+              {
+                "SoundBankId": 536734955,
+                "SoundBankPathName": "Event/play_vo_qingxiao_com_standchange.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_qingxiao_com_standchange",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 719228327,
+                "MediaPathName": "Media/719228327.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\qingxiao\\zh_vo_qingxiao_com_standchange_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 963544376,
+                "MediaPathName": "Media/963544376.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\qingxiao\\ko_vo_qingxiao_com_standchange_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 416900979,
+                "MediaPathName": "Media/416900979.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\qingxiao\\en_vo_qingxiao_com_standchange_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 970364167,
+                "MediaPathName": "Media/970364167.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\qingxiao\\ja_vo_qingxiao_com_standchange_word.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_qingxiao_com_standchange"
+          }
+        }
+      ],
+      "DebugName": "play_vo_qingxiao_com_standchange",
+      "EventId": 536734955
+    },
+    "MaximumDuration": 3.954,
+    "MinimumDuration": 0.0,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

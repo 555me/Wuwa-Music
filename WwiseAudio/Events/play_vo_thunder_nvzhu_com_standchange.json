@@ -44,7 +44,7 @@
                 "PrefetchSize": 0,
                 "MemoryAlignment": 16,
                 "bDeviceMemory": false,
-                "bStreaming": true,
+                "bStreaming": false,
                 "DebugName": "Voices\\ko\\role\\branch_3,5\\thunder_nvzhu\\ko_vo_thunder_nvzhu_com_standchange_tone.wav",
                 "PackagedFile": null
               },
@@ -64,7 +64,7 @@
                 "PrefetchSize": 0,
                 "MemoryAlignment": 16,
                 "bDeviceMemory": false,
-                "bStreaming": true,
+                "bStreaming": false,
                 "DebugName": "Voices\\ja\\role\\branch_3,5\\thunder_nvzhu\\ja_vo_thunder_nvzhu_com_standchange_tone.wav",
                 "PackagedFile": null
               }
@@ -80,8 +80,8 @@
       "DebugName": "play_vo_thunder_nvzhu_com_standchange",
       "EventId": 1294066433
     },
-    "MaximumDuration": 3.8569791,
-    "MinimumDuration": 3.3944166,
+    "MaximumDuration": 3.48975,
+    "MinimumDuration": 0.0,
     "IsInfinite": false,
     "MaxAttenuationRadius": 5000.0
   }

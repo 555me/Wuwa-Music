@@ -1,0 +1,168 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_qingxiao_com_jump",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_qingxiao_com_jump",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3459558305,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3459558305,
+                "SoundBankPathName": "Event/play_vo_qingxiao_com_jump.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_qingxiao_com_jump",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 237228118,
+                "MediaPathName": "Media/237228118.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\qingxiao\\zh_vo_qingxiao_com_jump_01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 408735865,
+                "MediaPathName": "Media/408735865.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\qingxiao\\ko_vo_qingxiao_com_jump_01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 444319835,
+                "MediaPathName": "Media/444319835.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\qingxiao\\en_vo_qingxiao_com_jump_01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 737723288,
+                "MediaPathName": "Media/737723288.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\qingxiao\\ja_vo_qingxiao_com_jump_01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 650851630,
+                "MediaPathName": "Media/650851630.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\qingxiao\\zh_vo_qingxiao_com_jump_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 321101542,
+                "MediaPathName": "Media/321101542.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\qingxiao\\ko_vo_qingxiao_com_jump_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 601671897,
+                "MediaPathName": "Media/601671897.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\qingxiao\\en_vo_qingxiao_com_jump_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 654458396,
+                "MediaPathName": "Media/654458396.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\qingxiao\\ja_vo_qingxiao_com_jump_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1044659015,
+                "MediaPathName": "Media/1044659015.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\qingxiao\\zh_vo_qingxiao_com_jump_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 866857673,
+                "MediaPathName": "Media/866857673.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\qingxiao\\ko_vo_qingxiao_com_jump_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 361188031,
+                "MediaPathName": "Media/361188031.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\qingxiao\\en_vo_qingxiao_com_jump_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 37751186,
+                "MediaPathName": "Media/37751186.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\qingxiao\\ja_vo_qingxiao_com_jump_02_tone.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_qingxiao_com_jump"
+          }
+        }
+      ],
+      "DebugName": "play_vo_qingxiao_com_jump",
+      "EventId": 3459558305
+    },
+    "MaximumDuration": 0.206625,
+    "MinimumDuration": 0.0,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

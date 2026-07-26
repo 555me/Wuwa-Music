@@ -1,0 +1,168 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_qingxiao_com_behitfly",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_qingxiao_com_behitfly",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2139245020,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2139245020,
+                "SoundBankPathName": "Event/play_vo_qingxiao_com_behitfly.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_qingxiao_com_behitfly",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 662230457,
+                "MediaPathName": "Media/662230457.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\qingxiao\\zh_vo_qingxiao_com_behitfly_01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 729212562,
+                "MediaPathName": "Media/729212562.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\qingxiao\\ko_vo_qingxiao_com_behitfly_01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 662709753,
+                "MediaPathName": "Media/662709753.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\qingxiao\\en_vo_qingxiao_com_behitfly_01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 646695581,
+                "MediaPathName": "Media/646695581.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\qingxiao\\ja_vo_qingxiao_com_behitfly_01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 333299504,
+                "MediaPathName": "Media/333299504.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\qingxiao\\zh_vo_qingxiao_com_behitfly_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 347535834,
+                "MediaPathName": "Media/347535834.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\qingxiao\\ko_vo_qingxiao_com_behitfly_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 858547919,
+                "MediaPathName": "Media/858547919.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\qingxiao\\en_vo_qingxiao_com_behitfly_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 943796424,
+                "MediaPathName": "Media/943796424.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\qingxiao\\ja_vo_qingxiao_com_behitfly_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 283982086,
+                "MediaPathName": "Media/283982086.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\qingxiao\\zh_vo_qingxiao_com_behitfly_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 656796541,
+                "MediaPathName": "Media/656796541.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\qingxiao\\ko_vo_qingxiao_com_behitfly_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 238145427,
+                "MediaPathName": "Media/238145427.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\qingxiao\\en_vo_qingxiao_com_behitfly_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 925413282,
+                "MediaPathName": "Media/925413282.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\qingxiao\\ja_vo_qingxiao_com_behitfly_03_tone.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_qingxiao_com_behitfly"
+          }
+        }
+      ],
+      "DebugName": "play_vo_qingxiao_com_behitfly",
+      "EventId": 2139245020
+    },
+    "MaximumDuration": 1.5746666,
+    "MinimumDuration": 0.0,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

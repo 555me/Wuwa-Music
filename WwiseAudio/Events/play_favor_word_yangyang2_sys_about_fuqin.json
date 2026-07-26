@@ -54,7 +54,7 @@
                 "PrefetchSize": 0,
                 "MemoryAlignment": 16,
                 "bDeviceMemory": false,
-                "bStreaming": true,
+                "bStreaming": false,
                 "DebugName": "Voices\\ja\\role\\branch_3,5\\yangyang2\\ja_vo_yangyang2_sys_about_fuqin_word.wav",
                 "PackagedFile": null
               },
@@ -64,7 +64,7 @@
                 "PrefetchSize": 0,
                 "MemoryAlignment": 16,
                 "bDeviceMemory": false,
-                "bStreaming": true,
+                "bStreaming": false,
                 "DebugName": "Voices\\ko\\role\\branch_3,5\\yangyang2\\ko_vo_yangyang2_sys_about_fuqin_word.wav",
                 "PackagedFile": null
               }
@@ -80,8 +80,8 @@
       "DebugName": "play_favor_word_yangyang2_sys_about_fuqin",
       "EventId": 4033092278
     },
-    "MaximumDuration": 54.656563,
-    "MinimumDuration": 34.799103,
+    "MaximumDuration": 37.839874,
+    "MinimumDuration": 0.0,
     "IsInfinite": false,
     "MaxAttenuationRadius": 0.0
   }

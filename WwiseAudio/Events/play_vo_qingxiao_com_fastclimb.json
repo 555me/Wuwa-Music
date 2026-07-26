@@ -1,0 +1,168 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_qingxiao_com_fastclimb",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_qingxiao_com_fastclimb",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 907683322,
+            "SoundBanks": [
+              {
+                "SoundBankId": 907683322,
+                "SoundBankPathName": "Event/play_vo_qingxiao_com_fastclimb.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_qingxiao_com_fastclimb",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 390830484,
+                "MediaPathName": "Media/390830484.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\qingxiao\\zh_vo_qingxiao_com_fastclimb_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 461029127,
+                "MediaPathName": "Media/461029127.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\qingxiao\\ko_vo_qingxiao_com_fastclimb_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 623981244,
+                "MediaPathName": "Media/623981244.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\qingxiao\\en_vo_qingxiao_com_fastclimb_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 786336861,
+                "MediaPathName": "Media/786336861.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\qingxiao\\ja_vo_qingxiao_com_fastclimb_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 625355154,
+                "MediaPathName": "Media/625355154.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\qingxiao\\zh_vo_qingxiao_com_fastclimb_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 580945243,
+                "MediaPathName": "Media/580945243.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\qingxiao\\ko_vo_qingxiao_com_fastclimb_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 615974773,
+                "MediaPathName": "Media/615974773.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\qingxiao\\en_vo_qingxiao_com_fastclimb_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 314094170,
+                "MediaPathName": "Media/314094170.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\qingxiao\\ja_vo_qingxiao_com_fastclimb_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 34977057,
+                "MediaPathName": "Media/34977057.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\qingxiao\\zh_vo_qingxiao_com_fastclimb_01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 837820574,
+                "MediaPathName": "Media/837820574.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\qingxiao\\ko_vo_qingxiao_com_fastclimb_01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 732329048,
+                "MediaPathName": "Media/732329048.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\qingxiao\\en_vo_qingxiao_com_fastclimb_01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 820451671,
+                "MediaPathName": "Media/820451671.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\qingxiao\\ja_vo_qingxiao_com_fastclimb_01_tone.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_qingxiao_com_fastclimb"
+          }
+        }
+      ],
+      "DebugName": "play_vo_qingxiao_com_fastclimb",
+      "EventId": 907683322
+    },
+    "MaximumDuration": 0.244,
+    "MinimumDuration": 0.0,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

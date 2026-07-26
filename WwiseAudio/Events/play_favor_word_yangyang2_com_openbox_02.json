@@ -54,7 +54,7 @@
                 "PrefetchSize": 0,
                 "MemoryAlignment": 16,
                 "bDeviceMemory": false,
-                "bStreaming": true,
+                "bStreaming": false,
                 "DebugName": "Voices\\ja\\role\\branch_3,5\\yangyang2\\ja_vo_yangyang2_com_openbox_02_word.wav",
                 "PackagedFile": null
               },
@@ -80,8 +80,8 @@
       "DebugName": "play_favor_word_yangyang2_com_openbox_02",
       "EventId": 2267364359
     },
-    "MaximumDuration": 2.1182292,
-    "MinimumDuration": 1.5375209,
+    "MaximumDuration": 1.5732083,
+    "MinimumDuration": 0.0,
     "IsInfinite": false,
     "MaxAttenuationRadius": 0.0
   }

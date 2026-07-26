@@ -1,0 +1,168 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_jingran_com_fastclimb",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_jingran_com_fastclimb",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1897570381,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1897570381,
+                "SoundBankPathName": "Event/play_vo_jingran_com_fastclimb.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_jingran_com_fastclimb",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 911444490,
+                "MediaPathName": "Media/911444490.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\en_vo_jingran_com_fastclimb_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 873744431,
+                "MediaPathName": "Media/873744431.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\zh_vo_jingran_com_fastclimb_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 116134575,
+                "MediaPathName": "Media/116134575.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\ko_vo_jingran_com_fastclimb_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 194243810,
+                "MediaPathName": "Media/194243810.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\ja_vo_jingran_com_fastclimb_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 246672034,
+                "MediaPathName": "Media/246672034.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\en_vo_jingran_com_fastclimb_01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 868967034,
+                "MediaPathName": "Media/868967034.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\zh_vo_jingran_com_fastclimb_01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 869483336,
+                "MediaPathName": "Media/869483336.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\ko_vo_jingran_com_fastclimb_01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 148107644,
+                "MediaPathName": "Media/148107644.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\ja_vo_jingran_com_fastclimb_01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 82600058,
+                "MediaPathName": "Media/82600058.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\en_vo_jingran_com_fastclimb_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 415967432,
+                "MediaPathName": "Media/415967432.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\zh_vo_jingran_com_fastclimb_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 155909879,
+                "MediaPathName": "Media/155909879.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\ko_vo_jingran_com_fastclimb_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 993063515,
+                "MediaPathName": "Media/993063515.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\ja_vo_jingran_com_fastclimb_03_tone.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_jingran_com_fastclimb"
+          }
+        }
+      ],
+      "DebugName": "play_vo_jingran_com_fastclimb",
+      "EventId": 1897570381
+    },
+    "MaximumDuration": 2.9526668,
+    "MinimumDuration": 0.0,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

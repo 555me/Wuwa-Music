@@ -54,7 +54,7 @@
                 "PrefetchSize": 0,
                 "MemoryAlignment": 16,
                 "bDeviceMemory": false,
-                "bStreaming": true,
+                "bStreaming": false,
                 "DebugName": "Voices\\ja\\role\\branch_3,5\\yangyang2\\ja_vo_yangyang2_burst_burst01_02_word.wav",
                 "PackagedFile": null
               },
@@ -64,7 +64,7 @@
                 "PrefetchSize": 0,
                 "MemoryAlignment": 16,
                 "bDeviceMemory": false,
-                "bStreaming": true,
+                "bStreaming": false,
                 "DebugName": "Voices\\ko\\role\\branch_3,5\\yangyang2\\ko_vo_yangyang2_burst_burst01_02_word.wav",
                 "PackagedFile": null
               }
@@ -81,7 +81,7 @@
       "EventId": 3529741416
     },
     "MaximumDuration": 3.1701667,
-    "MinimumDuration": 2.6857293,
+    "MinimumDuration": 0.0,
     "IsInfinite": false,
     "MaxAttenuationRadius": 0.0
   }

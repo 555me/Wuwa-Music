@@ -1,0 +1,78 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_role_jingran_bat_skill_qte_g",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_role_jingran_bat_skill_qte_g",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 119116687,
+            "SoundBanks": [
+              {
+                "SoundBankId": 119116687,
+                "SoundBankPathName": "Event/play_role_jingran_bat_skill_qte_g.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_role_jingran_bat_skill_qte_g",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 128240561,
+                "MediaPathName": "Media/128240561.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "role\\role_bat_Jingran\\role_Jingran_bat_skill_qte_g_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 765809118,
+                "MediaPathName": "Media/765809118.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "role\\role_bat_Jingran\\role_Jingran_bat_skill_qte_g_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 869614438,
+                "MediaPathName": "Media/869614438.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "role\\role_bat_Jingran\\role_Jingran_bat_skill_qte_g_03.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_role_jingran_bat_skill_qte_g"
+          }
+        }
+      ],
+      "DebugName": "play_role_jingran_bat_skill_qte_g",
+      "EventId": 119116687
+    },
+    "MaximumDuration": 3.0879068,
+    "MinimumDuration": 2.9145958,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

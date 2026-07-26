@@ -104,7 +104,7 @@
                 "PrefetchSize": 0,
                 "MemoryAlignment": 16,
                 "bDeviceMemory": false,
-                "bStreaming": true,
+                "bStreaming": false,
                 "DebugName": "Voices\\ko\\role\\branch_3,5\\yangyang2\\ko_vo_yangyang2_com_fly_01_word.wav",
                 "PackagedFile": null
               },
@@ -160,8 +160,8 @@
       "DebugName": "play_vo_yangyang2_com_fly",
       "EventId": 1042859880
     },
-    "MaximumDuration": 2.059375,
-    "MinimumDuration": 0.18589583,
+    "MaximumDuration": 1.5201666,
+    "MinimumDuration": 0.0,
     "IsInfinite": false,
     "MaxAttenuationRadius": 5000.0
   }

@@ -9,23 +9,13 @@
       "EventLanguageMap": [
         {
           "Key": {
-            "LanguageId": 1819748192,
-            "LanguageName": "en",
-            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
           },
           "Value": {
             "EventId": 1572399500,
             "SoundBanks": [
-              {
-                "SoundBankId": 656843245,
-                "SoundBankPathName": "Event/en/play_all_sound_m3_10_08B.bnk",
-                "MemoryAlignment": 16,
-                "bDeviceMemory": false,
-                "bContainsMedia": false,
-                "SoundBankType": "EWwiseSoundBankType::Event",
-                "DebugName": "play_all_sound_m3_10_08B",
-                "PackagedFile": null
-              },
               {
                 "SoundBankId": 1572399500,
                 "SoundBankPathName": "Event/set_state_music_m3_10_08_b.bnk",
@@ -35,140 +25,15 @@
                 "SoundBankType": "EWwiseSoundBankType::Event",
                 "DebugName": "set_state_music_m3_10_08_b",
                 "PackagedFile": null
-              }
-            ],
-            "Media": [],
-            "ExternalSources": [],
-            "SwitchContainerLeaves": [],
-            "RequiredGroupValueSet": [
-              {
-                "Type": "EWwiseGroupType::State",
-                "GroupId": -901793714,
-                "Id": 84696445,
-                "DebugName": "b"
-              }
-            ],
-            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
-            "DebugName": "set_state_music_m3_10_08_b"
-          }
-        },
-        {
-          "Key": {
-            "LanguageId": 1735860046,
-            "LanguageName": "ja",
-            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
-          },
-          "Value": {
-            "EventId": 1572399500,
-            "SoundBanks": [
+              },
               {
                 "SoundBankId": 656843245,
-                "SoundBankPathName": "Event/ja/play_all_sound_m3_10_08B.bnk",
+                "SoundBankPathName": "Event/play_all_sound_m3_10_08B.bnk",
                 "MemoryAlignment": 16,
                 "bDeviceMemory": false,
                 "bContainsMedia": false,
                 "SoundBankType": "EWwiseSoundBankType::Event",
                 "DebugName": "play_all_sound_m3_10_08B",
-                "PackagedFile": null
-              },
-              {
-                "SoundBankId": 1572399500,
-                "SoundBankPathName": "Event/set_state_music_m3_10_08_b.bnk",
-                "MemoryAlignment": 16,
-                "bDeviceMemory": false,
-                "bContainsMedia": false,
-                "SoundBankType": "EWwiseSoundBankType::Event",
-                "DebugName": "set_state_music_m3_10_08_b",
-                "PackagedFile": null
-              }
-            ],
-            "Media": [],
-            "ExternalSources": [],
-            "SwitchContainerLeaves": [],
-            "RequiredGroupValueSet": [
-              {
-                "Type": "EWwiseGroupType::State",
-                "GroupId": -901793714,
-                "Id": 84696445,
-                "DebugName": "b"
-              }
-            ],
-            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
-            "DebugName": "set_state_music_m3_10_08_b"
-          }
-        },
-        {
-          "Key": {
-            "LanguageId": 1719082483,
-            "LanguageName": "ko",
-            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
-          },
-          "Value": {
-            "EventId": 1572399500,
-            "SoundBanks": [
-              {
-                "SoundBankId": 656843245,
-                "SoundBankPathName": "Event/ko/play_all_sound_m3_10_08B.bnk",
-                "MemoryAlignment": 16,
-                "bDeviceMemory": false,
-                "bContainsMedia": false,
-                "SoundBankType": "EWwiseSoundBankType::Event",
-                "DebugName": "play_all_sound_m3_10_08B",
-                "PackagedFile": null
-              },
-              {
-                "SoundBankId": 1572399500,
-                "SoundBankPathName": "Event/set_state_music_m3_10_08_b.bnk",
-                "MemoryAlignment": 16,
-                "bDeviceMemory": false,
-                "bContainsMedia": false,
-                "SoundBankType": "EWwiseSoundBankType::Event",
-                "DebugName": "set_state_music_m3_10_08_b",
-                "PackagedFile": null
-              }
-            ],
-            "Media": [],
-            "ExternalSources": [],
-            "SwitchContainerLeaves": [],
-            "RequiredGroupValueSet": [
-              {
-                "Type": "EWwiseGroupType::State",
-                "GroupId": -901793714,
-                "Id": 84696445,
-                "DebugName": "b"
-              }
-            ],
-            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
-            "DebugName": "set_state_music_m3_10_08_b"
-          }
-        },
-        {
-          "Key": {
-            "LanguageId": 1467418007,
-            "LanguageName": "zh",
-            "LanguageRequirement": "EWwiseLanguageRequirement::IsDefault"
-          },
-          "Value": {
-            "EventId": 1572399500,
-            "SoundBanks": [
-              {
-                "SoundBankId": 656843245,
-                "SoundBankPathName": "Event/zh/play_all_sound_m3_10_08B.bnk",
-                "MemoryAlignment": 16,
-                "bDeviceMemory": false,
-                "bContainsMedia": false,
-                "SoundBankType": "EWwiseSoundBankType::Event",
-                "DebugName": "play_all_sound_m3_10_08B",
-                "PackagedFile": null
-              },
-              {
-                "SoundBankId": 1572399500,
-                "SoundBankPathName": "Event/set_state_music_m3_10_08_b.bnk",
-                "MemoryAlignment": 16,
-                "bDeviceMemory": false,
-                "bContainsMedia": false,
-                "SoundBankType": "EWwiseSoundBankType::Event",
-                "DebugName": "set_state_music_m3_10_08_b",
                 "PackagedFile": null
               }
             ],

@@ -1,0 +1,168 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_jingran_com_dash",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_jingran_com_dash",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 4223070948,
+            "SoundBanks": [
+              {
+                "SoundBankId": 4223070948,
+                "SoundBankPathName": "Event/play_vo_jingran_com_dash.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_jingran_com_dash",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 155628586,
+                "MediaPathName": "Media/155628586.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\en_vo_jingran_com_dash_01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 523687055,
+                "MediaPathName": "Media/523687055.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\zh_vo_jingran_com_dash_01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 216792045,
+                "MediaPathName": "Media/216792045.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\ko_vo_jingran_com_dash_01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 151677473,
+                "MediaPathName": "Media/151677473.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\ja_vo_jingran_com_dash_01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 554656083,
+                "MediaPathName": "Media/554656083.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\en_vo_jingran_com_dash_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 530281918,
+                "MediaPathName": "Media/530281918.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\zh_vo_jingran_com_dash_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1048209487,
+                "MediaPathName": "Media/1048209487.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\ko_vo_jingran_com_dash_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1020874670,
+                "MediaPathName": "Media/1020874670.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\ja_vo_jingran_com_dash_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 389499010,
+                "MediaPathName": "Media/389499010.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\en_vo_jingran_com_dash_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 228126402,
+                "MediaPathName": "Media/228126402.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\zh_vo_jingran_com_dash_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 47135349,
+                "MediaPathName": "Media/47135349.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\ko_vo_jingran_com_dash_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 484634564,
+                "MediaPathName": "Media/484634564.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\ja_vo_jingran_com_dash_03_tone.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_jingran_com_dash"
+          }
+        }
+      ],
+      "DebugName": "play_vo_jingran_com_dash",
+      "EventId": 4223070948
+    },
+    "MaximumDuration": 0.245375,
+    "MinimumDuration": 0.0,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

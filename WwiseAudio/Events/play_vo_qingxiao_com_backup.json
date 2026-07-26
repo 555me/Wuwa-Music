@@ -1,0 +1,128 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_qingxiao_com_backup",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_qingxiao_com_backup",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 400590639,
+            "SoundBanks": [
+              {
+                "SoundBankId": 400590639,
+                "SoundBankPathName": "Event/play_vo_qingxiao_com_backup.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_qingxiao_com_backup",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 347492809,
+                "MediaPathName": "Media/347492809.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\qingxiao\\zh_vo_qingxiao_com_backup_01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 918805001,
+                "MediaPathName": "Media/918805001.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\qingxiao\\ko_vo_qingxiao_com_backup_01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 536195486,
+                "MediaPathName": "Media/536195486.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\qingxiao\\en_vo_qingxiao_com_backup_01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 481642605,
+                "MediaPathName": "Media/481642605.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\qingxiao\\ja_vo_qingxiao_com_backup_01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 412073103,
+                "MediaPathName": "Media/412073103.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\qingxiao\\zh_vo_qingxiao_com_backup_02_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 139819525,
+                "MediaPathName": "Media/139819525.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\qingxiao\\ko_vo_qingxiao_com_backup_02_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 46532411,
+                "MediaPathName": "Media/46532411.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\qingxiao\\en_vo_qingxiao_com_backup_02_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 490688679,
+                "MediaPathName": "Media/490688679.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\qingxiao\\ja_vo_qingxiao_com_backup_02_word.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_qingxiao_com_backup"
+          }
+        }
+      ],
+      "DebugName": "play_vo_qingxiao_com_backup",
+      "EventId": 400590639
+    },
+    "MaximumDuration": 1.4226667,
+    "MinimumDuration": 0.0,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

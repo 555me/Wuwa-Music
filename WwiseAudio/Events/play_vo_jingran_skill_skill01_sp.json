@@ -1,0 +1,168 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_jingran_skill_skill01_sp",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_jingran_skill_skill01_sp",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3007956436,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3007956436,
+                "SoundBankPathName": "Event/play_vo_jingran_skill_skill01_sp.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_jingran_skill_skill01_sp",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 959724106,
+                "MediaPathName": "Media/959724106.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\en_vo_jingran_skill_skill01_sp_03_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 153398665,
+                "MediaPathName": "Media/153398665.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\zh_vo_jingran_skill_skill01_sp_03_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 545889204,
+                "MediaPathName": "Media/545889204.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\ko_vo_jingran_skill_skill01_sp_03_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 489031214,
+                "MediaPathName": "Media/489031214.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\ja_vo_jingran_skill_skill01_sp_03_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 157461215,
+                "MediaPathName": "Media/157461215.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\en_vo_jingran_skill_skill01_sp_02_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 252684495,
+                "MediaPathName": "Media/252684495.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\zh_vo_jingran_skill_skill01_sp_02_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 920205001,
+                "MediaPathName": "Media/920205001.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\ko_vo_jingran_skill_skill01_sp_02_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 544642091,
+                "MediaPathName": "Media/544642091.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\ja_vo_jingran_skill_skill01_sp_02_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 773721638,
+                "MediaPathName": "Media/773721638.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\en_vo_jingran_skill_skill01_sp_01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 440632017,
+                "MediaPathName": "Media/440632017.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\zh_vo_jingran_skill_skill01_sp_01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 210425248,
+                "MediaPathName": "Media/210425248.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\ko_vo_jingran_skill_skill01_sp_01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 258066873,
+                "MediaPathName": "Media/258066873.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\ja_vo_jingran_skill_skill01_sp_01_word.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_jingran_skill_skill01_sp"
+          }
+        }
+      ],
+      "DebugName": "play_vo_jingran_skill_skill01_sp",
+      "EventId": 3007956436
+    },
+    "MaximumDuration": 1.316,
+    "MinimumDuration": 0.0,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

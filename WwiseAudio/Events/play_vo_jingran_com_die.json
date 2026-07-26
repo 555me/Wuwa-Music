@@ -1,0 +1,168 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_jingran_com_die",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_jingran_com_die",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3246521978,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3246521978,
+                "SoundBankPathName": "Event/play_vo_jingran_com_die.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_jingran_com_die",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 945167087,
+                "MediaPathName": "Media/945167087.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\en_vo_jingran_com_die_01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 578862366,
+                "MediaPathName": "Media/578862366.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\zh_vo_jingran_com_die_01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 661311599,
+                "MediaPathName": "Media/661311599.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\ko_vo_jingran_com_die_01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 107160421,
+                "MediaPathName": "Media/107160421.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\ja_vo_jingran_com_die_01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 688918378,
+                "MediaPathName": "Media/688918378.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\en_vo_jingran_com_die_02_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 708135252,
+                "MediaPathName": "Media/708135252.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\zh_vo_jingran_com_die_02_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 295648179,
+                "MediaPathName": "Media/295648179.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\ko_vo_jingran_com_die_02_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 330867715,
+                "MediaPathName": "Media/330867715.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\ja_vo_jingran_com_die_02_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 794607967,
+                "MediaPathName": "Media/794607967.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\en_vo_jingran_com_die_03_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 645455585,
+                "MediaPathName": "Media/645455585.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\zh_vo_jingran_com_die_03_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 213100081,
+                "MediaPathName": "Media/213100081.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\ko_vo_jingran_com_die_03_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 774245049,
+                "MediaPathName": "Media/774245049.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\ja_vo_jingran_com_die_03_word.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_jingran_com_die"
+          }
+        }
+      ],
+      "DebugName": "play_vo_jingran_com_die",
+      "EventId": 3246521978
+    },
+    "MaximumDuration": 3.5714583,
+    "MinimumDuration": 0.0,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

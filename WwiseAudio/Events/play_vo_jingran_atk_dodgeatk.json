@@ -1,0 +1,168 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_jingran_atk_dodgeatk",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_jingran_atk_dodgeatk",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1138402806,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1138402806,
+                "SoundBankPathName": "Event/play_vo_jingran_atk_dodgeatk.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_jingran_atk_dodgeatk",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 513315528,
+                "MediaPathName": "Media/513315528.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\en_vo_jingran_atk_dodgeatk_01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 184082945,
+                "MediaPathName": "Media/184082945.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\zh_vo_jingran_atk_dodgeatk_01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 14529247,
+                "MediaPathName": "Media/14529247.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\ko_vo_jingran_atk_dodgeatk_01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 495976980,
+                "MediaPathName": "Media/495976980.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\ja_vo_jingran_atk_dodgeatk_01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1068056753,
+                "MediaPathName": "Media/1068056753.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\en_vo_jingran_atk_dodgeatk_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 819870465,
+                "MediaPathName": "Media/819870465.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\zh_vo_jingran_atk_dodgeatk_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 274874901,
+                "MediaPathName": "Media/274874901.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\ko_vo_jingran_atk_dodgeatk_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 589675044,
+                "MediaPathName": "Media/589675044.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\ja_vo_jingran_atk_dodgeatk_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 523873813,
+                "MediaPathName": "Media/523873813.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\en_vo_jingran_atk_dodgeatk_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 698378204,
+                "MediaPathName": "Media/698378204.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\zh_vo_jingran_atk_dodgeatk_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 298702775,
+                "MediaPathName": "Media/298702775.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\ko_vo_jingran_atk_dodgeatk_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 25765898,
+                "MediaPathName": "Media/25765898.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\ja_vo_jingran_atk_dodgeatk_02_tone.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_jingran_atk_dodgeatk"
+          }
+        }
+      ],
+      "DebugName": "play_vo_jingran_atk_dodgeatk",
+      "EventId": 1138402806
+    },
+    "MaximumDuration": 0.81133336,
+    "MinimumDuration": 0.0,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

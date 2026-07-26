@@ -1,0 +1,128 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_jingran_atk_fallingatk_end_b",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_jingran_atk_fallingatk_end_b",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 236859931,
+            "SoundBanks": [
+              {
+                "SoundBankId": 236859931,
+                "SoundBankPathName": "Event/play_vo_jingran_atk_fallingatk_end_b.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_jingran_atk_fallingatk_end_b",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 215548410,
+                "MediaPathName": "Media/215548410.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\en_vo_jingran_atk_fallingatk_end_b_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 126272982,
+                "MediaPathName": "Media/126272982.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\zh_vo_jingran_atk_fallingatk_end_b_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 360437966,
+                "MediaPathName": "Media/360437966.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\ko_vo_jingran_atk_fallingatk_end_b_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 411469334,
+                "MediaPathName": "Media/411469334.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\ja_vo_jingran_atk_fallingatk_end_b_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 567955369,
+                "MediaPathName": "Media/567955369.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\en_vo_jingran_atk_fallingatk_end_b_01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 198668342,
+                "MediaPathName": "Media/198668342.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\zh_vo_jingran_atk_fallingatk_end_b_01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 311880703,
+                "MediaPathName": "Media/311880703.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\ko_vo_jingran_atk_fallingatk_end_b_01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 404678170,
+                "MediaPathName": "Media/404678170.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\ja_vo_jingran_atk_fallingatk_end_b_01_tone.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_jingran_atk_fallingatk_end_b"
+          }
+        }
+      ],
+      "DebugName": "play_vo_jingran_atk_fallingatk_end_b",
+      "EventId": 236859931
+    },
+    "MaximumDuration": 3.4714792,
+    "MinimumDuration": 0.0,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

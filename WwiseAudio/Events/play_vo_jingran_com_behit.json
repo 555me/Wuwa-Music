@@ -1,0 +1,168 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_jingran_com_behit",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_jingran_com_behit",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 859193098,
+            "SoundBanks": [
+              {
+                "SoundBankId": 859193098,
+                "SoundBankPathName": "Event/play_vo_jingran_com_behit.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_jingran_com_behit",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 70268865,
+                "MediaPathName": "Media/70268865.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\en_vo_jingran_com_behit_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 280352420,
+                "MediaPathName": "Media/280352420.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\zh_vo_jingran_com_behit_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 419537462,
+                "MediaPathName": "Media/419537462.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\ko_vo_jingran_com_behit_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1015801604,
+                "MediaPathName": "Media/1015801604.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\ja_vo_jingran_com_behit_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 985409552,
+                "MediaPathName": "Media/985409552.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\en_vo_jingran_com_behit_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 557757134,
+                "MediaPathName": "Media/557757134.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\zh_vo_jingran_com_behit_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 880914201,
+                "MediaPathName": "Media/880914201.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\ko_vo_jingran_com_behit_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 182031377,
+                "MediaPathName": "Media/182031377.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\ja_vo_jingran_com_behit_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 614951717,
+                "MediaPathName": "Media/614951717.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\en_vo_jingran_com_behit_01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 876499427,
+                "MediaPathName": "Media/876499427.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\zh_vo_jingran_com_behit_01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 907953281,
+                "MediaPathName": "Media/907953281.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\ko_vo_jingran_com_behit_01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 123573712,
+                "MediaPathName": "Media/123573712.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\ja_vo_jingran_com_behit_01_word.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_jingran_com_behit"
+          }
+        }
+      ],
+      "DebugName": "play_vo_jingran_com_behit",
+      "EventId": 859193098
+    },
+    "MaximumDuration": 0.5261667,
+    "MinimumDuration": 0.0,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

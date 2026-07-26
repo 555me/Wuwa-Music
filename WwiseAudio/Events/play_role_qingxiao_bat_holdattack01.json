@@ -1,0 +1,78 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_role_qingxiao_bat_holdattack01",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_role_qingxiao_bat_holdattack01",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1127739116,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1127739116,
+                "SoundBankPathName": "Event/play_role_qingxiao_bat_holdattack01.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_role_qingxiao_bat_holdattack01",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 132954597,
+                "MediaPathName": "Media/132954597.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "role\\role_bat_Qingxiao\\role_Qingxiao_bat_holdattack01_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 586115683,
+                "MediaPathName": "Media/586115683.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "role\\role_bat_Qingxiao\\role_Qingxiao_bat_holdattack01_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 744171176,
+                "MediaPathName": "Media/744171176.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "role\\role_bat_Qingxiao\\role_Qingxiao_bat_holdattack01_03.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_role_qingxiao_bat_holdattack01"
+          }
+        }
+      ],
+      "DebugName": "play_role_qingxiao_bat_holdattack01",
+      "EventId": 1127739116
+    },
+    "MaximumDuration": 6.7287416,
+    "MinimumDuration": 6.348617,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

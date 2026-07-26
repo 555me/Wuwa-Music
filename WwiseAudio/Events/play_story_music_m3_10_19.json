@@ -37,6 +37,26 @@
                 "bStreaming": true,
                 "DebugName": "music_next\\music_story\\3_5\\yangyang\\bgm-story_plot_m3_10_19_song-all-full-null-null.wav",
                 "PackagedFile": null
+              },
+              {
+                "MediaId": 324921673,
+                "MediaPathName": "Media/324921673.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music\\music_scene\\silence.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 536437734,
+                "MediaPathName": "Media/536437734.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_5\\yangyang\\bgm-story_plot_yunyuan_x06-all-full-null-null.wav",
+                "PackagedFile": null
               }
             ],
             "ExternalSources": [],
@@ -50,9 +70,9 @@
       "DebugName": "play_story_music_m3_10_19",
       "EventId": 1288329109
     },
-    "MaximumDuration": 133.63348,
-    "MinimumDuration": 133.63348,
-    "IsInfinite": false,
+    "MaximumDuration": 0.0,
+    "MinimumDuration": 0.0,
+    "IsInfinite": true,
     "MaxAttenuationRadius": 0.0
   }
 ]

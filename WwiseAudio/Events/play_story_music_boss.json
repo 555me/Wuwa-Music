@@ -29,13 +29,13 @@
             ],
             "Media": [
               {
-                "MediaId": 58902109,
-                "MediaPathName": "Media/58902109.wem",
+                "MediaId": 789985577,
+                "MediaPathName": "Media/789985577.wem",
                 "PrefetchSize": 0,
                 "MemoryAlignment": 16,
                 "bDeviceMemory": false,
                 "bStreaming": true,
-                "DebugName": "music_next\\music_battle\\3.5\\qiankui\\bgm-battle_boss_qiankui_intro_p5-all-full-172bpm-null.wav",
+                "DebugName": "music_next\\music_story\\level_a\\3.5\\bgm-story_video_m0393-all-full-null-null.wav",
                 "PackagedFile": null
               },
               {
@@ -46,16 +46,6 @@
                 "bDeviceMemory": false,
                 "bStreaming": true,
                 "DebugName": "music_next\\music_battle\\3.5\\qiankui\\bgm-battle_boss_qiankui_loop_p5-all-full-172bpm-null.wav",
-                "PackagedFile": null
-              },
-              {
-                "MediaId": 789985577,
-                "MediaPathName": "Media/789985577.wem",
-                "PrefetchSize": 0,
-                "MemoryAlignment": 16,
-                "bDeviceMemory": false,
-                "bStreaming": true,
-                "DebugName": "music_next\\music_story\\level_a\\3.5\\bgm-story_video_m0393-all-full-null-null.wav",
                 "PackagedFile": null
               },
               {
@@ -136,6 +126,16 @@
                 "bDeviceMemory": false,
                 "bStreaming": true,
                 "DebugName": "music_next\\music_story\\3_5\\qiankui\\bgm-battle_boss_qiangkui_p1-all-full-90bpm-null.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 58902109,
+                "MediaPathName": "Media/58902109.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_battle\\3.5\\qiankui\\bgm-battle_boss_qiankui_intro_p5-all-full-172bpm-null.wav",
                 "PackagedFile": null
               }
             ],

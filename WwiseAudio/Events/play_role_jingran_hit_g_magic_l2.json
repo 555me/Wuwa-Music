@@ -1,0 +1,98 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_role_jingran_hit_g_magic_l2",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_role_jingran_hit_g_magic_l2",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3786502115,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3786502115,
+                "SoundBankPathName": "Event/play_role_jingran_hit_g_magic_l2.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_role_jingran_hit_g_magic_l2",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 486796989,
+                "MediaPathName": "Media/486796989.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "role\\role_bat_Jingran\\Hit\\role_Jingran_hit_g_magic_l2_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 705135927,
+                "MediaPathName": "Media/705135927.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "role\\role_bat_Jingran\\Hit\\role_Jingran_hit_g_magic_l2_04.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 730307586,
+                "MediaPathName": "Media/730307586.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "role\\role_bat_Jingran\\Hit\\role_Jingran_hit_g_magic_l2_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 842812004,
+                "MediaPathName": "Media/842812004.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "role\\role_bat_Jingran\\Hit\\role_Jingran_hit_g_magic_l2_05.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1057016394,
+                "MediaPathName": "Media/1057016394.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "role\\role_bat_Jingran\\Hit\\role_Jingran_hit_g_magic_l2_03.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_role_jingran_hit_g_magic_l2"
+          }
+        }
+      ],
+      "DebugName": "play_role_jingran_hit_g_magic_l2",
+      "EventId": 3786502115
+    },
+    "MaximumDuration": 1.0594631,
+    "MinimumDuration": 0.9715319,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

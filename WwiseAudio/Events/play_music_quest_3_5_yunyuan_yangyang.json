@@ -101,14 +101,7 @@
             ],
             "ExternalSources": [],
             "SwitchContainerLeaves": [],
-            "RequiredGroupValueSet": [
-              {
-                "Type": "EWwiseGroupType::State",
-                "GroupId": -1895977731,
-                "Id": 748895195,
-                "DebugName": "None"
-              }
-            ],
+            "RequiredGroupValueSet": [],
             "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
             "DebugName": "play_music_quest_3_5_yunyuan_yangyang"
           }

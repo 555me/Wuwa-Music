@@ -1,0 +1,98 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_role_jingran_hit_n_ghost_l1",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_role_jingran_hit_n_ghost_l1",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 182607359,
+            "SoundBanks": [
+              {
+                "SoundBankId": 182607359,
+                "SoundBankPathName": "Event/play_role_jingran_hit_n_ghost_l1.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_role_jingran_hit_n_ghost_l1",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 11701652,
+                "MediaPathName": "Media/11701652.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "role\\role_bat_Jingran\\Hit\\role_Jingran_hit_n_ghost_l1_05.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 32683190,
+                "MediaPathName": "Media/32683190.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "role\\role_bat_Jingran\\Hit\\role_Jingran_hit_n_ghost_l1_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 172283460,
+                "MediaPathName": "Media/172283460.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "role\\role_bat_Jingran\\Hit\\role_Jingran_hit_n_ghost_l1_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 213200541,
+                "MediaPathName": "Media/213200541.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "role\\role_bat_Jingran\\Hit\\role_Jingran_hit_n_ghost_l1_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 363683372,
+                "MediaPathName": "Media/363683372.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "role\\role_bat_Jingran\\Hit\\role_Jingran_hit_n_ghost_l1_04.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_role_jingran_hit_n_ghost_l1"
+          }
+        }
+      ],
+      "DebugName": "play_role_jingran_hit_n_ghost_l1",
+      "EventId": 182607359
+    },
+    "MaximumDuration": 1.0594631,
+    "MinimumDuration": 0.9715319,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

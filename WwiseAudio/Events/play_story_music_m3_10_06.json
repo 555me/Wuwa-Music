@@ -27,17 +27,31 @@
                 "PackagedFile": null
               }
             ],
-            "Media": [],
-            "ExternalSources": [],
-            "SwitchContainerLeaves": [],
-            "RequiredGroupValueSet": [
+            "Media": [
               {
-                "Type": "EWwiseGroupType::State",
-                "GroupId": 1433249303,
-                "Id": 84696445,
-                "DebugName": "b"
+                "MediaId": 101952194,
+                "MediaPathName": "Media/101952194.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music\\music_scene\\silence_5s.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 130108517,
+                "MediaPathName": "Media/130108517.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_5\\process\\bgm-story_plot_suspense-all-full-75bpm-null.wav",
+                "PackagedFile": null
               }
             ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
             "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
             "DebugName": "play_story_music_m3_10_06"
           }
@@ -48,7 +62,7 @@
     },
     "MaximumDuration": 0.0,
     "MinimumDuration": 0.0,
-    "IsInfinite": false,
+    "IsInfinite": true,
     "MaxAttenuationRadius": 0.0
   }
 ]

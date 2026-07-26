@@ -1,0 +1,168 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_jingran_com_hook",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_jingran_com_hook",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3255811141,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3255811141,
+                "SoundBankPathName": "Event/play_vo_jingran_com_hook.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_jingran_com_hook",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 653997815,
+                "MediaPathName": "Media/653997815.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\en_vo_jingran_com_hook_01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 380764575,
+                "MediaPathName": "Media/380764575.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\zh_vo_jingran_com_hook_01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 16917877,
+                "MediaPathName": "Media/16917877.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\ko_vo_jingran_com_hook_01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 408289457,
+                "MediaPathName": "Media/408289457.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\ja_vo_jingran_com_hook_01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 275753646,
+                "MediaPathName": "Media/275753646.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\en_vo_jingran_com_hook_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 276503441,
+                "MediaPathName": "Media/276503441.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\zh_vo_jingran_com_hook_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 617113132,
+                "MediaPathName": "Media/617113132.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\ko_vo_jingran_com_hook_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 500229685,
+                "MediaPathName": "Media/500229685.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\ja_vo_jingran_com_hook_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 441392483,
+                "MediaPathName": "Media/441392483.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\en_vo_jingran_com_hook_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 795397484,
+                "MediaPathName": "Media/795397484.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\zh_vo_jingran_com_hook_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 394680148,
+                "MediaPathName": "Media/394680148.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\ko_vo_jingran_com_hook_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 85194405,
+                "MediaPathName": "Media/85194405.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\ja_vo_jingran_com_hook_02_tone.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_jingran_com_hook"
+          }
+        }
+      ],
+      "DebugName": "play_vo_jingran_com_hook",
+      "EventId": 3255811141
+    },
+    "MaximumDuration": 1.1573334,
+    "MinimumDuration": 0.0,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

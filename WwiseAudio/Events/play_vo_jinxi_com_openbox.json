@@ -29,46 +29,6 @@
             ],
             "Media": [
               {
-                "MediaId": 99358554,
-                "MediaPathName": "Media/99358554.wem",
-                "PrefetchSize": 0,
-                "MemoryAlignment": 16,
-                "bDeviceMemory": false,
-                "bStreaming": false,
-                "DebugName": "Voices\\en\\role\\branch_1,1\\jinxi\\en_vo_jinxi_com_openbox_04.wav",
-                "PackagedFile": null
-              },
-              {
-                "MediaId": 48121914,
-                "MediaPathName": "Media/48121914.wem",
-                "PrefetchSize": 0,
-                "MemoryAlignment": 16,
-                "bDeviceMemory": false,
-                "bStreaming": true,
-                "DebugName": "Voices\\ko\\role\\branch_1,1\\jinxi\\ko_vo_jinxi_com_openbox_04.wav",
-                "PackagedFile": null
-              },
-              {
-                "MediaId": 384768737,
-                "MediaPathName": "Media/384768737.wem",
-                "PrefetchSize": 0,
-                "MemoryAlignment": 16,
-                "bDeviceMemory": false,
-                "bStreaming": true,
-                "DebugName": "Voices\\zh\\role\\branch_1,1\\jinxi\\zh_vo_jinxi_com_openbox_04.wav",
-                "PackagedFile": null
-              },
-              {
-                "MediaId": 561762155,
-                "MediaPathName": "Media/561762155.wem",
-                "PrefetchSize": 0,
-                "MemoryAlignment": 16,
-                "bDeviceMemory": false,
-                "bStreaming": true,
-                "DebugName": "Voices\\ja\\role\\branch_1,1\\jinxi\\ja_vo_jinxi_com_openbox_04.wav",
-                "PackagedFile": null
-              },
-              {
                 "MediaId": 164321327,
                 "MediaPathName": "Media/164321327.wem",
                 "PrefetchSize": 0,
@@ -186,6 +146,46 @@
                 "bDeviceMemory": false,
                 "bStreaming": true,
                 "DebugName": "Voices\\ja\\role\\branch_1,1\\jinxi\\ja_vo_jinxi_com_openbox_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 99358554,
+                "MediaPathName": "Media/99358554.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_1,1\\jinxi\\en_vo_jinxi_com_openbox_04.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 48121914,
+                "MediaPathName": "Media/48121914.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\ko\\role\\branch_1,1\\jinxi\\ko_vo_jinxi_com_openbox_04.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 384768737,
+                "MediaPathName": "Media/384768737.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\zh\\role\\branch_1,1\\jinxi\\zh_vo_jinxi_com_openbox_04.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 561762155,
+                "MediaPathName": "Media/561762155.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\ja\\role\\branch_1,1\\jinxi\\ja_vo_jinxi_com_openbox_04.wav",
                 "PackagedFile": null
               }
             ],

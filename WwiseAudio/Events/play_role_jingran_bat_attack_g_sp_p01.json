@@ -1,0 +1,78 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_role_jingran_bat_attack_g_sp_p01",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_role_jingran_bat_attack_g_sp_p01",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2764503043,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2764503043,
+                "SoundBankPathName": "Event/play_role_jingran_bat_attack_g_sp_p01.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_role_jingran_bat_attack_g_sp_p01",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 56421492,
+                "MediaPathName": "Media/56421492.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "role\\role_bat_Jingran\\role_Jingran_bat_attack_g_sp_p01_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 887962656,
+                "MediaPathName": "Media/887962656.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "role\\role_bat_Jingran\\role_Jingran_bat_attack_g_sp_p01_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 944831081,
+                "MediaPathName": "Media/944831081.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "role\\role_bat_Jingran\\role_Jingran_bat_attack_g_sp_p01_02.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_role_jingran_bat_attack_g_sp_p01"
+          }
+        }
+      ],
+      "DebugName": "play_role_jingran_bat_attack_g_sp_p01",
+      "EventId": 2764503043
+    },
+    "MaximumDuration": 3.540668,
+    "MinimumDuration": 3.459799,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]
