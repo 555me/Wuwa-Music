@@ -27,7 +27,38 @@
                 "PackagedFile": null
               }
             ],
-            "Media": [],
+            "Media": [
+              {
+                "MediaId": 344553376,
+                "MediaPathName": "Media/344553376.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "role\\role_bat_Qingxiao\\role_Qingxiao_bat_attackdash_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 472740914,
+                "MediaPathName": "Media/472740914.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "role\\role_bat_Qingxiao\\role_Qingxiao_bat_attackdash_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 781446985,
+                "MediaPathName": "Media/781446985.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "role\\role_bat_Qingxiao\\role_Qingxiao_bat_attackdash_03.wav",
+                "PackagedFile": null
+              }
+            ],
             "ExternalSources": [],
             "SwitchContainerLeaves": [],
             "RequiredGroupValueSet": [],
@@ -39,8 +70,8 @@
       "DebugName": "play_role_qingxiao_bat_attackdash_ground",
       "EventId": 1077920328
     },
-    "MaximumDuration": 0.0,
-    "MinimumDuration": 0.0,
+    "MaximumDuration": 2.371785,
+    "MinimumDuration": 2.11302,
     "IsInfinite": false,
     "MaxAttenuationRadius": 5000.0
   }
