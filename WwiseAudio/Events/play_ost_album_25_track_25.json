@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_ost_album_25_track_25",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_ost_album_25_track_25",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2598250236,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2598250236,
+                "SoundBankPathName": "Event/play_ost_album_25_track_25.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_ost_album_25_track_25",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 943208593,
+                "MediaPathName": "Media/943208593.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_phonograph_albums\\ost_album_25\\ost-album25_23_GHOST OF GOODBYE_Final.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_ost_album_25_track_25"
+          }
+        }
+      ],
+      "DebugName": "play_ost_album_25_track_25",
+      "EventId": 2598250236
+    },
+    "MaximumDuration": 176.61292,
+    "MinimumDuration": 176.61292,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 2000.0
+  }
+]

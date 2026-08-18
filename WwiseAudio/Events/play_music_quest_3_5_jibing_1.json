@@ -91,14 +91,7 @@
             ],
             "ExternalSources": [],
             "SwitchContainerLeaves": [],
-            "RequiredGroupValueSet": [
-              {
-                "Type": "EWwiseGroupType::State",
-                "GroupId": 1514613514,
-                "Id": 748895195,
-                "DebugName": "None"
-              }
-            ],
+            "RequiredGroupValueSet": [],
             "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
             "DebugName": "play_music_quest_3_5_jibing_1"
           }

@@ -1,0 +1,98 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_role_jingran_hit_sword_l2",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_role_jingran_hit_sword_l2",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 315843539,
+            "SoundBanks": [
+              {
+                "SoundBankId": 315843539,
+                "SoundBankPathName": "Event/play_role_jingran_hit_sword_l2.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_role_jingran_hit_sword_l2",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 47142979,
+                "MediaPathName": "Media/47142979.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "role\\role_bat_Jingran\\Hit\\role_Jingran_hit_sword_l2_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 194623205,
+                "MediaPathName": "Media/194623205.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "role\\role_bat_Jingran\\Hit\\role_Jingran_hit_sword_l2_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 545936322,
+                "MediaPathName": "Media/545936322.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "role\\role_bat_Jingran\\Hit\\role_Jingran_hit_sword_l2_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 675012588,
+                "MediaPathName": "Media/675012588.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "role\\role_bat_Jingran\\Hit\\role_Jingran_hit_sword_l2_04.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 856133137,
+                "MediaPathName": "Media/856133137.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "role\\role_bat_Jingran\\Hit\\role_Jingran_hit_sword_l2_05.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_role_jingran_hit_sword_l2"
+          }
+        }
+      ],
+      "DebugName": "play_role_jingran_hit_sword_l2",
+      "EventId": 315843539
+    },
+    "MaximumDuration": 1.0594631,
+    "MinimumDuration": 0.9715319,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

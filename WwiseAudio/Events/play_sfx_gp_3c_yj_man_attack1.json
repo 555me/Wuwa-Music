@@ -1,0 +1,98 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_3c_yj_man_attack1",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_3c_yj_man_attack1",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1935438619,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1935438619,
+                "SoundBankPathName": "Event/play_sfx_gp_3c_yj_man_attack1.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_3c_yj_man_attack1",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 141972352,
+                "MediaPathName": "Media/141972352.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\gameplay\\3_6\\sfx_gp_3c_yj_man_attack1_04.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 227413617,
+                "MediaPathName": "Media/227413617.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\gameplay\\3_6\\sfx_gp_3c_yj_man_attack1_05.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 698724786,
+                "MediaPathName": "Media/698724786.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\gameplay\\3_6\\sfx_gp_3c_yj_man_attack1_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 905169614,
+                "MediaPathName": "Media/905169614.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\gameplay\\3_6\\sfx_gp_3c_yj_man_attack1_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 911989425,
+                "MediaPathName": "Media/911989425.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\gameplay\\3_6\\sfx_gp_3c_yj_man_attack1_01.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_3c_yj_man_attack1"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_3c_yj_man_attack1",
+      "EventId": 1935438619
+    },
+    "MaximumDuration": 1.4331459,
+    "MinimumDuration": 1.4309375,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

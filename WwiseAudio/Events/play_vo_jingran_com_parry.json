@@ -1,0 +1,168 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_jingran_com_parry",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_jingran_com_parry",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 466882778,
+            "SoundBanks": [
+              {
+                "SoundBankId": 466882778,
+                "SoundBankPathName": "Event/play_vo_jingran_com_parry.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_jingran_com_parry",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 589305392,
+                "MediaPathName": "Media/589305392.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_3,6\\jingran\\en_vo_jingran_com_parry_01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 591382152,
+                "MediaPathName": "Media/591382152.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\zh_vo_jingran_com_parry_01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 857986889,
+                "MediaPathName": "Media/857986889.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,6\\jingran\\ko_vo_jingran_com_parry_01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 570730003,
+                "MediaPathName": "Media/570730003.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,6\\jingran\\ja_vo_jingran_com_parry_01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 349364914,
+                "MediaPathName": "Media/349364914.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_3,6\\jingran\\en_vo_jingran_com_parry_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 264620845,
+                "MediaPathName": "Media/264620845.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\zh_vo_jingran_com_parry_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 980516235,
+                "MediaPathName": "Media/980516235.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,6\\jingran\\ko_vo_jingran_com_parry_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 415346682,
+                "MediaPathName": "Media/415346682.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,6\\jingran\\ja_vo_jingran_com_parry_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 324829155,
+                "MediaPathName": "Media/324829155.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_3,6\\jingran\\en_vo_jingran_com_parry_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 867315810,
+                "MediaPathName": "Media/867315810.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\zh_vo_jingran_com_parry_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 302563487,
+                "MediaPathName": "Media/302563487.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,6\\jingran\\ko_vo_jingran_com_parry_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 654156761,
+                "MediaPathName": "Media/654156761.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,6\\jingran\\ja_vo_jingran_com_parry_03_tone.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_jingran_com_parry"
+          }
+        }
+      ],
+      "DebugName": "play_vo_jingran_com_parry",
+      "EventId": 466882778
+    },
+    "MaximumDuration": 1.0950209,
+    "MinimumDuration": 0.25233334,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

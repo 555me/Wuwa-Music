@@ -1,0 +1,78 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_role_activity_rogue_jingran_zadi_g",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_role_activity_rogue_jingran_zadi_g",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3422288796,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3422288796,
+                "SoundBankPathName": "Event/play_role_activity_rogue_jingran_zadi_g.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_role_activity_rogue_jingran_zadi_g",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 286152128,
+                "MediaPathName": "Media/286152128.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,6\\rogue36\\role\\role_activity_rogue_Jingran_zadi_g_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 395308644,
+                "MediaPathName": "Media/395308644.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,6\\rogue36\\role\\role_activity_rogue_Jingran_zadi_g_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 481955142,
+                "MediaPathName": "Media/481955142.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,6\\rogue36\\role\\role_activity_rogue_Jingran_zadi_g_01.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_role_activity_rogue_jingran_zadi_g"
+          }
+        }
+      ],
+      "DebugName": "play_role_activity_rogue_jingran_zadi_g",
+      "EventId": 3422288796
+    },
+    "MaximumDuration": 2.5,
+    "MinimumDuration": 2.5,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

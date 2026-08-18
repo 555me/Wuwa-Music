@@ -1,0 +1,215 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_mon_muyu_skill04_b",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_mon_muyu_skill04_b",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 1819748192,
+            "LanguageName": "en",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 2389855322,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2389855322,
+                "SoundBankPathName": "Event/en/play_vo_mon_muyu_skill04_b.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_mon_muyu_skill04_b",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 159996531,
+                "MediaPathName": "Media/en/159996531.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "enemy\\branch_3,6\\muyu\\en_vo_mon_muyu_skill04_b_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 583942462,
+                "MediaPathName": "Media/en/583942462.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "enemy\\branch_3,6\\muyu\\en_vo_mon_muyu_skill04_b_01.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_mon_muyu_skill04_b"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1735860046,
+            "LanguageName": "ja",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 2389855322,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2389855322,
+                "SoundBankPathName": "Event/ja/play_vo_mon_muyu_skill04_b.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_mon_muyu_skill04_b",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 442803799,
+                "MediaPathName": "Media/ja/442803799.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "enemy\\branch_3,6\\muyu\\ja_vo_mon_muyu_skill04_b_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 691692010,
+                "MediaPathName": "Media/ja/691692010.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "enemy\\branch_3,6\\muyu\\ja_vo_mon_muyu_skill04_b_02.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_mon_muyu_skill04_b"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1719082483,
+            "LanguageName": "ko",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 2389855322,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2389855322,
+                "SoundBankPathName": "Event/ko/play_vo_mon_muyu_skill04_b.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_mon_muyu_skill04_b",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 283521788,
+                "MediaPathName": "Media/ko/283521788.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "enemy\\branch_3,6\\muyu\\ko_vo_mon_muyu_skill04_b_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 344478815,
+                "MediaPathName": "Media/ko/344478815.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "enemy\\branch_3,6\\muyu\\ko_vo_mon_muyu_skill04_b_02.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_mon_muyu_skill04_b"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1467418007,
+            "LanguageName": "zh",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsDefault"
+          },
+          "Value": {
+            "EventId": 2389855322,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2389855322,
+                "SoundBankPathName": "Event/zh/play_vo_mon_muyu_skill04_b.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_mon_muyu_skill04_b",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 196245090,
+                "MediaPathName": "Media/zh/196245090.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "enemy\\branch_3,6\\muyu\\zh_vo_mon_muyu_skill04_b_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 653115557,
+                "MediaPathName": "Media/zh/653115557.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "enemy\\branch_3,6\\muyu\\zh_vo_mon_muyu_skill04_b_02.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_mon_muyu_skill04_b"
+          }
+        }
+      ],
+      "DebugName": "play_vo_mon_muyu_skill04_b",
+      "EventId": 2389855322
+    },
+    "MaximumDuration": 2.0568957,
+    "MinimumDuration": 1.8456875,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 7000.0
+  }
+]

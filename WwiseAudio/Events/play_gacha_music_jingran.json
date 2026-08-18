@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_gacha_music_jingran",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_gacha_music_jingran",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2965730400,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2965730400,
+                "SoundBankPathName": "Event/play_gacha_music_jingran.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_gacha_music_jingran",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 151081315,
+                "MediaPathName": "Media/151081315.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_ui\\ui_music_gacha\\3.6\\mov-gacha_jingran-all-full-105bpm-4_4.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_gacha_music_jingran"
+          }
+        }
+      ],
+      "DebugName": "play_gacha_music_jingran",
+      "EventId": 2965730400
+    },
+    "MaximumDuration": 20.5,
+    "MinimumDuration": 20.5,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

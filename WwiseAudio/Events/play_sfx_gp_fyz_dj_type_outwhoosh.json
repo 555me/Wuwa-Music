@@ -1,0 +1,78 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_fyz_dj_type_outwhoosh",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_fyz_dj_type_outwhoosh",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2846683338,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2846683338,
+                "SoundBankPathName": "Event/play_sfx_gp_fyz_dj_type_outwhoosh.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_fyz_dj_type_outwhoosh",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 618440130,
+                "MediaPathName": "Media/618440130.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "role\\role_bat_Jingran\\role_Jingran_bat_attack_g_02_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 679465503,
+                "MediaPathName": "Media/679465503.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "role\\role_bat_Jingran\\role_Jingran_bat_move_f_g_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 977999091,
+                "MediaPathName": "Media/977999091.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\gameplay\\3_6\\sfx_gp_fyz_dj_type_outwhoosh.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_fyz_dj_type_outwhoosh"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_fyz_dj_type_outwhoosh",
+      "EventId": 2846683338
+    },
+    "MaximumDuration": 2.814,
+    "MinimumDuration": 2.814,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

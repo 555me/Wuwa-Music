@@ -1,0 +1,68 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_fyz_dj_type_warning",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_fyz_dj_type_warning",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 855134656,
+            "SoundBanks": [
+              {
+                "SoundBankId": 855134656,
+                "SoundBankPathName": "Event/play_sfx_gp_fyz_dj_type_warning.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_fyz_dj_type_warning",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 273449147,
+                "MediaPathName": "Media/273449147.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\Interaction\\2.0\\Interact_sword_charu_seq.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1041850657,
+                "MediaPathName": "Media/1041850657.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,6\\rogue36\\role\\role_activity_rogue_qingxiao_att01_01.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_fyz_dj_type_warning"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_fyz_dj_type_warning",
+      "EventId": 855134656
+    },
+    "MaximumDuration": 4.915292,
+    "MinimumDuration": 4.915292,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 7000.0
+  }
+]

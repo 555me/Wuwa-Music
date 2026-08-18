@@ -1,0 +1,68 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_boss_muyu_skill_attack04",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_boss_muyu_skill_attack04",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3856838681,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3856838681,
+                "SoundBankPathName": "Event/play_sfx_boss_muyu_skill_attack04.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_boss_muyu_skill_attack04",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 526153587,
+                "MediaPathName": "Media/526153587.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\Enemy\\Boss\\muyu\\sfx_boss_muyu_skill_attack04.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 897142349,
+                "MediaPathName": "Media/897142349.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\Enemy\\Boss\\muyu\\sfx_boss_muyu_skill_attack04_2d.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_boss_muyu_skill_attack04"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_boss_muyu_skill_attack04",
+      "EventId": 3856838681
+    },
+    "MaximumDuration": 20.237207,
+    "MinimumDuration": 20.237207,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 10000.0
+  }
+]

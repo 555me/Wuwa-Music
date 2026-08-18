@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_amb_npc_alien_sa1xiaoyu_idle_04_fly_montage_end_vo",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_amb_npc_alien_sa1xiaoyu_idle_04_fly_montage_end_vo",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 591703847,
+            "SoundBanks": [
+              {
+                "SoundBankId": 591703847,
+                "SoundBankPathName": "Event/play_amb_npc_alien_sa1xiaoyu_idle_04_fly_montage_end_vo.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_amb_npc_alien_sa1xiaoyu_idle_04_fly_montage_end_vo",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 60827497,
+                "MediaPathName": "Media/60827497.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb_npc_alien_sa1xiaoyu_Idle_04_Fly_Montage_end_vo.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_amb_npc_alien_sa1xiaoyu_idle_04_fly_montage_end_vo"
+          }
+        }
+      ],
+      "DebugName": "play_amb_npc_alien_sa1xiaoyu_idle_04_fly_montage_end_vo",
+      "EventId": 591703847
+    },
+    "MaximumDuration": 2.0773335,
+    "MinimumDuration": 2.0773335,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 1500.0
+  }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_da_mzsg_stone_star",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_da_mzsg_stone_star",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 287299934,
+            "SoundBanks": [
+              {
+                "SoundBankId": 287299934,
+                "SoundBankPathName": "Event/play_sfx_gp_da_mzsg_stone_star.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_da_mzsg_stone_star",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 173336546,
+                "MediaPathName": "Media/173336546.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\gameplay\\3_6\\sfx_gp_da_mzsg_stone_star_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 642348664,
+                "MediaPathName": "Media/642348664.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\gameplay\\3_6\\sfx_gp_da_mzsg_stone_star_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 754904844,
+                "MediaPathName": "Media/754904844.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\gameplay\\3_6\\sfx_gp_da_mzsg_stone_star_03.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_da_mzsg_stone_star"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_da_mzsg_stone_star",
+      "EventId": 287299934
+    },
+    "MaximumDuration": 0.6654375,
+    "MinimumDuration": 0.6604375,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 15000.0
+  }
+]

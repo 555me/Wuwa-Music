@@ -1,0 +1,168 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_vision_skill_change_feibi_a",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_vision_skill_change_feibi_a",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1178627477,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1178627477,
+                "SoundBankPathName": "Event/play_vo_vision_skill_change_feibi_a.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_vision_skill_change_feibi_a",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 387780883,
+                "MediaPathName": "Media/387780883.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_2,1\\feibi\\ko_vo_feibi_atk_heavyatk01_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 205940285,
+                "MediaPathName": "Media/205940285.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_2,1\\feibi\\en_vo_feibi_atk_heavyatk01_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 424885124,
+                "MediaPathName": "Media/424885124.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_2,1\\feibi\\zh_vo_feibi_atk_heavyatk01_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 171316446,
+                "MediaPathName": "Media/171316446.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_2,1\\feibi\\ja_vo_feibi_atk_heavyatk01_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 949660312,
+                "MediaPathName": "Media/949660312.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_2,1\\feibi\\ko_vo_feibi_atk_heavyatk01_01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 82015527,
+                "MediaPathName": "Media/82015527.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_2,1\\feibi\\en_vo_feibi_atk_heavyatk01_01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 915874462,
+                "MediaPathName": "Media/915874462.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_2,1\\feibi\\zh_vo_feibi_atk_heavyatk01_01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 888026730,
+                "MediaPathName": "Media/888026730.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_2,1\\feibi\\ja_vo_feibi_atk_heavyatk01_01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 504196627,
+                "MediaPathName": "Media/504196627.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_2,1\\feibi\\ko_vo_feibi_atk_heavyatk01_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 303037637,
+                "MediaPathName": "Media/303037637.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_2,1\\feibi\\en_vo_feibi_atk_heavyatk01_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 254337290,
+                "MediaPathName": "Media/254337290.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_2,1\\feibi\\zh_vo_feibi_atk_heavyatk01_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 64115859,
+                "MediaPathName": "Media/64115859.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_2,1\\feibi\\ja_vo_feibi_atk_heavyatk01_03_tone.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_vision_skill_change_feibi_a"
+          }
+        }
+      ],
+      "DebugName": "play_vo_vision_skill_change_feibi_a",
+      "EventId": 1178627477
+    },
+    "MaximumDuration": 0.724,
+    "MinimumDuration": 0.25133333,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

@@ -1,0 +1,168 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_vision_skill_change_feibi_b",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_vision_skill_change_feibi_b",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1178627478,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1178627478,
+                "SoundBankPathName": "Event/play_vo_vision_skill_change_feibi_b.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_vision_skill_change_feibi_b",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 665268264,
+                "MediaPathName": "Media/665268264.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_2,1\\feibi\\ko_vo_feibi_skill_skill01_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 275494531,
+                "MediaPathName": "Media/275494531.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_2,1\\feibi\\en_vo_feibi_skill_skill01_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 566371311,
+                "MediaPathName": "Media/566371311.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_2,1\\feibi\\zh_vo_feibi_skill_skill01_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 279428370,
+                "MediaPathName": "Media/279428370.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_2,1\\feibi\\ja_vo_feibi_skill_skill01_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 260056075,
+                "MediaPathName": "Media/260056075.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_2,1\\feibi\\ko_vo_feibi_skill_skill01_01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 487978195,
+                "MediaPathName": "Media/487978195.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_2,1\\feibi\\en_vo_feibi_skill_skill01_01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 603503352,
+                "MediaPathName": "Media/603503352.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_2,1\\feibi\\zh_vo_feibi_skill_skill01_01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 29547296,
+                "MediaPathName": "Media/29547296.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_2,1\\feibi\\ja_vo_feibi_skill_skill01_01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 975689372,
+                "MediaPathName": "Media/975689372.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_2,1\\feibi\\ko_vo_feibi_skill_skill01_02_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 187041809,
+                "MediaPathName": "Media/187041809.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_2,1\\feibi\\en_vo_feibi_skill_skill01_02_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 334222179,
+                "MediaPathName": "Media/334222179.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_2,1\\feibi\\zh_vo_feibi_skill_skill01_02_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 789281243,
+                "MediaPathName": "Media/789281243.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_2,1\\feibi\\ja_vo_feibi_skill_skill01_02_word.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_vision_skill_change_feibi_b"
+          }
+        }
+      ],
+      "DebugName": "play_vo_vision_skill_change_feibi_b",
+      "EventId": 1178627478
+    },
+    "MaximumDuration": 1.1435833,
+    "MinimumDuration": 0.491875,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

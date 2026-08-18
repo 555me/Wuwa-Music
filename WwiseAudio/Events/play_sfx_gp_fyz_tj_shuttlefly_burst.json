@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_fyz_tj_shuttlefly_burst",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_fyz_tj_shuttlefly_burst",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3742113852,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3742113852,
+                "SoundBankPathName": "Event/play_sfx_gp_fyz_tj_shuttlefly_burst.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_fyz_tj_shuttlefly_burst",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 614948486,
+                "MediaPathName": "Media/614948486.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\task\\3_2\\anmian4\\task_anmian4_ls_wayout_03_bed.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_fyz_tj_shuttlefly_burst"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_fyz_tj_shuttlefly_burst",
+      "EventId": 3742113852
+    },
+    "MaximumDuration": 3.8097262,
+    "MinimumDuration": 3.5959027,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 15000.0
+  }
+]

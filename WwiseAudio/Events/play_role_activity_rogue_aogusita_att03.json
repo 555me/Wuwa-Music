@@ -1,0 +1,68 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_role_activity_rogue_aogusita_att03",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_role_activity_rogue_aogusita_att03",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2393022646,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2393022646,
+                "SoundBankPathName": "Event/play_role_activity_rogue_aogusita_att03.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_role_activity_rogue_aogusita_att03",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 143207849,
+                "MediaPathName": "Media/143207849.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,6\\rogue36\\role\\role_activity_rogue_aogusita_att03_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 952296705,
+                "MediaPathName": "Media/952296705.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,6\\rogue36\\role\\role_activity_rogue_aogusita_att03_01.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_role_activity_rogue_aogusita_att03"
+          }
+        }
+      ],
+      "DebugName": "play_role_activity_rogue_aogusita_att03",
+      "EventId": 2393022646
+    },
+    "MaximumDuration": 3.5604167,
+    "MinimumDuration": 3.5561874,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

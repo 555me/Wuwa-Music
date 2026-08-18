@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_ui_rogue36_button_role",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_ui_rogue36_button_role",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1770076842,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1770076842,
+                "SoundBankPathName": "Event/play_ui_rogue36_button_role.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_ui_rogue36_button_role",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 310097169,
+                "MediaPathName": "Media/310097169.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,6\\rogue36\\ui_rogue36_button_role.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_ui_rogue36_button_role"
+          }
+        }
+      ],
+      "DebugName": "play_ui_rogue36_button_role",
+      "EventId": 1770076842
+    },
+    "MaximumDuration": 0.5255,
+    "MinimumDuration": 0.5255,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

@@ -1,0 +1,255 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_mon_muyu_behit_block",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_mon_muyu_behit_block",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 1819748192,
+            "LanguageName": "en",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 3295844574,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3295844574,
+                "SoundBankPathName": "Event/en/play_vo_mon_muyu_behit_block.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_mon_muyu_behit_block",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 52449438,
+                "MediaPathName": "Media/en/52449438.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "enemy\\branch_3,6\\muyu\\en_vo_mon_muyu_behit_block_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 364385455,
+                "MediaPathName": "Media/en/364385455.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "enemy\\branch_3,6\\muyu\\en_vo_mon_muyu_behit_block_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 813941306,
+                "MediaPathName": "Media/en/813941306.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "enemy\\branch_3,6\\muyu\\en_vo_mon_muyu_behit_block_02.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_mon_muyu_behit_block"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1735860046,
+            "LanguageName": "ja",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 3295844574,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3295844574,
+                "SoundBankPathName": "Event/ja/play_vo_mon_muyu_behit_block.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_mon_muyu_behit_block",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 147668580,
+                "MediaPathName": "Media/ja/147668580.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "enemy\\branch_3,6\\muyu\\ja_vo_mon_muyu_behit_block_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 811247552,
+                "MediaPathName": "Media/ja/811247552.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "enemy\\branch_3,6\\muyu\\ja_vo_mon_muyu_behit_block_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 889709980,
+                "MediaPathName": "Media/ja/889709980.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "enemy\\branch_3,6\\muyu\\ja_vo_mon_muyu_behit_block_02.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_mon_muyu_behit_block"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1719082483,
+            "LanguageName": "ko",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 3295844574,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3295844574,
+                "SoundBankPathName": "Event/ko/play_vo_mon_muyu_behit_block.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_mon_muyu_behit_block",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 141089346,
+                "MediaPathName": "Media/ko/141089346.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "enemy\\branch_3,6\\muyu\\ko_vo_mon_muyu_behit_block_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 227168800,
+                "MediaPathName": "Media/ko/227168800.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "enemy\\branch_3,6\\muyu\\ko_vo_mon_muyu_behit_block_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 531182561,
+                "MediaPathName": "Media/ko/531182561.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "enemy\\branch_3,6\\muyu\\ko_vo_mon_muyu_behit_block_01.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_mon_muyu_behit_block"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1467418007,
+            "LanguageName": "zh",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsDefault"
+          },
+          "Value": {
+            "EventId": 3295844574,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3295844574,
+                "SoundBankPathName": "Event/zh/play_vo_mon_muyu_behit_block.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_mon_muyu_behit_block",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 595042361,
+                "MediaPathName": "Media/zh/595042361.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "enemy\\branch_3,6\\muyu\\zh_vo_mon_muyu_behit_block_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 824097011,
+                "MediaPathName": "Media/zh/824097011.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "enemy\\branch_3,6\\muyu\\zh_vo_mon_muyu_behit_block_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1008559701,
+                "MediaPathName": "Media/zh/1008559701.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "enemy\\branch_3,6\\muyu\\zh_vo_mon_muyu_behit_block_03.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_mon_muyu_behit_block"
+          }
+        }
+      ],
+      "DebugName": "play_vo_mon_muyu_behit_block",
+      "EventId": 3295844574
+    },
+    "MaximumDuration": 1.85,
+    "MinimumDuration": 1.8310626,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 7000.0
+  }
+]

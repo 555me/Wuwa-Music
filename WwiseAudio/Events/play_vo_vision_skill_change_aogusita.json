@@ -1,0 +1,168 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_vision_skill_change_aogusita",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_vision_skill_change_aogusita",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3770832799,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3770832799,
+                "SoundBankPathName": "Event/play_vo_vision_skill_change_aogusita.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_vision_skill_change_aogusita",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 738242930,
+                "MediaPathName": "Media/738242930.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_2,6\\aogusita\\zh_vo_aogusita_atk_burst_atk06_01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 523660681,
+                "MediaPathName": "Media/523660681.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_2,6\\aogusita\\ko_vo_aogusita_atk_burst_atk06_01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 275120085,
+                "MediaPathName": "Media/275120085.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_2,6\\aogusita\\en_vo_aogusita_atk_burst_atk06_01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 715174844,
+                "MediaPathName": "Media/715174844.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_2,6\\aogusita\\ja_vo_aogusita_atk_burst_atk06_01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 191085096,
+                "MediaPathName": "Media/191085096.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_2,6\\aogusita\\zh_vo_aogusita_atk_burst_atk06_03_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 962356271,
+                "MediaPathName": "Media/962356271.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_2,6\\aogusita\\ko_vo_aogusita_atk_burst_atk06_03_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 33639975,
+                "MediaPathName": "Media/33639975.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_2,6\\aogusita\\en_vo_aogusita_atk_burst_atk06_03_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 570347361,
+                "MediaPathName": "Media/570347361.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_2,6\\aogusita\\ja_vo_aogusita_atk_burst_atk06_03_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 988636805,
+                "MediaPathName": "Media/988636805.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_2,6\\aogusita\\zh_vo_aogusita_atk_burst_atk06_02_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1021855661,
+                "MediaPathName": "Media/1021855661.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_2,6\\aogusita\\ko_vo_aogusita_atk_burst_atk06_02_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 232180998,
+                "MediaPathName": "Media/232180998.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_2,6\\aogusita\\en_vo_aogusita_atk_burst_atk06_02_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 450208226,
+                "MediaPathName": "Media/450208226.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_2,6\\aogusita\\ja_vo_aogusita_atk_burst_atk06_02_word.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_vision_skill_change_aogusita"
+          }
+        }
+      ],
+      "DebugName": "play_vo_vision_skill_change_aogusita",
+      "EventId": 3770832799
+    },
+    "MaximumDuration": 1.4459791,
+    "MinimumDuration": 0.8723125,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

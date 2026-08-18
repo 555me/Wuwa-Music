@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_qingxiao_fp_water_gudong",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_qingxiao_fp_water_gudong",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 74533282,
+            "SoundBanks": [
+              {
+                "SoundBankId": 74533282,
+                "SoundBankPathName": "Event/play_sfx_gp_qingxiao_fp_water_gudong.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_qingxiao_fp_water_gudong",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 219513832,
+                "MediaPathName": "Media/219513832.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\gameplay\\3_6\\sfx_gp_qingxiao_fp_water_gudong.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_qingxiao_fp_water_gudong"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_qingxiao_fp_water_gudong",
+      "EventId": 74533282
+    },
+    "MaximumDuration": 0.0,
+    "MinimumDuration": 0.0,
+    "IsInfinite": true,
+    "MaxAttenuationRadius": 2000.0
+  }
+]

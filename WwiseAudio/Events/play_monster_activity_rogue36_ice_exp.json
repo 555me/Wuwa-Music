@@ -1,0 +1,78 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_monster_activity_rogue36_ice_exp",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_monster_activity_rogue36_ice_exp",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3460014384,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3460014384,
+                "SoundBankPathName": "Event/play_monster_activity_rogue36_ice_exp.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_monster_activity_rogue36_ice_exp",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 482701153,
+                "MediaPathName": "Media/482701153.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,6\\rogue36\\monster\\monster_activity_rogue36_ice_exp_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 912445847,
+                "MediaPathName": "Media/912445847.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,6\\rogue36\\monster\\monster_activity_rogue36_ice_exp_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1024699361,
+                "MediaPathName": "Media/1024699361.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,6\\rogue36\\monster\\monster_activity_rogue36_ice_exp_02.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_monster_activity_rogue36_ice_exp"
+          }
+        }
+      ],
+      "DebugName": "play_monster_activity_rogue36_ice_exp",
+      "EventId": 3460014384
+    },
+    "MaximumDuration": 1.3333334,
+    "MinimumDuration": 1.2,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 8000.0
+  }
+]

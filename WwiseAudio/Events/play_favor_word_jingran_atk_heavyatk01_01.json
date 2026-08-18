@@ -1,0 +1,88 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_favor_word_jingran_atk_heavyatk01_01",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_favor_word_jingran_atk_heavyatk01_01",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 193503417,
+            "SoundBanks": [
+              {
+                "SoundBankId": 193503417,
+                "SoundBankPathName": "Event/play_favor_word_jingran_atk_heavyatk01_01.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_favor_word_jingran_atk_heavyatk01_01",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 481382136,
+                "MediaPathName": "Media/481382136.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_3,6\\jingran\\en_vo_jingran_atk_heavyatk01_01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1046379096,
+                "MediaPathName": "Media/1046379096.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\zh_vo_jingran_atk_heavyatk01_01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 527350841,
+                "MediaPathName": "Media/527350841.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,6\\jingran\\ko_vo_jingran_atk_heavyatk01_01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 668013901,
+                "MediaPathName": "Media/668013901.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,6\\jingran\\ja_vo_jingran_atk_heavyatk01_01_word.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_favor_word_jingran_atk_heavyatk01_01"
+          }
+        }
+      ],
+      "DebugName": "play_favor_word_jingran_atk_heavyatk01_01",
+      "EventId": 193503417
+    },
+    "MaximumDuration": 1.9893334,
+    "MinimumDuration": 1.7426459,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

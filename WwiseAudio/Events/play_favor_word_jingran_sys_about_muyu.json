@@ -1,0 +1,88 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_favor_word_jingran_sys_about_muyu",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_favor_word_jingran_sys_about_muyu",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 290142692,
+            "SoundBanks": [
+              {
+                "SoundBankId": 290142692,
+                "SoundBankPathName": "Event/play_favor_word_jingran_sys_about_muyu.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_favor_word_jingran_sys_about_muyu",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 455366808,
+                "MediaPathName": "Media/455366808.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\en\\role\\branch_3,6\\jingran\\en_vo_jingran_sys_about_muyu_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 195693820,
+                "MediaPathName": "Media/195693820.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\zh_vo_jingran_sys_about_muyu_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 994195227,
+                "MediaPathName": "Media/994195227.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\ko\\role\\branch_3,6\\jingran\\ko_vo_jingran_sys_about_muyu_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 171578913,
+                "MediaPathName": "Media/171578913.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\ja\\role\\branch_3,6\\jingran\\ja_vo_jingran_sys_about_muyu_word.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_favor_word_jingran_sys_about_muyu"
+          }
+        }
+      ],
+      "DebugName": "play_favor_word_jingran_sys_about_muyu",
+      "EventId": 290142692
+    },
+    "MaximumDuration": 30.125647,
+    "MinimumDuration": 20.657541,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

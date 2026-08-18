@@ -1,0 +1,68 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_boss_muyu_skill_dead",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_boss_muyu_skill_dead",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2532424139,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2532424139,
+                "SoundBankPathName": "Event/play_sfx_boss_muyu_skill_dead.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_boss_muyu_skill_dead",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 224854297,
+                "MediaPathName": "Media/224854297.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\Enemy\\Boss\\muyu\\sfx_boss_muyu_skill_dead_3d.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 687017783,
+                "MediaPathName": "Media/687017783.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\Enemy\\Boss\\muyu\\sfx_boss_muyu_skill_dead_2d.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_boss_muyu_skill_dead"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_boss_muyu_skill_dead",
+      "EventId": 2532424139
+    },
+    "MaximumDuration": 22.259604,
+    "MinimumDuration": 22.259604,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 10000.0
+  }
+]

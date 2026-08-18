@@ -1,0 +1,88 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_qingxiao_com_hpdown01",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_qingxiao_com_hpdown01",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3323042296,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3323042296,
+                "SoundBankPathName": "Event/play_vo_qingxiao_com_hpdown01.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_qingxiao_com_hpdown01",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 5332407,
+                "MediaPathName": "Media/5332407.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\qingxiao\\zh_vo_qingxiao_com_hpdown01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 175527068,
+                "MediaPathName": "Media/175527068.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,6\\qingxiao\\ko_vo_qingxiao_com_hpdown01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 701952836,
+                "MediaPathName": "Media/701952836.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_3,6\\qingxiao\\en_vo_qingxiao_com_hpdown01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1061326836,
+                "MediaPathName": "Media/1061326836.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,6\\qingxiao\\ja_vo_qingxiao_com_hpdown01_word.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_qingxiao_com_hpdown01"
+          }
+        }
+      ],
+      "DebugName": "play_vo_qingxiao_com_hpdown01",
+      "EventId": 3323042296
+    },
+    "MaximumDuration": 1.983125,
+    "MinimumDuration": 1.5855833,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

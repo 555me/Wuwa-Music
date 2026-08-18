@@ -1,0 +1,88 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_favor_word_qingxiao_sys_foodhate",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_favor_word_qingxiao_sys_foodhate",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 662432119,
+            "SoundBanks": [
+              {
+                "SoundBankId": 662432119,
+                "SoundBankPathName": "Event/play_favor_word_qingxiao_sys_foodhate.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_favor_word_qingxiao_sys_foodhate",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 213254712,
+                "MediaPathName": "Media/213254712.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\qingxiao\\zh_vo_qingxiao_sys_foodhate_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 399110228,
+                "MediaPathName": "Media/399110228.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\ko\\role\\branch_3,6\\qingxiao\\ko_vo_qingxiao_sys_foodhate_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 663383571,
+                "MediaPathName": "Media/663383571.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\en\\role\\branch_3,6\\qingxiao\\en_vo_qingxiao_sys_foodhate_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1017473433,
+                "MediaPathName": "Media/1017473433.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\ja\\role\\branch_3,6\\qingxiao\\ja_vo_qingxiao_sys_foodhate_word.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_favor_word_qingxiao_sys_foodhate"
+          }
+        }
+      ],
+      "DebugName": "play_favor_word_qingxiao_sys_foodhate",
+      "EventId": 662432119
+    },
+    "MaximumDuration": 28.392937,
+    "MinimumDuration": 19.672333,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

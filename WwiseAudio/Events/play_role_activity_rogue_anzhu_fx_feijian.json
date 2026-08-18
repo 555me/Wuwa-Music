@@ -1,0 +1,78 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_role_activity_rogue_anzhu_fx_feijian",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_role_activity_rogue_anzhu_fx_feijian",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 646224490,
+            "SoundBanks": [
+              {
+                "SoundBankId": 646224490,
+                "SoundBankPathName": "Event/play_role_activity_rogue_anzhu_fx_feijian.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_role_activity_rogue_anzhu_fx_feijian",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 427161861,
+                "MediaPathName": "Media/427161861.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,6\\rogue36\\role\\role_activity_rogue_anzhu_fx_feijian_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 858039344,
+                "MediaPathName": "Media/858039344.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,6\\rogue36\\role\\role_activity_rogue_anzhu_fx_feijian_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 906635239,
+                "MediaPathName": "Media/906635239.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,6\\rogue36\\role\\role_activity_rogue_anzhu_fx_feijian_03.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_role_activity_rogue_anzhu_fx_feijian"
+          }
+        }
+      ],
+      "DebugName": "play_role_activity_rogue_anzhu_fx_feijian",
+      "EventId": 646224490
+    },
+    "MaximumDuration": 0.64841664,
+    "MinimumDuration": 0.6009375,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

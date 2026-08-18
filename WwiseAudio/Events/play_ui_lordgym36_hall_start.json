@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_ui_lordgym36_hall_start",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_ui_lordgym36_hall_start",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2165132635,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2165132635,
+                "SoundBankPathName": "Event/play_ui_lordgym36_hall_start.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_ui_lordgym36_hall_start",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 992145161,
+                "MediaPathName": "Media/992145161.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,6\\lordgym36\\ui_lordgym36_hall_start.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_ui_lordgym36_hall_start"
+          }
+        }
+      ],
+      "DebugName": "play_ui_lordgym36_hall_start",
+      "EventId": 2165132635
+    },
+    "MaximumDuration": 2.7260625,
+    "MinimumDuration": 2.7260625,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

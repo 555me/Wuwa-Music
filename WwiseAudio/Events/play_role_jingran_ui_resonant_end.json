@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_role_jingran_ui_resonant_end",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_role_jingran_ui_resonant_end",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 977186200,
+            "SoundBanks": [
+              {
+                "SoundBankId": 977186200,
+                "SoundBankPathName": "Event/play_role_jingran_ui_resonant_end.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_role_jingran_ui_resonant_end",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 134378404,
+                "MediaPathName": "Media/134378404.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "role\\role_bat_Jingran\\Ui\\role_Jingran_ui_resonant_end.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_role_jingran_ui_resonant_end"
+          }
+        }
+      ],
+      "DebugName": "play_role_jingran_ui_resonant_end",
+      "EventId": 977186200
+    },
+    "MaximumDuration": 4.5,
+    "MinimumDuration": 4.5,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

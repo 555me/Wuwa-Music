@@ -159,23 +159,13 @@
                 "PackagedFile": null
               },
               {
-                "MediaId": 970933516,
-                "MediaPathName": "Media/970933516.wem",
+                "MediaId": 693666880,
+                "MediaPathName": "Media/693666880.wem",
                 "PrefetchSize": 0,
                 "MemoryAlignment": 16,
                 "bDeviceMemory": false,
                 "bStreaming": true,
-                "DebugName": "music_next\\music_battle\\3.5\\bgm-battle_scene_xuanfang-all-full-140bpm-null.wav",
-                "PackagedFile": null
-              },
-              {
-                "MediaId": 210222059,
-                "MediaPathName": "Media/210222059.wem",
-                "PrefetchSize": 0,
-                "MemoryAlignment": 16,
-                "bDeviceMemory": false,
-                "bStreaming": true,
-                "DebugName": "music_next\\music_battle\\3.5\\bgm-battle_scene_xuanfang_elite-all-full-144bpm-4_4.wav",
+                "DebugName": "music_next\\music_story\\3_5\\process\\bgm-story_plot_crisis_01-all-full-140bpm-null.wav",
                 "PackagedFile": null
               },
               {
@@ -186,36 +176,6 @@
                 "bDeviceMemory": false,
                 "bStreaming": true,
                 "DebugName": "music\\music_scene\\silence_5s.wav",
-                "PackagedFile": null
-              },
-              {
-                "MediaId": 776077083,
-                "MediaPathName": "Media/776077083.wem",
-                "PrefetchSize": 0,
-                "MemoryAlignment": 16,
-                "bDeviceMemory": false,
-                "bStreaming": true,
-                "DebugName": "music_next\\music_dungeon\\3_5_dungeon\\dungeon_music_jgzd_3_5_Dmin_poi_after_bpm74_4-4.wav",
-                "PackagedFile": null
-              },
-              {
-                "MediaId": 605546497,
-                "MediaPathName": "Media/605546497.wem",
-                "PrefetchSize": 0,
-                "MemoryAlignment": 16,
-                "bDeviceMemory": false,
-                "bStreaming": true,
-                "DebugName": "music_next\\music_dungeon\\3_5_dungeon\\dungeon_music_jgzd_3_5_Dmin_poi_before_bpm74_4-4.wav",
-                "PackagedFile": null
-              },
-              {
-                "MediaId": 693666880,
-                "MediaPathName": "Media/693666880.wem",
-                "PrefetchSize": 0,
-                "MemoryAlignment": 16,
-                "bDeviceMemory": false,
-                "bStreaming": true,
-                "DebugName": "music_next\\music_story\\3_5\\process\\bgm-story_plot_crisis_01-all-full-140bpm-null.wav",
                 "PackagedFile": null
               },
               {
@@ -2729,6 +2689,46 @@
                 "PackagedFile": null
               },
               {
+                "MediaId": 140490572,
+                "MediaPathName": "Media/140490572.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_5\\process\\bgm-story_plot_crisis_battle_03-all-full-140bpm-null.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 970933516,
+                "MediaPathName": "Media/970933516.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_battle\\3.5\\bgm-battle_scene_xuanfang-all-full-140bpm-null.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 210222059,
+                "MediaPathName": "Media/210222059.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_battle\\3.5\\bgm-battle_scene_xuanfang_elite-all-full-144bpm-4_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 513932818,
+                "MediaPathName": "Media/513932818.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_battle\\3.5\\wanelao\\bgm-battle_boss_wanelao_01_p2-all-full-150bpm-null.wav",
+                "PackagedFile": null
+              },
+              {
                 "MediaId": 230396477,
                 "MediaPathName": "Media/230396477.wem",
                 "PrefetchSize": 0,
@@ -2816,26 +2816,6 @@
                 "bDeviceMemory": false,
                 "bStreaming": true,
                 "DebugName": "music_next\\music_battle\\bgm-battle_scene_beauty_small-all-full-135bpm-4_4.wav",
-                "PackagedFile": null
-              },
-              {
-                "MediaId": 140490572,
-                "MediaPathName": "Media/140490572.wem",
-                "PrefetchSize": 0,
-                "MemoryAlignment": 16,
-                "bDeviceMemory": false,
-                "bStreaming": true,
-                "DebugName": "music_next\\music_story\\3_5\\process\\bgm-story_plot_crisis_battle_03-all-full-140bpm-null.wav",
-                "PackagedFile": null
-              },
-              {
-                "MediaId": 513932818,
-                "MediaPathName": "Media/513932818.wem",
-                "PrefetchSize": 0,
-                "MemoryAlignment": 16,
-                "bDeviceMemory": false,
-                "bStreaming": true,
-                "DebugName": "music_next\\music_battle\\3.5\\wanelao\\bgm-battle_boss_wanelao_01_p2-all-full-150bpm-null.wav",
                 "PackagedFile": null
               },
               {
@@ -6656,286 +6636,6 @@
                 "bDeviceMemory": false,
                 "bStreaming": true,
                 "DebugName": "SFX\\amb\\amb_beds\\amb_bed_level_changli_chess_room_random02.wav",
-                "PackagedFile": null
-              },
-              {
-                "MediaId": 149226874,
-                "MediaPathName": "Media/149226874.wem",
-                "PrefetchSize": 0,
-                "MemoryAlignment": 16,
-                "bDeviceMemory": false,
-                "bStreaming": true,
-                "DebugName": "amb\\amb_bed\\amb_bed_3_5_yuhangyuan.wav",
-                "PackagedFile": null
-              },
-              {
-                "MediaId": 427829394,
-                "MediaPathName": "Media/427829394.wem",
-                "PrefetchSize": 0,
-                "MemoryAlignment": 16,
-                "bDeviceMemory": false,
-                "bStreaming": true,
-                "DebugName": "amb\\amb_bed\\amb_bed_3_5_Day_forest.wav",
-                "PackagedFile": null
-              },
-              {
-                "MediaId": 785126900,
-                "MediaPathName": "Media/785126900.wem",
-                "PrefetchSize": 0,
-                "MemoryAlignment": 16,
-                "bDeviceMemory": false,
-                "bStreaming": true,
-                "DebugName": "amb\\amb_bed\\amb_bed_3_5_Night_forest.wav",
-                "PackagedFile": null
-              },
-              {
-                "MediaId": 988650657,
-                "MediaPathName": "Media/988650657.wem",
-                "PrefetchSize": 0,
-                "MemoryAlignment": 16,
-                "bDeviceMemory": false,
-                "bStreaming": true,
-                "DebugName": "amb\\amb_bed\\amb_bed_3_5_suisui_wind.wav",
-                "PackagedFile": null
-              },
-              {
-                "MediaId": 871453927,
-                "MediaPathName": "Media/871453927.wem",
-                "PrefetchSize": 0,
-                "MemoryAlignment": 16,
-                "bDeviceMemory": false,
-                "bStreaming": true,
-                "DebugName": "amb\\amb_bed\\amb_bed_3_5_suisui_Nature.wav",
-                "PackagedFile": null
-              },
-              {
-                "MediaId": 473960576,
-                "MediaPathName": "Media/473960576.wem",
-                "PrefetchSize": 0,
-                "MemoryAlignment": 16,
-                "bDeviceMemory": false,
-                "bStreaming": true,
-                "DebugName": "amb\\amb_bed\\amb_bed_3_5_LiangyuHome.wav",
-                "PackagedFile": null
-              },
-              {
-                "MediaId": 724979597,
-                "MediaPathName": "Media/724979597.wem",
-                "PrefetchSize": 0,
-                "MemoryAlignment": 16,
-                "bDeviceMemory": false,
-                "bStreaming": true,
-                "DebugName": "amb\\amb_bed\\amb_bed_3_5_Bossroomlab.wav",
-                "PackagedFile": null
-              },
-              {
-                "MediaId": 479939076,
-                "MediaPathName": "Media/479939076.wem",
-                "PrefetchSize": 0,
-                "MemoryAlignment": 16,
-                "bDeviceMemory": false,
-                "bStreaming": true,
-                "DebugName": "SFX\\amb\\amb_beds\\amb_beds_level_portal_C.wav",
-                "PackagedFile": null
-              },
-              {
-                "MediaId": 71553790,
-                "MediaPathName": "Media/71553790.wem",
-                "PrefetchSize": 0,
-                "MemoryAlignment": 16,
-                "bDeviceMemory": false,
-                "bStreaming": true,
-                "DebugName": "amb\\amb_bed\\amb_bed_3_5_YunLingGuHuiYi.wav",
-                "PackagedFile": null
-              },
-              {
-                "MediaId": 1073251523,
-                "MediaPathName": "Media/1073251523.wem",
-                "PrefetchSize": 0,
-                "MemoryAlignment": 16,
-                "bDeviceMemory": false,
-                "bStreaming": true,
-                "DebugName": "amb\\amb_bed\\amb_bed_3_5_TinYuan_Disaster_2.wav",
-                "PackagedFile": null
-              },
-              {
-                "MediaId": 949440232,
-                "MediaPathName": "Media/949440232.wem",
-                "PrefetchSize": 0,
-                "MemoryAlignment": 16,
-                "bDeviceMemory": false,
-                "bStreaming": true,
-                "DebugName": "amb\\amb_bed\\amb_bed_3_5_Autumnroom.wav",
-                "PackagedFile": null
-              },
-              {
-                "MediaId": 897427690,
-                "MediaPathName": "Media/897427690.wem",
-                "PrefetchSize": 0,
-                "MemoryAlignment": 16,
-                "bDeviceMemory": false,
-                "bStreaming": true,
-                "DebugName": "not_in_folder\\amb_bed_river_02.wav",
-                "PackagedFile": null
-              },
-              {
-                "MediaId": 501724236,
-                "MediaPathName": "Media/501724236.wem",
-                "PrefetchSize": 0,
-                "MemoryAlignment": 16,
-                "bDeviceMemory": false,
-                "bStreaming": true,
-                "DebugName": "amb\\amb_bed\\amb_bed_3_5_Kurotato.wav",
-                "PackagedFile": null
-              },
-              {
-                "MediaId": 834391601,
-                "MediaPathName": "Media/834391601.wem",
-                "PrefetchSize": 0,
-                "MemoryAlignment": 16,
-                "bDeviceMemory": false,
-                "bStreaming": true,
-                "DebugName": "amb\\amb_bed\\amb_bed_3_5_suisui_wind.wav",
-                "PackagedFile": null
-              },
-              {
-                "MediaId": 874070271,
-                "MediaPathName": "Media/874070271.wem",
-                "PrefetchSize": 0,
-                "MemoryAlignment": 16,
-                "bDeviceMemory": false,
-                "bStreaming": true,
-                "DebugName": "amb\\amb_bed\\amb_bed_3_5_FloraRustle.wav",
-                "PackagedFile": null
-              },
-              {
-                "MediaId": 1018143931,
-                "MediaPathName": "Media/1018143931.wem",
-                "PrefetchSize": 0,
-                "MemoryAlignment": 16,
-                "bDeviceMemory": false,
-                "bStreaming": true,
-                "DebugName": "amb\\amb_bed\\amb_bed_3_5_Night_RiverPool.wav",
-                "PackagedFile": null
-              },
-              {
-                "MediaId": 82495250,
-                "MediaPathName": "Media/82495250.wem",
-                "PrefetchSize": 0,
-                "MemoryAlignment": 16,
-                "bDeviceMemory": false,
-                "bStreaming": true,
-                "DebugName": "amb\\amb_bed\\2.8\\leaves\\amb_bed_wind_howl_light_loop.wav",
-                "PackagedFile": null
-              },
-              {
-                "MediaId": 92841206,
-                "MediaPathName": "Media/92841206.wem",
-                "PrefetchSize": 0,
-                "MemoryAlignment": 16,
-                "bDeviceMemory": false,
-                "bStreaming": true,
-                "DebugName": "amb\\amb_bed\\amb_bed_3_5_suisui_Disaster.wav",
-                "PackagedFile": null
-              },
-              {
-                "MediaId": 920156323,
-                "MediaPathName": "Media/920156323.wem",
-                "PrefetchSize": 0,
-                "MemoryAlignment": 16,
-                "bDeviceMemory": false,
-                "bStreaming": true,
-                "DebugName": "amb\\amb_bed\\amb_bed_3_5_ConsciousnessSpace.wav",
-                "PackagedFile": null
-              },
-              {
-                "MediaId": 247751223,
-                "MediaPathName": "Media/247751223.wem",
-                "PrefetchSize": 0,
-                "MemoryAlignment": 16,
-                "bDeviceMemory": false,
-                "bStreaming": true,
-                "DebugName": "amb\\amb_bed\\amb_bed_3_5_Day_Maincity.wav",
-                "PackagedFile": null
-              },
-              {
-                "MediaId": 693251957,
-                "MediaPathName": "Media/693251957.wem",
-                "PrefetchSize": 0,
-                "MemoryAlignment": 16,
-                "bDeviceMemory": false,
-                "bStreaming": true,
-                "DebugName": "amb\\amb_bed\\amb_bed_3_5_Night_Maincity.wav",
-                "PackagedFile": null
-              },
-              {
-                "MediaId": 287700328,
-                "MediaPathName": "Media/287700328.wem",
-                "PrefetchSize": 0,
-                "MemoryAlignment": 16,
-                "bDeviceMemory": false,
-                "bStreaming": true,
-                "DebugName": "amb\\amb_bed\\amb_bed_3_5_Springroom.wav",
-                "PackagedFile": null
-              },
-              {
-                "MediaId": 341946182,
-                "MediaPathName": "Media/341946182.wem",
-                "PrefetchSize": 0,
-                "MemoryAlignment": 16,
-                "bDeviceMemory": false,
-                "bStreaming": true,
-                "DebugName": "amb\\amb_bed\\amb_bed_3_5_Inroom.wav",
-                "PackagedFile": null
-              },
-              {
-                "MediaId": 801187847,
-                "MediaPathName": "Media/801187847.wem",
-                "PrefetchSize": 0,
-                "MemoryAlignment": 16,
-                "bDeviceMemory": false,
-                "bStreaming": true,
-                "DebugName": "amb\\amb_bed\\amb_bed_3_5_Yuancheng.wav",
-                "PackagedFile": null
-              },
-              {
-                "MediaId": 326648584,
-                "MediaPathName": "Media/326648584.wem",
-                "PrefetchSize": 0,
-                "MemoryAlignment": 16,
-                "bDeviceMemory": false,
-                "bStreaming": true,
-                "DebugName": "amb\\amb_bed\\amb_bed_3_5_Material_QianYi_All.wav",
-                "PackagedFile": null
-              },
-              {
-                "MediaId": 598704711,
-                "MediaPathName": "Media/598704711.wem",
-                "PrefetchSize": 0,
-                "MemoryAlignment": 16,
-                "bDeviceMemory": false,
-                "bStreaming": true,
-                "DebugName": "amb\\amb_bed\\amb_bed_3_5_MZ_ExpMoney.wav",
-                "PackagedFile": null
-              },
-              {
-                "MediaId": 969153755,
-                "MediaPathName": "Media/969153755.wem",
-                "PrefetchSize": 0,
-                "MemoryAlignment": 16,
-                "bDeviceMemory": false,
-                "bStreaming": true,
-                "DebugName": "amb\\amb_bed\\amb_bed_3_5_Night_countryside.wav",
-                "PackagedFile": null
-              },
-              {
-                "MediaId": 999079794,
-                "MediaPathName": "Media/999079794.wem",
-                "PrefetchSize": 0,
-                "MemoryAlignment": 16,
-                "bDeviceMemory": false,
-                "bStreaming": true,
-                "DebugName": "amb\\amb_bed\\amb_bed_3_5_Day_countryside.wav",
                 "PackagedFile": null
               },
               {
@@ -11806,6 +11506,316 @@
                 "bDeviceMemory": false,
                 "bStreaming": true,
                 "DebugName": "amb\\amb_bed\\2.8\\suibo_day\\amb_bed_cityamb_lowair_loop.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 149226874,
+                "MediaPathName": "Media/149226874.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\amb_bed_3_5_yuhangyuan.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 427829394,
+                "MediaPathName": "Media/427829394.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\amb_bed_3_5_Day_forest.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 785126900,
+                "MediaPathName": "Media/785126900.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\amb_bed_3_5_Night_forest.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 988650657,
+                "MediaPathName": "Media/988650657.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\amb_bed_3_5_suisui_wind.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 871453927,
+                "MediaPathName": "Media/871453927.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\amb_bed_3_5_suisui_Nature.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 473960576,
+                "MediaPathName": "Media/473960576.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\amb_bed_3_5_LiangyuHome.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 724979597,
+                "MediaPathName": "Media/724979597.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\amb_bed_3_5_Bossroomlab.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 479939076,
+                "MediaPathName": "Media/479939076.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\amb\\amb_beds\\amb_beds_level_portal_C.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 366499448,
+                "MediaPathName": "Media/366499448.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\gameplay\\3_6\\sfx_gp_qingxiao_fp_wind_loop.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 71553790,
+                "MediaPathName": "Media/71553790.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\amb_bed_3_5_YunLingGuHuiYi.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1073251523,
+                "MediaPathName": "Media/1073251523.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\amb_bed_3_5_TinYuan_Disaster_2.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 949440232,
+                "MediaPathName": "Media/949440232.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\amb_bed_3_5_Autumnroom.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 897427690,
+                "MediaPathName": "Media/897427690.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "not_in_folder\\amb_bed_river_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 501724236,
+                "MediaPathName": "Media/501724236.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\amb_bed_3_5_Kurotato.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 310386388,
+                "MediaPathName": "Media/310386388.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\amb_bed_3_6_Air_Space_2.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 834391601,
+                "MediaPathName": "Media/834391601.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\amb_bed_3_5_suisui_wind.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 874070271,
+                "MediaPathName": "Media/874070271.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\amb_bed_3_5_FloraRustle.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1018143931,
+                "MediaPathName": "Media/1018143931.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\amb_bed_3_5_Night_RiverPool.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 82495250,
+                "MediaPathName": "Media/82495250.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\2.8\\leaves\\amb_bed_wind_howl_light_loop.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 92841206,
+                "MediaPathName": "Media/92841206.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\amb_bed_3_5_suisui_Disaster.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 920156323,
+                "MediaPathName": "Media/920156323.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\amb_bed_3_5_ConsciousnessSpace.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 247751223,
+                "MediaPathName": "Media/247751223.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\amb_bed_3_5_Day_Maincity.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 693251957,
+                "MediaPathName": "Media/693251957.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\amb_bed_3_5_Night_Maincity.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 287700328,
+                "MediaPathName": "Media/287700328.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\amb_bed_3_5_Springroom.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 341946182,
+                "MediaPathName": "Media/341946182.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\amb_bed_3_5_Inroom.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 801187847,
+                "MediaPathName": "Media/801187847.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\amb_bed_3_5_Yuancheng.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 326648584,
+                "MediaPathName": "Media/326648584.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\amb_bed_3_5_Material_QianYi_All.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 598704711,
+                "MediaPathName": "Media/598704711.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\amb_bed_3_5_MZ_ExpMoney.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 969153755,
+                "MediaPathName": "Media/969153755.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\amb_bed_3_5_Night_countryside.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 999079794,
+                "MediaPathName": "Media/999079794.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\amb_bed_3_5_Day_countryside.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1023814631,
+                "MediaPathName": "Media/1023814631.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\amb_bed_3_6_Air_Space.wav",
                 "PackagedFile": null
               },
               {

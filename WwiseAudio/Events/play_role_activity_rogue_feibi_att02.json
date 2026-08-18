@@ -1,0 +1,78 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_role_activity_rogue_feibi_att02",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_role_activity_rogue_feibi_att02",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 905948681,
+            "SoundBanks": [
+              {
+                "SoundBankId": 905948681,
+                "SoundBankPathName": "Event/play_role_activity_rogue_feibi_att02.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_role_activity_rogue_feibi_att02",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 301817826,
+                "MediaPathName": "Media/301817826.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,6\\rogue36\\role\\role_activity_rogue_feibi_att02_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 583411275,
+                "MediaPathName": "Media/583411275.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,6\\rogue36\\role\\role_activity_rogue_feibi_att02_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 983558369,
+                "MediaPathName": "Media/983558369.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,6\\rogue36\\role\\role_activity_rogue_feibi_att02_02.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_role_activity_rogue_feibi_att02"
+          }
+        }
+      ],
+      "DebugName": "play_role_activity_rogue_feibi_att02",
+      "EventId": 905948681
+    },
+    "MaximumDuration": 3.403396,
+    "MinimumDuration": 3.359875,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

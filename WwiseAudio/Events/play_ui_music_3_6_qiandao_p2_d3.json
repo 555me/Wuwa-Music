@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_ui_music_3_6_qiandao_p2_d3",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_ui_music_3_6_qiandao_p2_d3",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1399677238,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1399677238,
+                "SoundBankPathName": "Event/play_ui_music_3_6_qiandao_p2_d3.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_ui_music_3_6_qiandao_p2_d3",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 573769714,
+                "MediaPathName": "Media/573769714.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_ui\\3_6\\qiandao\\bgm-ui_3_6_qiandao_p2_d3-all-full-50bpm-4_4.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_ui_music_3_6_qiandao_p2_d3"
+          }
+        }
+      ],
+      "DebugName": "play_ui_music_3_6_qiandao_p2_d3",
+      "EventId": 1399677238
+    },
+    "MaximumDuration": 3.86583,
+    "MinimumDuration": 3.86583,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

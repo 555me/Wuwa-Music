@@ -1,0 +1,78 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_gd_type_collapse",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_gd_type_collapse",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1873832648,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1873832648,
+                "SoundBankPathName": "Event/play_sfx_gp_gd_type_collapse.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_gd_type_collapse",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 237284555,
+                "MediaPathName": "Media/237284555.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\gameplay\\3_6\\sfx_gp_gd_type_collapse_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 511019401,
+                "MediaPathName": "Media/511019401.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\gameplay\\3_6\\sfx_gp_gd_type_collapse_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1014092128,
+                "MediaPathName": "Media/1014092128.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\gameplay\\3_6\\sfx_gp_gd_type_collapse_01.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_gd_type_collapse"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_gd_type_collapse",
+      "EventId": 1873832648
+    },
+    "MaximumDuration": 7.1101837,
+    "MinimumDuration": 4.3254423,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

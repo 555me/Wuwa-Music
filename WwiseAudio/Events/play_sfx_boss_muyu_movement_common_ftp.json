@@ -1,0 +1,98 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_boss_muyu_movement_common_ftp",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_boss_muyu_movement_common_ftp",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2835684127,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2835684127,
+                "SoundBankPathName": "Event/play_sfx_boss_muyu_movement_common_ftp.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_boss_muyu_movement_common_ftp",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 51947996,
+                "MediaPathName": "Media/51947996.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\Enemy\\Boss\\muyu\\sfx_boss_muyu_movement_common_ftp_04.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 237482415,
+                "MediaPathName": "Media/237482415.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\Enemy\\Boss\\muyu\\sfx_boss_muyu_movement_common_ftp_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 243555453,
+                "MediaPathName": "Media/243555453.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\Enemy\\Boss\\muyu\\sfx_boss_muyu_movement_common_ftp_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 253086941,
+                "MediaPathName": "Media/253086941.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\Enemy\\Boss\\muyu\\sfx_boss_muyu_movement_common_ftp_05.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1037256079,
+                "MediaPathName": "Media/1037256079.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\Enemy\\Boss\\muyu\\sfx_boss_muyu_movement_common_ftp_03.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_boss_muyu_movement_common_ftp"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_boss_muyu_movement_common_ftp",
+      "EventId": 2835684127
+    },
+    "MaximumDuration": 0.6333333,
+    "MinimumDuration": 0.41445833,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 8000.0
+  }
+]

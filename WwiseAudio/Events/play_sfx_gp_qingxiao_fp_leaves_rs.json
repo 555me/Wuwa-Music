@@ -1,0 +1,78 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_qingxiao_fp_leaves_rs",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_qingxiao_fp_leaves_rs",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 294651690,
+            "SoundBanks": [
+              {
+                "SoundBankId": 294651690,
+                "SoundBankPathName": "Event/play_sfx_gp_qingxiao_fp_leaves_rs.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_qingxiao_fp_leaves_rs",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 701029518,
+                "MediaPathName": "Media/701029518.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\gameplay\\3_6\\sfx_gp_qingxiao_fp_leaves_rs_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 876542322,
+                "MediaPathName": "Media/876542322.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\gameplay\\3_6\\sfx_gp_qingxiao_fp_leaves_rs_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 888258046,
+                "MediaPathName": "Media/888258046.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\gameplay\\3_6\\sfx_gp_qingxiao_fp_leaves_rs_01.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_qingxiao_fp_leaves_rs"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_qingxiao_fp_leaves_rs",
+      "EventId": 294651690
+    },
+    "MaximumDuration": 0.0,
+    "MinimumDuration": 0.0,
+    "IsInfinite": true,
+    "MaxAttenuationRadius": 1500.0
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_boss_muyu_skill_attack21",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_boss_muyu_skill_attack21",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3823283510,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3823283510,
+                "SoundBankPathName": "Event/play_sfx_boss_muyu_skill_attack21.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_boss_muyu_skill_attack21",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 867461860,
+                "MediaPathName": "Media/867461860.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\Enemy\\Boss\\muyu\\sfx_boss_muyu_skill_attack21.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_boss_muyu_skill_attack21"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_boss_muyu_skill_attack21",
+      "EventId": 3823283510
+    },
+    "MaximumDuration": 2.9932916,
+    "MinimumDuration": 2.9932916,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 10000.0
+  }
+]

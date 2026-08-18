@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_monster_activity_rogue36_wu",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_monster_activity_rogue36_wu",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1389586499,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1389586499,
+                "SoundBankPathName": "Event/play_monster_activity_rogue36_wu.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_monster_activity_rogue36_wu",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 26604276,
+                "MediaPathName": "Media/26604276.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,6\\rogue36\\monster\\monster_activity_rogue36_wu.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_monster_activity_rogue36_wu"
+          }
+        }
+      ],
+      "DebugName": "play_monster_activity_rogue36_wu",
+      "EventId": 1389586499
+    },
+    "MaximumDuration": 3.3333333,
+    "MinimumDuration": 3.3333333,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 8000.0
+  }
+]

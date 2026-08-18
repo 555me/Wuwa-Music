@@ -1,0 +1,295 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_all_sound_p0056",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_all_sound_p0056",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 1819748192,
+            "LanguageName": "en",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 3428888563,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3428888563,
+                "SoundBankPathName": "Event/en/play_all_sound_P0056.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_all_sound_P0056",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 15894962,
+                "MediaPathName": "Media/15894962.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_6\\A\\mov-story_video_p0056-all-full-null-null.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 133209564,
+                "MediaPathName": "Media/133209564.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "sfx_lva_p0056.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 762214060,
+                "MediaPathName": "Media/en/762214060.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.6\\en_vo_story_p0056_mixed_m.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 361879810,
+                "MediaPathName": "Media/en/361879810.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.6\\en_vo_story_p0056_mixed_f.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_all_sound_P0056"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1735860046,
+            "LanguageName": "ja",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 3428888563,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3428888563,
+                "SoundBankPathName": "Event/ja/play_all_sound_P0056.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_all_sound_P0056",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 15894962,
+                "MediaPathName": "Media/15894962.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_6\\A\\mov-story_video_p0056-all-full-null-null.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 133209564,
+                "MediaPathName": "Media/133209564.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "sfx_lva_p0056.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 236209197,
+                "MediaPathName": "Media/ja/236209197.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.6\\ja_vo_story_p0056_mixed_m.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 131270728,
+                "MediaPathName": "Media/ja/131270728.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.6\\ja_vo_story_p0056_mixed_f.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_all_sound_P0056"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1719082483,
+            "LanguageName": "ko",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 3428888563,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3428888563,
+                "SoundBankPathName": "Event/ko/play_all_sound_P0056.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_all_sound_P0056",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 15894962,
+                "MediaPathName": "Media/15894962.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_6\\A\\mov-story_video_p0056-all-full-null-null.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 133209564,
+                "MediaPathName": "Media/133209564.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "sfx_lva_p0056.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 296867792,
+                "MediaPathName": "Media/ko/296867792.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.6\\ko_vo_story_p0056_mixed_m.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 11607391,
+                "MediaPathName": "Media/ko/11607391.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.6\\ko_vo_story_p0056_mixed_f.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_all_sound_P0056"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1467418007,
+            "LanguageName": "zh",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsDefault"
+          },
+          "Value": {
+            "EventId": 3428888563,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3428888563,
+                "SoundBankPathName": "Event/zh/play_all_sound_P0056.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_all_sound_P0056",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 15894962,
+                "MediaPathName": "Media/15894962.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_6\\A\\mov-story_video_p0056-all-full-null-null.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 133209564,
+                "MediaPathName": "Media/133209564.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "sfx_lva_p0056.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 583736914,
+                "MediaPathName": "Media/zh/583736914.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.6\\zh_vo_story_p0056_mixed_m.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 329044405,
+                "MediaPathName": "Media/zh/329044405.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.6\\zh_vo_story_p0056_mixed_f.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_all_sound_P0056"
+          }
+        }
+      ],
+      "DebugName": "play_all_sound_P0056",
+      "EventId": 3428888563
+    },
+    "MaximumDuration": 13.285729,
+    "MinimumDuration": 13.285729,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

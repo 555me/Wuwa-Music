@@ -1,0 +1,88 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_favor_word_qingxiao_idle_idle01",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_favor_word_qingxiao_idle_idle01",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1265709065,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1265709065,
+                "SoundBankPathName": "Event/play_favor_word_qingxiao_idle_idle01.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_favor_word_qingxiao_idle_idle01",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 565301958,
+                "MediaPathName": "Media/565301958.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\qingxiao\\zh_vo_qingxiao_idle_idle01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 679015480,
+                "MediaPathName": "Media/679015480.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,6\\qingxiao\\ko_vo_qingxiao_idle_idle01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 609224771,
+                "MediaPathName": "Media/609224771.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_3,6\\qingxiao\\en_vo_qingxiao_idle_idle01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 284792860,
+                "MediaPathName": "Media/284792860.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,6\\qingxiao\\ja_vo_qingxiao_idle_idle01_tone.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_favor_word_qingxiao_idle_idle01"
+          }
+        }
+      ],
+      "DebugName": "play_favor_word_qingxiao_idle_idle01",
+      "EventId": 1265709065
+    },
+    "MaximumDuration": 0.70066667,
+    "MinimumDuration": 0.42697915,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

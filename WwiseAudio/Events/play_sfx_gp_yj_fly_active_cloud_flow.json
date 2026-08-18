@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_yj_fly_active_cloud_flow",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_yj_fly_active_cloud_flow",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 4267233347,
+            "SoundBanks": [
+              {
+                "SoundBankId": 4267233347,
+                "SoundBankPathName": "Event/play_sfx_gp_yj_fly_active_cloud_flow.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_yj_fly_active_cloud_flow",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 952080555,
+                "MediaPathName": "Media/952080555.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\gameplay\\3_6\\sfx_gp_yj_fly_active_cloud_flow.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_yj_fly_active_cloud_flow"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_yj_fly_active_cloud_flow",
+      "EventId": 4267233347
+    },
+    "MaximumDuration": 2.0,
+    "MinimumDuration": 2.0,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

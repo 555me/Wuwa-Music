@@ -1,0 +1,168 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_jingran_com_limitdodge",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_jingran_com_limitdodge",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 987467406,
+            "SoundBanks": [
+              {
+                "SoundBankId": 987467406,
+                "SoundBankPathName": "Event/play_vo_jingran_com_limitdodge.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_jingran_com_limitdodge",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 225414231,
+                "MediaPathName": "Media/225414231.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_3,6\\jingran\\en_vo_jingran_com_limitdodge01_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 116672998,
+                "MediaPathName": "Media/116672998.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\zh_vo_jingran_com_limitdodge01_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 483443275,
+                "MediaPathName": "Media/483443275.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,6\\jingran\\ko_vo_jingran_com_limitdodge01_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 183728148,
+                "MediaPathName": "Media/183728148.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,6\\jingran\\ja_vo_jingran_com_limitdodge01_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 458106813,
+                "MediaPathName": "Media/458106813.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_3,6\\jingran\\en_vo_jingran_com_limitdodge01_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 332939054,
+                "MediaPathName": "Media/332939054.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\zh_vo_jingran_com_limitdodge01_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 410746681,
+                "MediaPathName": "Media/410746681.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,6\\jingran\\ko_vo_jingran_com_limitdodge01_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 759057990,
+                "MediaPathName": "Media/759057990.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,6\\jingran\\ja_vo_jingran_com_limitdodge01_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 882926707,
+                "MediaPathName": "Media/882926707.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_3,6\\jingran\\en_vo_jingran_com_limitdodge01_01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 990165327,
+                "MediaPathName": "Media/990165327.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\zh_vo_jingran_com_limitdodge01_01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 177378724,
+                "MediaPathName": "Media/177378724.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,6\\jingran\\ko_vo_jingran_com_limitdodge01_01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 718314261,
+                "MediaPathName": "Media/718314261.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,6\\jingran\\ja_vo_jingran_com_limitdodge01_01_tone.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_jingran_com_limitdodge"
+          }
+        }
+      ],
+      "DebugName": "play_vo_jingran_com_limitdodge",
+      "EventId": 987467406
+    },
+    "MaximumDuration": 1.5116667,
+    "MinimumDuration": 0.19179167,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

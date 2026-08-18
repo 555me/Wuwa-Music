@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_daoguan_shuangji_huitong_battle_attack11_attack3",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_daoguan_shuangji_huitong_battle_attack11_attack3",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 4053621586,
+            "SoundBanks": [
+              {
+                "SoundBankId": 4053621586,
+                "SoundBankPathName": "Event/play_sfx_daoguan_shuangji_huitong_battle_attack11_attack3.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_daoguan_shuangji_huitong_battle_attack11_attack3",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 165255094,
+                "MediaPathName": "Media/165255094.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\Enemy\\Activity\\3.6\\SFX_daoguan_Shuangji_Huitong_Battle_Attack11_attack3.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_daoguan_shuangji_huitong_battle_attack11_attack3"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_daoguan_shuangji_huitong_battle_attack11_attack3",
+      "EventId": 4053621586
+    },
+    "MaximumDuration": 4.2528543,
+    "MinimumDuration": 4.2528543,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 8000.0
+  }
+]

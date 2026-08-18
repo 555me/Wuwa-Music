@@ -1,0 +1,88 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_favor_word_jingran_sys_about_shanmao",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_favor_word_jingran_sys_about_shanmao",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1361747913,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1361747913,
+                "SoundBankPathName": "Event/play_favor_word_jingran_sys_about_shanmao.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_favor_word_jingran_sys_about_shanmao",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 436887998,
+                "MediaPathName": "Media/436887998.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\en\\role\\branch_3,6\\jingran\\en_vo_jingran_sys_about_shanmao_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 650212355,
+                "MediaPathName": "Media/650212355.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\zh_vo_jingran_sys_about_shanmao_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 279579849,
+                "MediaPathName": "Media/279579849.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\ko\\role\\branch_3,6\\jingran\\ko_vo_jingran_sys_about_shanmao_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 913486926,
+                "MediaPathName": "Media/913486926.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\ja\\role\\branch_3,6\\jingran\\ja_vo_jingran_sys_about_shanmao_word.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_favor_word_jingran_sys_about_shanmao"
+          }
+        }
+      ],
+      "DebugName": "play_favor_word_jingran_sys_about_shanmao",
+      "EventId": 1361747913
+    },
+    "MaximumDuration": 31.662083,
+    "MinimumDuration": 19.697813,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

@@ -1,0 +1,168 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_vision_skill_change_aimisi",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_vision_skill_change_aimisi",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3393571294,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3393571294,
+                "SoundBankPathName": "Event/play_vo_vision_skill_change_aimisi.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_vision_skill_change_aimisi",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 431343421,
+                "MediaPathName": "Media/431343421.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,1\\aimisi\\ja_vo_aimisi_mechaform_atk_atk04_02_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 644583413,
+                "MediaPathName": "Media/644583413.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_3,1\\aimisi\\en_vo_aimisi_mechaform_atk_atk04_02_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 835403232,
+                "MediaPathName": "Media/835403232.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,1\\aimisi\\zh_vo_aimisi_mechaform_atk_atk04_02_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 382249882,
+                "MediaPathName": "Media/382249882.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,1\\aimisi\\ko_vo_aimisi_mechaform_atk_atk04_02_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 670449228,
+                "MediaPathName": "Media/670449228.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,1\\aimisi\\ja_vo_aimisi_mechaform_atk_atk04_01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 986064304,
+                "MediaPathName": "Media/986064304.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_3,1\\aimisi\\en_vo_aimisi_mechaform_atk_atk04_01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 292598924,
+                "MediaPathName": "Media/292598924.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,1\\aimisi\\zh_vo_aimisi_mechaform_atk_atk04_01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 520262001,
+                "MediaPathName": "Media/520262001.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,1\\aimisi\\ko_vo_aimisi_mechaform_atk_atk04_01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 627377779,
+                "MediaPathName": "Media/627377779.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,1\\aimisi\\ja_vo_aimisi_mechaform_atk_atk04_03_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 569580626,
+                "MediaPathName": "Media/569580626.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_3,1\\aimisi\\en_vo_aimisi_mechaform_atk_atk04_03_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 940507139,
+                "MediaPathName": "Media/940507139.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,1\\aimisi\\zh_vo_aimisi_mechaform_atk_atk04_03_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 994206278,
+                "MediaPathName": "Media/994206278.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,1\\aimisi\\ko_vo_aimisi_mechaform_atk_atk04_03_word.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_vision_skill_change_aimisi"
+          }
+        }
+      ],
+      "DebugName": "play_vo_vision_skill_change_aimisi",
+      "EventId": 3393571294
+    },
+    "MaximumDuration": 1.8580416,
+    "MinimumDuration": 1.0722083,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

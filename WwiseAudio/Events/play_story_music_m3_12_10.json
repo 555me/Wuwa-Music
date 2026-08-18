@@ -1,0 +1,108 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_story_music_m3_12_10",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_story_music_m3_12_10",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 599222278,
+            "SoundBanks": [
+              {
+                "SoundBankId": 599222278,
+                "SoundBankPathName": "Event/play_story_music_m3_12_10.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_story_music_m3_12_10",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 324921673,
+                "MediaPathName": "Media/324921673.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music\\music_scene\\silence.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 74855247,
+                "MediaPathName": "Media/74855247.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_6\\B\\bgm-story_plot_m3_12_10_x02-all-full-65bpm-4_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 308949044,
+                "MediaPathName": "Media/308949044.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_6\\A\\bgm-story_plot_3_6_calm_guqin-all-full-72bpm-4_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 703135642,
+                "MediaPathName": "Media/703135642.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_ui\\3_6\\qiandao\\bgm-ui_3_6_qiandao_p3_d1-all-full-50bpm-4_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 831774590,
+                "MediaPathName": "Media/831774590.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_5\\jibing\\bgm-story_plot_muyu_x01-all-full-100bpm-3_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1055146254,
+                "MediaPathName": "Media/1055146254.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_6\\A\\bgm-story_plot_m3_12_10_x01-all-full-null-null.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_story_music_m3_12_10"
+          }
+        }
+      ],
+      "DebugName": "play_story_music_m3_12_10",
+      "EventId": 599222278
+    },
+    "MaximumDuration": 0.0,
+    "MinimumDuration": 0.0,
+    "IsInfinite": true,
+    "MaxAttenuationRadius": 0.0
+  }
+]

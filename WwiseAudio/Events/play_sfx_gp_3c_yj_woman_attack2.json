@@ -1,0 +1,98 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_3c_yj_woman_attack2",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_3c_yj_woman_attack2",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1826579314,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1826579314,
+                "SoundBankPathName": "Event/play_sfx_gp_3c_yj_woman_attack2.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_3c_yj_woman_attack2",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 218907879,
+                "MediaPathName": "Media/218907879.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\gameplay\\3_6\\sfx_gp_3c_yj_woman_attack2_04.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 331115794,
+                "MediaPathName": "Media/331115794.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\gameplay\\3_6\\sfx_gp_3c_yj_woman_attack2_05.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 584845433,
+                "MediaPathName": "Media/584845433.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\gameplay\\3_6\\sfx_gp_3c_yj_woman_attack2_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 761289500,
+                "MediaPathName": "Media/761289500.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\gameplay\\3_6\\sfx_gp_3c_yj_woman_attack2_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1009246650,
+                "MediaPathName": "Media/1009246650.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\gameplay\\3_6\\sfx_gp_3c_yj_woman_attack2_02.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_3c_yj_woman_attack2"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_3c_yj_woman_attack2",
+      "EventId": 1826579314
+    },
+    "MaximumDuration": 1.4212917,
+    "MinimumDuration": 1.387625,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

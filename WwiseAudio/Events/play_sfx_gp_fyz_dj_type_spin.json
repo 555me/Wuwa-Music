@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_fyz_dj_type_spin",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_fyz_dj_type_spin",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2836198372,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2836198372,
+                "SoundBankPathName": "Event/play_sfx_gp_fyz_dj_type_spin.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_fyz_dj_type_spin",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 56783584,
+                "MediaPathName": "Media/56783584.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\gameplay\\3_6\\sfx_gp_fyz_dj_type_spin.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_fyz_dj_type_spin"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_fyz_dj_type_spin",
+      "EventId": 2836198372
+    },
+    "MaximumDuration": 3.2883542,
+    "MinimumDuration": 3.2883542,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 20000.0
+  }
+]

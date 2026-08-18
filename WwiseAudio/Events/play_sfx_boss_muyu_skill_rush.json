@@ -1,0 +1,78 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_boss_muyu_skill_rush",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_boss_muyu_skill_rush",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1104940911,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1104940911,
+                "SoundBankPathName": "Event/play_sfx_boss_muyu_skill_rush.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_boss_muyu_skill_rush",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 480741959,
+                "MediaPathName": "Media/480741959.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\Enemy\\Boss\\muyu\\sfx_boss_muyu_skill_rush_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 654278044,
+                "MediaPathName": "Media/654278044.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\Enemy\\Boss\\muyu\\sfx_boss_muyu_skill_rush_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 922220660,
+                "MediaPathName": "Media/922220660.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\Enemy\\Boss\\muyu\\sfx_boss_muyu_skill_rush_02.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_boss_muyu_skill_rush"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_boss_muyu_skill_rush",
+      "EventId": 1104940911
+    },
+    "MaximumDuration": 1.8332708,
+    "MinimumDuration": 1.658625,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 10000.0
+  }
+]

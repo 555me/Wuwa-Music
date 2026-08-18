@@ -1,0 +1,88 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_favor_word_jingran_idle_idle01_02",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_favor_word_jingran_idle_idle01_02",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3041272927,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3041272927,
+                "SoundBankPathName": "Event/play_favor_word_jingran_idle_idle01_02.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_favor_word_jingran_idle_idle01_02",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 857658599,
+                "MediaPathName": "Media/857658599.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_3,6\\jingran\\role_only\\en_vo_jingran_idle_idle01_02_word_jr_only.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 953403211,
+                "MediaPathName": "Media/953403211.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\role_only\\zh_vo_jingran_idle_idle01_02_word_jr_only.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 706821181,
+                "MediaPathName": "Media/706821181.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,6\\jingran\\role_only\\ko_vo_jingran_idle_idle01_02_word_jr_only.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 95524197,
+                "MediaPathName": "Media/95524197.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,6\\jingran\\role_only\\ja_vo_jingran_idle_idle01_02_word_jr_only.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_favor_word_jingran_idle_idle01_02"
+          }
+        }
+      ],
+      "DebugName": "play_favor_word_jingran_idle_idle01_02",
+      "EventId": 3041272927
+    },
+    "MaximumDuration": 32.113792,
+    "MinimumDuration": 0.0,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

@@ -1,0 +1,88 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_favor_word_qingxiao_sys_about_xin",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_favor_word_qingxiao_sys_about_xin",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3916368330,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3916368330,
+                "SoundBankPathName": "Event/play_favor_word_qingxiao_sys_about_xin.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_favor_word_qingxiao_sys_about_xin",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 912044140,
+                "MediaPathName": "Media/912044140.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\qingxiao\\zh_vo_qingxiao_sys_about_xin_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 235724024,
+                "MediaPathName": "Media/235724024.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\ko\\role\\branch_3,6\\qingxiao\\ko_vo_qingxiao_sys_about_xin_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 942513311,
+                "MediaPathName": "Media/942513311.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\en\\role\\branch_3,6\\qingxiao\\en_vo_qingxiao_sys_about_xin_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 139327404,
+                "MediaPathName": "Media/139327404.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\ja\\role\\branch_3,6\\qingxiao\\ja_vo_qingxiao_sys_about_xin_word.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_favor_word_qingxiao_sys_about_xin"
+          }
+        }
+      ],
+      "DebugName": "play_favor_word_qingxiao_sys_about_xin",
+      "EventId": 3916368330
+    },
+    "MaximumDuration": 57.32177,
+    "MinimumDuration": 40.18508,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

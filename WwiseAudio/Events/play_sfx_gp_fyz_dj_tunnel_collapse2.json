@@ -1,0 +1,78 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_fyz_dj_tunnel_collapse2",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_fyz_dj_tunnel_collapse2",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 207148499,
+            "SoundBanks": [
+              {
+                "SoundBankId": 207148499,
+                "SoundBankPathName": "Event/play_sfx_gp_fyz_dj_tunnel_collapse2.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_fyz_dj_tunnel_collapse2",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 75148145,
+                "MediaPathName": "Media/75148145.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\Interaction\\2.6\\shenwangpinlv\\FuMieZhanChang_Fireball2_whoosh_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 616465098,
+                "MediaPathName": "Media/616465098.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\gameplay\\3_5\\sfx_gp_jbgc_dsj_terror_whoosh.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 919021367,
+                "MediaPathName": "Media/919021367.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "sfx_gp_zhaidi_protal_lianbu_through_02.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_fyz_dj_tunnel_collapse2"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_fyz_dj_tunnel_collapse2",
+      "EventId": 207148499
+    },
+    "MaximumDuration": 4.57655,
+    "MinimumDuration": 4.57655,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_gd_type_road3",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_gd_type_road3",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1767857362,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1767857362,
+                "SoundBankPathName": "Event/play_sfx_gp_gd_type_road3.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_gd_type_road3",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 718187304,
+                "MediaPathName": "Media/718187304.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\gameplay\\3_6\\sfx_gp_gd_type_road3_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 937665776,
+                "MediaPathName": "Media/937665776.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\gameplay\\3_6\\sfx_gp_gd_type_road3_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1047827002,
+                "MediaPathName": "Media/1047827002.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\gameplay\\3_6\\sfx_gp_gd_type_road3_02.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_gd_type_road3"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_gd_type_road3",
+      "EventId": 1767857362
+    },
+    "MaximumDuration": 10.840462,
+    "MinimumDuration": 8.519363,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 10000.0
+  }
+]

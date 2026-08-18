@@ -1,0 +1,148 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "map_wp_3_6_sghj",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/map_wp_3_6_sghj",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2947175779,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2947175779,
+                "SoundBankPathName": "Event/map_wp_3_6_sghj.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "map_wp_3_6_sghj",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 310386388,
+                "MediaPathName": "Media/310386388.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\amb_bed_3_6_Air_Space_2.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1023814631,
+                "MediaPathName": "Media/1023814631.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\amb_bed_3_6_Air_Space.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 352745758,
+                "MediaPathName": "Media/352745758.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\amb_bed_3_6_Otherworld_Space.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 82495250,
+                "MediaPathName": "Media/82495250.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\2.8\\leaves\\amb_bed_wind_howl_light_loop.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 969153755,
+                "MediaPathName": "Media/969153755.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\amb_bed_3_5_Night_countryside.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 999079794,
+                "MediaPathName": "Media/999079794.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\amb_bed_3_5_Day_countryside.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 68216499,
+                "MediaPathName": "Media/68216499.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_dungeon\\3_6_dungeon\\bgm-scene_gudi-all-full-136bpm-3_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 995233868,
+                "MediaPathName": "Media/995233868.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_dungeon\\3_6_dungeon\\bgm-dungeon_battle_3_6_common-all-full-130bpm-4_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 751210559,
+                "MediaPathName": "Media/751210559.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_dungeon\\3_6_dungeon\\sence\\bgm-dungeon_scene_renjing_amb-all-full-138bpm-4_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 4546607,
+                "MediaPathName": "Media/4546607.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_dungeon\\3_6_dungeon\\sence\\bgm-dungeon_scene_dijing_amb-all-full-90bpm-4_4.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "map_wp_3_6_sghj"
+          }
+        }
+      ],
+      "DebugName": "map_wp_3_6_sghj",
+      "EventId": 2947175779
+    },
+    "MaximumDuration": 0.0,
+    "MinimumDuration": 0.0,
+    "IsInfinite": true,
+    "MaxAttenuationRadius": 0.0
+  }
+]

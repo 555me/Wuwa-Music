@@ -1,0 +1,175 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_mon_xunxiao_patroltofight",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_mon_xunxiao_patroltofight",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 1819748192,
+            "LanguageName": "en",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 3500644881,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3500644881,
+                "SoundBankPathName": "Event/en/play_vo_mon_xunxiao_patroltofight.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_mon_xunxiao_patroltofight",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 369213609,
+                "MediaPathName": "Media/en/369213609.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "enemy\\branch_3,6\\xunxiao\\en_vo_mon_xunxiao_patroltofight.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_mon_xunxiao_patroltofight"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1735860046,
+            "LanguageName": "ja",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 3500644881,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3500644881,
+                "SoundBankPathName": "Event/ja/play_vo_mon_xunxiao_patroltofight.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_mon_xunxiao_patroltofight",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 740006497,
+                "MediaPathName": "Media/ja/740006497.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "enemy\\branch_3,6\\xunxiao\\ja_vo_mon_xunxiao_patroltofight.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_mon_xunxiao_patroltofight"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1719082483,
+            "LanguageName": "ko",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 3500644881,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3500644881,
+                "SoundBankPathName": "Event/ko/play_vo_mon_xunxiao_patroltofight.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_mon_xunxiao_patroltofight",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 362130138,
+                "MediaPathName": "Media/ko/362130138.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "enemy\\branch_3,6\\xunxiao\\ko_vo_mon_xunxiao_patroltofight.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_mon_xunxiao_patroltofight"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1467418007,
+            "LanguageName": "zh",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsDefault"
+          },
+          "Value": {
+            "EventId": 3500644881,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3500644881,
+                "SoundBankPathName": "Event/zh/play_vo_mon_xunxiao_patroltofight.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_mon_xunxiao_patroltofight",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 955437548,
+                "MediaPathName": "Media/zh/955437548.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "enemy\\branch_3,6\\xunxiao\\zh_vo_mon_xunxiao_patroltofight.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_mon_xunxiao_patroltofight"
+          }
+        }
+      ],
+      "DebugName": "play_vo_mon_xunxiao_patroltofight",
+      "EventId": 3500644881
+    },
+    "MaximumDuration": 2.514604,
+    "MinimumDuration": 2.514604,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 2000.0
+  }
+]

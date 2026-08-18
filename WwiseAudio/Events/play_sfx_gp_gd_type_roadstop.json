@@ -1,0 +1,78 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_gd_type_roadstop",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_gd_type_roadstop",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3193303867,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3193303867,
+                "SoundBankPathName": "Event/play_sfx_gp_gd_type_roadstop.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_gd_type_roadstop",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 647521781,
+                "MediaPathName": "Media/647521781.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\gameplay\\3_6\\sfx_gp_gd_type_roadstop_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 968743766,
+                "MediaPathName": "Media/968743766.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\gameplay\\3_6\\sfx_gp_gd_type_roadstop_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1063855480,
+                "MediaPathName": "Media/1063855480.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\gameplay\\3_6\\sfx_gp_gd_type_roadstop_03.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_gd_type_roadstop"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_gd_type_roadstop",
+      "EventId": 3193303867
+    },
+    "MaximumDuration": 5.03569,
+    "MinimumDuration": 4.641514,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 10000.0
+  }
+]

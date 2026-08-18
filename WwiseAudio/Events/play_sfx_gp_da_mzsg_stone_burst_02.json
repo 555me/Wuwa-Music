@@ -1,0 +1,78 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_da_mzsg_stone_burst_02",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_da_mzsg_stone_burst_02",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1657232269,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1657232269,
+                "SoundBankPathName": "Event/play_sfx_gp_da_mzsg_stone_burst_02.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_da_mzsg_stone_burst_02",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 122023144,
+                "MediaPathName": "Media/122023144.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\gameplay\\3_6\\sfx_gp_da_mzsg_stone_burst_02_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 171255160,
+                "MediaPathName": "Media/171255160.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\gameplay\\3_6\\sfx_gp_da_mzsg_stone_burst_02_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 869842412,
+                "MediaPathName": "Media/869842412.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\gameplay\\3_6\\sfx_gp_da_mzsg_stone_burst_02_01.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_da_mzsg_stone_burst_02"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_da_mzsg_stone_burst_02",
+      "EventId": 1657232269
+    },
+    "MaximumDuration": 1.3007083,
+    "MinimumDuration": 1.2550833,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 15000.0
+  }
+]

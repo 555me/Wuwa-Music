@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_role_jingran_bat_weak_buff_n_enter_l1",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_role_jingran_bat_weak_buff_n_enter_l1",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3663780627,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3663780627,
+                "SoundBankPathName": "Event/play_role_jingran_bat_weak_buff_n_enter_l1.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_role_jingran_bat_weak_buff_n_enter_l1",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 57477791,
+                "MediaPathName": "Media/57477791.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "role\\role_bat_Jingran\\role_jingran_bat_weak_buff_n_enter_l1.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_role_jingran_bat_weak_buff_n_enter_l1"
+          }
+        }
+      ],
+      "DebugName": "play_role_jingran_bat_weak_buff_n_enter_l1",
+      "EventId": 3663780627
+    },
+    "MaximumDuration": 5.0,
+    "MinimumDuration": 5.0,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

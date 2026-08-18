@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_seq_sghj_main_hj_0308_exp_a",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_seq_sghj_main_hj_0308_exp_a",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3268103229,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3268103229,
+                "SoundBankPathName": "Event/play_sfx_gp_seq_sghj_main_hj_0308_exp_a.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_seq_sghj_main_hj_0308_exp_a",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 686054903,
+                "MediaPathName": "Media/686054903.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\gameplay\\3_6\\sfx_gp_seq_sghj_main_hj_0308_exp_01.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_seq_sghj_main_hj_0308_exp_a"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_seq_sghj_main_hj_0308_exp_a",
+      "EventId": 3268103229
+    },
+    "MaximumDuration": 1.3467083,
+    "MinimumDuration": 1.3467083,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

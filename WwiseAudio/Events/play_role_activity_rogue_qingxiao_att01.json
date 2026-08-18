@@ -1,0 +1,78 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_role_activity_rogue_qingxiao_att01",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_role_activity_rogue_qingxiao_att01",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2604089543,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2604089543,
+                "SoundBankPathName": "Event/play_role_activity_rogue_qingxiao_att01.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_role_activity_rogue_qingxiao_att01",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 430030717,
+                "MediaPathName": "Media/430030717.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,6\\rogue36\\role\\role_activity_rogue_qingxiao_att01_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 446300446,
+                "MediaPathName": "Media/446300446.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,6\\rogue36\\role\\role_activity_rogue_qingxiao_att01_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 570765258,
+                "MediaPathName": "Media/570765258.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,6\\rogue36\\role\\role_activity_rogue_qingxiao_att01_01.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_role_activity_rogue_qingxiao_att01"
+          }
+        }
+      ],
+      "DebugName": "play_role_activity_rogue_qingxiao_att01",
+      "EventId": 2604089543
+    },
+    "MaximumDuration": 5.153604,
+    "MinimumDuration": 5.153521,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

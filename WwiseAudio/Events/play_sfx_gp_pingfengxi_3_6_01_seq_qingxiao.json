@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_pingfengxi_3_6_01_seq_qingxiao",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_pingfengxi_3_6_01_seq_qingxiao",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1493920831,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1493920831,
+                "SoundBankPathName": "Event/play_sfx_gp_pingfengxi_3_6_01_seq_qingxiao.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_pingfengxi_3_6_01_seq_qingxiao",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 160389649,
+                "MediaPathName": "Media/160389649.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "3_6_01\\sfx_gp_pingfengxi_3_6_01_seq_qingxiao.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_pingfengxi_3_6_01_seq_qingxiao"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_pingfengxi_3_6_01_seq_qingxiao",
+      "EventId": 1493920831
+    },
+    "MaximumDuration": 16.195417,
+    "MinimumDuration": 16.195417,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

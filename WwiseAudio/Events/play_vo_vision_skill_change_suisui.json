@@ -1,0 +1,168 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_vision_skill_change_suisui",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_vision_skill_change_suisui",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1274000052,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1274000052,
+                "SoundBankPathName": "Event/play_vo_vision_skill_change_suisui.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_vision_skill_change_suisui",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 628184693,
+                "MediaPathName": "Media/628184693.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,5\\suisui\\zh_vo_suisui_atk_atk03_pro_03_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 250643460,
+                "MediaPathName": "Media/250643460.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,5\\suisui\\ja_vo_suisui_atk_atk03_pro_03_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 766300864,
+                "MediaPathName": "Media/766300864.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,5\\suisui\\ko_vo_suisui_atk_atk03_pro_03_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 429888667,
+                "MediaPathName": "Media/429888667.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_3,5\\suisui\\en_vo_suisui_atk_atk03_pro_03_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 227754178,
+                "MediaPathName": "Media/227754178.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,5\\suisui\\zh_vo_suisui_atk_atk03_pro_02_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 385352561,
+                "MediaPathName": "Media/385352561.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,5\\suisui\\ja_vo_suisui_atk_atk03_pro_02_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 330858565,
+                "MediaPathName": "Media/330858565.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,5\\suisui\\ko_vo_suisui_atk_atk03_pro_02_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 232054414,
+                "MediaPathName": "Media/232054414.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_3,5\\suisui\\en_vo_suisui_atk_atk03_pro_02_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 194618505,
+                "MediaPathName": "Media/194618505.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,5\\suisui\\zh_vo_suisui_atk_atk03_pro_01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 189209136,
+                "MediaPathName": "Media/189209136.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,5\\suisui\\ja_vo_suisui_atk_atk03_pro_01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 397725715,
+                "MediaPathName": "Media/397725715.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,5\\suisui\\ko_vo_suisui_atk_atk03_pro_01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 317929890,
+                "MediaPathName": "Media/317929890.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_3,5\\suisui\\en_vo_suisui_atk_atk03_pro_01_word.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_vision_skill_change_suisui"
+          }
+        }
+      ],
+      "DebugName": "play_vo_vision_skill_change_suisui",
+      "EventId": 1274000052
+    },
+    "MaximumDuration": 1.8773959,
+    "MinimumDuration": 0.91866666,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

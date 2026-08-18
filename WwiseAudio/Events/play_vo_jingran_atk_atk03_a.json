@@ -1,0 +1,168 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_jingran_atk_atk03_a",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_jingran_atk_atk03_a",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 398904444,
+            "SoundBanks": [
+              {
+                "SoundBankId": 398904444,
+                "SoundBankPathName": "Event/play_vo_jingran_atk_atk03_a.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_jingran_atk_atk03_a",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 252466114,
+                "MediaPathName": "Media/252466114.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_3,6\\jingran\\en_vo_jingran_atk_atk03_a_01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 837909306,
+                "MediaPathName": "Media/837909306.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\zh_vo_jingran_atk_atk03_a_01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 954134242,
+                "MediaPathName": "Media/954134242.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,6\\jingran\\ko_vo_jingran_atk_atk03_a_01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 476633606,
+                "MediaPathName": "Media/476633606.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,6\\jingran\\ja_vo_jingran_atk_atk03_a_01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 530086442,
+                "MediaPathName": "Media/530086442.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_3,6\\jingran\\en_vo_jingran_atk_atk03_a_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 615669175,
+                "MediaPathName": "Media/615669175.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\zh_vo_jingran_atk_atk03_a_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 142003008,
+                "MediaPathName": "Media/142003008.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,6\\jingran\\ko_vo_jingran_atk_atk03_a_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 655062529,
+                "MediaPathName": "Media/655062529.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,6\\jingran\\ja_vo_jingran_atk_atk03_a_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 235849330,
+                "MediaPathName": "Media/235849330.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_3,6\\jingran\\en_vo_jingran_atk_atk03_a_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 657133008,
+                "MediaPathName": "Media/657133008.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\zh_vo_jingran_atk_atk03_a_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 884491935,
+                "MediaPathName": "Media/884491935.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,6\\jingran\\ko_vo_jingran_atk_atk03_a_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 467296740,
+                "MediaPathName": "Media/467296740.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,6\\jingran\\ja_vo_jingran_atk_atk03_a_02_tone.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_jingran_atk_atk03_a"
+          }
+        }
+      ],
+      "DebugName": "play_vo_jingran_atk_atk03_a",
+      "EventId": 398904444
+    },
+    "MaximumDuration": 1.536,
+    "MinimumDuration": 1.0106666,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

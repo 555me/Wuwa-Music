@@ -1,0 +1,88 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_amb_emit_3_6_gear_mechanism",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_amb_emit_3_6_gear_mechanism",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3087415887,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3087415887,
+                "SoundBankPathName": "Event/play_amb_emit_3_6_gear_mechanism.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_amb_emit_3_6_gear_mechanism",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 65903226,
+                "MediaPathName": "Media/65903226.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\amb_emit_3_6_Gear_Mechanism_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 611367205,
+                "MediaPathName": "Media/611367205.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\amb_emit_3_6_Gear_Mechanism_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 845515591,
+                "MediaPathName": "Media/845515591.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\amb_emit_3_6_Gear_Mechanism_04.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 904496456,
+                "MediaPathName": "Media/904496456.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\amb_emit_3_6_Gear_Mechanism_02.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_amb_emit_3_6_gear_mechanism"
+          }
+        }
+      ],
+      "DebugName": "play_amb_emit_3_6_gear_mechanism",
+      "EventId": 3087415887
+    },
+    "MaximumDuration": 0.0,
+    "MinimumDuration": 0.0,
+    "IsInfinite": true,
+    "MaxAttenuationRadius": 4000.0
+  }
+]

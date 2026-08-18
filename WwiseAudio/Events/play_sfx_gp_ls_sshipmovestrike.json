@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_ls_sshipmovestrike",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_ls_sshipmovestrike",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 4252433112,
+            "SoundBanks": [
+              {
+                "SoundBankId": 4252433112,
+                "SoundBankPathName": "Event/play_sfx_gp_ls_sshipmovestrike.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_ls_sshipmovestrike",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 639810200,
+                "MediaPathName": "Media/639810200.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\gameplay\\3_6\\sfx_gp_ls_sshipmovestrike_01.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_ls_sshipmovestrike"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_ls_sshipmovestrike",
+      "EventId": 4252433112
+    },
+    "MaximumDuration": 13.516334,
+    "MinimumDuration": 13.516334,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 30000.0
+  }
+]

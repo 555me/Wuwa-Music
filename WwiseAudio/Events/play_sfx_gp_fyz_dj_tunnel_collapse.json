@@ -1,0 +1,68 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_fyz_dj_tunnel_collapse",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_fyz_dj_tunnel_collapse",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 4239737659,
+            "SoundBanks": [
+              {
+                "SoundBankId": 4239737659,
+                "SoundBankPathName": "Event/play_sfx_gp_fyz_dj_tunnel_collapse.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_fyz_dj_tunnel_collapse",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 278688206,
+                "MediaPathName": "Media/278688206.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\amb\\amb_interact\\amb_interact_stonepillar_down02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1019116764,
+                "MediaPathName": "Media/1019116764.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\gameplay\\3_5\\sfx_gp_jbgc_seq_jibing_shadow_1_appear.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_fyz_dj_tunnel_collapse"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_fyz_dj_tunnel_collapse",
+      "EventId": 4239737659
+    },
+    "MaximumDuration": 3.6498256,
+    "MinimumDuration": 3.4449766,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 50000.0
+  }
+]

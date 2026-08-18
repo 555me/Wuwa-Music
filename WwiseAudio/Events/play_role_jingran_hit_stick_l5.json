@@ -1,0 +1,98 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_role_jingran_hit_stick_l5",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_role_jingran_hit_stick_l5",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2095456557,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2095456557,
+                "SoundBankPathName": "Event/play_role_jingran_hit_stick_l5.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_role_jingran_hit_stick_l5",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 253236053,
+                "MediaPathName": "Media/253236053.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "role\\role_bat_Jingran\\Hit\\role_Jingran_hit_stick_l5_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 323052158,
+                "MediaPathName": "Media/323052158.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "role\\role_bat_Jingran\\Hit\\role_Jingran_hit_stick_l5_04.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 423092236,
+                "MediaPathName": "Media/423092236.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "role\\role_bat_Jingran\\Hit\\role_Jingran_hit_stick_l5_05.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 519548422,
+                "MediaPathName": "Media/519548422.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "role\\role_bat_Jingran\\Hit\\role_Jingran_hit_stick_l5_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 836543739,
+                "MediaPathName": "Media/836543739.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "role\\role_bat_Jingran\\Hit\\role_Jingran_hit_stick_l5_03.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_role_jingran_hit_stick_l5"
+          }
+        }
+      ],
+      "DebugName": "play_role_jingran_hit_stick_l5",
+      "EventId": 2095456557
+    },
+    "MaximumDuration": 1.0594631,
+    "MinimumDuration": 0.9715319,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

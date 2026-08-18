@@ -1,0 +1,88 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_favor_word_jingran_sys_taste",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_favor_word_jingran_sys_taste",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 4232707643,
+            "SoundBanks": [
+              {
+                "SoundBankId": 4232707643,
+                "SoundBankPathName": "Event/play_favor_word_jingran_sys_taste.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_favor_word_jingran_sys_taste",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 934871044,
+                "MediaPathName": "Media/934871044.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\en\\role\\branch_3,6\\jingran\\en_vo_jingran_sys_taste_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 991821557,
+                "MediaPathName": "Media/991821557.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\zh_vo_jingran_sys_taste_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 25433465,
+                "MediaPathName": "Media/25433465.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\ko\\role\\branch_3,6\\jingran\\ko_vo_jingran_sys_taste_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 607408881,
+                "MediaPathName": "Media/607408881.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\ja\\role\\branch_3,6\\jingran\\ja_vo_jingran_sys_taste_word.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_favor_word_jingran_sys_taste"
+          }
+        }
+      ],
+      "DebugName": "play_favor_word_jingran_sys_taste",
+      "EventId": 4232707643
+    },
+    "MaximumDuration": 36.439457,
+    "MinimumDuration": 24.497292,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

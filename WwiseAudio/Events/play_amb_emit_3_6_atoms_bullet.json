@@ -1,0 +1,178 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_amb_emit_3_6_atoms_bullet",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_amb_emit_3_6_atoms_bullet",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 884405605,
+            "SoundBanks": [
+              {
+                "SoundBankId": 884405605,
+                "SoundBankPathName": "Event/play_amb_emit_3_6_atoms_bullet.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_amb_emit_3_6_atoms_bullet",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 15747380,
+                "MediaPathName": "Media/15747380.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\amb_emit_3_6_Atoms_Bullet_06.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 35257713,
+                "MediaPathName": "Media/35257713.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\amb_emit_3_6_Atoms_Bullet_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 116128798,
+                "MediaPathName": "Media/116128798.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\amb_emit_3_6_Atoms_Bullet_10.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 326221344,
+                "MediaPathName": "Media/326221344.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\amb_emit_3_6_Atoms_Bullet_07.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 641293447,
+                "MediaPathName": "Media/641293447.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\amb_emit_3_6_Atoms_Bullet_11.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 715115282,
+                "MediaPathName": "Media/715115282.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\amb_emit_3_6_Atoms_Bullet_08.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 744641558,
+                "MediaPathName": "Media/744641558.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\amb_emit_3_6_Atoms_Bullet_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 782349346,
+                "MediaPathName": "Media/782349346.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\amb_emit_3_6_Atoms_Bullet_09.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 792456775,
+                "MediaPathName": "Media/792456775.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\amb_emit_3_6_Atoms_Bullet_05.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 847502787,
+                "MediaPathName": "Media/847502787.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\amb_emit_3_6_Atoms_Bullet_13.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 866145213,
+                "MediaPathName": "Media/866145213.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\amb_emit_3_6_Atoms_Bullet_04.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 935297734,
+                "MediaPathName": "Media/935297734.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\amb_emit_3_6_Atoms_Bullet_12.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1007506704,
+                "MediaPathName": "Media/1007506704.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\amb_emit_3_6_Atoms_Bullet_01.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_amb_emit_3_6_atoms_bullet"
+          }
+        }
+      ],
+      "DebugName": "play_amb_emit_3_6_atoms_bullet",
+      "EventId": 884405605
+    },
+    "MaximumDuration": 0.0,
+    "MinimumDuration": 0.0,
+    "IsInfinite": true,
+    "MaxAttenuationRadius": 10000.0
+  }
+]

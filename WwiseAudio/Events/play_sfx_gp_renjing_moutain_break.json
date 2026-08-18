@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_renjing_moutain_break",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_renjing_moutain_break",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3275461055,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3275461055,
+                "SoundBankPathName": "Event/play_sfx_gp_renjing_moutain_break.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_renjing_moutain_break",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 926350856,
+                "MediaPathName": "Media/926350856.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\gameplay\\3_6\\sfx_gp_renjing_moutain_break.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_renjing_moutain_break"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_renjing_moutain_break",
+      "EventId": 3275461055
+    },
+    "MaximumDuration": 17.002792,
+    "MinimumDuration": 17.002792,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

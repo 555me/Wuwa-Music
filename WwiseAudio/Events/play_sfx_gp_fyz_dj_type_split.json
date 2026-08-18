@@ -1,0 +1,68 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_fyz_dj_type_split",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_fyz_dj_type_split",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 509332444,
+            "SoundBanks": [
+              {
+                "SoundBankId": 509332444,
+                "SoundBankPathName": "Event/play_sfx_gp_fyz_dj_type_split.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_fyz_dj_type_split",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 215876526,
+                "MediaPathName": "Media/215876526.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "not_in_folder\\interact_kindling_hit_vine_pollution.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 520713350,
+                "MediaPathName": "Media/520713350.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "not_in_folder\\interact_feilian_rock_02.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_fyz_dj_type_split"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_fyz_dj_type_split",
+      "EventId": 509332444
+    },
+    "MaximumDuration": 3.5506036,
+    "MinimumDuration": 3.5506036,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 7000.0
+  }
+]

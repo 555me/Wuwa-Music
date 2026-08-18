@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_lvb_m3_12_06_02_thunder",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_lvb_m3_12_06_02_thunder",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2661998328,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2661998328,
+                "SoundBankPathName": "Event/play_sfx_lvb_m3_12_06_02_thunder.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_lvb_m3_12_06_02_thunder",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 1028492717,
+                "MediaPathName": "Media/1028492717.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "levelb\\section03\\sfx_lvb_m3_12_06_02_thunder.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_lvb_m3_12_06_02_thunder"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_lvb_m3_12_06_02_thunder",
+      "EventId": 2661998328
+    },
+    "MaximumDuration": 3.7287707,
+    "MinimumDuration": 3.7287707,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

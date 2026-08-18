@@ -1,0 +1,358 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "map_huodong_ljboss3",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/map_huodong_ljboss3",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 505845759,
+            "SoundBanks": [
+              {
+                "SoundBankId": 505845759,
+                "SoundBankPathName": "Event/map_huodong_ljboss3.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "map_huodong_ljboss3",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 73849365,
+                "MediaPathName": "Media/73849365.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\amb\\amb_beds\\amb_bed_lucy_bossroom1.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 507166016,
+                "MediaPathName": "Media/507166016.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music\\music_story\\plot\\1.1\\main_chapter_1_1\\plot_music_fuluoluo_theme.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 230396477,
+                "MediaPathName": "Media/230396477.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_1\\bgm-dungeon_3,1_boss_xinjilemu_stage3-all-full-100bpm-4_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 698133347,
+                "MediaPathName": "Media/698133347.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_1\\bgm-dungeon_3,1_boss_xinjilemu_stage2-all-full-100bpm-4_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 139319609,
+                "MediaPathName": "Media/139319609.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_battle\\boss\\haiweixia\\bgm-battle_boss_haiweixia_p3-all-full-170bpm-4_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 67998053,
+                "MediaPathName": "Media/67998053.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_battle\\boss\\haiweixia\\bgm-battle_boss_haiweixia_p2-loop-full-155bpm-4_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 632484077,
+                "MediaPathName": "Media/632484077.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_battle\\boss\\haiweixia\\bgm-battle_boss_haiweixia_p2-intro-full-155bpm-4_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 490765762,
+                "MediaPathName": "Media/490765762.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_battle\\boss\\haiweixia\\bgm-battle_boss_haiweixia_p1-all-full-155bpm-4_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 876544271,
+                "MediaPathName": "Media/876544271.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_battle\\boss\\spaceman\\bgm-battle_boss_spaceman_p2-all-full-97bpm-4_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 882727706,
+                "MediaPathName": "Media/882727706.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_battle\\boss\\spaceman\\bgm-battle_boss_spaceman_p3-all-full-97bpm-4_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 101952194,
+                "MediaPathName": "Media/101952194.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music\\music_scene\\silence_5s.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 131038628,
+                "MediaPathName": "Media/131038628.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_battle\\boss\\spaceman\\bgm-battle_boss_spaceman_p1-all-full-97bpm-4_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 324715338,
+                "MediaPathName": "Media/324715338.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_battle\\boss\\luxinshouwei\\bgm-battle_boss_luxinshouwei_p3-intro-full-130bpm-4_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 704796882,
+                "MediaPathName": "Media/704796882.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_battle\\boss\\luxinshouwei\\bgm-battle_boss_luxinshouwei_p1-intro-full-130bpm-4_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 732913423,
+                "MediaPathName": "Media/732913423.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_battle\\boss\\luxinshouwei\\bgm-battle_boss_luxinshouwei_p3-loop-full-130bpm-4_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 970229089,
+                "MediaPathName": "Media/970229089.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_battle\\boss\\luxinshouwei\\bgm-battle_boss_luxinshouwei_p1-loop-full-130bpm-4_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 626777822,
+                "MediaPathName": "Media/626777822.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_battle\\boss\\luxinshouwei\\bgm-battle_boss_luxinshouwei_p2-loop-full-130bpm-4_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1065712705,
+                "MediaPathName": "Media/1065712705.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_battle\\boss\\luxinshouwei\\bgm-battle_boss_luxinshouwei_p2-intro-full-130bpm-4_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 463407264,
+                "MediaPathName": "Media/463407264.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music\\music_battle\\boss\\fuludelisi\\fuludelisi_boss_stage2_loop.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1055840191,
+                "MediaPathName": "Media/1055840191.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music\\music_battle\\boss\\fuludelisi\\fuludelisi_boss_stage2_intro.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 764455459,
+                "MediaPathName": "Media/764455459.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music\\music_battle\\boss\\fuludelisi\\fldls_boss_stage1_mix_0110_bpm123_4-4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 435272686,
+                "MediaPathName": "Media/435272686.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music\\music_dungeon\\2.2kanteleila\\kanteleila_boss_loop.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 758957417,
+                "MediaPathName": "Media/758957417.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music\\music_dungeon\\2.2kanteleila\\kanteleila_boss_stage2_intro.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 599246686,
+                "MediaPathName": "Media/599246686.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music\\music_dungeon\\2.2kanteleila\\kanteleila_boss_stage1_intro.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1015601983,
+                "MediaPathName": "Media/1015601983.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music\\music_battle\\boss\\rongyaoshixiang\\boss_rongyaoxiongshi_stage2_fusha_bpm140_9-8.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 988707492,
+                "MediaPathName": "Media/988707492.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music\\music_battle\\boss\\rongyaoshixiang\\boss_rongyaoxiongshi_stage1_fushua_bpm140_9-8_intro.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 574022488,
+                "MediaPathName": "Media/574022488.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music\\music_battle\\boss\\shenwang\\battle_music_boss_shenwang2_bpm170_4-4_ingame.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 695750428,
+                "MediaPathName": "Media/695750428.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music\\music_battle\\boss\\shenwang\\battle_music_boss_shenwang1_bpm140_4-4_ingame.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 426772940,
+                "MediaPathName": "Media/426772940.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music\\music_battle\\boss\\hekate\\battle_music_boss_hekate_p1_bpm151.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 559378339,
+                "MediaPathName": "Media/559378339.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music\\music_battle\\boss\\hekate\\battle_music_boss_hekate_p2_loop_bpm156.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 764569960,
+                "MediaPathName": "Media/764569960.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music\\music_battle\\boss\\hekate\\battle_music_boss_hekate_p3_bpm150.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "map_huodong_ljboss3"
+          }
+        }
+      ],
+      "DebugName": "map_huodong_ljboss3",
+      "EventId": 505845759
+    },
+    "MaximumDuration": 0.0,
+    "MinimumDuration": 0.0,
+    "IsInfinite": true,
+    "MaxAttenuationRadius": 0.0
+  }
+]

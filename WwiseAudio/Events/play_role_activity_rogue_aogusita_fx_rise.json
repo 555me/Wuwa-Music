@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_role_activity_rogue_aogusita_fx_rise",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_role_activity_rogue_aogusita_fx_rise",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 143131366,
+            "SoundBanks": [
+              {
+                "SoundBankId": 143131366,
+                "SoundBankPathName": "Event/play_role_activity_rogue_aogusita_fx_rise.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_role_activity_rogue_aogusita_fx_rise",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 224647697,
+                "MediaPathName": "Media/224647697.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,6\\rogue36\\role\\role_activity_rogue_aogusita_fx_rise.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_role_activity_rogue_aogusita_fx_rise"
+          }
+        }
+      ],
+      "DebugName": "play_role_activity_rogue_aogusita_fx_rise",
+      "EventId": 143131366
+    },
+    "MaximumDuration": 2.268771,
+    "MinimumDuration": 2.268771,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

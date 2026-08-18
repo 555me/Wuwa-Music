@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_bgm_role_qingxiao_stand_tanqin",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_bgm_role_qingxiao_stand_tanqin",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3472189467,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3472189467,
+                "SoundBankPathName": "Event/play_bgm_role_qingxiao_stand_tanqin.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_bgm_role_qingxiao_stand_tanqin",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 794442397,
+                "MediaPathName": "Media/794442397.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\musi_role\\qingxiao\\bgm-role_qingxiao_stand_tanqin-all-full-null-null.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_bgm_role_qingxiao_stand_tanqin"
+          }
+        }
+      ],
+      "DebugName": "play_bgm_role_qingxiao_stand_tanqin",
+      "EventId": 3472189467
+    },
+    "MaximumDuration": 43.356625,
+    "MinimumDuration": 43.356625,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_jianyi_da_fx_group_sl2_mzsg_hyjy_loop",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_jianyi_da_fx_group_sl2_mzsg_hyjy_loop",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 559885581,
+            "SoundBanks": [
+              {
+                "SoundBankId": 559885581,
+                "SoundBankPathName": "Event/play_sfx_gp_jianyi_da_fx_group_sl2_mzsg_hyjy_loop.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_jianyi_da_fx_group_sl2_mzsg_hyjy_loop",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 537067546,
+                "MediaPathName": "Media/537067546.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "sfx_gp_jianyi_DA_Fx_Group_Sl2_MZSG_HYJY_Loop.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_jianyi_da_fx_group_sl2_mzsg_hyjy_loop"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_jianyi_da_fx_group_sl2_mzsg_hyjy_loop",
+      "EventId": 559885581
+    },
+    "MaximumDuration": 0.0,
+    "MinimumDuration": 0.0,
+    "IsInfinite": true,
+    "MaxAttenuationRadius": 2000.0
+  }
+]

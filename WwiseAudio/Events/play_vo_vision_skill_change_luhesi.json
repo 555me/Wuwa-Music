@@ -1,0 +1,168 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_vision_skill_change_luhesi",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_vision_skill_change_luhesi",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1478580874,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1478580874,
+                "SoundBankPathName": "Event/play_vo_vision_skill_change_luhesi.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_vision_skill_change_luhesi",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 940178294,
+                "MediaPathName": "Media/940178294.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,1\\luhesi\\ko_vo_luhesi_skill_skill02_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 499496537,
+                "MediaPathName": "Media/499496537.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,1\\luhesi\\zh_vo_luhesi_skill_skill02_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 206296394,
+                "MediaPathName": "Media/206296394.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,1\\luhesi\\ja_vo_luhesi_skill_skill02_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 803639460,
+                "MediaPathName": "Media/803639460.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_3,1\\luhesi\\en_vo_luhesi_skill_skill02_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 135877894,
+                "MediaPathName": "Media/135877894.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,1\\luhesi\\ko_vo_luhesi_skill_skill02_02_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 352569791,
+                "MediaPathName": "Media/352569791.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,1\\luhesi\\zh_vo_luhesi_skill_skill02_02_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 561716075,
+                "MediaPathName": "Media/561716075.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,1\\luhesi\\ja_vo_luhesi_skill_skill02_02_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 914667675,
+                "MediaPathName": "Media/914667675.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_3,1\\luhesi\\en_vo_luhesi_skill_skill02_02_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 856802119,
+                "MediaPathName": "Media/856802119.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,1\\luhesi\\ko_vo_luhesi_skill_skill02_01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 507024404,
+                "MediaPathName": "Media/507024404.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,1\\luhesi\\zh_vo_luhesi_skill_skill02_01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 40898098,
+                "MediaPathName": "Media/40898098.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,1\\luhesi\\ja_vo_luhesi_skill_skill02_01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 938937059,
+                "MediaPathName": "Media/938937059.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_3,1\\luhesi\\en_vo_luhesi_skill_skill02_01_word.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_vision_skill_change_luhesi"
+          }
+        }
+      ],
+      "DebugName": "play_vo_vision_skill_change_luhesi",
+      "EventId": 1478580874
+    },
+    "MaximumDuration": 1.4250625,
+    "MinimumDuration": 0.44266668,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

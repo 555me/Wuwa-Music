@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_role_vision_elite_qiangwei",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_role_vision_elite_qiangwei",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 4008970123,
+            "SoundBanks": [
+              {
+                "SoundBankId": 4008970123,
+                "SoundBankPathName": "Event/play_role_vision_elite_qiangwei.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_role_vision_elite_qiangwei",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 674055787,
+                "MediaPathName": "Media/674055787.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\Enemy\\Elite\\Qiangwei\\role_vision_elite_qiangwei.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_role_vision_elite_qiangwei"
+          }
+        }
+      ],
+      "DebugName": "play_role_vision_elite_qiangwei",
+      "EventId": 4008970123
+    },
+    "MaximumDuration": 4.9577084,
+    "MinimumDuration": 4.9577084,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 3000.0
+  }
+]

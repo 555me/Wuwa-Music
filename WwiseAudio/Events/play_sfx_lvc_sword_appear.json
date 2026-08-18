@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_lvc_sword_appear",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_lvc_sword_appear",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 268813519,
+            "SoundBanks": [
+              {
+                "SoundBankId": 268813519,
+                "SoundBankPathName": "Event/play_sfx_lvc_sword_appear.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_lvc_sword_appear",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 287261914,
+                "MediaPathName": "Media/287261914.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "levelb\\section03\\sfx_lvc_sword_appear.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_lvc_sword_appear"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_lvc_sword_appear",
+      "EventId": 268813519
+    },
+    "MaximumDuration": 3.51088,
+    "MinimumDuration": 3.51088,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

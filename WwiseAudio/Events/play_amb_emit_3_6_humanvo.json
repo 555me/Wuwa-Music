@@ -1,0 +1,128 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_amb_emit_3_6_humanvo",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_amb_emit_3_6_humanvo",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2616979678,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2616979678,
+                "SoundBankPathName": "Event/play_amb_emit_3_6_humanvo.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_amb_emit_3_6_humanvo",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 13275649,
+                "MediaPathName": "Media/13275649.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\amb_emit_3_5_HumanVO_8.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 239641610,
+                "MediaPathName": "Media/239641610.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\amb_emit_3_5_HumanVO_5.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 313115305,
+                "MediaPathName": "Media/313115305.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\amb_emit_3_5_HumanVO_7.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 559529426,
+                "MediaPathName": "Media/559529426.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\amb_emit_3_5_HumanVO_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 736159876,
+                "MediaPathName": "Media/736159876.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\amb_emit_3_5_HumanVO_2.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 830065790,
+                "MediaPathName": "Media/830065790.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\amb_emit_3_5_HumanVO_6.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 886457290,
+                "MediaPathName": "Media/886457290.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\amb_emit_3_5_HumanVO_3.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1007371630,
+                "MediaPathName": "Media/1007371630.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\amb_emit_3_5_HumanVO_1.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_amb_emit_3_6_humanvo"
+          }
+        }
+      ],
+      "DebugName": "play_amb_emit_3_6_humanvo",
+      "EventId": 2616979678
+    },
+    "MaximumDuration": 0.0,
+    "MinimumDuration": 0.0,
+    "IsInfinite": true,
+    "MaxAttenuationRadius": 4000.0
+  }
+]

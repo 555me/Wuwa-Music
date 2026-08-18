@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_yj_fly_active_cloud_down",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_yj_fly_active_cloud_down",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 491319539,
+            "SoundBanks": [
+              {
+                "SoundBankId": 491319539,
+                "SoundBankPathName": "Event/play_sfx_gp_yj_fly_active_cloud_down.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_yj_fly_active_cloud_down",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 507215702,
+                "MediaPathName": "Media/507215702.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\gameplay\\3_6\\sfx_gp_yj_fly_active_cloud_down.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_yj_fly_active_cloud_down"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_yj_fly_active_cloud_down",
+      "EventId": 491319539
+    },
+    "MaximumDuration": 3.897625,
+    "MinimumDuration": 3.897625,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

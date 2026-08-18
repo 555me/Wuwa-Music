@@ -1,0 +1,168 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_qingxiao_com_tired",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_qingxiao_com_tired",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3447937869,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3447937869,
+                "SoundBankPathName": "Event/play_vo_qingxiao_com_tired.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_qingxiao_com_tired",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 527721173,
+                "MediaPathName": "Media/527721173.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\qingxiao\\zh_vo_qingxiao_com_tired_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1047764068,
+                "MediaPathName": "Media/1047764068.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\ko\\role\\branch_3,6\\qingxiao\\ko_vo_qingxiao_com_tired_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 109463068,
+                "MediaPathName": "Media/109463068.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\en\\role\\branch_3,6\\qingxiao\\en_vo_qingxiao_com_tired_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 661829465,
+                "MediaPathName": "Media/661829465.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\ja\\role\\branch_3,6\\qingxiao\\ja_vo_qingxiao_com_tired_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 144154912,
+                "MediaPathName": "Media/144154912.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\qingxiao\\zh_vo_qingxiao_com_tired_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 607186109,
+                "MediaPathName": "Media/607186109.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\ko\\role\\branch_3,6\\qingxiao\\ko_vo_qingxiao_com_tired_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 465567042,
+                "MediaPathName": "Media/465567042.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\en\\role\\branch_3,6\\qingxiao\\en_vo_qingxiao_com_tired_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 46770780,
+                "MediaPathName": "Media/46770780.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\ja\\role\\branch_3,6\\qingxiao\\ja_vo_qingxiao_com_tired_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 438902044,
+                "MediaPathName": "Media/438902044.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\qingxiao\\zh_vo_qingxiao_com_tired_01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 156808115,
+                "MediaPathName": "Media/156808115.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\ko\\role\\branch_3,6\\qingxiao\\ko_vo_qingxiao_com_tired_01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 762399205,
+                "MediaPathName": "Media/762399205.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\en\\role\\branch_3,6\\qingxiao\\en_vo_qingxiao_com_tired_01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 238062334,
+                "MediaPathName": "Media/238062334.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\ja\\role\\branch_3,6\\qingxiao\\ja_vo_qingxiao_com_tired_01_tone.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_qingxiao_com_tired"
+          }
+        }
+      ],
+      "DebugName": "play_vo_qingxiao_com_tired",
+      "EventId": 3447937869
+    },
+    "MaximumDuration": 3.91975,
+    "MinimumDuration": 2.6431875,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

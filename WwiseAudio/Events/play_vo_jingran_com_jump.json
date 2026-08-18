@@ -1,0 +1,168 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_jingran_com_jump",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_jingran_com_jump",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2609616484,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2609616484,
+                "SoundBankPathName": "Event/play_vo_jingran_com_jump.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_jingran_com_jump",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 816419073,
+                "MediaPathName": "Media/816419073.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_3,6\\jingran\\en_vo_jingran_com_jump_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 125736140,
+                "MediaPathName": "Media/125736140.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\zh_vo_jingran_com_jump_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 745727596,
+                "MediaPathName": "Media/745727596.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,6\\jingran\\ko_vo_jingran_com_jump_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 476752704,
+                "MediaPathName": "Media/476752704.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,6\\jingran\\ja_vo_jingran_com_jump_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1038989925,
+                "MediaPathName": "Media/1038989925.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_3,6\\jingran\\en_vo_jingran_com_jump_01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 190771030,
+                "MediaPathName": "Media/190771030.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\zh_vo_jingran_com_jump_01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1054178781,
+                "MediaPathName": "Media/1054178781.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,6\\jingran\\ko_vo_jingran_com_jump_01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 2483704,
+                "MediaPathName": "Media/2483704.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,6\\jingran\\ja_vo_jingran_com_jump_01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 689261202,
+                "MediaPathName": "Media/689261202.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_3,6\\jingran\\en_vo_jingran_com_jump_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 674794644,
+                "MediaPathName": "Media/674794644.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\zh_vo_jingran_com_jump_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 129454123,
+                "MediaPathName": "Media/129454123.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,6\\jingran\\ko_vo_jingran_com_jump_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 758028686,
+                "MediaPathName": "Media/758028686.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,6\\jingran\\ja_vo_jingran_com_jump_03_tone.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_jingran_com_jump"
+          }
+        }
+      ],
+      "DebugName": "play_vo_jingran_com_jump",
+      "EventId": 2609616484
+    },
+    "MaximumDuration": 0.375,
+    "MinimumDuration": 0.18175,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

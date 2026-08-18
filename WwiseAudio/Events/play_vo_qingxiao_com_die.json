@@ -1,0 +1,168 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_qingxiao_com_die",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_qingxiao_com_die",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3754560853,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3754560853,
+                "SoundBankPathName": "Event/play_vo_qingxiao_com_die.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_qingxiao_com_die",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 529969719,
+                "MediaPathName": "Media/529969719.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\qingxiao\\zh_vo_qingxiao_com_die_02_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 297540476,
+                "MediaPathName": "Media/297540476.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\ko\\role\\branch_3,6\\qingxiao\\ko_vo_qingxiao_com_die_02_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 654937156,
+                "MediaPathName": "Media/654937156.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\en\\role\\branch_3,6\\qingxiao\\en_vo_qingxiao_com_die_02_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 771364606,
+                "MediaPathName": "Media/771364606.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\ja\\role\\branch_3,6\\qingxiao\\ja_vo_qingxiao_com_die_02_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 704259144,
+                "MediaPathName": "Media/704259144.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\qingxiao\\zh_vo_qingxiao_com_die_03_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 11717604,
+                "MediaPathName": "Media/11717604.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\ko\\role\\branch_3,6\\qingxiao\\ko_vo_qingxiao_com_die_03_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 223369089,
+                "MediaPathName": "Media/223369089.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\en\\role\\branch_3,6\\qingxiao\\en_vo_qingxiao_com_die_03_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 626615104,
+                "MediaPathName": "Media/626615104.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\ja\\role\\branch_3,6\\qingxiao\\ja_vo_qingxiao_com_die_03_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 827737708,
+                "MediaPathName": "Media/827737708.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\qingxiao\\zh_vo_qingxiao_com_die_01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 769704048,
+                "MediaPathName": "Media/769704048.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\ko\\role\\branch_3,6\\qingxiao\\ko_vo_qingxiao_com_die_01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 377132846,
+                "MediaPathName": "Media/377132846.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\en\\role\\branch_3,6\\qingxiao\\en_vo_qingxiao_com_die_01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 579483910,
+                "MediaPathName": "Media/579483910.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\ja\\role\\branch_3,6\\qingxiao\\ja_vo_qingxiao_com_die_01_word.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_qingxiao_com_die"
+          }
+        }
+      ],
+      "DebugName": "play_vo_qingxiao_com_die",
+      "EventId": 3754560853
+    },
+    "MaximumDuration": 4.922854,
+    "MinimumDuration": 3.0135624,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

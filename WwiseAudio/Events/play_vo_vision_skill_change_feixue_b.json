@@ -1,0 +1,168 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_vision_skill_change_feixue_b",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_vision_skill_change_feixue_b",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 4216574867,
+            "SoundBanks": [
+              {
+                "SoundBankId": 4216574867,
+                "SoundBankPathName": "Event/play_vo_vision_skill_change_feixue_b.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_vision_skill_change_feixue_b",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 397754485,
+                "MediaPathName": "Media/397754485.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_3,3\\feixue\\en_vo_feixue_atk_heavyatk01_pro_03_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 23724258,
+                "MediaPathName": "Media/23724258.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,3\\feixue\\ko_vo_feixue_atk_heavyatk01_pro_03_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 509863090,
+                "MediaPathName": "Media/509863090.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,3\\feixue\\ja_vo_feixue_atk_heavyatk01_pro_03_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 731234029,
+                "MediaPathName": "Media/731234029.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,3\\feixue\\zh_vo_feixue_atk_heavyatk01_pro_03_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 540406872,
+                "MediaPathName": "Media/540406872.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_3,3\\feixue\\en_vo_feixue_atk_heavyatk01_pro_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 177241304,
+                "MediaPathName": "Media/177241304.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,3\\feixue\\ko_vo_feixue_atk_heavyatk01_pro_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 875573331,
+                "MediaPathName": "Media/875573331.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,3\\feixue\\ja_vo_feixue_atk_heavyatk01_pro_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 126436255,
+                "MediaPathName": "Media/126436255.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,3\\feixue\\zh_vo_feixue_atk_heavyatk01_pro_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 312363195,
+                "MediaPathName": "Media/312363195.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_3,3\\feixue\\en_vo_feixue_atk_heavyatk01_pro_01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 118831304,
+                "MediaPathName": "Media/118831304.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,3\\feixue\\ko_vo_feixue_atk_heavyatk01_pro_01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 956366375,
+                "MediaPathName": "Media/956366375.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,3\\feixue\\ja_vo_feixue_atk_heavyatk01_pro_01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 523748888,
+                "MediaPathName": "Media/523748888.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,3\\feixue\\zh_vo_feixue_atk_heavyatk01_pro_01_word.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_vision_skill_change_feixue_b"
+          }
+        }
+      ],
+      "DebugName": "play_vo_vision_skill_change_feixue_b",
+      "EventId": 4216574867
+    },
+    "MaximumDuration": 1.6171666,
+    "MinimumDuration": 0.6690625,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

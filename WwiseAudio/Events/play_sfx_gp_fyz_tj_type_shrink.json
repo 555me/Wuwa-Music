@@ -1,0 +1,88 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_fyz_tj_type_shrink",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_fyz_tj_type_shrink",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3019358183,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3019358183,
+                "SoundBankPathName": "Event/play_sfx_gp_fyz_tj_type_shrink.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_fyz_tj_type_shrink",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 56783584,
+                "MediaPathName": "Media/56783584.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\gameplay\\3_6\\sfx_gp_fyz_dj_type_spin.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 215876526,
+                "MediaPathName": "Media/215876526.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "not_in_folder\\interact_kindling_hit_vine_pollution.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 220347854,
+                "MediaPathName": "Media/220347854.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\task\\3_2\\anmian4\\task_anmian4_ls_wayout_03_bed.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 936460890,
+                "MediaPathName": "Media/936460890.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\gameplay\\3_6\\sfx_gp_fyz_tj_type_shrink.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_fyz_tj_type_shrink"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_fyz_tj_type_shrink",
+      "EventId": 3019358183
+    },
+    "MaximumDuration": 5.3506036,
+    "MinimumDuration": 5.3506036,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

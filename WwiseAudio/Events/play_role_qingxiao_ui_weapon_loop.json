@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_role_qingxiao_ui_weapon_loop",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_role_qingxiao_ui_weapon_loop",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3345184220,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3345184220,
+                "SoundBankPathName": "Event/play_role_qingxiao_ui_weapon_loop.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_role_qingxiao_ui_weapon_loop",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 265903527,
+                "MediaPathName": "Media/265903527.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "role\\role_bat_Qingxiao\\ui\\role_Qingxiao_ui_weapon_loop.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_role_qingxiao_ui_weapon_loop"
+          }
+        }
+      ],
+      "DebugName": "play_role_qingxiao_ui_weapon_loop",
+      "EventId": 3345184220
+    },
+    "MaximumDuration": 12.383333,
+    "MinimumDuration": 12.383333,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

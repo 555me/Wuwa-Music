@@ -1,0 +1,215 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_main_mengzhou_3_6_70_nosub_01",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_main_mengzhou_3_6_70_nosub_01",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 1819748192,
+            "LanguageName": "en",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 448639108,
+            "SoundBanks": [
+              {
+                "SoundBankId": 448639108,
+                "SoundBankPathName": "Event/en/play_vo_main_mengzhou_3_6_70_nosub_01.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_main_mengzhou_3_6_70_nosub_01",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 605751604,
+                "MediaPathName": "Media/en/605751604.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.6\\level_b\\en_vo_Main_Mengzhou_3_6_70_NOSUB_01_M.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 147565731,
+                "MediaPathName": "Media/en/147565731.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.6\\level_b\\en_vo_Main_Mengzhou_3_6_70_NOSUB_01_F.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_main_mengzhou_3_6_70_nosub_01"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1735860046,
+            "LanguageName": "ja",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 448639108,
+            "SoundBanks": [
+              {
+                "SoundBankId": 448639108,
+                "SoundBankPathName": "Event/ja/play_vo_main_mengzhou_3_6_70_nosub_01.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_main_mengzhou_3_6_70_nosub_01",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 243499976,
+                "MediaPathName": "Media/ja/243499976.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.6\\level_b\\ja_vo_Main_Mengzhou_3_6_70_NOSUB_01_M.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 237817210,
+                "MediaPathName": "Media/ja/237817210.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.6\\level_b\\ja_vo_Main_Mengzhou_3_6_70_NOSUB_01_F.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_main_mengzhou_3_6_70_nosub_01"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1719082483,
+            "LanguageName": "ko",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 448639108,
+            "SoundBanks": [
+              {
+                "SoundBankId": 448639108,
+                "SoundBankPathName": "Event/ko/play_vo_main_mengzhou_3_6_70_nosub_01.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_main_mengzhou_3_6_70_nosub_01",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 709967958,
+                "MediaPathName": "Media/ko/709967958.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.6\\level_b\\ko_vo_Main_Mengzhou_3_6_70_NOSUB_01_M.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 367746534,
+                "MediaPathName": "Media/ko/367746534.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.6\\level_b\\ko_vo_Main_Mengzhou_3_6_70_NOSUB_01_F.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_main_mengzhou_3_6_70_nosub_01"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1467418007,
+            "LanguageName": "zh",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsDefault"
+          },
+          "Value": {
+            "EventId": 448639108,
+            "SoundBanks": [
+              {
+                "SoundBankId": 448639108,
+                "SoundBankPathName": "Event/zh/play_vo_main_mengzhou_3_6_70_nosub_01.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_main_mengzhou_3_6_70_nosub_01",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 760101500,
+                "MediaPathName": "Media/zh/760101500.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.6\\level_b\\zh_vo_Main_Mengzhou_3_6_70_NOSUB_01_M.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 310706516,
+                "MediaPathName": "Media/zh/310706516.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.6\\level_b\\zh_vo_Main_Mengzhou_3_6_70_NOSUB_01_F.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_main_mengzhou_3_6_70_nosub_01"
+          }
+        }
+      ],
+      "DebugName": "play_vo_main_mengzhou_3_6_70_nosub_01",
+      "EventId": 448639108
+    },
+    "MaximumDuration": 0.26877084,
+    "MinimumDuration": 0.25533333,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_role_qingxiaoburst_bat_attack01",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_role_qingxiaoburst_bat_attack01",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 436339667,
+            "SoundBanks": [
+              {
+                "SoundBankId": 436339667,
+                "SoundBankPathName": "Event/play_role_qingxiaoburst_bat_attack01.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_role_qingxiaoburst_bat_attack01",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 622231043,
+                "MediaPathName": "Media/622231043.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "role\\role_bat_Qingxiao\\role_QingxiaoBurst_bat_attack01_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 630873921,
+                "MediaPathName": "Media/630873921.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "role\\role_bat_Qingxiao\\role_QingxiaoBurst_bat_attack01_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 956775954,
+                "MediaPathName": "Media/956775954.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "role\\role_bat_Qingxiao\\role_QingxiaoBurst_bat_attack01_02.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_role_qingxiaoburst_bat_attack01"
+          }
+        }
+      ],
+      "DebugName": "play_role_qingxiaoburst_bat_attack01",
+      "EventId": 436339667
+    },
+    "MaximumDuration": 4.389974,
+    "MinimumDuration": 4.143584,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

@@ -1,0 +1,88 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_favor_word_qingxiao_sys_foodlike",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_favor_word_qingxiao_sys_foodlike",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2385431586,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2385431586,
+                "SoundBankPathName": "Event/play_favor_word_qingxiao_sys_foodlike.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_favor_word_qingxiao_sys_foodlike",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 615671392,
+                "MediaPathName": "Media/615671392.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\qingxiao\\zh_vo_qingxiao_sys_foodlike_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 476659405,
+                "MediaPathName": "Media/476659405.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\ko\\role\\branch_3,6\\qingxiao\\ko_vo_qingxiao_sys_foodlike_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 766010476,
+                "MediaPathName": "Media/766010476.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\en\\role\\branch_3,6\\qingxiao\\en_vo_qingxiao_sys_foodlike_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 264337608,
+                "MediaPathName": "Media/264337608.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\ja\\role\\branch_3,6\\qingxiao\\ja_vo_qingxiao_sys_foodlike_word.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_favor_word_qingxiao_sys_foodlike"
+          }
+        }
+      ],
+      "DebugName": "play_favor_word_qingxiao_sys_foodlike",
+      "EventId": 2385431586
+    },
+    "MaximumDuration": 36.80142,
+    "MinimumDuration": 25.867062,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

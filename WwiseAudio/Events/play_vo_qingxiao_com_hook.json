@@ -1,0 +1,168 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_qingxiao_com_hook",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_qingxiao_com_hook",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3313305328,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3313305328,
+                "SoundBankPathName": "Event/play_vo_qingxiao_com_hook.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_qingxiao_com_hook",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 75522790,
+                "MediaPathName": "Media/75522790.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\qingxiao\\zh_vo_qingxiao_com_hook_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 213915277,
+                "MediaPathName": "Media/213915277.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,6\\qingxiao\\ko_vo_qingxiao_com_hook_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 567132439,
+                "MediaPathName": "Media/567132439.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_3,6\\qingxiao\\en_vo_qingxiao_com_hook_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 152295391,
+                "MediaPathName": "Media/152295391.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,6\\qingxiao\\ja_vo_qingxiao_com_hook_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 216479949,
+                "MediaPathName": "Media/216479949.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\qingxiao\\zh_vo_qingxiao_com_hook_01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1038434767,
+                "MediaPathName": "Media/1038434767.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,6\\qingxiao\\ko_vo_qingxiao_com_hook_01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 24816213,
+                "MediaPathName": "Media/24816213.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_3,6\\qingxiao\\en_vo_qingxiao_com_hook_01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 468010650,
+                "MediaPathName": "Media/468010650.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,6\\qingxiao\\ja_vo_qingxiao_com_hook_01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 104710635,
+                "MediaPathName": "Media/104710635.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\qingxiao\\zh_vo_qingxiao_com_hook_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 301232755,
+                "MediaPathName": "Media/301232755.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,6\\qingxiao\\ko_vo_qingxiao_com_hook_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 143512364,
+                "MediaPathName": "Media/143512364.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_3,6\\qingxiao\\en_vo_qingxiao_com_hook_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 681783783,
+                "MediaPathName": "Media/681783783.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,6\\qingxiao\\ja_vo_qingxiao_com_hook_02_tone.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_qingxiao_com_hook"
+          }
+        }
+      ],
+      "DebugName": "play_vo_qingxiao_com_hook",
+      "EventId": 3313305328
+    },
+    "MaximumDuration": 0.5112917,
+    "MinimumDuration": 0.18864584,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

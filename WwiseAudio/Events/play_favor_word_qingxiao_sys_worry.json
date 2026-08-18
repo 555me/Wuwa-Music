@@ -1,0 +1,88 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_favor_word_qingxiao_sys_worry",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_favor_word_qingxiao_sys_worry",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3981705022,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3981705022,
+                "SoundBankPathName": "Event/play_favor_word_qingxiao_sys_worry.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_favor_word_qingxiao_sys_worry",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 869731686,
+                "MediaPathName": "Media/869731686.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\qingxiao\\zh_vo_qingxiao_sys_worry_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 937212527,
+                "MediaPathName": "Media/937212527.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\ko\\role\\branch_3,6\\qingxiao\\ko_vo_qingxiao_sys_worry_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 793959799,
+                "MediaPathName": "Media/793959799.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\en\\role\\branch_3,6\\qingxiao\\en_vo_qingxiao_sys_worry_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 605195047,
+                "MediaPathName": "Media/605195047.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\ja\\role\\branch_3,6\\qingxiao\\ja_vo_qingxiao_sys_worry_word.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_favor_word_qingxiao_sys_worry"
+          }
+        }
+      ],
+      "DebugName": "play_favor_word_qingxiao_sys_worry",
+      "EventId": 3981705022
+    },
+    "MaximumDuration": 29.71148,
+    "MinimumDuration": 20.536438,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

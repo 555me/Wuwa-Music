@@ -1,0 +1,168 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_vision_skill_change_feixue_a",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_vision_skill_change_feixue_a",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 4216574864,
+            "SoundBanks": [
+              {
+                "SoundBankId": 4216574864,
+                "SoundBankPathName": "Event/play_vo_vision_skill_change_feixue_a.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_vision_skill_change_feixue_a",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 769961528,
+                "MediaPathName": "Media/769961528.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_3,3\\feixue\\en_vo_feixue_skill_skill06_start_01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 994755406,
+                "MediaPathName": "Media/994755406.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,3\\feixue\\ko_vo_feixue_skill_skill06_start_01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 641501843,
+                "MediaPathName": "Media/641501843.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,3\\feixue\\ja_vo_feixue_skill_skill06_start_01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 174643503,
+                "MediaPathName": "Media/174643503.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,3\\feixue\\zh_vo_feixue_skill_skill06_start_01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 857474894,
+                "MediaPathName": "Media/857474894.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_3,3\\feixue\\en_vo_feixue_skill_skill06_start_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 805350577,
+                "MediaPathName": "Media/805350577.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,3\\feixue\\ko_vo_feixue_skill_skill06_start_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 98719371,
+                "MediaPathName": "Media/98719371.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,3\\feixue\\ja_vo_feixue_skill_skill06_start_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 26304074,
+                "MediaPathName": "Media/26304074.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,3\\feixue\\zh_vo_feixue_skill_skill06_start_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 921727957,
+                "MediaPathName": "Media/921727957.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_3,3\\feixue\\en_vo_feixue_skill_skill06_start_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 765599950,
+                "MediaPathName": "Media/765599950.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,3\\feixue\\ko_vo_feixue_skill_skill06_start_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 324545467,
+                "MediaPathName": "Media/324545467.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,3\\feixue\\ja_vo_feixue_skill_skill06_start_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 770046949,
+                "MediaPathName": "Media/770046949.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,3\\feixue\\zh_vo_feixue_skill_skill06_start_02_tone.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_vision_skill_change_feixue_a"
+          }
+        }
+      ],
+      "DebugName": "play_vo_vision_skill_change_feixue_a",
+      "EventId": 4216574864
+    },
+    "MaximumDuration": 0.948,
+    "MinimumDuration": 0.472,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

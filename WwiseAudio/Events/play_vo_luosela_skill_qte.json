@@ -29,6 +29,46 @@
             ],
             "Media": [
               {
+                "MediaId": 541836895,
+                "MediaPathName": "Media/541836895.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,4\\luosela\\ja_vo_luosela_skill_skill03_01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 198391970,
+                "MediaPathName": "Media/198391970.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,4\\luosela\\zh_vo_luosela_skill_skill03_01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 979237866,
+                "MediaPathName": "Media/979237866.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,4\\luosela\\ko_vo_luosela_skill_skill03_01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 590861018,
+                "MediaPathName": "Media/590861018.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_3,4\\luosela\\en_vo_luosela_skill_skill03_01_word.wav",
+                "PackagedFile": null
+              },
+              {
                 "MediaId": 967550370,
                 "MediaPathName": "Media/967550370.wem",
                 "PrefetchSize": 0,
@@ -80,7 +120,7 @@
       "DebugName": "play_vo_luosela_skill_qte",
       "EventId": 3929035956
     },
-    "MaximumDuration": 0.5285208,
+    "MaximumDuration": 1.0878333,
     "MinimumDuration": 0.41175,
     "IsInfinite": false,
     "MaxAttenuationRadius": 5000.0

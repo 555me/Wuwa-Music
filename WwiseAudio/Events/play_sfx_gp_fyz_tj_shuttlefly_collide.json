@@ -1,0 +1,98 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_fyz_tj_shuttlefly_collide",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_fyz_tj_shuttlefly_collide",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2119103248,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2119103248,
+                "SoundBankPathName": "Event/play_sfx_gp_fyz_tj_shuttlefly_collide.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_fyz_tj_shuttlefly_collide",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 230677317,
+                "MediaPathName": "Media/230677317.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\DamageHit\\am_damagehit_fire_04_v2.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 259628042,
+                "MediaPathName": "Media/259628042.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\DamageHit\\am_damagehit_fire_05_v2.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 356757983,
+                "MediaPathName": "Media/356757983.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\DamageHit\\am_damagehit_fire_06_v2.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 766151282,
+                "MediaPathName": "Media/766151282.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\Interaction\\3.4\\sfx_gp_carchase_zc_drump.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 893761606,
+                "MediaPathName": "Media/893761606.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\DamageHit\\am_damagehit_fire_02_v2.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_fyz_tj_shuttlefly_collide"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_fyz_tj_shuttlefly_collide",
+      "EventId": 2119103248
+    },
+    "MaximumDuration": 3.648512,
+    "MinimumDuration": 3.4437366,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 30000.0
+  }
+]

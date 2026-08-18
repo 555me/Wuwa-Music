@@ -29,86 +29,6 @@
             ],
             "Media": [
               {
-                "MediaId": 959658860,
-                "MediaPathName": "Media/959658860.wem",
-                "PrefetchSize": 0,
-                "MemoryAlignment": 16,
-                "bDeviceMemory": false,
-                "bStreaming": false,
-                "DebugName": "Voices\\ko\\role\\branch_3,2\\xigelika\\ko_vo_xigelika_atk_heavyatk01_02_word.wav",
-                "PackagedFile": null
-              },
-              {
-                "MediaId": 202091074,
-                "MediaPathName": "Media/202091074.wem",
-                "PrefetchSize": 0,
-                "MemoryAlignment": 16,
-                "bDeviceMemory": false,
-                "bStreaming": false,
-                "DebugName": "Voices\\en\\role\\branch_3,2\\xigelika\\en_vo_xigelika_atk_heavyatk01_02_word.wav",
-                "PackagedFile": null
-              },
-              {
-                "MediaId": 715306917,
-                "MediaPathName": "Media/715306917.wem",
-                "PrefetchSize": 0,
-                "MemoryAlignment": 16,
-                "bDeviceMemory": false,
-                "bStreaming": true,
-                "DebugName": "Voices\\zh\\role\\branch_3,2\\xigelika\\zh_vo_xigelika_atk_heavyatk01_02_word.wav",
-                "PackagedFile": null
-              },
-              {
-                "MediaId": 332571332,
-                "MediaPathName": "Media/332571332.wem",
-                "PrefetchSize": 0,
-                "MemoryAlignment": 16,
-                "bDeviceMemory": false,
-                "bStreaming": false,
-                "DebugName": "Voices\\ja\\role\\branch_3,2\\xigelika\\ja_vo_xigelika_atk_heavyatk01_02_word.wav",
-                "PackagedFile": null
-              },
-              {
-                "MediaId": 1069858857,
-                "MediaPathName": "Media/1069858857.wem",
-                "PrefetchSize": 0,
-                "MemoryAlignment": 16,
-                "bDeviceMemory": false,
-                "bStreaming": false,
-                "DebugName": "Voices\\ko\\role\\branch_3,2\\xigelika\\ko_vo_xigelika_atk_heavyatk02_02_word.wav",
-                "PackagedFile": null
-              },
-              {
-                "MediaId": 246856212,
-                "MediaPathName": "Media/246856212.wem",
-                "PrefetchSize": 0,
-                "MemoryAlignment": 16,
-                "bDeviceMemory": false,
-                "bStreaming": true,
-                "DebugName": "Voices\\en\\role\\branch_3,2\\xigelika\\en_vo_xigelika_atk_heavyatk02_02_word.wav",
-                "PackagedFile": null
-              },
-              {
-                "MediaId": 276626496,
-                "MediaPathName": "Media/276626496.wem",
-                "PrefetchSize": 0,
-                "MemoryAlignment": 16,
-                "bDeviceMemory": false,
-                "bStreaming": true,
-                "DebugName": "Voices\\zh\\role\\branch_3,2\\xigelika\\zh_vo_xigelika_atk_heavyatk02_02_word.wav",
-                "PackagedFile": null
-              },
-              {
-                "MediaId": 225866083,
-                "MediaPathName": "Media/225866083.wem",
-                "PrefetchSize": 0,
-                "MemoryAlignment": 16,
-                "bDeviceMemory": false,
-                "bStreaming": true,
-                "DebugName": "Voices\\ja\\role\\branch_3,2\\xigelika\\ja_vo_xigelika_atk_heavyatk02_02_word.wav",
-                "PackagedFile": null
-              },
-              {
                 "MediaId": 869077775,
                 "MediaPathName": "Media/869077775.wem",
                 "PrefetchSize": 0,
@@ -200,7 +120,7 @@
       "DebugName": "play_vo_xigelika_atk_heavyatk02",
       "EventId": 3374725983
     },
-    "MaximumDuration": 2.3987916,
+    "MaximumDuration": 1.13775,
     "MinimumDuration": 0.58045834,
     "IsInfinite": false,
     "MaxAttenuationRadius": 5000.0

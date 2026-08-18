@@ -1,0 +1,78 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_fyz_rj_tree",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_fyz_rj_tree",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 227214215,
+            "SoundBanks": [
+              {
+                "SoundBankId": 227214215,
+                "SoundBankPathName": "Event/play_sfx_gp_fyz_rj_tree.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_fyz_rj_tree",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 62378078,
+                "MediaPathName": "Media/62378078.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "not_in_folder\\sfx_gp_projectorpuzzle_tree.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 509025442,
+                "MediaPathName": "Media/509025442.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "not_in_folder\\Haunted House - Bushes Crackling 03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1037692585,
+                "MediaPathName": "Media/1037692585.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "not_in_folder\\Haunted House - Bushes Crackling 01.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_fyz_rj_tree"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_fyz_rj_tree",
+      "EventId": 227214215
+    },
+    "MaximumDuration": 2.7705624,
+    "MinimumDuration": 0.9040833,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 3000.0
+  }
+]

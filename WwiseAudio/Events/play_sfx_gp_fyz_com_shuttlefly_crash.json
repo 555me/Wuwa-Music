@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_fyz_com_shuttlefly_crash",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_fyz_com_shuttlefly_crash",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2831996924,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2831996924,
+                "SoundBankPathName": "Event/play_sfx_gp_fyz_com_shuttlefly_crash.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_fyz_com_shuttlefly_crash",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 445848624,
+                "MediaPathName": "Media/445848624.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\Interaction\\3.4\\sfx_gp_carchase_building_collapse.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_fyz_com_shuttlefly_crash"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_fyz_com_shuttlefly_crash",
+      "EventId": 2831996924
+    },
+    "MaximumDuration": 10.97545,
+    "MinimumDuration": 10.359445,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 20000.0
+  }
+]

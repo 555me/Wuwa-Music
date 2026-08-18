@@ -1,0 +1,158 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_music_boss_muyu",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_music_boss_muyu",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3331555312,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3331555312,
+                "SoundBankPathName": "Event/play_music_boss_muyu.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_music_boss_muyu",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 101952194,
+                "MediaPathName": "Media/101952194.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music\\music_scene\\silence_5s.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 908098188,
+                "MediaPathName": "Media/908098188.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_battle\\3.6\\bgm-battle_boss_muyu_p1c-intro-full-130bpm-4_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 961961259,
+                "MediaPathName": "Media/961961259.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_battle\\3.6\\bgm-battle_boss_muyu_p1c-loop-full-130bpm-4_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 31496236,
+                "MediaPathName": "Media/31496236.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_battle\\3.6\\bgm-battle_boss_muyu_p1b-all-full-130bpm-4_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 147960601,
+                "MediaPathName": "Media/147960601.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_battle\\3.6\\bgm-battle_boss_muyu_p4-outro-full-87bpm-4_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 333169406,
+                "MediaPathName": "Media/333169406.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_battle\\3.6\\bgm-battle_boss_muyu_p3-intro-full-87bpm-4_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 577574058,
+                "MediaPathName": "Media/577574058.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_battle\\3.6\\bgm-battle_boss_muyu_p3-loop-full-87bpm-4_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 38791388,
+                "MediaPathName": "Media/38791388.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_battle\\3.6\\bgm-battle_boss_muyu_p2-intro-full-130bpm-4_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 735895234,
+                "MediaPathName": "Media/735895234.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_battle\\3.6\\bgm-battle_boss_muyu_p2-loop-full-130bpm-4_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 528473562,
+                "MediaPathName": "Media/528473562.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_battle\\3.6\\bgm-battle_boss_muyu_p1-all-full-130bpm-4_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 538668521,
+                "MediaPathName": "Media/538668521.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_battle\\3.6\\bgm-battle_boss_muyu_p1-intro-full-130bpm-4_4.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_music_boss_muyu"
+          }
+        }
+      ],
+      "DebugName": "play_music_boss_muyu",
+      "EventId": 3331555312
+    },
+    "MaximumDuration": 0.0,
+    "MinimumDuration": 0.0,
+    "IsInfinite": true,
+    "MaxAttenuationRadius": 0.0
+  }
+]

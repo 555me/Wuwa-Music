@@ -1,0 +1,88 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_favor_word_jingran_sys_introduction",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_favor_word_jingran_sys_introduction",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3400944458,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3400944458,
+                "SoundBankPathName": "Event/play_favor_word_jingran_sys_introduction.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_favor_word_jingran_sys_introduction",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 848067230,
+                "MediaPathName": "Media/848067230.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\en\\role\\branch_3,6\\jingran\\en_vo_jingran_sys_introduction_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 115594565,
+                "MediaPathName": "Media/115594565.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\jingran\\zh_vo_jingran_sys_introduction_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 116579064,
+                "MediaPathName": "Media/116579064.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\ko\\role\\branch_3,6\\jingran\\ko_vo_jingran_sys_introduction_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 508881282,
+                "MediaPathName": "Media/508881282.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\ja\\role\\branch_3,6\\jingran\\ja_vo_jingran_sys_introduction_word.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_favor_word_jingran_sys_introduction"
+          }
+        }
+      ],
+      "DebugName": "play_favor_word_jingran_sys_introduction",
+      "EventId": 3400944458
+    },
+    "MaximumDuration": 15.50773,
+    "MinimumDuration": 12.299771,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_role_activity_rogue_yangyang_atl",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_role_activity_rogue_yangyang_atl",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2230930080,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2230930080,
+                "SoundBankPathName": "Event/play_role_activity_rogue_yangyang_atl.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_role_activity_rogue_yangyang_atl",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 235366258,
+                "MediaPathName": "Media/235366258.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,6\\rogue36\\role\\role_activity_rogue_yangyang_atl_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 371296645,
+                "MediaPathName": "Media/371296645.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,6\\rogue36\\role\\role_activity_rogue_yangyang_atl_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 793146258,
+                "MediaPathName": "Media/793146258.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,6\\rogue36\\role\\role_activity_rogue_yangyang_atl_03.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_role_activity_rogue_yangyang_atl"
+          }
+        }
+      ],
+      "DebugName": "play_role_activity_rogue_yangyang_atl",
+      "EventId": 2230930080
+    },
+    "MaximumDuration": 3.4243333,
+    "MinimumDuration": 3.4243333,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

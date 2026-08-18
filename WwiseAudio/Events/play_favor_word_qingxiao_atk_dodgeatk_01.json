@@ -1,0 +1,88 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_favor_word_qingxiao_atk_dodgeatk_01",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_favor_word_qingxiao_atk_dodgeatk_01",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2379319009,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2379319009,
+                "SoundBankPathName": "Event/play_favor_word_qingxiao_atk_dodgeatk_01.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_favor_word_qingxiao_atk_dodgeatk_01",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 498238264,
+                "MediaPathName": "Media/498238264.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\qingxiao\\zh_vo_qingxiao_atk_dodgeatk_01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 536928335,
+                "MediaPathName": "Media/536928335.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,6\\qingxiao\\ko_vo_qingxiao_atk_dodgeatk_01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 876360487,
+                "MediaPathName": "Media/876360487.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_3,6\\qingxiao\\en_vo_qingxiao_atk_dodgeatk_01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 840195547,
+                "MediaPathName": "Media/840195547.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,6\\qingxiao\\ja_vo_qingxiao_atk_dodgeatk_01_word.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_favor_word_qingxiao_atk_dodgeatk_01"
+          }
+        }
+      ],
+      "DebugName": "play_favor_word_qingxiao_atk_dodgeatk_01",
+      "EventId": 2379319009
+    },
+    "MaximumDuration": 1.093625,
+    "MinimumDuration": 0.79820836,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

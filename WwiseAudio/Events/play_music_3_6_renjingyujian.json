@@ -1,0 +1,88 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_music_3_6_renjingyujian",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_music_3_6_renjingyujian",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2394617310,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2394617310,
+                "SoundBankPathName": "Event/play_music_3_6_renjingyujian.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_music_3_6_renjingyujian",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 703390462,
+                "MediaPathName": "Media/703390462.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_dungeon\\3_6_dungeon\\quest\\bgm-dungeon_3_6_renjingyujian_p4-all-full-90bpm-4_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 142616543,
+                "MediaPathName": "Media/142616543.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_dungeon\\3_6_dungeon\\quest\\bgm-dungeon_3_6_renjingyujian_p3-all-full-90bpm-4_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1033775600,
+                "MediaPathName": "Media/1033775600.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_dungeon\\3_6_dungeon\\quest\\bgm-dungeon_3_6_renjingyujian_p2-all-full-90bpm-4_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 897453544,
+                "MediaPathName": "Media/897453544.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_dungeon\\3_6_dungeon\\quest\\bgm-dungeon_3_6_renjingyujian_p1-all-full-90bpm-4_4.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_music_3_6_renjingyujian"
+          }
+        }
+      ],
+      "DebugName": "play_music_3_6_renjingyujian",
+      "EventId": 2394617310
+    },
+    "MaximumDuration": 0.0,
+    "MinimumDuration": 0.0,
+    "IsInfinite": true,
+    "MaxAttenuationRadius": 0.0
+  }
+]

@@ -1,0 +1,168 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_qingxiao_com_parry",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_qingxiao_com_parry",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2720195601,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2720195601,
+                "SoundBankPathName": "Event/play_vo_qingxiao_com_parry.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_qingxiao_com_parry",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 313445996,
+                "MediaPathName": "Media/313445996.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\qingxiao\\zh_vo_qingxiao_com_parry_01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 635243073,
+                "MediaPathName": "Media/635243073.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,6\\qingxiao\\ko_vo_qingxiao_com_parry_01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 150582697,
+                "MediaPathName": "Media/150582697.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_3,6\\qingxiao\\en_vo_qingxiao_com_parry_01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 368140986,
+                "MediaPathName": "Media/368140986.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,6\\qingxiao\\ja_vo_qingxiao_com_parry_01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 718753100,
+                "MediaPathName": "Media/718753100.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\qingxiao\\zh_vo_qingxiao_com_parry_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 756491604,
+                "MediaPathName": "Media/756491604.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,6\\qingxiao\\ko_vo_qingxiao_com_parry_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 612859753,
+                "MediaPathName": "Media/612859753.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_3,6\\qingxiao\\en_vo_qingxiao_com_parry_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 917639650,
+                "MediaPathName": "Media/917639650.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,6\\qingxiao\\ja_vo_qingxiao_com_parry_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 482220741,
+                "MediaPathName": "Media/482220741.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,6\\qingxiao\\zh_vo_qingxiao_com_parry_02_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 722292871,
+                "MediaPathName": "Media/722292871.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,6\\qingxiao\\ko_vo_qingxiao_com_parry_02_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 70969995,
+                "MediaPathName": "Media/70969995.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_3,6\\qingxiao\\en_vo_qingxiao_com_parry_02_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 678925655,
+                "MediaPathName": "Media/678925655.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,6\\qingxiao\\ja_vo_qingxiao_com_parry_02_word.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_qingxiao_com_parry"
+          }
+        }
+      ],
+      "DebugName": "play_vo_qingxiao_com_parry",
+      "EventId": 2720195601
+    },
+    "MaximumDuration": 0.9948958,
+    "MinimumDuration": 0.17210416,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

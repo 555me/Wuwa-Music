@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_da_fx_group_sl2_3_6_mzsg_dj_fog_pingzhang_cylinder",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_da_fx_group_sl2_3_6_mzsg_dj_fog_pingzhang_cylinder",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2487053075,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2487053075,
+                "SoundBankPathName": "Event/play_sfx_gp_da_fx_group_sl2_3_6_mzsg_dj_fog_pingzhang_cylinder.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_da_fx_group_sl2_3_6_mzsg_dj_fog_pingzhang_cylinder",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 66580071,
+                "MediaPathName": "Media/66580071.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "sfx_gp_DA_Fx_Group_Sl2_3_6_MZSG_DJ_Fog_Pingzhang_Cylinder.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_da_fx_group_sl2_3_6_mzsg_dj_fog_pingzhang_cylinder"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_da_fx_group_sl2_3_6_mzsg_dj_fog_pingzhang_cylinder",
+      "EventId": 2487053075
+    },
+    "MaximumDuration": 0.0,
+    "MinimumDuration": 0.0,
+    "IsInfinite": true,
+    "MaxAttenuationRadius": 5000.0
+  }
+]
