@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_music_3_6_battle_common",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_music_3_6_battle_common",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3799394549,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3799394549,
+                "SoundBankPathName": "Event/play_music_3_6_battle_common.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_music_3_6_battle_common",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 995233868,
+                "MediaPathName": "Media/995233868.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_dungeon\\3_6_dungeon\\bgm-dungeon_battle_3_6_common-all-full-130bpm-4_4.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_music_3_6_battle_common"
+          }
+        }
+      ],
+      "DebugName": "play_music_3_6_battle_common",
+      "EventId": 3799394549
+    },
+    "MaximumDuration": 0.0,
+    "MinimumDuration": 0.0,
+    "IsInfinite": true,
+    "MaxAttenuationRadius": 0.0
+  }
+]

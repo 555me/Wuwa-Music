@@ -1,0 +1,47 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "stop_music_3_6_battle_common",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/stop_music_3_6_battle_common",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1445781267,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1445781267,
+                "SoundBankPathName": "Event/stop_music_3_6_battle_common.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "stop_music_3_6_battle_common",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "stop_music_3_6_battle_common"
+          }
+        }
+      ],
+      "DebugName": "stop_music_3_6_battle_common",
+      "EventId": 1445781267
+    },
+    "MaximumDuration": 0.0,
+    "MinimumDuration": 0.0,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

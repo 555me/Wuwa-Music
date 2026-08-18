@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_crane_shadow_vo",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_crane_shadow_vo",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1528708702,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1528708702,
+                "SoundBankPathName": "Event/play_sfx_gp_crane_shadow_vo.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_crane_shadow_vo",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 192187258,
+                "MediaPathName": "Media/192187258.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\amb\\amb_beds\\amb_beds_animals_crane-02.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_crane_shadow_vo"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_crane_shadow_vo",
+      "EventId": 1528708702
+    },
+    "MaximumDuration": 1.5772291,
+    "MinimumDuration": 1.5772291,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "stop_music_sence_xinhutanqin",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/stop_music_sence_xinhutanqin",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 13717552,
+            "SoundBanks": [
+              {
+                "SoundBankId": 13717552,
+                "SoundBankPathName": "Event/stop_music_sence_xinhutanqin.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "stop_music_sence_xinhutanqin",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [
+              {
+                "Type": "EWwiseGroupType::State",
+                "GroupId": -836434465,
+                "Id": 748895195,
+                "DebugName": "None"
+              }
+            ],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "stop_music_sence_xinhutanqin"
+          }
+        }
+      ],
+      "DebugName": "stop_music_sence_xinhutanqin",
+      "EventId": 13717552
+    },
+    "MaximumDuration": 0.0,
+    "MinimumDuration": 0.0,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

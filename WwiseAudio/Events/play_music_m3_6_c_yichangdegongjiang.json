@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_music_m3_6_c_yichangdegongjiang",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_music_m3_6_c_yichangdegongjiang",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3616283762,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3616283762,
+                "SoundBankPathName": "Event/play_music_m3_6_c_yichangdegongjiang.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_music_m3_6_c_yichangdegongjiang",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 751210559,
+                "MediaPathName": "Media/751210559.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_dungeon\\3_6_dungeon\\sence\\bgm-dungeon_scene_renjing_amb-all-full-138bpm-4_4.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_music_m3_6_c_yichangdegongjiang"
+          }
+        }
+      ],
+      "DebugName": "play_music_m3_6_c_yichangdegongjiang",
+      "EventId": 3616283762
+    },
+    "MaximumDuration": 0.0,
+    "MinimumDuration": 0.0,
+    "IsInfinite": true,
+    "MaxAttenuationRadius": 0.0
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_music_sence_xinhutanqin",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_music_sence_xinhutanqin",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 4165872998,
+            "SoundBanks": [
+              {
+                "SoundBankId": 4165872998,
+                "SoundBankPathName": "Event/play_music_sence_xinhutanqin.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_music_sence_xinhutanqin",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 308949044,
+                "MediaPathName": "Media/308949044.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_6\\A\\bgm-story_plot_3_6_calm_guqin-all-full-72bpm-4_4.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [
+              {
+                "Type": "EWwiseGroupType::State",
+                "GroupId": -836434465,
+                "Id": 58138747,
+                "DebugName": "active"
+              }
+            ],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_music_sence_xinhutanqin"
+          }
+        }
+      ],
+      "DebugName": "play_music_sence_xinhutanqin",
+      "EventId": 4165872998
+    },
+    "MaximumDuration": 0.0,
+    "MinimumDuration": 0.0,
+    "IsInfinite": true,
+    "MaxAttenuationRadius": 0.0
+  }
+]

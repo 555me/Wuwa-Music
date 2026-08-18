@@ -34,7 +34,7 @@
                 "PrefetchSize": 0,
                 "MemoryAlignment": 16,
                 "bDeviceMemory": false,
-                "bStreaming": false,
+                "bStreaming": true,
                 "DebugName": "Voices\\en\\role\\branch_3,6\\jingran\\role_only\\en_vo_jingran_idle_idle03_word_jr_only.wav",
                 "PackagedFile": null
               },
@@ -54,7 +54,7 @@
                 "PrefetchSize": 0,
                 "MemoryAlignment": 16,
                 "bDeviceMemory": false,
-                "bStreaming": false,
+                "bStreaming": true,
                 "DebugName": "Voices\\ko\\role\\branch_3,6\\jingran\\role_only\\ko_vo_jingran_idle_idle03_word_jr_only.wav",
                 "PackagedFile": null
               },
@@ -64,7 +64,7 @@
                 "PrefetchSize": 0,
                 "MemoryAlignment": 16,
                 "bDeviceMemory": false,
-                "bStreaming": false,
+                "bStreaming": true,
                 "DebugName": "Voices\\ja\\role\\branch_3,6\\jingran\\role_only\\ja_vo_jingran_idle_idle03_word_jr_only.wav",
                 "PackagedFile": null
               }
@@ -80,8 +80,8 @@
       "DebugName": "play_favor_word_jingran_idle_idle03",
       "EventId": 3141519884
     },
-    "MaximumDuration": 27.2215,
-    "MinimumDuration": 0.0,
+    "MaximumDuration": 27.788876,
+    "MinimumDuration": 27.2215,
     "IsInfinite": false,
     "MaxAttenuationRadius": 0.0
   }

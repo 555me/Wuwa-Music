@@ -104,7 +104,7 @@
                 "PrefetchSize": 0,
                 "MemoryAlignment": 16,
                 "bDeviceMemory": false,
-                "bStreaming": true,
+                "bStreaming": false,
                 "DebugName": "Voices\\ja\\role\\branch_3,6\\jingran\\ja_vo_jingran_com_fastclimb_01_tone.wav",
                 "PackagedFile": null
               },
@@ -160,7 +160,7 @@
       "DebugName": "play_vo_jingran_com_fastclimb",
       "EventId": 1897570381
     },
-    "MaximumDuration": 3.3231876,
+    "MaximumDuration": 2.9526668,
     "MinimumDuration": 0.20704167,
     "IsInfinite": false,
     "MaxAttenuationRadius": 5000.0

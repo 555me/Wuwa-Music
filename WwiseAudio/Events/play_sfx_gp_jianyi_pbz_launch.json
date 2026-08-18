@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_jianyi_pbz_launch",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_jianyi_pbz_launch",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3506381347,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3506381347,
+                "SoundBankPathName": "Event/play_sfx_gp_jianyi_pbz_launch.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_jianyi_pbz_launch",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 660465194,
+                "MediaPathName": "Media/660465194.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\gameplay\\3_6\\sfx_gp_jianyi_pbz_launch.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_jianyi_pbz_launch"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_jianyi_pbz_launch",
+      "EventId": 3506381347
+    },
+    "MaximumDuration": 1.5498639,
+    "MinimumDuration": 1.5498639,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

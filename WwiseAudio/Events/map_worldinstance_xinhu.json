@@ -29,13 +29,23 @@
             ],
             "Media": [
               {
-                "MediaId": 280376274,
-                "MediaPathName": "Media/280376274.wem",
+                "MediaId": 99263692,
+                "MediaPathName": "Media/99263692.wem",
                 "PrefetchSize": 0,
                 "MemoryAlignment": 16,
                 "bDeviceMemory": false,
                 "bStreaming": true,
-                "DebugName": "music_next\\music_dungeon\\3_6_dungeon\\bgm-dungeon_scene_liangmianxinhu-all-full-124bpm-4_4.wav",
+                "DebugName": "music_next\\music_dungeon\\3_6_dungeon\\bgm-dungeon_scene_liangmianxinhu-all-guqin-124bpm-4_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 982128976,
+                "MediaPathName": "Media/982128976.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_dungeon\\3_6_dungeon\\bgm-dungeon_scene_liangmianxinhu-all-inst-124bpm-4_4.wav",
                 "PackagedFile": null
               },
               {
