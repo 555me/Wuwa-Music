@@ -1,10 +1,10 @@
 [
   {
     "Type": "AkAudioEvent",
-    "Name": "play_music_ui_3_1_huodong_chunjie_scene",
+    "Name": "play_quest_music_3_6_liangmianxinhu_after28",
     "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
     "Class": "UScriptClass'AkAudioEvent'",
-    "Package": "Client/Content/Aki/WwiseAudio/Events/play_music_ui_3_1_huodong_chunjie_scene",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_quest_music_3_6_liangmianxinhu_after28",
     "EventCookedData": {
       "EventLanguageMap": [
         {
@@ -14,28 +14,38 @@
             "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
           },
           "Value": {
-            "EventId": 2997294545,
+            "EventId": 4196984261,
             "SoundBanks": [
               {
-                "SoundBankId": 2997294545,
-                "SoundBankPathName": "Event/play_music_ui_3_1_huodong_chunjie_scene.bnk",
+                "SoundBankId": 4196984261,
+                "SoundBankPathName": "Event/play_quest_music_3_6_liangmianxinhu_after28.bnk",
                 "MemoryAlignment": 16,
                 "bDeviceMemory": false,
                 "bContainsMedia": false,
                 "SoundBankType": "EWwiseSoundBankType::Event",
-                "DebugName": "play_music_ui_3_1_huodong_chunjie_scene",
+                "DebugName": "play_quest_music_3_6_liangmianxinhu_after28",
                 "PackagedFile": null
               }
             ],
             "Media": [
               {
-                "MediaId": 307744174,
-                "MediaPathName": "Media/307744174.wem",
+                "MediaId": 99263692,
+                "MediaPathName": "Media/99263692.wem",
                 "PrefetchSize": 0,
                 "MemoryAlignment": 16,
                 "bDeviceMemory": false,
                 "bStreaming": true,
-                "DebugName": "music_next\\music_ui\\3_1\\bgm-scene_chunjie_scene-all-full-127bpm-3_4.wav",
+                "DebugName": "music_next\\music_dungeon\\3_6_dungeon\\bgm-dungeon_scene_liangmianxinhu-all-guqin-124bpm-4_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 982128976,
+                "MediaPathName": "Media/982128976.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_dungeon\\3_6_dungeon\\bgm-dungeon_scene_liangmianxinhu-all-inst-124bpm-4_4.wav",
                 "PackagedFile": null
               }
             ],
@@ -43,12 +53,12 @@
             "SwitchContainerLeaves": [],
             "RequiredGroupValueSet": [],
             "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
-            "DebugName": "play_music_ui_3_1_huodong_chunjie_scene"
+            "DebugName": "play_quest_music_3_6_liangmianxinhu_after28"
           }
         }
       ],
-      "DebugName": "play_music_ui_3_1_huodong_chunjie_scene",
-      "EventId": 2997294545
+      "DebugName": "play_quest_music_3_6_liangmianxinhu_after28",
+      "EventId": 4196984261
     },
     "MaximumDuration": 0.0,
     "MinimumDuration": 0.0,
