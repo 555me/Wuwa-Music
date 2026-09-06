@@ -1,0 +1,168 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_xin_com_limitdodge",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_xin_com_limitdodge",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2627170638,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2627170638,
+                "SoundBankPathName": "Event/play_vo_xin_com_limitdodge.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_xin_com_limitdodge",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 801718943,
+                "MediaPathName": "Media/801718943.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_3,7\\xin\\en_vo_xin_com_limitdodge_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 621365578,
+                "MediaPathName": "Media/621365578.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,7\\xin\\ko_vo_xin_com_limitdodge_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 385829495,
+                "MediaPathName": "Media/385829495.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,7\\xin\\zh_vo_xin_com_limitdodge_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 512391738,
+                "MediaPathName": "Media/512391738.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,7\\xin\\ja_vo_xin_com_limitdodge_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 364272755,
+                "MediaPathName": "Media/364272755.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_3,7\\xin\\en_vo_xin_com_limitdodge_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 289944007,
+                "MediaPathName": "Media/289944007.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,7\\xin\\ko_vo_xin_com_limitdodge_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 478775535,
+                "MediaPathName": "Media/478775535.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,7\\xin\\zh_vo_xin_com_limitdodge_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 474302426,
+                "MediaPathName": "Media/474302426.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,7\\xin\\ja_vo_xin_com_limitdodge_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 233778005,
+                "MediaPathName": "Media/233778005.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_3,7\\xin\\en_vo_xin_com_limitdodge_01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 444863412,
+                "MediaPathName": "Media/444863412.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,7\\xin\\ko_vo_xin_com_limitdodge_01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 59140828,
+                "MediaPathName": "Media/59140828.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,7\\xin\\zh_vo_xin_com_limitdodge_01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 637401213,
+                "MediaPathName": "Media/637401213.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,7\\xin\\ja_vo_xin_com_limitdodge_01_word.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_xin_com_limitdodge"
+          }
+        }
+      ],
+      "DebugName": "play_vo_xin_com_limitdodge",
+      "EventId": 2627170638
+    },
+    "MaximumDuration": 1.3721459,
+    "MinimumDuration": 0.0,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

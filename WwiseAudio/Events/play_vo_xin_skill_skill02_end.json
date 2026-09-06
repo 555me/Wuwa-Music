@@ -1,0 +1,168 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_xin_skill_skill02_end",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_xin_skill_skill02_end",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1515092415,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1515092415,
+                "SoundBankPathName": "Event/play_vo_xin_skill_skill02_end.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_xin_skill_skill02_end",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 8160592,
+                "MediaPathName": "Media/8160592.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_3,7\\xin\\en_vo_xin_skill_skill02_end_01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 412637739,
+                "MediaPathName": "Media/412637739.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,7\\xin\\ko_vo_xin_skill_skill02_end_01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 381338830,
+                "MediaPathName": "Media/381338830.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,7\\xin\\zh_vo_xin_skill_skill02_end_01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1007798695,
+                "MediaPathName": "Media/1007798695.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,7\\xin\\ja_vo_xin_skill_skill02_end_01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1065268286,
+                "MediaPathName": "Media/1065268286.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_3,7\\xin\\en_vo_xin_skill_skill02_end_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 923786586,
+                "MediaPathName": "Media/923786586.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,7\\xin\\ko_vo_xin_skill_skill02_end_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 688245632,
+                "MediaPathName": "Media/688245632.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,7\\xin\\zh_vo_xin_skill_skill02_end_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 592384244,
+                "MediaPathName": "Media/592384244.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,7\\xin\\ja_vo_xin_skill_skill02_end_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 862057817,
+                "MediaPathName": "Media/862057817.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_3,7\\xin\\en_vo_xin_skill_skill02_end_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 326233561,
+                "MediaPathName": "Media/326233561.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,7\\xin\\ko_vo_xin_skill_skill02_end_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 917981961,
+                "MediaPathName": "Media/917981961.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,7\\xin\\zh_vo_xin_skill_skill02_end_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 153177144,
+                "MediaPathName": "Media/153177144.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,7\\xin\\ja_vo_xin_skill_skill02_end_02_tone.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_xin_skill_skill02_end"
+          }
+        }
+      ],
+      "DebugName": "play_vo_xin_skill_skill02_end",
+      "EventId": 1515092415
+    },
+    "MaximumDuration": 0.9436042,
+    "MinimumDuration": 0.0,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

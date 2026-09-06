@@ -1,0 +1,98 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_role_activity_tuanzi37_shouji_linnai",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_role_activity_tuanzi37_shouji_linnai",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3478869791,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3478869791,
+                "SoundBankPathName": "Event/play_role_activity_tuanzi37_shouji_linnai.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_role_activity_tuanzi37_shouji_linnai",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 23099734,
+                "MediaPathName": "Media/23099734.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,7\\tuanzi37\\damagehit\\role_activity_tuanzi37_shouji_linnai_05.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 26658430,
+                "MediaPathName": "Media/26658430.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,7\\tuanzi37\\damagehit\\role_activity_tuanzi37_shouji_linnai_04.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 445465254,
+                "MediaPathName": "Media/445465254.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,7\\tuanzi37\\damagehit\\role_activity_tuanzi37_shouji_linnai_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 454867839,
+                "MediaPathName": "Media/454867839.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,7\\tuanzi37\\damagehit\\role_activity_tuanzi37_shouji_linnai_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 982548926,
+                "MediaPathName": "Media/982548926.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,7\\tuanzi37\\damagehit\\role_activity_tuanzi37_shouji_linnai_03.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_role_activity_tuanzi37_shouji_linnai"
+          }
+        }
+      ],
+      "DebugName": "play_role_activity_tuanzi37_shouji_linnai",
+      "EventId": 3478869791
+    },
+    "MaximumDuration": 0.79130864,
+    "MinimumDuration": 0.6756763,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

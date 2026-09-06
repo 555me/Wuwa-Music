@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_ui_them37_opentips",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_ui_them37_opentips",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 490292916,
+            "SoundBanks": [
+              {
+                "SoundBankId": 490292916,
+                "SoundBankPathName": "Event/play_ui_them37_opentips.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_ui_them37_opentips",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 255357549,
+                "MediaPathName": "Media/255357549.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,7\\theme37\\ui_them37_opentips.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_ui_them37_opentips"
+          }
+        }
+      ],
+      "DebugName": "play_ui_them37_opentips",
+      "EventId": 490292916
+    },
+    "MaximumDuration": 3.8996665,
+    "MinimumDuration": 3.8996665,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

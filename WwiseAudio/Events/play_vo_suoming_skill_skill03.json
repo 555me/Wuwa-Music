@@ -1,0 +1,168 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_suoming_skill_skill03",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_suoming_skill_skill03",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1896003713,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1896003713,
+                "SoundBankPathName": "Event/play_vo_suoming_skill_skill03.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_suoming_skill_skill03",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 477268411,
+                "MediaPathName": "Media/477268411.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_3,7\\suoming\\en_vo_suoming_skill_skill03_01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 238942858,
+                "MediaPathName": "Media/238942858.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,7\\suoming\\zh_vo_suoming_skill_skill03_01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 582017815,
+                "MediaPathName": "Media/582017815.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,7\\suoming\\ko_vo_suoming_skill_skill03_01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 658229810,
+                "MediaPathName": "Media/658229810.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,7\\suoming\\ja_vo_suoming_skill_skill03_01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 581478227,
+                "MediaPathName": "Media/581478227.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_3,7\\suoming\\en_vo_suoming_skill_skill03_02_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 870606097,
+                "MediaPathName": "Media/870606097.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,7\\suoming\\zh_vo_suoming_skill_skill03_02_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 2474759,
+                "MediaPathName": "Media/2474759.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,7\\suoming\\ko_vo_suoming_skill_skill03_02_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 311884676,
+                "MediaPathName": "Media/311884676.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,7\\suoming\\ja_vo_suoming_skill_skill03_02_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 925513742,
+                "MediaPathName": "Media/925513742.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_3,7\\suoming\\en_vo_suoming_skill_skill03_03_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1042882417,
+                "MediaPathName": "Media/1042882417.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,7\\suoming\\zh_vo_suoming_skill_skill03_03_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 627713944,
+                "MediaPathName": "Media/627713944.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,7\\suoming\\ko_vo_suoming_skill_skill03_03_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 17931699,
+                "MediaPathName": "Media/17931699.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,7\\suoming\\ja_vo_suoming_skill_skill03_03_word.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_suoming_skill_skill03"
+          }
+        }
+      ],
+      "DebugName": "play_vo_suoming_skill_skill03",
+      "EventId": 1896003713
+    },
+    "MaximumDuration": 1.3058125,
+    "MinimumDuration": 0.0,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

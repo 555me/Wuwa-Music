@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_role_activity_tuanzi37_buff_debuff",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_role_activity_tuanzi37_buff_debuff",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 384162249,
+            "SoundBanks": [
+              {
+                "SoundBankId": 384162249,
+                "SoundBankPathName": "Event/play_role_activity_tuanzi37_buff_debuff.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_role_activity_tuanzi37_buff_debuff",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 1006939512,
+                "MediaPathName": "Media/1006939512.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,7\\tuanzi37\\buff\\role_activity_tuanzi37_buff_debuff.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_role_activity_tuanzi37_buff_debuff"
+          }
+        }
+      ],
+      "DebugName": "play_role_activity_tuanzi37_buff_debuff",
+      "EventId": 384162249
+    },
+    "MaximumDuration": 1.028827,
+    "MinimumDuration": 0.91658056,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

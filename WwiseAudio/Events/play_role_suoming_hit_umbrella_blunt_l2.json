@@ -1,0 +1,98 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_role_suoming_hit_umbrella_blunt_l2",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_role_suoming_hit_umbrella_blunt_l2",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 121726073,
+            "SoundBanks": [
+              {
+                "SoundBankId": 121726073,
+                "SoundBankPathName": "Event/play_role_suoming_hit_umbrella_blunt_l2.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_role_suoming_hit_umbrella_blunt_l2",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 196239208,
+                "MediaPathName": "Media/196239208.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "role\\role_bat_Suoming\\Hit\\role_Suoming_hit_umbrella_blunt_l2_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 306864473,
+                "MediaPathName": "Media/306864473.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "role\\role_bat_Suoming\\Hit\\role_Suoming_hit_umbrella_blunt_l2_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 401295929,
+                "MediaPathName": "Media/401295929.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "role\\role_bat_Suoming\\Hit\\role_Suoming_hit_umbrella_blunt_l2_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 461917449,
+                "MediaPathName": "Media/461917449.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "role\\role_bat_Suoming\\Hit\\role_Suoming_hit_umbrella_blunt_l2_04.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 503500685,
+                "MediaPathName": "Media/503500685.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "role\\role_bat_Suoming\\Hit\\role_Suoming_hit_umbrella_blunt_l2_05.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_role_suoming_hit_umbrella_blunt_l2"
+          }
+        }
+      ],
+      "DebugName": "play_role_suoming_hit_umbrella_blunt_l2",
+      "EventId": 121726073
+    },
+    "MaximumDuration": 1.0594631,
+    "MinimumDuration": 0.9715319,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

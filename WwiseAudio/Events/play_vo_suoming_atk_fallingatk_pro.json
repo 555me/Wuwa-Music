@@ -1,0 +1,168 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_suoming_atk_fallingatk_pro",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_suoming_atk_fallingatk_pro",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1375058797,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1375058797,
+                "SoundBankPathName": "Event/play_vo_suoming_atk_fallingatk_pro.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_suoming_atk_fallingatk_pro",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 781093421,
+                "MediaPathName": "Media/781093421.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_3,7\\suoming\\en_vo_suoming_atk_fallingatk_pro_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 851704183,
+                "MediaPathName": "Media/851704183.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,7\\suoming\\zh_vo_suoming_atk_fallingatk_pro_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 424124484,
+                "MediaPathName": "Media/424124484.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,7\\suoming\\ko_vo_suoming_atk_fallingatk_pro_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 604136814,
+                "MediaPathName": "Media/604136814.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,7\\suoming\\ja_vo_suoming_atk_fallingatk_pro_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 762935462,
+                "MediaPathName": "Media/762935462.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_3,7\\suoming\\en_vo_suoming_atk_fallingatk_pro_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 63977400,
+                "MediaPathName": "Media/63977400.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,7\\suoming\\zh_vo_suoming_atk_fallingatk_pro_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 415438947,
+                "MediaPathName": "Media/415438947.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,7\\suoming\\ko_vo_suoming_atk_fallingatk_pro_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 471775203,
+                "MediaPathName": "Media/471775203.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,7\\suoming\\ja_vo_suoming_atk_fallingatk_pro_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 880787523,
+                "MediaPathName": "Media/880787523.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_3,7\\suoming\\en_vo_suoming_atk_fallingatk_pro_01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 848077467,
+                "MediaPathName": "Media/848077467.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,7\\suoming\\zh_vo_suoming_atk_fallingatk_pro_01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 878777048,
+                "MediaPathName": "Media/878777048.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,7\\suoming\\ko_vo_suoming_atk_fallingatk_pro_01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 278995724,
+                "MediaPathName": "Media/278995724.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,7\\suoming\\ja_vo_suoming_atk_fallingatk_pro_01_word.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_suoming_atk_fallingatk_pro"
+          }
+        }
+      ],
+      "DebugName": "play_vo_suoming_atk_fallingatk_pro",
+      "EventId": 1375058797
+    },
+    "MaximumDuration": 0.8924375,
+    "MinimumDuration": 0.0,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

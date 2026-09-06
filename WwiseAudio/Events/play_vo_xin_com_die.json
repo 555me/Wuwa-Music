@@ -1,0 +1,168 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_xin_com_die",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_xin_com_die",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 745943866,
+            "SoundBanks": [
+              {
+                "SoundBankId": 745943866,
+                "SoundBankPathName": "Event/play_vo_xin_com_die.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_xin_com_die",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 501174748,
+                "MediaPathName": "Media/501174748.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\en\\role\\branch_3,7\\xin\\en_vo_xin_com_die_01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 847719638,
+                "MediaPathName": "Media/847719638.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,7\\xin\\ko_vo_xin_com_die_01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 215248000,
+                "MediaPathName": "Media/215248000.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,7\\xin\\zh_vo_xin_com_die_01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 165590579,
+                "MediaPathName": "Media/165590579.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,7\\xin\\ja_vo_xin_com_die_01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 865793574,
+                "MediaPathName": "Media/865793574.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\en\\role\\branch_3,7\\xin\\en_vo_xin_com_die_02_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 518030631,
+                "MediaPathName": "Media/518030631.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,7\\xin\\ko_vo_xin_com_die_02_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 426134158,
+                "MediaPathName": "Media/426134158.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\zh\\role\\branch_3,7\\xin\\zh_vo_xin_com_die_02_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 991137732,
+                "MediaPathName": "Media/991137732.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,7\\xin\\ja_vo_xin_com_die_02_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 252700827,
+                "MediaPathName": "Media/252700827.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\en\\role\\branch_3,7\\xin\\en_vo_xin_com_die_03_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 819190590,
+                "MediaPathName": "Media/819190590.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,7\\xin\\ko_vo_xin_com_die_03_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 804422816,
+                "MediaPathName": "Media/804422816.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\zh\\role\\branch_3,7\\xin\\zh_vo_xin_com_die_03_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 883065376,
+                "MediaPathName": "Media/883065376.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,7\\xin\\ja_vo_xin_com_die_03_word.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_xin_com_die"
+          }
+        }
+      ],
+      "DebugName": "play_vo_xin_com_die",
+      "EventId": 745943866
+    },
+    "MaximumDuration": 2.6792707,
+    "MinimumDuration": 0.0,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

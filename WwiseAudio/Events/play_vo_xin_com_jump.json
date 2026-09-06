@@ -1,0 +1,168 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_xin_com_jump",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_xin_com_jump",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3120313124,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3120313124,
+                "SoundBankPathName": "Event/play_vo_xin_com_jump.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_xin_com_jump",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 822233522,
+                "MediaPathName": "Media/822233522.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_3,7\\xin\\en_vo_xin_com_jump_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 940954395,
+                "MediaPathName": "Media/940954395.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,7\\xin\\ko_vo_xin_com_jump_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 709367112,
+                "MediaPathName": "Media/709367112.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,7\\xin\\zh_vo_xin_com_jump_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 743141906,
+                "MediaPathName": "Media/743141906.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,7\\xin\\ja_vo_xin_com_jump_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 285117851,
+                "MediaPathName": "Media/285117851.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_3,7\\xin\\en_vo_xin_com_jump_01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 161007826,
+                "MediaPathName": "Media/161007826.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,7\\xin\\ko_vo_xin_com_jump_01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 993642926,
+                "MediaPathName": "Media/993642926.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,7\\xin\\zh_vo_xin_com_jump_01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 146768589,
+                "MediaPathName": "Media/146768589.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,7\\xin\\ja_vo_xin_com_jump_01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 972093940,
+                "MediaPathName": "Media/972093940.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_3,7\\xin\\en_vo_xin_com_jump_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 364423078,
+                "MediaPathName": "Media/364423078.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,7\\xin\\ko_vo_xin_com_jump_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 339653846,
+                "MediaPathName": "Media/339653846.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,7\\xin\\zh_vo_xin_com_jump_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 923621320,
+                "MediaPathName": "Media/923621320.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,7\\xin\\ja_vo_xin_com_jump_03_tone.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_xin_com_jump"
+          }
+        }
+      ],
+      "DebugName": "play_vo_xin_com_jump",
+      "EventId": 3120313124
+    },
+    "MaximumDuration": 0.5880833,
+    "MinimumDuration": 0.0,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

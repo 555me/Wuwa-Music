@@ -1,0 +1,208 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_xin2_skill_dodge",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_xin2_skill_dodge",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2043251741,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2043251741,
+                "SoundBankPathName": "Event/play_vo_xin2_skill_dodge.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_xin2_skill_dodge",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 761166255,
+                "MediaPathName": "Media/761166255.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_3,7\\xin\\en_vo_xin2_skill_dodge_04_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 559448885,
+                "MediaPathName": "Media/559448885.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,7\\xin\\ko_vo_xin2_skill_dodge_04_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 345515229,
+                "MediaPathName": "Media/345515229.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,7\\xin\\zh_vo_xin2_skill_dodge_04_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 621734481,
+                "MediaPathName": "Media/621734481.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,7\\xin\\ja_vo_xin2_skill_dodge_04_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 969057260,
+                "MediaPathName": "Media/969057260.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_3,7\\xin\\en_vo_xin2_skill_dodge_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 124812571,
+                "MediaPathName": "Media/124812571.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,7\\xin\\ko_vo_xin2_skill_dodge_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 602717231,
+                "MediaPathName": "Media/602717231.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,7\\xin\\zh_vo_xin2_skill_dodge_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 490525911,
+                "MediaPathName": "Media/490525911.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,7\\xin\\ja_vo_xin2_skill_dodge_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 379966276,
+                "MediaPathName": "Media/379966276.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_3,7\\xin\\en_vo_xin2_skill_dodge_01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 575194243,
+                "MediaPathName": "Media/575194243.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,7\\xin\\ko_vo_xin2_skill_dodge_01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 117853378,
+                "MediaPathName": "Media/117853378.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,7\\xin\\zh_vo_xin2_skill_dodge_01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 124070156,
+                "MediaPathName": "Media/124070156.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,7\\xin\\ja_vo_xin2_skill_dodge_01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 383363062,
+                "MediaPathName": "Media/383363062.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_3,7\\xin\\en_vo_xin2_skill_dodge_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 649554025,
+                "MediaPathName": "Media/649554025.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,7\\xin\\ko_vo_xin2_skill_dodge_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1073635167,
+                "MediaPathName": "Media/1073635167.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,7\\xin\\zh_vo_xin2_skill_dodge_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 86413433,
+                "MediaPathName": "Media/86413433.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,7\\xin\\ja_vo_xin2_skill_dodge_03_tone.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_xin2_skill_dodge"
+          }
+        }
+      ],
+      "DebugName": "play_vo_xin2_skill_dodge",
+      "EventId": 2043251741
+    },
+    "MaximumDuration": 0.453125,
+    "MinimumDuration": 0.0,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

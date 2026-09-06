@@ -1,0 +1,78 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_tuanzi_yangyang2_mischief_short",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_tuanzi_yangyang2_mischief_short",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2510033110,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2510033110,
+                "SoundBankPathName": "Event/play_vo_tuanzi_yangyang2_mischief_short.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_tuanzi_yangyang2_mischief_short",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 747610100,
+                "MediaPathName": "Media/747610100.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "branch_3,7\\tuanzi_voice_sound\\yangyang2\\vo_tuanzi_yangyang2_mischief_short_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 774716413,
+                "MediaPathName": "Media/774716413.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "branch_3,7\\tuanzi_voice_sound\\yangyang2\\vo_tuanzi_yangyang2_mischief_short_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 873044584,
+                "MediaPathName": "Media/873044584.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "branch_3,7\\tuanzi_voice_sound\\yangyang2\\vo_tuanzi_yangyang2_mischief_short_03.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_tuanzi_yangyang2_mischief_short"
+          }
+        }
+      ],
+      "DebugName": "play_vo_tuanzi_yangyang2_mischief_short",
+      "EventId": 2510033110
+    },
+    "MaximumDuration": 1.0653391,
+    "MinimumDuration": 0.72475773,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

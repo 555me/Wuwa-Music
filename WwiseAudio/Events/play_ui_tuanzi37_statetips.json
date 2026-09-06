@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_ui_tuanzi37_statetips",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_ui_tuanzi37_statetips",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2771921242,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2771921242,
+                "SoundBankPathName": "Event/play_ui_tuanzi37_statetips.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_ui_tuanzi37_statetips",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 523217994,
+                "MediaPathName": "Media/523217994.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,7\\tuanzi37\\ui_tuanzi37_statetips.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_ui_tuanzi37_statetips"
+          }
+        }
+      ],
+      "DebugName": "play_ui_tuanzi37_statetips",
+      "EventId": 2771921242
+    },
+    "MaximumDuration": 3.5828333,
+    "MinimumDuration": 3.5828333,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

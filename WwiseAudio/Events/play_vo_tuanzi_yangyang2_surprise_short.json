@@ -1,0 +1,78 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_tuanzi_yangyang2_surprise_short",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_tuanzi_yangyang2_surprise_short",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 345476471,
+            "SoundBanks": [
+              {
+                "SoundBankId": 345476471,
+                "SoundBankPathName": "Event/play_vo_tuanzi_yangyang2_surprise_short.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_tuanzi_yangyang2_surprise_short",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 139925604,
+                "MediaPathName": "Media/139925604.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "branch_3,7\\tuanzi_voice_sound\\yangyang2\\vo_tuanzi_yangyang2_surprise_short_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 295270702,
+                "MediaPathName": "Media/295270702.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "branch_3,7\\tuanzi_voice_sound\\yangyang2\\vo_tuanzi_yangyang2_surprise_short_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 774764691,
+                "MediaPathName": "Media/774764691.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "branch_3,7\\tuanzi_voice_sound\\yangyang2\\vo_tuanzi_yangyang2_surprise_short_02.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_tuanzi_yangyang2_surprise_short"
+          }
+        }
+      ],
+      "DebugName": "play_vo_tuanzi_yangyang2_surprise_short",
+      "EventId": 345476471
+    },
+    "MaximumDuration": 1.0266402,
+    "MinimumDuration": 0.9796431,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

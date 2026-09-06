@@ -1,0 +1,78 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_tuanzi_aimisi_anger_short",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_tuanzi_aimisi_anger_short",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 4219369475,
+            "SoundBanks": [
+              {
+                "SoundBankId": 4219369475,
+                "SoundBankPathName": "Event/play_vo_tuanzi_aimisi_anger_short.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_tuanzi_aimisi_anger_short",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 9362471,
+                "MediaPathName": "Media/9362471.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "branch_3,7\\tuanzi_voice_sound\\aimisi\\vo_tuanzi_aimisi_anger_short_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 148739306,
+                "MediaPathName": "Media/148739306.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "branch_3,7\\tuanzi_voice_sound\\aimisi\\vo_tuanzi_aimisi_anger_short_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 589996204,
+                "MediaPathName": "Media/589996204.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "branch_3,7\\tuanzi_voice_sound\\aimisi\\vo_tuanzi_aimisi_anger_short_03.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_tuanzi_aimisi_anger_short"
+          }
+        }
+      ],
+      "DebugName": "play_vo_tuanzi_aimisi_anger_short",
+      "EventId": 4219369475
+    },
+    "MaximumDuration": 2.199286,
+    "MinimumDuration": 0.74200314,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

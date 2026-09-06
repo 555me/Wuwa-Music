@@ -1,0 +1,168 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_suoming_com_behit",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_suoming_com_behit",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 4124072823,
+            "SoundBanks": [
+              {
+                "SoundBankId": 4124072823,
+                "SoundBankPathName": "Event/play_vo_suoming_com_behit.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_suoming_com_behit",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 606739376,
+                "MediaPathName": "Media/606739376.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_3,7\\suoming\\en_vo_suoming_com_behit_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 468918516,
+                "MediaPathName": "Media/468918516.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,7\\suoming\\zh_vo_suoming_com_behit_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 255144660,
+                "MediaPathName": "Media/255144660.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,7\\suoming\\ko_vo_suoming_com_behit_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 580264443,
+                "MediaPathName": "Media/580264443.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,7\\suoming\\ja_vo_suoming_com_behit_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 493881102,
+                "MediaPathName": "Media/493881102.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_3,7\\suoming\\en_vo_suoming_com_behit_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 648636583,
+                "MediaPathName": "Media/648636583.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,7\\suoming\\zh_vo_suoming_com_behit_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 925219275,
+                "MediaPathName": "Media/925219275.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,7\\suoming\\ko_vo_suoming_com_behit_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 646329023,
+                "MediaPathName": "Media/646329023.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,7\\suoming\\ja_vo_suoming_com_behit_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 379416981,
+                "MediaPathName": "Media/379416981.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_3,7\\suoming\\en_vo_suoming_com_behit_01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 190347510,
+                "MediaPathName": "Media/190347510.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,7\\suoming\\zh_vo_suoming_com_behit_01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1072929923,
+                "MediaPathName": "Media/1072929923.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,7\\suoming\\ko_vo_suoming_com_behit_01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 559345480,
+                "MediaPathName": "Media/559345480.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,7\\suoming\\ja_vo_suoming_com_behit_01_word.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_suoming_com_behit"
+          }
+        }
+      ],
+      "DebugName": "play_vo_suoming_com_behit",
+      "EventId": 4124072823
+    },
+    "MaximumDuration": 0.55277085,
+    "MinimumDuration": 0.0,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

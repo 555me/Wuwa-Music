@@ -1,0 +1,78 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_role_xin_bat_attack02",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_role_xin_bat_attack02",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 216659159,
+            "SoundBanks": [
+              {
+                "SoundBankId": 216659159,
+                "SoundBankPathName": "Event/play_role_xin_bat_attack02.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_role_xin_bat_attack02",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 417554775,
+                "MediaPathName": "Media/417554775.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "role\\role_bat_Xin\\role_Xin_bat_attack02_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 548388635,
+                "MediaPathName": "Media/548388635.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "role\\role_bat_Xin\\role_Xin_bat_attack02_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1032509763,
+                "MediaPathName": "Media/1032509763.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "role\\role_bat_Xin\\role_Xin_bat_attack02_02.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_role_xin_bat_attack02"
+          }
+        }
+      ],
+      "DebugName": "play_role_xin_bat_attack02",
+      "EventId": 216659159
+    },
+    "MaximumDuration": 4.7329464,
+    "MinimumDuration": 4.467306,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

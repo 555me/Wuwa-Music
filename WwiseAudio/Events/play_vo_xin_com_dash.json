@@ -1,0 +1,168 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_xin_com_dash",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_xin_com_dash",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 438697124,
+            "SoundBanks": [
+              {
+                "SoundBankId": 438697124,
+                "SoundBankPathName": "Event/play_vo_xin_com_dash.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_xin_com_dash",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 206393491,
+                "MediaPathName": "Media/206393491.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_3,7\\xin\\en_vo_xin_com_dash_01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 986113497,
+                "MediaPathName": "Media/986113497.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,7\\xin\\ko_vo_xin_com_dash_01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 275244671,
+                "MediaPathName": "Media/275244671.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,7\\xin\\zh_vo_xin_com_dash_01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 356799677,
+                "MediaPathName": "Media/356799677.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,7\\xin\\ja_vo_xin_com_dash_01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 686041922,
+                "MediaPathName": "Media/686041922.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_3,7\\xin\\en_vo_xin_com_dash_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 730274446,
+                "MediaPathName": "Media/730274446.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,7\\xin\\ko_vo_xin_com_dash_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 979874402,
+                "MediaPathName": "Media/979874402.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,7\\xin\\zh_vo_xin_com_dash_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 490857411,
+                "MediaPathName": "Media/490857411.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,7\\xin\\ja_vo_xin_com_dash_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 982177920,
+                "MediaPathName": "Media/982177920.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_3,7\\xin\\en_vo_xin_com_dash_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 232487862,
+                "MediaPathName": "Media/232487862.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,7\\xin\\ko_vo_xin_com_dash_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 367741725,
+                "MediaPathName": "Media/367741725.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,7\\xin\\zh_vo_xin_com_dash_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 932310012,
+                "MediaPathName": "Media/932310012.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,7\\xin\\ja_vo_xin_com_dash_02_tone.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_xin_com_dash"
+          }
+        }
+      ],
+      "DebugName": "play_vo_xin_com_dash",
+      "EventId": 438697124
+    },
+    "MaximumDuration": 0.85866666,
+    "MinimumDuration": 0.0,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

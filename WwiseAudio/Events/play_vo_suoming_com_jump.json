@@ -1,0 +1,168 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_suoming_com_jump",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_suoming_com_jump",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3459631455,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3459631455,
+                "SoundBankPathName": "Event/play_vo_suoming_com_jump.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_suoming_com_jump",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 712986003,
+                "MediaPathName": "Media/712986003.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_3,7\\suoming\\en_vo_suoming_com_jump_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 840186488,
+                "MediaPathName": "Media/840186488.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,7\\suoming\\zh_vo_suoming_com_jump_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 548174928,
+                "MediaPathName": "Media/548174928.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,7\\suoming\\ko_vo_suoming_com_jump_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 167203294,
+                "MediaPathName": "Media/167203294.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,7\\suoming\\ja_vo_suoming_com_jump_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 320274768,
+                "MediaPathName": "Media/320274768.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_3,7\\suoming\\en_vo_suoming_com_jump_01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 884672504,
+                "MediaPathName": "Media/884672504.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,7\\suoming\\zh_vo_suoming_com_jump_01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 256901078,
+                "MediaPathName": "Media/256901078.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,7\\suoming\\ko_vo_suoming_com_jump_01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 949669343,
+                "MediaPathName": "Media/949669343.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,7\\suoming\\ja_vo_suoming_com_jump_01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1009139805,
+                "MediaPathName": "Media/1009139805.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_3,7\\suoming\\en_vo_suoming_com_jump_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 509191653,
+                "MediaPathName": "Media/509191653.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,7\\suoming\\zh_vo_suoming_com_jump_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 254810316,
+                "MediaPathName": "Media/254810316.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,7\\suoming\\ko_vo_suoming_com_jump_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 362771327,
+                "MediaPathName": "Media/362771327.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,7\\suoming\\ja_vo_suoming_com_jump_03_tone.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_suoming_com_jump"
+          }
+        }
+      ],
+      "DebugName": "play_vo_suoming_com_jump",
+      "EventId": 3459631455
+    },
+    "MaximumDuration": 0.42033333,
+    "MinimumDuration": 0.0,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

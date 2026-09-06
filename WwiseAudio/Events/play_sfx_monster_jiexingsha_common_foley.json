@@ -1,0 +1,98 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_monster_jiexingsha_common_foley",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_monster_jiexingsha_common_foley",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1711011579,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1711011579,
+                "SoundBankPathName": "Event/play_sfx_monster_jiexingsha_common_foley.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_monster_jiexingsha_common_foley",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 173537714,
+                "MediaPathName": "Media/173537714.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\Enemy\\Elite\\Jiexingsha\\sfx_monster_jiexingsha_common_foley_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 413637514,
+                "MediaPathName": "Media/413637514.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\Enemy\\Elite\\Jiexingsha\\sfx_monster_jiexingsha_common_foley_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 419518765,
+                "MediaPathName": "Media/419518765.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\Enemy\\Elite\\Jiexingsha\\sfx_monster_jiexingsha_common_foley_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 698456100,
+                "MediaPathName": "Media/698456100.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\Enemy\\Elite\\Jiexingsha\\sfx_monster_jiexingsha_common_foley_05.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1010574228,
+                "MediaPathName": "Media/1010574228.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\Enemy\\Elite\\Jiexingsha\\sfx_monster_jiexingsha_common_foley_04.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_monster_jiexingsha_common_foley"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_monster_jiexingsha_common_foley",
+      "EventId": 1711011579
+    },
+    "MaximumDuration": 0.53477085,
+    "MinimumDuration": 0.53333336,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

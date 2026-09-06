@@ -1,0 +1,78 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_tuanzi_linnai_mischief_short",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_tuanzi_linnai_mischief_short",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2617190081,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2617190081,
+                "SoundBankPathName": "Event/play_vo_tuanzi_linnai_mischief_short.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_tuanzi_linnai_mischief_short",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 5589367,
+                "MediaPathName": "Media/5589367.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "branch_3,7\\tuanzi_voice_sound\\linnai\\vo_tuanzi_linnai_mischief_short_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 213195516,
+                "MediaPathName": "Media/213195516.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "branch_3,7\\tuanzi_voice_sound\\linnai\\vo_tuanzi_linnai_mischief_short_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 763082346,
+                "MediaPathName": "Media/763082346.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "branch_3,7\\tuanzi_voice_sound\\linnai\\vo_tuanzi_linnai_mischief_short_02.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_tuanzi_linnai_mischief_short"
+          }
+        }
+      ],
+      "DebugName": "play_vo_tuanzi_linnai_mischief_short",
+      "EventId": 2617190081
+    },
+    "MaximumDuration": 1.1431103,
+    "MinimumDuration": 0.860597,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

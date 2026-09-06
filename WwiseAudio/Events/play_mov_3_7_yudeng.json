@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_mov_3_7_yudeng",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_mov_3_7_yudeng",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2084375593,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2084375593,
+                "SoundBankPathName": "Event/play_mov_3_7_yudeng.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_mov_3_7_yudeng",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 73198147,
+                "MediaPathName": "Media/73198147.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_interact\\3_7\\bgm-interact_3_7_yudeng-all-full-120bpm-4_4.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_mov_3_7_yudeng"
+          }
+        }
+      ],
+      "DebugName": "play_mov_3_7_yudeng",
+      "EventId": 2084375593
+    },
+    "MaximumDuration": 48.25,
+    "MinimumDuration": 48.25,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

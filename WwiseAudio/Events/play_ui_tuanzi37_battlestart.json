@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_ui_tuanzi37_battlestart",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_ui_tuanzi37_battlestart",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1644306713,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1644306713,
+                "SoundBankPathName": "Event/play_ui_tuanzi37_battlestart.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_ui_tuanzi37_battlestart",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 466521939,
+                "MediaPathName": "Media/466521939.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,7\\tuanzi37\\ui_tuanzi37_battlestart.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_ui_tuanzi37_battlestart"
+          }
+        }
+      ],
+      "DebugName": "play_ui_tuanzi37_battlestart",
+      "EventId": 1644306713
+    },
+    "MaximumDuration": 3.3589582,
+    "MinimumDuration": 3.3589582,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

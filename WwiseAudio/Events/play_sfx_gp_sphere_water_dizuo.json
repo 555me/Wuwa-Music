@@ -1,0 +1,78 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_sphere_water_dizuo",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_sphere_water_dizuo",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2042643597,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2042643597,
+                "SoundBankPathName": "Event/play_sfx_gp_sphere_water_dizuo.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_sphere_water_dizuo",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 565044326,
+                "MediaPathName": "Media/565044326.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\gameplay\\3_7\\3_7_gp_xiazi\\sfx_gp_sphere_water_dizuo_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 954568558,
+                "MediaPathName": "Media/954568558.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\gameplay\\3_7\\3_7_gp_xiazi\\sfx_gp_sphere_water_dizuo_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1003194286,
+                "MediaPathName": "Media/1003194286.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\gameplay\\3_7\\3_7_gp_xiazi\\sfx_gp_sphere_water_dizuo_01.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_sphere_water_dizuo"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_sphere_water_dizuo",
+      "EventId": 2042643597
+    },
+    "MaximumDuration": 2.9367292,
+    "MinimumDuration": 2.9367292,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

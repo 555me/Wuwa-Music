@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_role_suoming_bat_qte_sp_foley",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_role_suoming_bat_qte_sp_foley",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2784135552,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2784135552,
+                "SoundBankPathName": "Event/play_role_suoming_bat_qte_sp_foley.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_role_suoming_bat_qte_sp_foley",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 1048539031,
+                "MediaPathName": "Media/1048539031.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "role\\role_bat_Suoming\\Foley\\role_Suoming_bat_qte_sp_foley.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_role_suoming_bat_qte_sp_foley"
+          }
+        }
+      ],
+      "DebugName": "play_role_suoming_bat_qte_sp_foley",
+      "EventId": 2784135552
+    },
+    "MaximumDuration": 10.0,
+    "MinimumDuration": 10.0,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 1500.0
+  }
+]

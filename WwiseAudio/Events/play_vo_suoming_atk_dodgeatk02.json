@@ -1,0 +1,168 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_suoming_atk_dodgeatk02",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_suoming_atk_dodgeatk02",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 404707915,
+            "SoundBanks": [
+              {
+                "SoundBankId": 404707915,
+                "SoundBankPathName": "Event/play_vo_suoming_atk_dodgeatk02.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_suoming_atk_dodgeatk02",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 307903431,
+                "MediaPathName": "Media/307903431.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_3,7\\suoming\\en_vo_suoming_atk_dodgeatk02_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 334804581,
+                "MediaPathName": "Media/334804581.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,7\\suoming\\zh_vo_suoming_atk_dodgeatk02_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 954315563,
+                "MediaPathName": "Media/954315563.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,7\\suoming\\ko_vo_suoming_atk_dodgeatk02_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 135417606,
+                "MediaPathName": "Media/135417606.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,7\\suoming\\ja_vo_suoming_atk_dodgeatk02_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 806039651,
+                "MediaPathName": "Media/806039651.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_3,7\\suoming\\en_vo_suoming_atk_dodgeatk02_01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 580618437,
+                "MediaPathName": "Media/580618437.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,7\\suoming\\zh_vo_suoming_atk_dodgeatk02_01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 12069135,
+                "MediaPathName": "Media/12069135.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,7\\suoming\\ko_vo_suoming_atk_dodgeatk02_01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 803776738,
+                "MediaPathName": "Media/803776738.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,7\\suoming\\ja_vo_suoming_atk_dodgeatk02_01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 164657203,
+                "MediaPathName": "Media/164657203.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_3,7\\suoming\\en_vo_suoming_atk_dodgeatk02_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 439495321,
+                "MediaPathName": "Media/439495321.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,7\\suoming\\zh_vo_suoming_atk_dodgeatk02_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 485954846,
+                "MediaPathName": "Media/485954846.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,7\\suoming\\ko_vo_suoming_atk_dodgeatk02_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 679753742,
+                "MediaPathName": "Media/679753742.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,7\\suoming\\ja_vo_suoming_atk_dodgeatk02_02_tone.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_suoming_atk_dodgeatk02"
+          }
+        }
+      ],
+      "DebugName": "play_vo_suoming_atk_dodgeatk02",
+      "EventId": 404707915
+    },
+    "MaximumDuration": 1.2763333,
+    "MinimumDuration": 0.0,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

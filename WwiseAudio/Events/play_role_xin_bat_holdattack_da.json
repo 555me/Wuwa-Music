@@ -1,0 +1,78 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_role_xin_bat_holdattack_da",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_role_xin_bat_holdattack_da",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 303690152,
+            "SoundBanks": [
+              {
+                "SoundBankId": 303690152,
+                "SoundBankPathName": "Event/play_role_xin_bat_holdattack_da.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_role_xin_bat_holdattack_da",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 558102139,
+                "MediaPathName": "Media/558102139.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "role\\role_bat_Xin\\role_Xin_bat_holdattack_da_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 825769678,
+                "MediaPathName": "Media/825769678.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "role\\role_bat_Xin\\role_Xin_bat_holdattack_da_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 919848989,
+                "MediaPathName": "Media/919848989.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "role\\role_bat_Xin\\role_Xin_bat_holdattack_da_03.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_role_xin_bat_holdattack_da"
+          }
+        }
+      ],
+      "DebugName": "play_role_xin_bat_holdattack_da",
+      "EventId": 303690152
+    },
+    "MaximumDuration": 2.6712108,
+    "MinimumDuration": 2.4096622,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

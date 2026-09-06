@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_jr_js_active",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_jr_js_active",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1436120505,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1436120505,
+                "SoundBankPathName": "Event/play_sfx_gp_jr_js_active.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_jr_js_active",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 209990308,
+                "MediaPathName": "Media/209990308.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\gameplay\\3_7\\sfx_jrjs\\sfx_gp_jr_js_active.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_jr_js_active"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_jr_js_active",
+      "EventId": 1436120505
+    },
+    "MaximumDuration": 6.3841457,
+    "MinimumDuration": 6.3841457,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 7000.0
+  }
+]

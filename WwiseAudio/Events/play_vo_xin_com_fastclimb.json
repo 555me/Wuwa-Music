@@ -1,0 +1,168 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_xin_com_fastclimb",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_xin_com_fastclimb",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2767559949,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2767559949,
+                "SoundBankPathName": "Event/play_vo_xin_com_fastclimb.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_xin_com_fastclimb",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 947475242,
+                "MediaPathName": "Media/947475242.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_3,7\\xin\\en_vo_xin_com_fastclimb_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 257295471,
+                "MediaPathName": "Media/257295471.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,7\\xin\\ko_vo_xin_com_fastclimb_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 269407740,
+                "MediaPathName": "Media/269407740.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,7\\xin\\zh_vo_xin_com_fastclimb_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 17094290,
+                "MediaPathName": "Media/17094290.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,7\\xin\\ja_vo_xin_com_fastclimb_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 627260666,
+                "MediaPathName": "Media/627260666.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_3,7\\xin\\en_vo_xin_com_fastclimb_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 63617780,
+                "MediaPathName": "Media/63617780.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,7\\xin\\ko_vo_xin_com_fastclimb_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 329462231,
+                "MediaPathName": "Media/329462231.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,7\\xin\\zh_vo_xin_com_fastclimb_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 355655346,
+                "MediaPathName": "Media/355655346.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,7\\xin\\ja_vo_xin_com_fastclimb_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 123164566,
+                "MediaPathName": "Media/123164566.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_3,7\\xin\\en_vo_xin_com_fastclimb_01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 816431873,
+                "MediaPathName": "Media/816431873.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,7\\xin\\ko_vo_xin_com_fastclimb_01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 322025144,
+                "MediaPathName": "Media/322025144.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,7\\xin\\zh_vo_xin_com_fastclimb_01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 830779629,
+                "MediaPathName": "Media/830779629.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,7\\xin\\ja_vo_xin_com_fastclimb_01_tone.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_xin_com_fastclimb"
+          }
+        }
+      ],
+      "DebugName": "play_vo_xin_com_fastclimb",
+      "EventId": 2767559949
+    },
+    "MaximumDuration": 0.54933333,
+    "MinimumDuration": 0.0,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

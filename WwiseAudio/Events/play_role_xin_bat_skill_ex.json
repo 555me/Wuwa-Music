@@ -1,0 +1,78 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_role_xin_bat_skill_ex",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_role_xin_bat_skill_ex",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2731977828,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2731977828,
+                "SoundBankPathName": "Event/play_role_xin_bat_skill_ex.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_role_xin_bat_skill_ex",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 566322196,
+                "MediaPathName": "Media/566322196.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "role\\role_bat_Xin\\role_Xin_bat_skill_ex_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 759168481,
+                "MediaPathName": "Media/759168481.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "role\\role_bat_Xin\\role_Xin_bat_skill_ex_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 881080373,
+                "MediaPathName": "Media/881080373.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "role\\role_bat_Xin\\role_Xin_bat_skill_ex_03.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_role_xin_bat_skill_ex"
+          }
+        }
+      ],
+      "DebugName": "play_role_xin_bat_skill_ex",
+      "EventId": 2731977828
+    },
+    "MaximumDuration": 5.332536,
+    "MinimumDuration": 5.0302687,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

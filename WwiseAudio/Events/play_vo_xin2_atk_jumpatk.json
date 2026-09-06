@@ -1,0 +1,168 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_xin2_atk_jumpatk",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_xin2_atk_jumpatk",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2616395427,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2616395427,
+                "SoundBankPathName": "Event/play_vo_xin2_atk_jumpatk.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_xin2_atk_jumpatk",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 480793813,
+                "MediaPathName": "Media/480793813.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_3,7\\xin\\en_vo_xin2_atk_jumpatk_01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 697207133,
+                "MediaPathName": "Media/697207133.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,7\\xin\\ko_vo_xin2_atk_jumpatk_01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 935120892,
+                "MediaPathName": "Media/935120892.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,7\\xin\\zh_vo_xin2_atk_jumpatk_01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 468726667,
+                "MediaPathName": "Media/468726667.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,7\\xin\\ja_vo_xin2_atk_jumpatk_01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 611375685,
+                "MediaPathName": "Media/611375685.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_3,7\\xin\\en_vo_xin2_atk_jumpatk_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 496694834,
+                "MediaPathName": "Media/496694834.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,7\\xin\\ko_vo_xin2_atk_jumpatk_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 600185601,
+                "MediaPathName": "Media/600185601.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,7\\xin\\zh_vo_xin2_atk_jumpatk_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 852536279,
+                "MediaPathName": "Media/852536279.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,7\\xin\\ja_vo_xin2_atk_jumpatk_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 429851000,
+                "MediaPathName": "Media/429851000.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_3,7\\xin\\en_vo_xin2_atk_jumpatk_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 181351398,
+                "MediaPathName": "Media/181351398.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,7\\xin\\ko_vo_xin2_atk_jumpatk_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 101449088,
+                "MediaPathName": "Media/101449088.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,7\\xin\\zh_vo_xin2_atk_jumpatk_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 889785956,
+                "MediaPathName": "Media/889785956.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,7\\xin\\ja_vo_xin2_atk_jumpatk_03_tone.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_xin2_atk_jumpatk"
+          }
+        }
+      ],
+      "DebugName": "play_vo_xin2_atk_jumpatk",
+      "EventId": 2616395427
+    },
+    "MaximumDuration": 0.39022917,
+    "MinimumDuration": 0.0,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

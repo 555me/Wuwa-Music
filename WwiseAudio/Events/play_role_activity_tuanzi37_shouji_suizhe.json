@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_role_activity_tuanzi37_shouji_suizhe",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_role_activity_tuanzi37_shouji_suizhe",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3354938188,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3354938188,
+                "SoundBankPathName": "Event/play_role_activity_tuanzi37_shouji_suizhe.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_role_activity_tuanzi37_shouji_suizhe",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 536562945,
+                "MediaPathName": "Media/536562945.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,7\\tuanzi37\\damagehit\\role_activity_tuanzi37_shouji_suizhe.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_role_activity_tuanzi37_shouji_suizhe"
+          }
+        }
+      ],
+      "DebugName": "play_role_activity_tuanzi37_shouji_suizhe",
+      "EventId": 3354938188
+    },
+    "MaximumDuration": 3.6869318,
+    "MinimumDuration": 3.2846823,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

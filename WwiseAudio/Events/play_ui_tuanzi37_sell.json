@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_ui_tuanzi37_sell",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_ui_tuanzi37_sell",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1474745597,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1474745597,
+                "SoundBankPathName": "Event/play_ui_tuanzi37_sell.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_ui_tuanzi37_sell",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 125598970,
+                "MediaPathName": "Media/125598970.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,7\\tuanzi37\\ui_tuanzi37_sell.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_ui_tuanzi37_sell"
+          }
+        }
+      ],
+      "DebugName": "play_ui_tuanzi37_sell",
+      "EventId": 1474745597
+    },
+    "MaximumDuration": 3.3491042,
+    "MinimumDuration": 3.3491042,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

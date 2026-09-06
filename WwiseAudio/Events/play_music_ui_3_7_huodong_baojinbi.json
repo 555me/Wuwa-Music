@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_music_ui_3_7_huodong_baojinbi",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_music_ui_3_7_huodong_baojinbi",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2026841000,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2026841000,
+                "SoundBankPathName": "Event/play_music_ui_3_7_huodong_baojinbi.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_music_ui_3_7_huodong_baojinbi",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 145719309,
+                "MediaPathName": "Media/145719309.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_battle\\3.5\\bgm-battle_scene_xuanfang_elite-all-full-144bpm-4_4.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_music_ui_3_7_huodong_baojinbi"
+          }
+        }
+      ],
+      "DebugName": "play_music_ui_3_7_huodong_baojinbi",
+      "EventId": 2026841000
+    },
+    "MaximumDuration": 108.333336,
+    "MinimumDuration": 108.333336,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

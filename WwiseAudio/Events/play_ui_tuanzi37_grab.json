@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_ui_tuanzi37_grab",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_ui_tuanzi37_grab",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3971805707,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3971805707,
+                "SoundBankPathName": "Event/play_ui_tuanzi37_grab.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_ui_tuanzi37_grab",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 946870468,
+                "MediaPathName": "Media/946870468.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,7\\tuanzi37\\ui_tuanzi37_grab.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_ui_tuanzi37_grab"
+          }
+        }
+      ],
+      "DebugName": "play_ui_tuanzi37_grab",
+      "EventId": 3971805707
+    },
+    "MaximumDuration": 2.5699584,
+    "MinimumDuration": 2.5699584,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

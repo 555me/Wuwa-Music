@@ -1,0 +1,47 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_music_ui_3_7_huodong_xiaoxiaole_page",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_music_ui_3_7_huodong_xiaoxiaole_page",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2166174711,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2166174711,
+                "SoundBankPathName": "Event/play_music_ui_3_7_huodong_xiaoxiaole_page.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_music_ui_3_7_huodong_xiaoxiaole_page",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_music_ui_3_7_huodong_xiaoxiaole_page"
+          }
+        }
+      ],
+      "DebugName": "play_music_ui_3_7_huodong_xiaoxiaole_page",
+      "EventId": 2166174711
+    },
+    "MaximumDuration": 2.1982758,
+    "MinimumDuration": 2.1982758,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

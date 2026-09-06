@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_ui_tuanzi37_newrole",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_ui_tuanzi37_newrole",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1556345333,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1556345333,
+                "SoundBankPathName": "Event/play_ui_tuanzi37_newrole.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_ui_tuanzi37_newrole",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 149347127,
+                "MediaPathName": "Media/149347127.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,7\\tuanzi37\\ui_tuanzi37_newrole.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_ui_tuanzi37_newrole"
+          }
+        }
+      ],
+      "DebugName": "play_ui_tuanzi37_newrole",
+      "EventId": 1556345333
+    },
+    "MaximumDuration": 4.9692707,
+    "MinimumDuration": 4.9692707,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

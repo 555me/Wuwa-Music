@@ -1,0 +1,168 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_xin2_atk_atk02",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_xin2_atk_atk02",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 938309025,
+            "SoundBanks": [
+              {
+                "SoundBankId": 938309025,
+                "SoundBankPathName": "Event/play_vo_xin2_atk_atk02.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_xin2_atk_atk02",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 510495755,
+                "MediaPathName": "Media/510495755.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_3,7\\xin\\en_vo_xin2_atk_atk02_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 437936430,
+                "MediaPathName": "Media/437936430.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,7\\xin\\ko_vo_xin2_atk_atk02_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 985042170,
+                "MediaPathName": "Media/985042170.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,7\\xin\\zh_vo_xin2_atk_atk02_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 404420618,
+                "MediaPathName": "Media/404420618.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,7\\xin\\ja_vo_xin2_atk_atk02_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 951892460,
+                "MediaPathName": "Media/951892460.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_3,7\\xin\\en_vo_xin2_atk_atk02_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 446473012,
+                "MediaPathName": "Media/446473012.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,7\\xin\\ko_vo_xin2_atk_atk02_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 311304418,
+                "MediaPathName": "Media/311304418.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,7\\xin\\zh_vo_xin2_atk_atk02_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 234449002,
+                "MediaPathName": "Media/234449002.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,7\\xin\\ja_vo_xin2_atk_atk02_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 879652983,
+                "MediaPathName": "Media/879652983.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_3,7\\xin\\en_vo_xin2_atk_atk02_01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 385126170,
+                "MediaPathName": "Media/385126170.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,7\\xin\\ko_vo_xin2_atk_atk02_01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 661282887,
+                "MediaPathName": "Media/661282887.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,7\\xin\\zh_vo_xin2_atk_atk02_01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1060574559,
+                "MediaPathName": "Media/1060574559.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,7\\xin\\ja_vo_xin2_atk_atk02_01_tone.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_xin2_atk_atk02"
+          }
+        }
+      ],
+      "DebugName": "play_vo_xin2_atk_atk02",
+      "EventId": 938309025
+    },
+    "MaximumDuration": 0.648,
+    "MinimumDuration": 0.0,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

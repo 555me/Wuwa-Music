@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_lvb_m3_13_8",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_lvb_m3_13_8",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1710950877,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1710950877,
+                "SoundBankPathName": "Event/play_sfx_lvb_m3_13_8.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_lvb_m3_13_8",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 700705163,
+                "MediaPathName": "Media/700705163.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "levelb\\section03\\sfx_lvb_m3_13_8.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_lvb_m3_13_8"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_lvb_m3_13_8",
+      "EventId": 1710950877
+    },
+    "MaximumDuration": 129.23439,
+    "MinimumDuration": 129.23439,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_tuanzi_aimisi_default_long",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_tuanzi_aimisi_default_long",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 516561779,
+            "SoundBanks": [
+              {
+                "SoundBankId": 516561779,
+                "SoundBankPathName": "Event/play_vo_tuanzi_aimisi_default_long.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_tuanzi_aimisi_default_long",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 206785487,
+                "MediaPathName": "Media/206785487.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "branch_3,7\\tuanzi_voice_sound\\aimisi\\vo_tuanzi_aimisi_default_long_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 438628864,
+                "MediaPathName": "Media/438628864.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "branch_3,7\\tuanzi_voice_sound\\aimisi\\vo_tuanzi_aimisi_default_long_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 757155597,
+                "MediaPathName": "Media/757155597.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "branch_3,7\\tuanzi_voice_sound\\aimisi\\vo_tuanzi_aimisi_default_long_01.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_tuanzi_aimisi_default_long"
+          }
+        }
+      ],
+      "DebugName": "play_vo_tuanzi_aimisi_default_long",
+      "EventId": 516561779
+    },
+    "MaximumDuration": 1.4248766,
+    "MinimumDuration": 1.3500154,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

@@ -1,0 +1,168 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_xin2_atk_fallingatk_end",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_xin2_atk_fallingatk_end",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3365186340,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3365186340,
+                "SoundBankPathName": "Event/play_vo_xin2_atk_fallingatk_end.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_xin2_atk_fallingatk_end",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 650165587,
+                "MediaPathName": "Media/650165587.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_3,7\\xin\\en_vo_xin2_atk_fallingatk_end_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 899350009,
+                "MediaPathName": "Media/899350009.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,7\\xin\\ko_vo_xin2_atk_fallingatk_end_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 582361045,
+                "MediaPathName": "Media/582361045.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,7\\xin\\zh_vo_xin2_atk_fallingatk_end_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 325379382,
+                "MediaPathName": "Media/325379382.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,7\\xin\\ja_vo_xin2_atk_fallingatk_end_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 299632567,
+                "MediaPathName": "Media/299632567.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_3,7\\xin\\en_vo_xin2_atk_fallingatk_end_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 5220968,
+                "MediaPathName": "Media/5220968.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,7\\xin\\ko_vo_xin2_atk_fallingatk_end_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 946679534,
+                "MediaPathName": "Media/946679534.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,7\\xin\\zh_vo_xin2_atk_fallingatk_end_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1007569679,
+                "MediaPathName": "Media/1007569679.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,7\\xin\\ja_vo_xin2_atk_fallingatk_end_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 570292585,
+                "MediaPathName": "Media/570292585.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_3,7\\xin\\en_vo_xin2_atk_fallingatk_end_01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 712039764,
+                "MediaPathName": "Media/712039764.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,7\\xin\\ko_vo_xin2_atk_fallingatk_end_01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 26522461,
+                "MediaPathName": "Media/26522461.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,7\\xin\\zh_vo_xin2_atk_fallingatk_end_01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 186550943,
+                "MediaPathName": "Media/186550943.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,7\\xin\\ja_vo_xin2_atk_fallingatk_end_01_tone.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_xin2_atk_fallingatk_end"
+          }
+        }
+      ],
+      "DebugName": "play_vo_xin2_atk_fallingatk_end",
+      "EventId": 3365186340
+    },
+    "MaximumDuration": 0.7226667,
+    "MinimumDuration": 0.0,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

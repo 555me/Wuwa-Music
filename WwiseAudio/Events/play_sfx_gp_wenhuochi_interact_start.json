@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_wenhuochi_interact_start",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_wenhuochi_interact_start",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1058933018,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1058933018,
+                "SoundBankPathName": "Event/play_sfx_gp_wenhuochi_interact_start.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_wenhuochi_interact_start",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 833175677,
+                "MediaPathName": "Media/833175677.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\gameplay\\3_7\\3_7_gp_LA\\wenhuochi\\sfx_gp_wenhuochi_interact_start.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_wenhuochi_interact_start"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_wenhuochi_interact_start",
+      "EventId": 1058933018
+    },
+    "MaximumDuration": 3.7017093,
+    "MinimumDuration": 3.7017093,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 3000.0
+  }
+]

@@ -1,0 +1,168 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_suoming_atk_heavyatk01",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_suoming_atk_heavyatk01",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3490625624,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3490625624,
+                "SoundBankPathName": "Event/play_vo_suoming_atk_heavyatk01.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_suoming_atk_heavyatk01",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 551178252,
+                "MediaPathName": "Media/551178252.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_3,7\\suoming\\en_vo_suoming_atk_heavyatk01_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 979855464,
+                "MediaPathName": "Media/979855464.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,7\\suoming\\zh_vo_suoming_atk_heavyatk01_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 994796320,
+                "MediaPathName": "Media/994796320.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,7\\suoming\\ko_vo_suoming_atk_heavyatk01_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 32122810,
+                "MediaPathName": "Media/32122810.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,7\\suoming\\ja_vo_suoming_atk_heavyatk01_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 941691863,
+                "MediaPathName": "Media/941691863.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_3,7\\suoming\\en_vo_suoming_atk_heavyatk01_01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 715486910,
+                "MediaPathName": "Media/715486910.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,7\\suoming\\zh_vo_suoming_atk_heavyatk01_01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 587633749,
+                "MediaPathName": "Media/587633749.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,7\\suoming\\ko_vo_suoming_atk_heavyatk01_01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 729051345,
+                "MediaPathName": "Media/729051345.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,7\\suoming\\ja_vo_suoming_atk_heavyatk01_01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 484837885,
+                "MediaPathName": "Media/484837885.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_3,7\\suoming\\en_vo_suoming_atk_heavyatk01_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 72847431,
+                "MediaPathName": "Media/72847431.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,7\\suoming\\zh_vo_suoming_atk_heavyatk01_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 207183892,
+                "MediaPathName": "Media/207183892.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,7\\suoming\\ko_vo_suoming_atk_heavyatk01_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 428942137,
+                "MediaPathName": "Media/428942137.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,7\\suoming\\ja_vo_suoming_atk_heavyatk01_02_tone.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_suoming_atk_heavyatk01"
+          }
+        }
+      ],
+      "DebugName": "play_vo_suoming_atk_heavyatk01",
+      "EventId": 3490625624
+    },
+    "MaximumDuration": 1.4472083,
+    "MinimumDuration": 0.0,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

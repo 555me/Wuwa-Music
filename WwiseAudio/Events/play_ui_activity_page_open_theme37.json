@@ -1,0 +1,68 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_ui_activity_page_open_theme37",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_ui_activity_page_open_theme37",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1909668025,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1909668025,
+                "SoundBankPathName": "Event/play_ui_activity_page_open_theme37.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_ui_activity_page_open_theme37",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 607701611,
+                "MediaPathName": "Media/607701611.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,7\\theme37\\ui_music_activity_them37.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1064675833,
+                "MediaPathName": "Media/1064675833.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,7\\theme37\\ui_activity_page_open_theme37.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_ui_activity_page_open_theme37"
+          }
+        }
+      ],
+      "DebugName": "play_ui_activity_page_open_theme37",
+      "EventId": 1909668025
+    },
+    "MaximumDuration": 5.2018957,
+    "MinimumDuration": 5.2018957,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

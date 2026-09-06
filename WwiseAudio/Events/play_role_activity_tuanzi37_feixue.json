@@ -1,0 +1,108 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_role_activity_tuanzi37_feixue",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_role_activity_tuanzi37_feixue",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2937612421,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2937612421,
+                "SoundBankPathName": "Event/play_role_activity_tuanzi37_feixue.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_role_activity_tuanzi37_feixue",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 477086254,
+                "MediaPathName": "Media/477086254.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,7\\tuanzi37\\weapon\\role_activity_tuanzi37_feixue_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 496673970,
+                "MediaPathName": "Media/496673970.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,7\\tuanzi37\\weapon\\role_activity_tuanzi37_feixue_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 515588519,
+                "MediaPathName": "Media/515588519.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,7\\tuanzi37\\weapon\\role_activity_tuanzi37_feixue_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 643429911,
+                "MediaPathName": "Media/643429911.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,7\\tuanzi37\\weapon\\role_activity_tuanzi37_feixue_06.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 674119402,
+                "MediaPathName": "Media/674119402.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,7\\tuanzi37\\weapon\\role_activity_tuanzi37_feixue_05.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1018039878,
+                "MediaPathName": "Media/1018039878.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,7\\tuanzi37\\weapon\\role_activity_tuanzi37_feixue_04.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_role_activity_tuanzi37_feixue"
+          }
+        }
+      ],
+      "DebugName": "play_role_activity_tuanzi37_feixue",
+      "EventId": 2937612421
+    },
+    "MaximumDuration": 1.2746224,
+    "MinimumDuration": 1.1355398,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

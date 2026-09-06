@@ -1,0 +1,78 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_tuanzi_suisui_daze_long",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_tuanzi_suisui_daze_long",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2638671788,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2638671788,
+                "SoundBankPathName": "Event/play_vo_tuanzi_suisui_daze_long.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_tuanzi_suisui_daze_long",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 67683825,
+                "MediaPathName": "Media/67683825.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "branch_3,7\\tuanzi_voice_sound\\suisui\\vo_tuanzi_suisui_daze_long_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 430858209,
+                "MediaPathName": "Media/430858209.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "branch_3,7\\tuanzi_voice_sound\\suisui\\vo_tuanzi_suisui_daze_long_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 713685358,
+                "MediaPathName": "Media/713685358.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "branch_3,7\\tuanzi_voice_sound\\suisui\\vo_tuanzi_suisui_daze_long_01.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_tuanzi_suisui_daze_long"
+          }
+        }
+      ],
+      "DebugName": "play_vo_tuanzi_suisui_daze_long",
+      "EventId": 2638671788
+    },
+    "MaximumDuration": 3.0937247,
+    "MinimumDuration": 2.1004546,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

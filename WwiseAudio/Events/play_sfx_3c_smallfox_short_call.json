@@ -1,0 +1,118 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_3c_smallfox_short_call",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_3c_smallfox_short_call",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3719982567,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3719982567,
+                "SoundBankPathName": "Event/play_sfx_3c_smallfox_short_call.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_3c_smallfox_short_call",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 52733669,
+                "MediaPathName": "Media/52733669.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\gameplay\\3_7\\3_7_gp_LA\\3c_smallfox\\SFX_3C_SmallFox_Short_Call_05.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 387122600,
+                "MediaPathName": "Media/387122600.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\gameplay\\3_7\\3_7_gp_LA\\3c_smallfox\\SFX_3C_SmallFox_Short_Call_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 423927010,
+                "MediaPathName": "Media/423927010.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\gameplay\\3_7\\3_7_gp_LA\\3c_smallfox\\SFX_3C_SmallFox_Long_Call_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 469076725,
+                "MediaPathName": "Media/469076725.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\gameplay\\3_7\\3_7_gp_LA\\3c_smallfox\\SFX_3C_SmallFox_Long_Call_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 834177435,
+                "MediaPathName": "Media/834177435.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\gameplay\\3_7\\3_7_gp_LA\\3c_smallfox\\SFX_3C_SmallFox_Short_Call_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 978246522,
+                "MediaPathName": "Media/978246522.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\gameplay\\3_7\\3_7_gp_LA\\3c_smallfox\\SFX_3C_SmallFox_Short_Call_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1061807752,
+                "MediaPathName": "Media/1061807752.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\gameplay\\3_7\\3_7_gp_LA\\3c_smallfox\\SFX_3C_SmallFox_Long_Call_01.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_3c_smallfox_short_call"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_3c_smallfox_short_call",
+      "EventId": 3719982567
+    },
+    "MaximumDuration": 1.1996434,
+    "MinimumDuration": 0.48544633,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

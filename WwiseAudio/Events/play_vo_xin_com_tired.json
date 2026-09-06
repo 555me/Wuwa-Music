@@ -1,0 +1,168 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_xin_com_tired",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_xin_com_tired",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2968527170,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2968527170,
+                "SoundBankPathName": "Event/play_vo_xin_com_tired.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_xin_com_tired",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 58231270,
+                "MediaPathName": "Media/58231270.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\en\\role\\branch_3,7\\xin\\en_vo_xin_com_tired_01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 923091303,
+                "MediaPathName": "Media/923091303.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,7\\xin\\ko_vo_xin_com_tired_01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 543014365,
+                "MediaPathName": "Media/543014365.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\zh\\role\\branch_3,7\\xin\\zh_vo_xin_com_tired_01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 738431533,
+                "MediaPathName": "Media/738431533.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,7\\xin\\ja_vo_xin_com_tired_01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1061585861,
+                "MediaPathName": "Media/1061585861.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\en\\role\\branch_3,7\\xin\\en_vo_xin_com_tired_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 479551899,
+                "MediaPathName": "Media/479551899.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,7\\xin\\ko_vo_xin_com_tired_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 70857847,
+                "MediaPathName": "Media/70857847.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\zh\\role\\branch_3,7\\xin\\zh_vo_xin_com_tired_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 444841452,
+                "MediaPathName": "Media/444841452.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,7\\xin\\ja_vo_xin_com_tired_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 100224332,
+                "MediaPathName": "Media/100224332.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\en\\role\\branch_3,7\\xin\\en_vo_xin_com_tired_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 873989566,
+                "MediaPathName": "Media/873989566.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,7\\xin\\ko_vo_xin_com_tired_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 94536031,
+                "MediaPathName": "Media/94536031.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\zh\\role\\branch_3,7\\xin\\zh_vo_xin_com_tired_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 326602702,
+                "MediaPathName": "Media/326602702.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,7\\xin\\ja_vo_xin_com_tired_02_tone.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_xin_com_tired"
+          }
+        }
+      ],
+      "DebugName": "play_vo_xin_com_tired",
+      "EventId": 2968527170
+    },
+    "MaximumDuration": 3.991021,
+    "MinimumDuration": 0.0,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

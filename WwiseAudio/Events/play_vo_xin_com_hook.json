@@ -1,0 +1,168 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_xin_com_hook",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_xin_com_hook",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3807981317,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3807981317,
+                "SoundBankPathName": "Event/play_vo_xin_com_hook.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_xin_com_hook",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 356187176,
+                "MediaPathName": "Media/356187176.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_3,7\\xin\\en_vo_xin_com_hook_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 928421897,
+                "MediaPathName": "Media/928421897.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,7\\xin\\ko_vo_xin_com_hook_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 48429440,
+                "MediaPathName": "Media/48429440.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,7\\xin\\zh_vo_xin_com_hook_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1036131840,
+                "MediaPathName": "Media/1036131840.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,7\\xin\\ja_vo_xin_com_hook_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 391672898,
+                "MediaPathName": "Media/391672898.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_3,7\\xin\\en_vo_xin_com_hook_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 541084683,
+                "MediaPathName": "Media/541084683.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,7\\xin\\ko_vo_xin_com_hook_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 314146087,
+                "MediaPathName": "Media/314146087.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,7\\xin\\zh_vo_xin_com_hook_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 230508916,
+                "MediaPathName": "Media/230508916.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,7\\xin\\ja_vo_xin_com_hook_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 95598066,
+                "MediaPathName": "Media/95598066.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_3,7\\xin\\en_vo_xin_com_hook_01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 448114561,
+                "MediaPathName": "Media/448114561.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,7\\xin\\ko_vo_xin_com_hook_01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1001846961,
+                "MediaPathName": "Media/1001846961.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,7\\xin\\zh_vo_xin_com_hook_01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 742681896,
+                "MediaPathName": "Media/742681896.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,7\\xin\\ja_vo_xin_com_hook_01_tone.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_xin_com_hook"
+          }
+        }
+      ],
+      "DebugName": "play_vo_xin_com_hook",
+      "EventId": 3807981317
+    },
+    "MaximumDuration": 0.7436875,
+    "MinimumDuration": 0.0,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

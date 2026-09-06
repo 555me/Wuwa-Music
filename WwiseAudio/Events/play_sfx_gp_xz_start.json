@@ -1,0 +1,78 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_xz_start",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_xz_start",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1127389149,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1127389149,
+                "SoundBankPathName": "Event/play_sfx_gp_xz_start.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_xz_start",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 59008253,
+                "MediaPathName": "Media/59008253.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\gameplay\\3_7\\3_7_gp_jrhy\\sfx_gp_jr_box_appear_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 97115766,
+                "MediaPathName": "Media/97115766.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\gameplay\\3_7\\3_7_gp_jrhy\\sfx_gp_jr_box_appear_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 594700864,
+                "MediaPathName": "Media/594700864.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\gameplay\\3_7\\3_7_gp_jrhy\\sfx_gp_jr_box_appear_03.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_xz_start"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_xz_start",
+      "EventId": 1127389149
+    },
+    "MaximumDuration": 2.9850738,
+    "MinimumDuration": 1.7948396,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 1500.0
+  }
+]

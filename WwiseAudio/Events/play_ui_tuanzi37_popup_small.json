@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_ui_tuanzi37_popup_small",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_ui_tuanzi37_popup_small",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2354029673,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2354029673,
+                "SoundBankPathName": "Event/play_ui_tuanzi37_popup_small.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_ui_tuanzi37_popup_small",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 253974597,
+                "MediaPathName": "Media/253974597.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,7\\tuanzi37\\ui_tuanzi37_popup_small.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_ui_tuanzi37_popup_small"
+          }
+        }
+      ],
+      "DebugName": "play_ui_tuanzi37_popup_small",
+      "EventId": 2354029673
+    },
+    "MaximumDuration": 0.31733334,
+    "MinimumDuration": 0.31733334,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]
