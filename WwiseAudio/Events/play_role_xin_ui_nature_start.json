@@ -27,7 +27,18 @@
                 "PackagedFile": null
               }
             ],
-            "Media": [],
+            "Media": [
+              {
+                "MediaId": 822678269,
+                "MediaPathName": "Media/822678269.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "role\\role_bat_Xin\\ui\\role_Xin_ui_nature_start.wav",
+                "PackagedFile": null
+              }
+            ],
             "ExternalSources": [],
             "SwitchContainerLeaves": [],
             "RequiredGroupValueSet": [],
@@ -39,8 +50,8 @@
       "DebugName": "play_role_xin_ui_nature_start",
       "EventId": 604024278
     },
-    "MaximumDuration": 0.0,
-    "MinimumDuration": 0.0,
+    "MaximumDuration": 6.0910625,
+    "MinimumDuration": 6.0910625,
     "IsInfinite": false,
     "MaxAttenuationRadius": 0.0
   }

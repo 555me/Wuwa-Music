@@ -27,7 +27,18 @@
                 "PackagedFile": null
               }
             ],
-            "Media": [],
+            "Media": [
+              {
+                "MediaId": 410828858,
+                "MediaPathName": "Media/410828858.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "role\\role_bat_Xin\\ui\\role_Xin_ui_chip_start.wav",
+                "PackagedFile": null
+              }
+            ],
             "ExternalSources": [],
             "SwitchContainerLeaves": [],
             "RequiredGroupValueSet": [],
@@ -39,8 +50,8 @@
       "DebugName": "play_role_xin_ui_chip_start",
       "EventId": 819357225
     },
-    "MaximumDuration": 0.0,
-    "MinimumDuration": 0.0,
+    "MaximumDuration": 3.2267292,
+    "MinimumDuration": 3.2267292,
     "IsInfinite": false,
     "MaxAttenuationRadius": 0.0
   }

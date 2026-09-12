@@ -27,7 +27,18 @@
                 "PackagedFile": null
               }
             ],
-            "Media": [],
+            "Media": [
+              {
+                "MediaId": 1021489196,
+                "MediaPathName": "Media/1021489196.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "role\\role_bat_Xin\\ui\\role_Xin_ui_weapon_loop.wav",
+                "PackagedFile": null
+              }
+            ],
             "ExternalSources": [],
             "SwitchContainerLeaves": [],
             "RequiredGroupValueSet": [],
@@ -39,8 +50,8 @@
       "DebugName": "play_role_xin_ui_weapon_loop",
       "EventId": 2405482867
     },
-    "MaximumDuration": 0.0,
-    "MinimumDuration": 0.0,
+    "MaximumDuration": 14.511167,
+    "MinimumDuration": 14.511167,
     "IsInfinite": false,
     "MaxAttenuationRadius": 0.0
   }

@@ -27,7 +27,18 @@
                 "PackagedFile": null
               }
             ],
-            "Media": [],
+            "Media": [
+              {
+                "MediaId": 161898697,
+                "MediaPathName": "Media/161898697.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "role\\role_bat_Xin\\ui\\role_Xin_ui_resonant_loop.wav",
+                "PackagedFile": null
+              }
+            ],
             "ExternalSources": [],
             "SwitchContainerLeaves": [],
             "RequiredGroupValueSet": [],
@@ -39,8 +50,8 @@
       "DebugName": "play_role_xin_ui_resonant_loop",
       "EventId": 1445625239
     },
-    "MaximumDuration": 0.0,
-    "MinimumDuration": 0.0,
+    "MaximumDuration": 15.723312,
+    "MinimumDuration": 15.723312,
     "IsInfinite": false,
     "MaxAttenuationRadius": 0.0
   }
