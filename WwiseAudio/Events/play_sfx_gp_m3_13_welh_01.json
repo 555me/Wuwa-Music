@@ -1,10 +1,10 @@
 [
   {
     "Type": "AkAudioEvent",
-    "Name": "play_xvxinyu_3_7_music_peace_bridge",
+    "Name": "play_sfx_gp_m3_13_welh_01",
     "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
     "Class": "UScriptClass'AkAudioEvent'",
-    "Package": "Client/Content/Aki/WwiseAudio/Events/play_xvxinyu_3_7_music_peace_bridge",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_m3_13_welh_01",
     "EventCookedData": {
       "EventLanguageMap": [
         {
@@ -14,28 +14,28 @@
             "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
           },
           "Value": {
-            "EventId": 860784140,
+            "EventId": 2369009722,
             "SoundBanks": [
               {
-                "SoundBankId": 860784140,
-                "SoundBankPathName": "Event/play_xvxinyu_3_7_music_peace_bridge.bnk",
+                "SoundBankId": 2369009722,
+                "SoundBankPathName": "Event/play_sfx_gp_m3_13_welh_01.bnk",
                 "MemoryAlignment": 16,
                 "bDeviceMemory": false,
                 "bContainsMedia": false,
                 "SoundBankType": "EWwiseSoundBankType::Event",
-                "DebugName": "play_xvxinyu_3_7_music_peace_bridge",
+                "DebugName": "play_sfx_gp_m3_13_welh_01",
                 "PackagedFile": null
               }
             ],
             "Media": [
               {
-                "MediaId": 849005128,
-                "MediaPathName": "Media/849005128.wem",
+                "MediaId": 61228322,
+                "MediaPathName": "Media/61228322.wem",
                 "PrefetchSize": 0,
                 "MemoryAlignment": 16,
                 "bDeviceMemory": false,
                 "bStreaming": true,
-                "DebugName": "music_next\\music_dungeon\\3_7_dungeon\\poi\\bgm-story_plot_xvxinyu_bridge-all-full-90bpm-6_8.wav",
+                "DebugName": "SFX\\gameplay\\3_7\\sfx_gp_m3_13_welh.wav",
                 "PackagedFile": null
               }
             ],
@@ -43,16 +43,16 @@
             "SwitchContainerLeaves": [],
             "RequiredGroupValueSet": [],
             "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
-            "DebugName": "play_xvxinyu_3_7_music_peace_bridge"
+            "DebugName": "play_sfx_gp_m3_13_welh_01"
           }
         }
       ],
-      "DebugName": "play_xvxinyu_3_7_music_peace_bridge",
-      "EventId": 860784140
+      "DebugName": "play_sfx_gp_m3_13_welh_01",
+      "EventId": 2369009722
     },
-    "MaximumDuration": 0.0,
-    "MinimumDuration": 0.0,
-    "IsInfinite": true,
+    "MaximumDuration": 5.50986,
+    "MinimumDuration": 5.50986,
+    "IsInfinite": false,
     "MaxAttenuationRadius": 0.0
   }
 ]

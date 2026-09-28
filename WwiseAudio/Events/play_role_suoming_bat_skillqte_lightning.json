@@ -1,0 +1,78 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_role_suoming_bat_skillqte_lightning",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_role_suoming_bat_skillqte_lightning",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 715044676,
+            "SoundBanks": [
+              {
+                "SoundBankId": 715044676,
+                "SoundBankPathName": "Event/play_role_suoming_bat_skillqte_lightning.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_role_suoming_bat_skillqte_lightning",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 419593097,
+                "MediaPathName": "Media/419593097.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "role\\role_bat_Suoming\\role_Suoming_bat_skillqte_lightning_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 457292836,
+                "MediaPathName": "Media/457292836.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "role\\role_bat_Suoming\\role_Suoming_bat_skillqte_lightning_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 730729416,
+                "MediaPathName": "Media/730729416.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "role\\role_bat_Suoming\\role_Suoming_bat_skillqte_lightning_03.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_role_suoming_bat_skillqte_lightning"
+          }
+        }
+      ],
+      "DebugName": "play_role_suoming_bat_skillqte_lightning",
+      "EventId": 715044676
+    },
+    "MaximumDuration": 2.1189263,
+    "MinimumDuration": 1.8340081,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]
