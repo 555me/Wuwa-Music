@@ -34,18 +34,8 @@
                 "PrefetchSize": 0,
                 "MemoryAlignment": 16,
                 "bDeviceMemory": false,
-                "bStreaming": true,
+                "bStreaming": false,
                 "DebugName": "SFX\\gameplay\\3_7\\3_7_gp_xyj\\sfx_gp_xyj_cs_two.wav",
-                "PackagedFile": null
-              },
-              {
-                "MediaId": 921301193,
-                "MediaPathName": "Media/921301193.wem",
-                "PrefetchSize": 0,
-                "MemoryAlignment": 16,
-                "bDeviceMemory": false,
-                "bStreaming": true,
-                "DebugName": "SFX\\gameplay\\3_7\\3_7_gp_mg\\sfx_gp_xyj_cs_two_03.wav",
                 "PackagedFile": null
               }
             ],
@@ -60,8 +50,8 @@
       "DebugName": "play_sfx_gp_xyj_cs_two",
       "EventId": 3145863035
     },
-    "MaximumDuration": 2.6714666,
-    "MinimumDuration": 2.319146,
+    "MaximumDuration": 1.7838334,
+    "MinimumDuration": 1.7838334,
     "IsInfinite": false,
     "MaxAttenuationRadius": 0.0
   }

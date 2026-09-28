@@ -34,7 +34,7 @@
                 "PrefetchSize": 0,
                 "MemoryAlignment": 16,
                 "bDeviceMemory": false,
-                "bStreaming": false,
+                "bStreaming": true,
                 "DebugName": "SFX\\gameplay\\3_7\\sfx_gp_muxia_yushizhu_break_01.wav",
                 "PackagedFile": null
               },
@@ -44,8 +44,18 @@
                 "PrefetchSize": 0,
                 "MemoryAlignment": 16,
                 "bDeviceMemory": false,
-                "bStreaming": false,
+                "bStreaming": true,
                 "DebugName": "SFX\\gameplay\\3_7\\sfx_gp_muxia_yushizhu_break_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1055897699,
+                "MediaPathName": "Media/1055897699.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\gameplay\\3_7\\sfx_gp_muxia_yushizhu_break_03.wav",
                 "PackagedFile": null
               }
             ],
@@ -60,8 +70,8 @@
       "DebugName": "play_sfx_gp_muxia_yushizhu_break",
       "EventId": 3311390962
     },
-    "MaximumDuration": 0.9266458,
-    "MinimumDuration": 0.86922914,
+    "MaximumDuration": 3.4669793,
+    "MinimumDuration": 2.671729,
     "IsInfinite": false,
     "MaxAttenuationRadius": 3000.0
   }

@@ -41,14 +41,7 @@
             ],
             "ExternalSources": [],
             "SwitchContainerLeaves": [],
-            "RequiredGroupValueSet": [
-              {
-                "Type": "EWwiseGroupType::State",
-                "GroupId": 803445867,
-                "Id": 748895195,
-                "DebugName": "None"
-              }
-            ],
+            "RequiredGroupValueSet": [],
             "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
             "DebugName": "play_xvxinyu_3_7_music_peace_poi_bridge"
           }

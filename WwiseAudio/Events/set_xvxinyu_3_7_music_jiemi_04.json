@@ -27,17 +27,21 @@
                 "PackagedFile": null
               }
             ],
-            "Media": [],
-            "ExternalSources": [],
-            "SwitchContainerLeaves": [],
-            "RequiredGroupValueSet": [
+            "Media": [
               {
-                "Type": "EWwiseGroupType::State",
-                "GroupId": -1627066031,
-                "Id": 84696445,
-                "DebugName": "b"
+                "MediaId": 844988847,
+                "MediaPathName": "Media/844988847.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_interact\\3_7\\bgm-interact_3_7_dizi-all-full-null-null.wav",
+                "PackagedFile": null
               }
             ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
             "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
             "DebugName": "set_xvxinyu_3_7_music_jiemi_04"
           }
@@ -46,8 +50,8 @@
       "DebugName": "set_xvxinyu_3_7_music_jiemi_04",
       "EventId": 1921331247
     },
-    "MaximumDuration": 0.0,
-    "MinimumDuration": 0.0,
+    "MaximumDuration": 43.96106,
+    "MinimumDuration": 43.96106,
     "IsInfinite": false,
     "MaxAttenuationRadius": 0.0
   }

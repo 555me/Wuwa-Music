@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_role_vision_boss_tianyanhuanxing_2",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_role_vision_boss_tianyanhuanxing_2",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2392346605,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2392346605,
+                "SoundBankPathName": "Event/play_role_vision_boss_tianyanhuanxing_2.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_role_vision_boss_tianyanhuanxing_2",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 466244489,
+                "MediaPathName": "Media/466244489.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\Enemy\\Boss\\role_vision_boss_qishi_tianyanhuanxing_2.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_role_vision_boss_tianyanhuanxing_2"
+          }
+        }
+      ],
+      "DebugName": "play_role_vision_boss_tianyanhuanxing_2",
+      "EventId": 2392346605
+    },
+    "MaximumDuration": 3.6628542,
+    "MinimumDuration": 3.6628542,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 3000.0
+  }
+]

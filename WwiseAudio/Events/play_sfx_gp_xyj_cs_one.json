@@ -29,13 +29,23 @@
             ],
             "Media": [
               {
-                "MediaId": 679896135,
-                "MediaPathName": "Media/679896135.wem",
+                "MediaId": 93188877,
+                "MediaPathName": "Media/93188877.wem",
                 "PrefetchSize": 0,
                 "MemoryAlignment": 16,
                 "bDeviceMemory": false,
                 "bStreaming": true,
-                "DebugName": "SFX\\gameplay\\3_7\\3_7_gp_xyj\\sfx_gp_xyj_cs_one.wav",
+                "DebugName": "SFX\\gameplay\\3_7\\3_7_gp_xyj\\sfx_gp_xyj_cs_one_x2.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 95396873,
+                "MediaPathName": "Media/95396873.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\gameplay\\3_7\\3_7_gp_xyj\\sfx_gp_xyj_cs_one_x1.wav",
                 "PackagedFile": null
               }
             ],
@@ -50,8 +60,8 @@
       "DebugName": "play_sfx_gp_xyj_cs_one",
       "EventId": 3264836365
     },
-    "MaximumDuration": 4.793033,
-    "MinimumDuration": 4.793033,
+    "MaximumDuration": 2.687146,
+    "MinimumDuration": 2.5803125,
     "IsInfinite": false,
     "MaxAttenuationRadius": 0.0
   }
