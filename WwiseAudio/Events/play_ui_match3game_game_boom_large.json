@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_ui_match3game_game_boom_large",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_ui_match3game_game_boom_large",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3372255538,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3372255538,
+                "SoundBankPathName": "Event/play_ui_match3game_game_boom_large.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_ui_match3game_game_boom_large",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 1058105372,
+                "MediaPathName": "Media/1058105372.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,7\\match3game\\ui_match3game_game_boom_large.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_ui_match3game_game_boom_large"
+          }
+        }
+      ],
+      "DebugName": "play_ui_match3game_game_boom_large",
+      "EventId": 3372255538
+    },
+    "MaximumDuration": 3.2411876,
+    "MinimumDuration": 3.2411876,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

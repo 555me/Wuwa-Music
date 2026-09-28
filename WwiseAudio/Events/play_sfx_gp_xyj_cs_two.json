@@ -1,0 +1,68 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_xyj_cs_two",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_xyj_cs_two",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3145863035,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3145863035,
+                "SoundBankPathName": "Event/play_sfx_gp_xyj_cs_two.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_xyj_cs_two",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 346695204,
+                "MediaPathName": "Media/346695204.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\gameplay\\3_7\\3_7_gp_xyj\\sfx_gp_xyj_cs_two.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 921301193,
+                "MediaPathName": "Media/921301193.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\gameplay\\3_7\\3_7_gp_mg\\sfx_gp_xyj_cs_two_03.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_xyj_cs_two"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_xyj_cs_two",
+      "EventId": 3145863035
+    },
+    "MaximumDuration": 2.6714666,
+    "MinimumDuration": 2.319146,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

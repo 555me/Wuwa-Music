@@ -1,0 +1,215 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_foxgiant_beforestory_contemplation",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_foxgiant_beforestory_contemplation",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 1819748192,
+            "LanguageName": "en",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 869908057,
+            "SoundBanks": [
+              {
+                "SoundBankId": 869908057,
+                "SoundBankPathName": "Event/en/play_vo_foxgiant_beforestory_contemplation.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_foxgiant_beforestory_contemplation",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 620547745,
+                "MediaPathName": "Media/en/620547745.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.7\\vo_foxgiant\\beforestory\\en_vo_foxgiant_beforestory_contemplation_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 741512952,
+                "MediaPathName": "Media/en/741512952.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.7\\vo_foxgiant\\beforestory\\en_vo_foxgiant_beforestory_contemplation_02.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_foxgiant_beforestory_contemplation"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1735860046,
+            "LanguageName": "ja",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 869908057,
+            "SoundBanks": [
+              {
+                "SoundBankId": 869908057,
+                "SoundBankPathName": "Event/ja/play_vo_foxgiant_beforestory_contemplation.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_foxgiant_beforestory_contemplation",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 200269748,
+                "MediaPathName": "Media/ja/200269748.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.7\\vo_foxgiant\\beforestory\\ja_vo_foxgiant_beforestory_contemplation_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 578619444,
+                "MediaPathName": "Media/ja/578619444.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.7\\vo_foxgiant\\beforestory\\ja_vo_foxgiant_beforestory_contemplation_01.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_foxgiant_beforestory_contemplation"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1719082483,
+            "LanguageName": "ko",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 869908057,
+            "SoundBanks": [
+              {
+                "SoundBankId": 869908057,
+                "SoundBankPathName": "Event/ko/play_vo_foxgiant_beforestory_contemplation.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_foxgiant_beforestory_contemplation",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 856474188,
+                "MediaPathName": "Media/ko/856474188.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.7\\vo_foxgiant\\beforestory\\ko_vo_foxgiant_beforestory_contemplation_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 988772686,
+                "MediaPathName": "Media/ko/988772686.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.7\\vo_foxgiant\\beforestory\\ko_vo_foxgiant_beforestory_contemplation_01.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_foxgiant_beforestory_contemplation"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1467418007,
+            "LanguageName": "zh",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsDefault"
+          },
+          "Value": {
+            "EventId": 869908057,
+            "SoundBanks": [
+              {
+                "SoundBankId": 869908057,
+                "SoundBankPathName": "Event/zh/play_vo_foxgiant_beforestory_contemplation.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_foxgiant_beforestory_contemplation",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 462616617,
+                "MediaPathName": "Media/zh/462616617.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.7\\vo_foxgiant\\beforestory\\zh_vo_foxgiant_beforestory_contemplation_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 548380653,
+                "MediaPathName": "Media/zh/548380653.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.7\\vo_foxgiant\\beforestory\\zh_vo_foxgiant_beforestory_contemplation_01.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_foxgiant_beforestory_contemplation"
+          }
+        }
+      ],
+      "DebugName": "play_vo_foxgiant_beforestory_contemplation",
+      "EventId": 869908057
+    },
+    "MaximumDuration": 3.5718958,
+    "MinimumDuration": 3.2944167,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

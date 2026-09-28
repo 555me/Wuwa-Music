@@ -1,0 +1,68 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_all_sound_p0049",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_all_sound_p0049",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3412110859,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3412110859,
+                "SoundBankPathName": "Event/play_all_sound_p0049.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_all_sound_p0049",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 471461494,
+                "MediaPathName": "Media/471461494.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_ui\\3_7\\bgm-ui_3_7_tuanzi_victory-all-full-136bpm-4_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 606346339,
+                "MediaPathName": "Media/606346339.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\Plot_LevelA\\3.7\\sfx_lva_p0049.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_all_sound_p0049"
+          }
+        }
+      ],
+      "DebugName": "play_all_sound_p0049",
+      "EventId": 3412110859
+    },
+    "MaximumDuration": 12.533355,
+    "MinimumDuration": 12.533355,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

@@ -1,0 +1,175 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_mon_jiexingsha_death",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_mon_jiexingsha_death",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 1819748192,
+            "LanguageName": "en",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 1379021554,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1379021554,
+                "SoundBankPathName": "Event/en/play_vo_mon_jiexingsha_death.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_mon_jiexingsha_death",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 484194175,
+                "MediaPathName": "Media/en/484194175.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "enemy\\branch_3,7\\jiexingsha\\en_vo_mon_jiexingsha_death.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_mon_jiexingsha_death"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1735860046,
+            "LanguageName": "ja",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 1379021554,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1379021554,
+                "SoundBankPathName": "Event/ja/play_vo_mon_jiexingsha_death.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_mon_jiexingsha_death",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 267563153,
+                "MediaPathName": "Media/ja/267563153.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "enemy\\branch_3,7\\jiexingsha\\ja_vo_mon_jiexingsha_death.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_mon_jiexingsha_death"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1719082483,
+            "LanguageName": "ko",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 1379021554,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1379021554,
+                "SoundBankPathName": "Event/ko/play_vo_mon_jiexingsha_death.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_mon_jiexingsha_death",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 950606251,
+                "MediaPathName": "Media/ko/950606251.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "enemy\\branch_3,7\\jiexingsha\\ko_vo_mon_jiexingsha_death.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_mon_jiexingsha_death"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1467418007,
+            "LanguageName": "zh",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsDefault"
+          },
+          "Value": {
+            "EventId": 1379021554,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1379021554,
+                "SoundBankPathName": "Event/zh/play_vo_mon_jiexingsha_death.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_mon_jiexingsha_death",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 585153937,
+                "MediaPathName": "Media/zh/585153937.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "enemy\\branch_3,7\\jiexingsha\\zh_vo_mon_jiexingsha_death.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_mon_jiexingsha_death"
+          }
+        }
+      ],
+      "DebugName": "play_vo_mon_jiexingsha_death",
+      "EventId": 1379021554
+    },
+    "MaximumDuration": 4.7018957,
+    "MinimumDuration": 3.5713959,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 2000.0
+  }
+]

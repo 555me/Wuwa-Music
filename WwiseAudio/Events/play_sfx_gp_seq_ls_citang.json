@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_seq_ls_citang",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_seq_ls_citang",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3497566740,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3497566740,
+                "SoundBankPathName": "Event/play_sfx_gp_seq_ls_citang.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_seq_ls_citang",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 602132564,
+                "MediaPathName": "Media/602132564.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\gameplay\\3_7\\3_7_gp_LA\\L1RedPoi\\sfx_gp_seq_LS_Citang.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_seq_ls_citang"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_seq_ls_citang",
+      "EventId": 3497566740
+    },
+    "MaximumDuration": 11.94083,
+    "MinimumDuration": 11.94083,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

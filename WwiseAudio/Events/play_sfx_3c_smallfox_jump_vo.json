@@ -1,0 +1,88 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_3c_smallfox_jump_vo",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_3c_smallfox_jump_vo",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2043845316,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2043845316,
+                "SoundBankPathName": "Event/play_sfx_3c_smallfox_jump_vo.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_3c_smallfox_jump_vo",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 98503756,
+                "MediaPathName": "Media/98503756.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\gameplay\\3_7\\3_7_gp_LA\\3c_smallfox\\SFX_3C_SmallFox_jump_vo-008.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 487605712,
+                "MediaPathName": "Media/487605712.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\gameplay\\3_7\\3_7_gp_LA\\3c_smallfox\\SFX_3C_SmallFox_Land_Call_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 519137887,
+                "MediaPathName": "Media/519137887.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\gameplay\\3_7\\3_7_gp_LA\\3c_smallfox\\SFX_3C_SmallFox_Land_Call_05.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 551052165,
+                "MediaPathName": "Media/551052165.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\gameplay\\3_7\\3_7_gp_LA\\3c_smallfox\\SFX_3C_SmallFox_Land_Call_07.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_3c_smallfox_jump_vo"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_3c_smallfox_jump_vo",
+      "EventId": 2043845316
+    },
+    "MaximumDuration": 0.6985008,
+    "MinimumDuration": 0.0,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

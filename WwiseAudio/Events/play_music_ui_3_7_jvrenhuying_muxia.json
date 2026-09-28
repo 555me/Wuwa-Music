@@ -1,0 +1,68 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_music_ui_3_7_jvrenhuying_muxia",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_music_ui_3_7_jvrenhuying_muxia",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3472391369,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3472391369,
+                "SoundBankPathName": "Event/play_music_ui_3_7_jvrenhuying_muxia.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_music_ui_3_7_jvrenhuying_muxia",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 428452003,
+                "MediaPathName": "Media/428452003.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_ui\\3_7\\bgm-ui_3_7_jvrenhuying_muxia-all-full-null-null.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 451118647,
+                "MediaPathName": "Media/451118647.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,7\\giantsystem\\ui_giantsystem_button_click.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_music_ui_3_7_jvrenhuying_muxia"
+          }
+        }
+      ],
+      "DebugName": "play_music_ui_3_7_jvrenhuying_muxia",
+      "EventId": 3472391369
+    },
+    "MaximumDuration": 8.0,
+    "MinimumDuration": 8.0,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

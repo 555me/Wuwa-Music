@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_ls_duotai1_hedeng",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_ls_duotai1_hedeng",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1385537499,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1385537499,
+                "SoundBankPathName": "Event/play_sfx_gp_ls_duotai1_hedeng.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_ls_duotai1_hedeng",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 195430667,
+                "MediaPathName": "Media/195430667.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\gameplay\\3_7\\3_7_gp_qxy\\sfx_gp_LS_Duotai1_Hedeng.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_ls_duotai1_hedeng"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_ls_duotai1_hedeng",
+      "EventId": 1385537499
+    },
+    "MaximumDuration": 31.8,
+    "MinimumDuration": 31.8,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

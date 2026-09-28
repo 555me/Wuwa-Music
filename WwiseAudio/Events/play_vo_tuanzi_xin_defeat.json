@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_tuanzi_xin_defeat",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_tuanzi_xin_defeat",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 313595213,
+            "SoundBanks": [
+              {
+                "SoundBankId": 313595213,
+                "SoundBankPathName": "Event/play_vo_tuanzi_xin_defeat.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_tuanzi_xin_defeat",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 428500580,
+                "MediaPathName": "Media/428500580.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "branch_3,7\\tuanzi_voice_sound\\xin\\vo_tuanzi_xin_hurt_short_01.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_tuanzi_xin_defeat"
+          }
+        }
+      ],
+      "DebugName": "play_vo_tuanzi_xin_defeat",
+      "EventId": 313595213
+    },
+    "MaximumDuration": 2.1153598,
+    "MinimumDuration": 2.1153598,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

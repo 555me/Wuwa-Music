@@ -1,0 +1,78 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_muxia_zengsheng_yushi_block_break_small",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_muxia_zengsheng_yushi_block_break_small",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2603125029,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2603125029,
+                "SoundBankPathName": "Event/play_sfx_gp_muxia_zengsheng_yushi_block_break_small.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_muxia_zengsheng_yushi_block_break_small",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 236748151,
+                "MediaPathName": "Media/236748151.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\gameplay\\3_7\\sfx_gp_muxia_zengsheng_yushi_block_break_small_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 639053393,
+                "MediaPathName": "Media/639053393.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\gameplay\\3_7\\sfx_gp_muxia_zengsheng_yushi_block_break_small_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 864743202,
+                "MediaPathName": "Media/864743202.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\gameplay\\3_7\\sfx_gp_muxia_zengsheng_yushi_block_break_small_03.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_muxia_zengsheng_yushi_block_break_small"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_muxia_zengsheng_yushi_block_break_small",
+      "EventId": 2603125029
+    },
+    "MaximumDuration": 1.8577708,
+    "MinimumDuration": 1.460875,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 3000.0
+  }
+]

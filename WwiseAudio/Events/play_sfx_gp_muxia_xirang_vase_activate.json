@@ -1,0 +1,78 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_muxia_xirang_vase_activate",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_muxia_xirang_vase_activate",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1280472358,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1280472358,
+                "SoundBankPathName": "Event/play_sfx_gp_muxia_xirang_vase_activate.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_muxia_xirang_vase_activate",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 417788706,
+                "MediaPathName": "Media/417788706.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\gameplay\\3_7\\sfx_gp_muxia_xirang_vase_activate_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 453108239,
+                "MediaPathName": "Media/453108239.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\gameplay\\3_7\\sfx_gp_muxia_xirang_vase_activate_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 488244372,
+                "MediaPathName": "Media/488244372.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\gameplay\\3_7\\sfx_gp_muxia_xirang_vase_activate_03.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_muxia_xirang_vase_activate"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_muxia_xirang_vase_activate",
+      "EventId": 1280472358
+    },
+    "MaximumDuration": 1.0,
+    "MinimumDuration": 1.0,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 3000.0
+  }
+]

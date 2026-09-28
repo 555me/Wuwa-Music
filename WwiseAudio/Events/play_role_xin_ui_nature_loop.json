@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_role_xin_ui_nature_loop",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_role_xin_ui_nature_loop",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 4041353112,
+            "SoundBanks": [
+              {
+                "SoundBankId": 4041353112,
+                "SoundBankPathName": "Event/play_role_xin_ui_nature_loop.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_role_xin_ui_nature_loop",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 831340320,
+                "MediaPathName": "Media/831340320.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "role\\role_bat_Xin\\ui\\role_Xin_ui_nature_loop.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_role_xin_ui_nature_loop"
+          }
+        }
+      ],
+      "DebugName": "play_role_xin_ui_nature_loop",
+      "EventId": 4041353112
+    },
+    "MaximumDuration": 18.574917,
+    "MinimumDuration": 18.574917,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

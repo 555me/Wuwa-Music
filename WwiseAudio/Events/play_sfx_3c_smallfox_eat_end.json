@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_3c_smallfox_eat_end",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_3c_smallfox_eat_end",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 824700350,
+            "SoundBanks": [
+              {
+                "SoundBankId": 824700350,
+                "SoundBankPathName": "Event/play_sfx_3c_smallfox_eat_end.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_3c_smallfox_eat_end",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 145133691,
+                "MediaPathName": "Media/145133691.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\gameplay\\3_7\\3_7_gp_LA\\3c_smallfox\\SFX_3C_SmallFox_Eat_End.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_3c_smallfox_eat_end"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_3c_smallfox_eat_end",
+      "EventId": 824700350
+    },
+    "MaximumDuration": 1.1323117,
+    "MinimumDuration": 1.1323117,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

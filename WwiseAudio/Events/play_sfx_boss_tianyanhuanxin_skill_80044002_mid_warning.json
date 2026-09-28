@@ -1,0 +1,78 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_boss_tianyanhuanxin_skill_80044002_mid_warning",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_boss_tianyanhuanxin_skill_80044002_mid_warning",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2788075914,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2788075914,
+                "SoundBankPathName": "Event/play_sfx_boss_tianyanhuanxin_skill_80044002_mid_warning.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_boss_tianyanhuanxin_skill_80044002_mid_warning",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 352042994,
+                "MediaPathName": "Media/352042994.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\Enemy\\Boss\\TianYanHuanXin\\sfx_boss_tianyanhuanxin_skill_80044002_mid_warning_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 663064905,
+                "MediaPathName": "Media/663064905.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\Enemy\\Boss\\TianYanHuanXin\\sfx_boss_tianyanhuanxin_skill_80044002_mid_warning_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 849630935,
+                "MediaPathName": "Media/849630935.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\Enemy\\Boss\\TianYanHuanXin\\sfx_boss_tianyanhuanxin_skill_80044002_mid_warning_03.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_boss_tianyanhuanxin_skill_80044002_mid_warning"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_boss_tianyanhuanxin_skill_80044002_mid_warning",
+      "EventId": 2788075914
+    },
+    "MaximumDuration": 3.5692916,
+    "MinimumDuration": 3.5691667,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 10000.0
+  }
+]

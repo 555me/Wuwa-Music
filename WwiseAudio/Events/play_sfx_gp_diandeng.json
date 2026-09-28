@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_diandeng",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_diandeng",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 624420330,
+            "SoundBanks": [
+              {
+                "SoundBankId": 624420330,
+                "SoundBankPathName": "Event/play_sfx_gp_diandeng.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_diandeng",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 609678603,
+                "MediaPathName": "Media/609678603.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\gameplay\\3_7\\sfx_gp_diandeng.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_diandeng"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_diandeng",
+      "EventId": 624420330
+    },
+    "MaximumDuration": 14.755271,
+    "MinimumDuration": 14.755271,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

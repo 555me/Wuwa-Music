@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_seq_ls_3_7_yuedeng_0",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_seq_ls_3_7_yuedeng_0",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3323081458,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3323081458,
+                "SoundBankPathName": "Event/play_sfx_gp_seq_ls_3_7_yuedeng_0.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_seq_ls_3_7_yuedeng_0",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 1032206023,
+                "MediaPathName": "Media/1032206023.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\gameplay\\3_7\\3_7_gp_LA\\sfx_gp_seq_LS_3_7_Yuedeng_0.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_seq_ls_3_7_yuedeng_0"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_seq_ls_3_7_yuedeng_0",
+      "EventId": 3323081458
+    },
+    "MaximumDuration": 18.32575,
+    "MinimumDuration": 18.32575,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

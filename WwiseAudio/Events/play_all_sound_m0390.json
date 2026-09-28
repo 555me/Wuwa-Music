@@ -1,0 +1,283 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_all_sound_m0390",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_all_sound_m0390",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 1819748192,
+            "LanguageName": "en",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 4136509867,
+            "SoundBanks": [
+              {
+                "SoundBankId": 4136509867,
+                "SoundBankPathName": "Event/en/play_all_sound_m0390.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_all_sound_m0390",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 597843724,
+                "MediaPathName": "Media/597843724.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\Plot_LevelA\\3.7\\sfx_lva_m0390.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1057739943,
+                "MediaPathName": "Media/en/1057739943.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.7\\en_vo_story_m0390_mixed_m.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 416885912,
+                "MediaPathName": "Media/en/416885912.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.7\\en_vo_story_m0390_mixed_f.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [
+              {
+                "Type": "EWwiseGroupType::State",
+                "GroupId": -2027702672,
+                "Id": -16811705,
+                "DebugName": "boss_tianyansuxin_stage0390"
+              }
+            ],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_all_sound_m0390"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1735860046,
+            "LanguageName": "ja",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 4136509867,
+            "SoundBanks": [
+              {
+                "SoundBankId": 4136509867,
+                "SoundBankPathName": "Event/ja/play_all_sound_m0390.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_all_sound_m0390",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 597843724,
+                "MediaPathName": "Media/597843724.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\Plot_LevelA\\3.7\\sfx_lva_m0390.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 884175160,
+                "MediaPathName": "Media/ja/884175160.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.7\\ja_vo_story_m0390_mixed_m.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 761163557,
+                "MediaPathName": "Media/ja/761163557.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.7\\ja_vo_story_m0390_mixed_f.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [
+              {
+                "Type": "EWwiseGroupType::State",
+                "GroupId": -2027702672,
+                "Id": -16811705,
+                "DebugName": "boss_tianyansuxin_stage0390"
+              }
+            ],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_all_sound_m0390"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1719082483,
+            "LanguageName": "ko",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 4136509867,
+            "SoundBanks": [
+              {
+                "SoundBankId": 4136509867,
+                "SoundBankPathName": "Event/ko/play_all_sound_m0390.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_all_sound_m0390",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 597843724,
+                "MediaPathName": "Media/597843724.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\Plot_LevelA\\3.7\\sfx_lva_m0390.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 793964000,
+                "MediaPathName": "Media/ko/793964000.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.7\\ko_vo_story_m0390_mixed_m.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 544900484,
+                "MediaPathName": "Media/ko/544900484.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.7\\ko_vo_story_m0390_mixed_f.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [
+              {
+                "Type": "EWwiseGroupType::State",
+                "GroupId": -2027702672,
+                "Id": -16811705,
+                "DebugName": "boss_tianyansuxin_stage0390"
+              }
+            ],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_all_sound_m0390"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1467418007,
+            "LanguageName": "zh",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsDefault"
+          },
+          "Value": {
+            "EventId": 4136509867,
+            "SoundBanks": [
+              {
+                "SoundBankId": 4136509867,
+                "SoundBankPathName": "Event/zh/play_all_sound_m0390.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_all_sound_m0390",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 597843724,
+                "MediaPathName": "Media/597843724.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\Plot_LevelA\\3.7\\sfx_lva_m0390.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 40574269,
+                "MediaPathName": "Media/zh/40574269.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.7\\zh_vo_story_m0390_mixed_m.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 968828132,
+                "MediaPathName": "Media/zh/968828132.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.7\\zh_vo_story_m0390_mixed_f.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [
+              {
+                "Type": "EWwiseGroupType::State",
+                "GroupId": -2027702672,
+                "Id": -16811705,
+                "DebugName": "boss_tianyansuxin_stage0390"
+              }
+            ],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_all_sound_m0390"
+          }
+        }
+      ],
+      "DebugName": "play_all_sound_m0390",
+      "EventId": 4136509867
+    },
+    "MaximumDuration": 54.767,
+    "MinimumDuration": 54.767,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

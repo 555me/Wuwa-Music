@@ -1,0 +1,138 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_amb_emit_3_7_crowd_loud",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_amb_emit_3_7_crowd_loud",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1971007941,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1971007941,
+                "SoundBankPathName": "Event/play_amb_emit_3_7_crowd_loud.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_amb_emit_3_7_crowd_loud",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 175683255,
+                "MediaPathName": "Media/175683255.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.0\\3.0_amb_bed 城市\\室外_amb_bed_crowd_outdoor_close_Split_2.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 214791855,
+                "MediaPathName": "Media/214791855.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.0\\3.0_amb_bed 城市\\室外_amb_bed_crowd_outdoor_close_Split_5.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 292586981,
+                "MediaPathName": "Media/292586981.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.0\\3.0_amb_bed 城市\\室外_amb_bed_crowd_outdoor_close_Split_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 427690725,
+                "MediaPathName": "Media/427690725.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.0\\3.0_amb_bed 城市\\室外_amb_bed_crowd_outdoor_close_Split_3.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 437529826,
+                "MediaPathName": "Media/437529826.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.0\\学院人群bed3d\\人群层级_amb_bed3d_crowd_system_1_3.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 466722768,
+                "MediaPathName": "Media/466722768.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.0\\学院人群bed3d\\人群层级_amb_bed3d_crowd_system_1_1.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 580256816,
+                "MediaPathName": "Media/580256816.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.0\\3.0_amb_bed 城市\\室外_amb_bed_crowd_outdoor_close_Split_1.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 648519264,
+                "MediaPathName": "Media/648519264.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.0\\学院人群bed3d\\人群层级_amb_bed3d_crowd_system_1_2.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 741449062,
+                "MediaPathName": "Media/741449062.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\2.7\\amb_emit_children_seagull_loop.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_amb_emit_3_7_crowd_loud"
+          }
+        }
+      ],
+      "DebugName": "play_amb_emit_3_7_crowd_loud",
+      "EventId": 1971007941
+    },
+    "MaximumDuration": 0.0,
+    "MinimumDuration": 0.0,
+    "IsInfinite": true,
+    "MaxAttenuationRadius": 4000.0
+  }
+]

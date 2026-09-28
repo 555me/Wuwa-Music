@@ -1,0 +1,78 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_boss_tianyanhuanxin_skill_80044005_explo",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_boss_tianyanhuanxin_skill_80044005_explo",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1763724860,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1763724860,
+                "SoundBankPathName": "Event/play_sfx_boss_tianyanhuanxin_skill_80044005_explo.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_boss_tianyanhuanxin_skill_80044005_explo",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 129024755,
+                "MediaPathName": "Media/129024755.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\Enemy\\Boss\\TianYanHuanXin\\sfx_boss_tianyanhuanxin_skill_80044005_explo_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 872100251,
+                "MediaPathName": "Media/872100251.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\Enemy\\Boss\\TianYanHuanXin\\sfx_boss_tianyanhuanxin_skill_80044005_explo_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 912751305,
+                "MediaPathName": "Media/912751305.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\Enemy\\Boss\\TianYanHuanXin\\sfx_boss_tianyanhuanxin_skill_80044005_explo_02.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_boss_tianyanhuanxin_skill_80044005_explo"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_boss_tianyanhuanxin_skill_80044005_explo",
+      "EventId": 1763724860
+    },
+    "MaximumDuration": 2.874854,
+    "MinimumDuration": 2.3835833,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 10000.0
+  }
+]

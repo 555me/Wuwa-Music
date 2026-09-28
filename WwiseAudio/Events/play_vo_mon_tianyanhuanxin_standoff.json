@@ -1,0 +1,295 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_mon_tianyanhuanxin_standoff",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_mon_tianyanhuanxin_standoff",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 1819748192,
+            "LanguageName": "en",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 3433789442,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3433789442,
+                "SoundBankPathName": "Event/en/play_vo_mon_tianyanhuanxin_standoff.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_mon_tianyanhuanxin_standoff",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 103740264,
+                "MediaPathName": "Media/en/103740264.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "enemy\\branch_3,7\\tianyanhuanxin\\en_vo_mon_tianyanhuanxin_standoff_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 234374361,
+                "MediaPathName": "Media/en/234374361.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "enemy\\branch_3,7\\tianyanhuanxin\\en_vo_mon_tianyanhuanxin_standoff_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 235857023,
+                "MediaPathName": "Media/en/235857023.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "enemy\\branch_3,7\\tianyanhuanxin\\en_vo_mon_tianyanhuanxin_standoff_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1037328782,
+                "MediaPathName": "Media/en/1037328782.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "enemy\\branch_3,7\\tianyanhuanxin\\en_vo_mon_tianyanhuanxin_standoff_04.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_mon_tianyanhuanxin_standoff"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1735860046,
+            "LanguageName": "ja",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 3433789442,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3433789442,
+                "SoundBankPathName": "Event/ja/play_vo_mon_tianyanhuanxin_standoff.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_mon_tianyanhuanxin_standoff",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 54827360,
+                "MediaPathName": "Media/ja/54827360.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "enemy\\branch_3,7\\tianyanhuanxin\\ja_vo_mon_tianyanhuanxin_standoff_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 357768599,
+                "MediaPathName": "Media/ja/357768599.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "enemy\\branch_3,7\\tianyanhuanxin\\ja_vo_mon_tianyanhuanxin_standoff_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 457881344,
+                "MediaPathName": "Media/ja/457881344.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "enemy\\branch_3,7\\tianyanhuanxin\\ja_vo_mon_tianyanhuanxin_standoff_04.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 512883925,
+                "MediaPathName": "Media/ja/512883925.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "enemy\\branch_3,7\\tianyanhuanxin\\ja_vo_mon_tianyanhuanxin_standoff_02.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_mon_tianyanhuanxin_standoff"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1719082483,
+            "LanguageName": "ko",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 3433789442,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3433789442,
+                "SoundBankPathName": "Event/ko/play_vo_mon_tianyanhuanxin_standoff.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_mon_tianyanhuanxin_standoff",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 307679405,
+                "MediaPathName": "Media/ko/307679405.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "enemy\\branch_3,7\\tianyanhuanxin\\ko_vo_mon_tianyanhuanxin_standoff_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 310643342,
+                "MediaPathName": "Media/ko/310643342.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "enemy\\branch_3,7\\tianyanhuanxin\\ko_vo_mon_tianyanhuanxin_standoff_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 553066945,
+                "MediaPathName": "Media/ko/553066945.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "enemy\\branch_3,7\\tianyanhuanxin\\ko_vo_mon_tianyanhuanxin_standoff_04.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 839242639,
+                "MediaPathName": "Media/ko/839242639.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "enemy\\branch_3,7\\tianyanhuanxin\\ko_vo_mon_tianyanhuanxin_standoff_01.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_mon_tianyanhuanxin_standoff"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1467418007,
+            "LanguageName": "zh",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsDefault"
+          },
+          "Value": {
+            "EventId": 3433789442,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3433789442,
+                "SoundBankPathName": "Event/zh/play_vo_mon_tianyanhuanxin_standoff.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_mon_tianyanhuanxin_standoff",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 381022532,
+                "MediaPathName": "Media/zh/381022532.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "enemy\\branch_3,7\\tianyanhuanxin\\zh_vo_mon_tianyanhuanxin_standoff_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 600944875,
+                "MediaPathName": "Media/zh/600944875.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "enemy\\branch_3,7\\tianyanhuanxin\\zh_vo_mon_tianyanhuanxin_standoff_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 829868835,
+                "MediaPathName": "Media/zh/829868835.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "enemy\\branch_3,7\\tianyanhuanxin\\zh_vo_mon_tianyanhuanxin_standoff_04.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 894087276,
+                "MediaPathName": "Media/zh/894087276.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "enemy\\branch_3,7\\tianyanhuanxin\\zh_vo_mon_tianyanhuanxin_standoff_02.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_mon_tianyanhuanxin_standoff"
+          }
+        }
+      ],
+      "DebugName": "play_vo_mon_tianyanhuanxin_standoff",
+      "EventId": 3433789442
+    },
+    "MaximumDuration": 7.129646,
+    "MinimumDuration": 2.660375,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 7000.0
+  }
+]

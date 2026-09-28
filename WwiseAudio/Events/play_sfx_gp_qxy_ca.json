@@ -1,0 +1,78 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_qxy_ca",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_qxy_ca",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3217620405,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3217620405,
+                "SoundBankPathName": "Event/play_sfx_gp_qxy_ca.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_qxy_ca",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 17010725,
+                "MediaPathName": "Media/17010725.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\gameplay\\3_7\\3_7_gp_qxy\\sfx_gp_qxy_ca_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 283424545,
+                "MediaPathName": "Media/283424545.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\gameplay\\3_7\\3_7_gp_qxy\\sfx_gp_qxy_ca_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 544735519,
+                "MediaPathName": "Media/544735519.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\gameplay\\3_7\\3_7_gp_qxy\\sfx_gp_qxy_ca_01.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_qxy_ca"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_qxy_ca",
+      "EventId": 3217620405
+    },
+    "MaximumDuration": 5.0,
+    "MinimumDuration": 5.0,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

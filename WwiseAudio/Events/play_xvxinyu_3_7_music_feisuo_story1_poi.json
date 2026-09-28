@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_xvxinyu_3_7_music_feisuo_story1_poi",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_xvxinyu_3_7_music_feisuo_story1_poi",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1229867593,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1229867593,
+                "SoundBankPathName": "Event/play_xvxinyu_3_7_music_feisuo_story1_poi.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_xvxinyu_3_7_music_feisuo_story1_poi",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 606379407,
+                "MediaPathName": "Media/606379407.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_dungeon\\3_7_dungeon\\poi\\bgm-story_plot_xvxinyu_poi-all-full-90bpm-6_8.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_xvxinyu_3_7_music_feisuo_story1_poi"
+          }
+        }
+      ],
+      "DebugName": "play_xvxinyu_3_7_music_feisuo_story1_poi",
+      "EventId": 1229867593
+    },
+    "MaximumDuration": 0.0,
+    "MinimumDuration": 0.0,
+    "IsInfinite": true,
+    "MaxAttenuationRadius": 0.0
+  }
+]

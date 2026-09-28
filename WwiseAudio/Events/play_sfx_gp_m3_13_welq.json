@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_m3_13_welq",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_m3_13_welq",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2263437965,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2263437965,
+                "SoundBankPathName": "Event/play_sfx_gp_m3_13_welq.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_m3_13_welq",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 855521246,
+                "MediaPathName": "Media/855521246.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\gameplay\\3_7\\sfx_gp_m3_13_welq.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_m3_13_welq"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_m3_13_welq",
+      "EventId": 2263437965
+    },
+    "MaximumDuration": 54.63993,
+    "MinimumDuration": 54.63993,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

@@ -1,0 +1,108 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_amb_emit_3_7_gear_indoor",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_amb_emit_3_7_gear_indoor",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3351746696,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3351746696,
+                "SoundBankPathName": "Event/play_amb_emit_3_7_gear_indoor.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_amb_emit_3_7_gear_indoor",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 5248581,
+                "MediaPathName": "Media/5248581.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\3.7\\amb_emit_3_7_gear_reverb_04.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 467690565,
+                "MediaPathName": "Media/467690565.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\3.7\\amb_emit_3_7_gear_reverb_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 528490061,
+                "MediaPathName": "Media/528490061.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\3.7\\play_amb_emit_3_7_gear_huge.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 567153575,
+                "MediaPathName": "Media/567153575.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\3.7\\amb_emit_3_7_gear_reverb_06.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 636275928,
+                "MediaPathName": "Media/636275928.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\3.7\\amb_emit_3_7_gear_reverb_07.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 962194152,
+                "MediaPathName": "Media/962194152.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\3.7\\amb_emit_3_7_gear_reverb_01.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_amb_emit_3_7_gear_indoor"
+          }
+        }
+      ],
+      "DebugName": "play_amb_emit_3_7_gear_indoor",
+      "EventId": 3351746696
+    },
+    "MaximumDuration": 0.0,
+    "MinimumDuration": 0.0,
+    "IsInfinite": true,
+    "MaxAttenuationRadius": 1500.0
+  }
+]

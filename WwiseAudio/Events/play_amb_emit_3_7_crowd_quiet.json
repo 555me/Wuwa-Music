@@ -1,0 +1,88 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_amb_emit_3_7_crowd_quiet",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_amb_emit_3_7_crowd_quiet",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 421807523,
+            "SoundBanks": [
+              {
+                "SoundBankId": 421807523,
+                "SoundBankPathName": "Event/play_amb_emit_3_7_crowd_quiet.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_amb_emit_3_7_crowd_quiet",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 411172863,
+                "MediaPathName": "Media/411172863.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_modular\\3.1\\amb_emit_crowd_quiet_os\\amb_emit_crowd_quiet_os_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 539261781,
+                "MediaPathName": "Media/539261781.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_modular\\3.1\\amb_emit_crowd_quiet_os\\amb_emit_crowd_quiet_os_3.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1006163554,
+                "MediaPathName": "Media/1006163554.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_modular\\3.1\\amb_emit_crowd_quiet_os\\amb_emit_crowd_quiet_os_2.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1029788654,
+                "MediaPathName": "Media/1029788654.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_modular\\3.1\\amb_emit_crowd_quiet_os\\amb_emit_crowd_quiet_os_1.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_amb_emit_3_7_crowd_quiet"
+          }
+        }
+      ],
+      "DebugName": "play_amb_emit_3_7_crowd_quiet",
+      "EventId": 421807523
+    },
+    "MaximumDuration": 0.0,
+    "MinimumDuration": 0.0,
+    "IsInfinite": true,
+    "MaxAttenuationRadius": 3000.0
+  }
+]

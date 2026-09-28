@@ -1,0 +1,78 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_sphere_water_hxjh",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_sphere_water_hxjh",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3163050290,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3163050290,
+                "SoundBankPathName": "Event/play_sfx_gp_sphere_water_hxjh.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_sphere_water_hxjh",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 46772770,
+                "MediaPathName": "Media/46772770.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\gameplay\\3_7\\3_7_gp_xiazi\\sfx_gp_sphere_water_hxjh_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 528267221,
+                "MediaPathName": "Media/528267221.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\gameplay\\3_7\\3_7_gp_xiazi\\sfx_gp_sphere_water_hxjh_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 592991122,
+                "MediaPathName": "Media/592991122.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\gameplay\\3_7\\3_7_gp_xiazi\\sfx_gp_sphere_water_hxjh_03.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_sphere_water_hxjh"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_sphere_water_hxjh",
+      "EventId": 3163050290
+    },
+    "MaximumDuration": 3.9006457,
+    "MinimumDuration": 3.6466558,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

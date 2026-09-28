@@ -1,0 +1,105 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_xvxinyu_3_7_music_feisuo",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_xvxinyu_3_7_music_feisuo",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1741298505,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1741298505,
+                "SoundBankPathName": "Event/play_xvxinyu_3_7_music_feisuo.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_xvxinyu_3_7_music_feisuo",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 362505110,
+                "MediaPathName": "Media/362505110.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_dungeon\\3_7_dungeon\\poi\\bgm-function_3_7_xvxinyu_feisuo_rtpc-all-full-90bpm-6_8.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 620174716,
+                "MediaPathName": "Media/620174716.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_dungeon\\3_7_dungeon\\poi\\bgm-function_3_7_xvxinyu_feisuo-all-full-90bpm-6_8.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 101952194,
+                "MediaPathName": "Media/101952194.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music\\music_scene\\silence_5s.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 528496172,
+                "MediaPathName": "Media/528496172.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_dungeon\\3_7_dungeon\\poi\\bgm-function_3_7_xvxinyu_feisuo_02-all-full-90bpm-6_8.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 835232963,
+                "MediaPathName": "Media/835232963.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_dungeon\\3_7_dungeon\\poi\\bgm-story_video_p0062-all-full-78bpm-4_4.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [
+              {
+                "Type": "EWwiseGroupType::State",
+                "GroupId": 1158570815,
+                "Id": 748895195,
+                "DebugName": "None"
+              }
+            ],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_xvxinyu_3_7_music_feisuo"
+          }
+        }
+      ],
+      "DebugName": "play_xvxinyu_3_7_music_feisuo",
+      "EventId": 1741298505
+    },
+    "MaximumDuration": 0.0,
+    "MinimumDuration": 0.0,
+    "IsInfinite": true,
+    "MaxAttenuationRadius": 0.0
+  }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_muxia_zengsheng_yushi_block_proliferate_large",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_muxia_zengsheng_yushi_block_proliferate_large",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1267633057,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1267633057,
+                "SoundBankPathName": "Event/play_sfx_gp_muxia_zengsheng_yushi_block_proliferate_large.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_muxia_zengsheng_yushi_block_proliferate_large",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 108953241,
+                "MediaPathName": "Media/108953241.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\gameplay\\3_7\\sfx_gp_muxia_zengsheng_yushi_block_proliferate_large_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 172744670,
+                "MediaPathName": "Media/172744670.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\gameplay\\3_7\\sfx_gp_muxia_zengsheng_yushi_block_proliferate_large_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1066128393,
+                "MediaPathName": "Media/1066128393.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\gameplay\\3_7\\sfx_gp_muxia_zengsheng_yushi_block_proliferate_large_02.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_muxia_zengsheng_yushi_block_proliferate_large"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_muxia_zengsheng_yushi_block_proliferate_large",
+      "EventId": 1267633057
+    },
+    "MaximumDuration": 1.9033333,
+    "MinimumDuration": 1.6649584,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 3000.0
+  }
+]

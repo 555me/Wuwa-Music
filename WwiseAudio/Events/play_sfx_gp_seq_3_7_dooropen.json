@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_seq_3_7_dooropen",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_seq_3_7_dooropen",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3087621822,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3087621822,
+                "SoundBankPathName": "Event/play_sfx_gp_seq_3_7_dooropen.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_seq_3_7_dooropen",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 850830087,
+                "MediaPathName": "Media/850830087.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\gameplay\\3_7\\3_7_gp_LA\\sfx_gp_seq_3_7_DoorOpen.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_seq_3_7_dooropen"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_seq_3_7_dooropen",
+      "EventId": 3087621822
+    },
+    "MaximumDuration": 8.235562,
+    "MinimumDuration": 8.235562,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 10000.0
+  }
+]

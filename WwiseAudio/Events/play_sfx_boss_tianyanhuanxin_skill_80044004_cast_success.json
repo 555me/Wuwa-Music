@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_boss_tianyanhuanxin_skill_80044004_cast_success",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_boss_tianyanhuanxin_skill_80044004_cast_success",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3482605956,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3482605956,
+                "SoundBankPathName": "Event/play_sfx_boss_tianyanhuanxin_skill_80044004_cast_success.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_boss_tianyanhuanxin_skill_80044004_cast_success",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 133562088,
+                "MediaPathName": "Media/133562088.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\Enemy\\Boss\\TianYanHuanXin\\sfx_boss_tianyanhuanxin_skill_80044004_cast_success.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_boss_tianyanhuanxin_skill_80044004_cast_success"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_boss_tianyanhuanxin_skill_80044004_cast_success",
+      "EventId": 3482605956
+    },
+    "MaximumDuration": 4.5146875,
+    "MinimumDuration": 4.5146875,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

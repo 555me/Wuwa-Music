@@ -1,0 +1,88 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_favor_word_xin_sys_about_xuanqing",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_favor_word_xin_sys_about_xuanqing",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 833969015,
+            "SoundBanks": [
+              {
+                "SoundBankId": 833969015,
+                "SoundBankPathName": "Event/play_favor_word_xin_sys_about_xuanqing.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_favor_word_xin_sys_about_xuanqing",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 852152692,
+                "MediaPathName": "Media/852152692.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\en\\role\\branch_3,7\\xin\\en_vo_xin_sys_about_xuanqing_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 549648244,
+                "MediaPathName": "Media/549648244.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\ko\\role\\branch_3,7\\xin\\ko_vo_xin_sys_about_xuanqing_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 582079032,
+                "MediaPathName": "Media/582079032.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\zh\\role\\branch_3,7\\xin\\zh_vo_xin_sys_about_xuanqing_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 394361082,
+                "MediaPathName": "Media/394361082.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\ja\\role\\branch_3,7\\xin\\ja_vo_xin_sys_about_xuanqing_word.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_favor_word_xin_sys_about_xuanqing"
+          }
+        }
+      ],
+      "DebugName": "play_favor_word_xin_sys_about_xuanqing",
+      "EventId": 833969015
+    },
+    "MaximumDuration": 37.41556,
+    "MinimumDuration": 23.456291,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

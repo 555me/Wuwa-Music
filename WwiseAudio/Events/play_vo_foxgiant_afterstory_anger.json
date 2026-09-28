@@ -1,0 +1,215 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_foxgiant_afterstory_anger",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_foxgiant_afterstory_anger",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 1819748192,
+            "LanguageName": "en",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 3057377014,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3057377014,
+                "SoundBankPathName": "Event/en/play_vo_foxgiant_afterstory_anger.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_foxgiant_afterstory_anger",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 315395137,
+                "MediaPathName": "Media/en/315395137.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.7\\vo_foxgiant\\afterstory\\en_vo_foxgiant_afterstory_anger_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 859334108,
+                "MediaPathName": "Media/en/859334108.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.7\\vo_foxgiant\\afterstory\\en_vo_foxgiant_afterstory_anger_02.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_foxgiant_afterstory_anger"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1735860046,
+            "LanguageName": "ja",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 3057377014,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3057377014,
+                "SoundBankPathName": "Event/ja/play_vo_foxgiant_afterstory_anger.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_foxgiant_afterstory_anger",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 155623706,
+                "MediaPathName": "Media/ja/155623706.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.7\\vo_foxgiant\\afterstory\\ja_vo_foxgiant_afterstory_anger_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 172629182,
+                "MediaPathName": "Media/ja/172629182.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.7\\vo_foxgiant\\afterstory\\ja_vo_foxgiant_afterstory_anger_01.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_foxgiant_afterstory_anger"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1719082483,
+            "LanguageName": "ko",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 3057377014,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3057377014,
+                "SoundBankPathName": "Event/ko/play_vo_foxgiant_afterstory_anger.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_foxgiant_afterstory_anger",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 111835341,
+                "MediaPathName": "Media/ko/111835341.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.7\\vo_foxgiant\\afterstory\\ko_vo_foxgiant_afterstory_anger_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 394783744,
+                "MediaPathName": "Media/ko/394783744.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.7\\vo_foxgiant\\afterstory\\ko_vo_foxgiant_afterstory_anger_01.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_foxgiant_afterstory_anger"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1467418007,
+            "LanguageName": "zh",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsDefault"
+          },
+          "Value": {
+            "EventId": 3057377014,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3057377014,
+                "SoundBankPathName": "Event/zh/play_vo_foxgiant_afterstory_anger.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_foxgiant_afterstory_anger",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 421612270,
+                "MediaPathName": "Media/zh/421612270.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.7\\vo_foxgiant\\afterstory\\zh_vo_foxgiant_afterstory_anger_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 696582827,
+                "MediaPathName": "Media/zh/696582827.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.7\\vo_foxgiant\\afterstory\\zh_vo_foxgiant_afterstory_anger_01.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_foxgiant_afterstory_anger"
+          }
+        }
+      ],
+      "DebugName": "play_vo_foxgiant_afterstory_anger",
+      "EventId": 3057377014
+    },
+    "MaximumDuration": 3.5365624,
+    "MinimumDuration": 2.847,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

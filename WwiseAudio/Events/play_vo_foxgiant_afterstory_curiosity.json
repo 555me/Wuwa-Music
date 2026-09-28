@@ -1,0 +1,215 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_foxgiant_afterstory_curiosity",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_foxgiant_afterstory_curiosity",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 1819748192,
+            "LanguageName": "en",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 2187289468,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2187289468,
+                "SoundBankPathName": "Event/en/play_vo_foxgiant_afterstory_curiosity.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_foxgiant_afterstory_curiosity",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 679515326,
+                "MediaPathName": "Media/en/679515326.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.7\\vo_foxgiant\\afterstory\\en_vo_foxgiant_afterstory_curiosity_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 894158219,
+                "MediaPathName": "Media/en/894158219.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.7\\vo_foxgiant\\afterstory\\en_vo_foxgiant_afterstory_curiosity_02.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_foxgiant_afterstory_curiosity"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1735860046,
+            "LanguageName": "ja",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 2187289468,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2187289468,
+                "SoundBankPathName": "Event/ja/play_vo_foxgiant_afterstory_curiosity.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_foxgiant_afterstory_curiosity",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 436610058,
+                "MediaPathName": "Media/ja/436610058.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.7\\vo_foxgiant\\afterstory\\ja_vo_foxgiant_afterstory_curiosity_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1033837924,
+                "MediaPathName": "Media/ja/1033837924.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.7\\vo_foxgiant\\afterstory\\ja_vo_foxgiant_afterstory_curiosity_01.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_foxgiant_afterstory_curiosity"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1719082483,
+            "LanguageName": "ko",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 2187289468,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2187289468,
+                "SoundBankPathName": "Event/ko/play_vo_foxgiant_afterstory_curiosity.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_foxgiant_afterstory_curiosity",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 696738246,
+                "MediaPathName": "Media/ko/696738246.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.7\\vo_foxgiant\\afterstory\\ko_vo_foxgiant_afterstory_curiosity_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 761264064,
+                "MediaPathName": "Media/ko/761264064.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.7\\vo_foxgiant\\afterstory\\ko_vo_foxgiant_afterstory_curiosity_02.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_foxgiant_afterstory_curiosity"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1467418007,
+            "LanguageName": "zh",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsDefault"
+          },
+          "Value": {
+            "EventId": 2187289468,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2187289468,
+                "SoundBankPathName": "Event/zh/play_vo_foxgiant_afterstory_curiosity.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_foxgiant_afterstory_curiosity",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 271555930,
+                "MediaPathName": "Media/zh/271555930.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.7\\vo_foxgiant\\afterstory\\zh_vo_foxgiant_afterstory_curiosity_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 300627727,
+                "MediaPathName": "Media/zh/300627727.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.7\\vo_foxgiant\\afterstory\\zh_vo_foxgiant_afterstory_curiosity_02.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_foxgiant_afterstory_curiosity"
+          }
+        }
+      ],
+      "DebugName": "play_vo_foxgiant_afterstory_curiosity",
+      "EventId": 2187289468
+    },
+    "MaximumDuration": 3.4683332,
+    "MinimumDuration": 3.2086458,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

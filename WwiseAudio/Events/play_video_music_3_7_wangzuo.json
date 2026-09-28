@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_video_music_3_7_wangzuo",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_video_music_3_7_wangzuo",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 4102438063,
+            "SoundBanks": [
+              {
+                "SoundBankId": 4102438063,
+                "SoundBankPathName": "Event/play_video_music_3_7_wangzuo.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_video_music_3_7_wangzuo",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 923506507,
+                "MediaPathName": "Media/923506507.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_ui\\3_7\\bgm-function_3_7_wangzuo_video-all-full-null-null.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_video_music_3_7_wangzuo"
+          }
+        }
+      ],
+      "DebugName": "play_video_music_3_7_wangzuo",
+      "EventId": 4102438063
+    },
+    "MaximumDuration": 10.266666,
+    "MinimumDuration": 10.266666,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

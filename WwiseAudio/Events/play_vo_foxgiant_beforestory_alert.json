@@ -1,0 +1,215 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_foxgiant_beforestory_alert",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_foxgiant_beforestory_alert",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 1819748192,
+            "LanguageName": "en",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 1611472106,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1611472106,
+                "SoundBankPathName": "Event/en/play_vo_foxgiant_beforestory_alert.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_foxgiant_beforestory_alert",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 687201246,
+                "MediaPathName": "Media/en/687201246.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.7\\vo_foxgiant\\beforestory\\en_vo_foxgiant_beforestory_alert_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 996053771,
+                "MediaPathName": "Media/en/996053771.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.7\\vo_foxgiant\\beforestory\\en_vo_foxgiant_beforestory_alert_02.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_foxgiant_beforestory_alert"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1735860046,
+            "LanguageName": "ja",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 1611472106,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1611472106,
+                "SoundBankPathName": "Event/ja/play_vo_foxgiant_beforestory_alert.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_foxgiant_beforestory_alert",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 98157590,
+                "MediaPathName": "Media/ja/98157590.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.7\\vo_foxgiant\\beforestory\\ja_vo_foxgiant_beforestory_alert_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 348671313,
+                "MediaPathName": "Media/ja/348671313.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.7\\vo_foxgiant\\beforestory\\ja_vo_foxgiant_beforestory_alert_02.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_foxgiant_beforestory_alert"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1719082483,
+            "LanguageName": "ko",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 1611472106,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1611472106,
+                "SoundBankPathName": "Event/ko/play_vo_foxgiant_beforestory_alert.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_foxgiant_beforestory_alert",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 543911499,
+                "MediaPathName": "Media/ko/543911499.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.7\\vo_foxgiant\\beforestory\\ko_vo_foxgiant_beforestory_alert_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1003684843,
+                "MediaPathName": "Media/ko/1003684843.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.7\\vo_foxgiant\\beforestory\\ko_vo_foxgiant_beforestory_alert_02.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_foxgiant_beforestory_alert"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1467418007,
+            "LanguageName": "zh",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsDefault"
+          },
+          "Value": {
+            "EventId": 1611472106,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1611472106,
+                "SoundBankPathName": "Event/zh/play_vo_foxgiant_beforestory_alert.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_foxgiant_beforestory_alert",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 26605312,
+                "MediaPathName": "Media/zh/26605312.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.7\\vo_foxgiant\\beforestory\\zh_vo_foxgiant_beforestory_alert_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 714536477,
+                "MediaPathName": "Media/zh/714536477.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.7\\vo_foxgiant\\beforestory\\zh_vo_foxgiant_beforestory_alert_01.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_foxgiant_beforestory_alert"
+          }
+        }
+      ],
+      "DebugName": "play_vo_foxgiant_beforestory_alert",
+      "EventId": 1611472106
+    },
+    "MaximumDuration": 3.1195416,
+    "MinimumDuration": 2.8260624,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

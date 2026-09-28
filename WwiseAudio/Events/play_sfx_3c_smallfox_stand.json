@@ -1,0 +1,88 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_3c_smallfox_stand",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_3c_smallfox_stand",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1713578418,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1713578418,
+                "SoundBankPathName": "Event/play_sfx_3c_smallfox_stand.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_3c_smallfox_stand",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 191861227,
+                "MediaPathName": "Media/191861227.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\gameplay\\3_7\\3_7_gp_LA\\3c_smallfox\\SFX_3C_SmallFox_Stand_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 850822169,
+                "MediaPathName": "Media/850822169.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\gameplay\\3_7\\3_7_gp_LA\\3c_smallfox\\SFX_3C_SmallFox_Stand_04.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 927290216,
+                "MediaPathName": "Media/927290216.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\gameplay\\3_7\\3_7_gp_LA\\3c_smallfox\\SFX_3C_SmallFox_Stand_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1025341811,
+                "MediaPathName": "Media/1025341811.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\gameplay\\3_7\\3_7_gp_LA\\3c_smallfox\\SFX_3C_SmallFox_Stand_01.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_3c_smallfox_stand"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_3c_smallfox_stand",
+      "EventId": 1713578418
+    },
+    "MaximumDuration": 2.0018542,
+    "MinimumDuration": 1.0,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

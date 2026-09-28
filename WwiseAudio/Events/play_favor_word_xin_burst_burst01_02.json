@@ -1,0 +1,88 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_favor_word_xin_burst_burst01_02",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_favor_word_xin_burst_burst01_02",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 612864289,
+            "SoundBanks": [
+              {
+                "SoundBankId": 612864289,
+                "SoundBankPathName": "Event/play_favor_word_xin_burst_burst01_02.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_favor_word_xin_burst_burst01_02",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 3108512,
+                "MediaPathName": "Media/3108512.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\en\\role\\branch_3,7\\xin\\en_vo_xin_burst_burst01_02_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 13667306,
+                "MediaPathName": "Media/13667306.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\ko\\role\\branch_3,7\\xin\\ko_vo_xin_burst_burst01_02_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 185617422,
+                "MediaPathName": "Media/185617422.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\zh\\role\\branch_3,7\\xin\\zh_vo_xin_burst_burst01_02_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 698547719,
+                "MediaPathName": "Media/698547719.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\ja\\role\\branch_3,7\\xin\\ja_vo_xin_burst_burst01_02_word.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_favor_word_xin_burst_burst01_02"
+          }
+        }
+      ],
+      "DebugName": "play_favor_word_xin_burst_burst01_02",
+      "EventId": 612864289
+    },
+    "MaximumDuration": 3.4005833,
+    "MinimumDuration": 2.9430416,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

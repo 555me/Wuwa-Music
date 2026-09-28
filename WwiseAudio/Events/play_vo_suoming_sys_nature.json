@@ -1,0 +1,88 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_suoming_sys_nature",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_suoming_sys_nature",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 4271073974,
+            "SoundBanks": [
+              {
+                "SoundBankId": 4271073974,
+                "SoundBankPathName": "Event/play_vo_suoming_sys_nature.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_suoming_sys_nature",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 673321952,
+                "MediaPathName": "Media/673321952.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\en\\role\\branch_3,7\\suoming\\en_vo_suoming_sys_nature_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 463027429,
+                "MediaPathName": "Media/463027429.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\zh\\role\\branch_3,7\\suoming\\zh_vo_suoming_sys_nature_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 907413066,
+                "MediaPathName": "Media/907413066.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\ko\\role\\branch_3,7\\suoming\\ko_vo_suoming_sys_nature_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 563805702,
+                "MediaPathName": "Media/563805702.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\ja\\role\\branch_3,7\\suoming\\ja_vo_suoming_sys_nature_word.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_suoming_sys_nature"
+          }
+        }
+      ],
+      "DebugName": "play_vo_suoming_sys_nature",
+      "EventId": 4271073974
+    },
+    "MaximumDuration": 4.710271,
+    "MinimumDuration": 3.6694791,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

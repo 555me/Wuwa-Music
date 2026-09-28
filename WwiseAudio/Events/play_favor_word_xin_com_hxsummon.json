@@ -1,0 +1,88 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_favor_word_xin_com_hxsummon",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_favor_word_xin_com_hxsummon",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2561027895,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2561027895,
+                "SoundBankPathName": "Event/play_favor_word_xin_com_hxsummon.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_favor_word_xin_com_hxsummon",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 814727838,
+                "MediaPathName": "Media/814727838.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_3,7\\xin\\en_vo_xin_com_hxsummon_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 312459747,
+                "MediaPathName": "Media/312459747.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\ko\\role\\branch_3,7\\xin\\ko_vo_xin_com_hxsummon_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 742778485,
+                "MediaPathName": "Media/742778485.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\zh\\role\\branch_3,7\\xin\\zh_vo_xin_com_hxsummon_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1028829058,
+                "MediaPathName": "Media/1028829058.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,7\\xin\\ja_vo_xin_com_hxsummon_word.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_favor_word_xin_com_hxsummon"
+          }
+        }
+      ],
+      "DebugName": "play_favor_word_xin_com_hxsummon",
+      "EventId": 2561027895
+    },
+    "MaximumDuration": 2.22975,
+    "MinimumDuration": 1.527125,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

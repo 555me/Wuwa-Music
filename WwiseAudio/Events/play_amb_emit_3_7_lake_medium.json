@@ -1,0 +1,128 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_amb_emit_3_7_lake_medium",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_amb_emit_3_7_lake_medium",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1685278972,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1685278972,
+                "SoundBankPathName": "Event/play_amb_emit_3_7_lake_medium.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_amb_emit_3_7_lake_medium",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 58408266,
+                "MediaPathName": "Media/58408266.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\3.7\\amb_emit_3_7_lake_medium_lap_06.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 235366063,
+                "MediaPathName": "Media/235366063.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\3.7\\amb_emit_3_7_lake_medium_low_v2.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 349632624,
+                "MediaPathName": "Media/349632624.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\3.7\\amb_emit_3_7_lake_medium_lap_07.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 352439004,
+                "MediaPathName": "Media/352439004.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\3.7\\amb_emit_3_7_lake_medium_lap_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 382851962,
+                "MediaPathName": "Media/382851962.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\3.7\\amb_emit_3_7_lake_medium_lap_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 778044955,
+                "MediaPathName": "Media/778044955.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\3.7\\amb_emit_3_7_lake_medium_lap_05.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 829829085,
+                "MediaPathName": "Media/829829085.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\3.7\\amb_emit_3_7_lake_medium_lap_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 941202352,
+                "MediaPathName": "Media/941202352.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\3.7\\amb_emit_3_7_lake_medium_lap_04.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_amb_emit_3_7_lake_medium"
+          }
+        }
+      ],
+      "DebugName": "play_amb_emit_3_7_lake_medium",
+      "EventId": 1685278972
+    },
+    "MaximumDuration": 0.0,
+    "MinimumDuration": 0.0,
+    "IsInfinite": true,
+    "MaxAttenuationRadius": 3000.0
+  }
+]

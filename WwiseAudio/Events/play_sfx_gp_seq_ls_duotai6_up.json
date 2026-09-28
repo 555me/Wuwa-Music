@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_seq_ls_duotai6_up",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_seq_ls_duotai6_up",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2660011840,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2660011840,
+                "SoundBankPathName": "Event/play_sfx_gp_seq_ls_duotai6_up.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_seq_ls_duotai6_up",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 970361869,
+                "MediaPathName": "Media/970361869.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\gameplay\\3_7\\3_7_gp_LA\\sfx_gp_seq_LS_Duotai6_Up.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_seq_ls_duotai6_up"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_seq_ls_duotai6_up",
+      "EventId": 2660011840
+    },
+    "MaximumDuration": 2.977146,
+    "MinimumDuration": 2.977146,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 10000.0
+  }
+]

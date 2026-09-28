@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_role_vision_ordinary_juexipo",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_role_vision_ordinary_juexipo",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 836086265,
+            "SoundBanks": [
+              {
+                "SoundBankId": 836086265,
+                "SoundBankPathName": "Event/play_role_vision_ordinary_juexipo.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_role_vision_ordinary_juexipo",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 413444810,
+                "MediaPathName": "Media/413444810.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\Enemy\\Ordinary\\Juexipo\\sfx_monster_juexipo_skill_77096001_cast.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_role_vision_ordinary_juexipo"
+          }
+        }
+      ],
+      "DebugName": "play_role_vision_ordinary_juexipo",
+      "EventId": 836086265
+    },
+    "MaximumDuration": 5.295292,
+    "MinimumDuration": 5.295292,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 3000.0
+  }
+]

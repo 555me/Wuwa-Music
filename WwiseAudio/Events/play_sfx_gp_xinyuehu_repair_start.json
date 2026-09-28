@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_xinyuehu_repair_start",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_xinyuehu_repair_start",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2187514044,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2187514044,
+                "SoundBankPathName": "Event/play_sfx_gp_xinyuehu_repair_start.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_xinyuehu_repair_start",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 935409766,
+                "MediaPathName": "Media/935409766.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\gameplay\\3_7\\sfx_gp_xinyuehu_repair_start.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_xinyuehu_repair_start"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_xinyuehu_repair_start",
+      "EventId": 2187514044
+    },
+    "MaximumDuration": 4.4574375,
+    "MinimumDuration": 4.4574375,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

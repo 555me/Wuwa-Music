@@ -1,0 +1,88 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_favor_word_suoming_burst_burst01_02",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_favor_word_suoming_burst_burst01_02",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1676034426,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1676034426,
+                "SoundBankPathName": "Event/play_favor_word_suoming_burst_burst01_02.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_favor_word_suoming_burst_burst01_02",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 280682686,
+                "MediaPathName": "Media/280682686.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\en\\role\\branch_3,7\\suoming\\en_vo_suoming_burst_burst01_02_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 187871929,
+                "MediaPathName": "Media/187871929.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\zh\\role\\branch_3,7\\suoming\\zh_vo_suoming_burst_burst01_02_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 32416589,
+                "MediaPathName": "Media/32416589.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\ko\\role\\branch_3,7\\suoming\\ko_vo_suoming_burst_burst01_02_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 852001430,
+                "MediaPathName": "Media/852001430.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\ja\\role\\branch_3,7\\suoming\\ja_vo_suoming_burst_burst01_02_word.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_favor_word_suoming_burst_burst01_02"
+          }
+        }
+      ],
+      "DebugName": "play_favor_word_suoming_burst_burst01_02",
+      "EventId": 1676034426
+    },
+    "MaximumDuration": 3.0,
+    "MinimumDuration": 2.5420833,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

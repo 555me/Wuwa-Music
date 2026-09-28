@@ -1,0 +1,175 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_mon_tianyanhuanxin_patroltofight",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_mon_tianyanhuanxin_patroltofight",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 1819748192,
+            "LanguageName": "en",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 450731902,
+            "SoundBanks": [
+              {
+                "SoundBankId": 450731902,
+                "SoundBankPathName": "Event/en/play_vo_mon_tianyanhuanxin_patroltofight.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_mon_tianyanhuanxin_patroltofight",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 65414202,
+                "MediaPathName": "Media/en/65414202.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "enemy\\branch_3,7\\tianyanhuanxin\\en_vo_mon_tianyanhuanxin_patroltofight.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_mon_tianyanhuanxin_patroltofight"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1735860046,
+            "LanguageName": "ja",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 450731902,
+            "SoundBanks": [
+              {
+                "SoundBankId": 450731902,
+                "SoundBankPathName": "Event/ja/play_vo_mon_tianyanhuanxin_patroltofight.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_mon_tianyanhuanxin_patroltofight",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 43054268,
+                "MediaPathName": "Media/ja/43054268.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "enemy\\branch_3,7\\tianyanhuanxin\\ja_vo_mon_tianyanhuanxin_patroltofight.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_mon_tianyanhuanxin_patroltofight"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1719082483,
+            "LanguageName": "ko",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 450731902,
+            "SoundBanks": [
+              {
+                "SoundBankId": 450731902,
+                "SoundBankPathName": "Event/ko/play_vo_mon_tianyanhuanxin_patroltofight.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_mon_tianyanhuanxin_patroltofight",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 441653201,
+                "MediaPathName": "Media/ko/441653201.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "enemy\\branch_3,7\\tianyanhuanxin\\ko_vo_mon_tianyanhuanxin_patroltofight.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_mon_tianyanhuanxin_patroltofight"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1467418007,
+            "LanguageName": "zh",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsDefault"
+          },
+          "Value": {
+            "EventId": 450731902,
+            "SoundBanks": [
+              {
+                "SoundBankId": 450731902,
+                "SoundBankPathName": "Event/zh/play_vo_mon_tianyanhuanxin_patroltofight.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_mon_tianyanhuanxin_patroltofight",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 479075156,
+                "MediaPathName": "Media/zh/479075156.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "enemy\\branch_3,7\\tianyanhuanxin\\zh_vo_mon_tianyanhuanxin_patroltofight.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_mon_tianyanhuanxin_patroltofight"
+          }
+        }
+      ],
+      "DebugName": "play_vo_mon_tianyanhuanxin_patroltofight",
+      "EventId": 450731902
+    },
+    "MaximumDuration": 5.6514792,
+    "MinimumDuration": 4.3670416,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 7000.0
+  }
+]

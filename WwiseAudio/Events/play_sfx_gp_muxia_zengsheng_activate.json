@@ -1,0 +1,78 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_muxia_zengsheng_activate",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_muxia_zengsheng_activate",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 415599498,
+            "SoundBanks": [
+              {
+                "SoundBankId": 415599498,
+                "SoundBankPathName": "Event/play_sfx_gp_muxia_zengsheng_activate.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_muxia_zengsheng_activate",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 271677810,
+                "MediaPathName": "Media/271677810.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\gameplay\\3_7\\sfx_gp_muxia_zengsheng_activate_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 688944883,
+                "MediaPathName": "Media/688944883.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\gameplay\\3_7\\sfx_gp_muxia_zengsheng_activate_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 967737031,
+                "MediaPathName": "Media/967737031.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\gameplay\\3_7\\sfx_gp_muxia_zengsheng_activate_01.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_muxia_zengsheng_activate"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_muxia_zengsheng_activate",
+      "EventId": 415599498
+    },
+    "MaximumDuration": 1.4258333,
+    "MinimumDuration": 1.0931667,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 3000.0
+  }
+]

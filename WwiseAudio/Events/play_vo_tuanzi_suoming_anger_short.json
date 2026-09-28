@@ -1,0 +1,78 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_tuanzi_suoming_anger_short",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_tuanzi_suoming_anger_short",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3102196639,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3102196639,
+                "SoundBankPathName": "Event/play_vo_tuanzi_suoming_anger_short.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_tuanzi_suoming_anger_short",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 351472122,
+                "MediaPathName": "Media/351472122.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "branch_3,7\\tuanzi_voice_sound\\suoming\\vo_tuanzi_suoming_anger_short_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 523173687,
+                "MediaPathName": "Media/523173687.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "branch_3,7\\tuanzi_voice_sound\\suoming\\vo_tuanzi_suoming_anger_short_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 870455045,
+                "MediaPathName": "Media/870455045.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "branch_3,7\\tuanzi_voice_sound\\suoming\\vo_tuanzi_suoming_anger_short_01.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_tuanzi_suoming_anger_short"
+          }
+        }
+      ],
+      "DebugName": "play_vo_tuanzi_suoming_anger_short",
+      "EventId": 3102196639
+    },
+    "MaximumDuration": 2.1449935,
+    "MinimumDuration": 1.8321189,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

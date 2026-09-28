@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_cr0034_ui_charge",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_cr0034_ui_charge",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1541957248,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1541957248,
+                "SoundBankPathName": "Event/play_cr0034_ui_charge.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_cr0034_ui_charge",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 45577827,
+                "MediaPathName": "Media/45577827.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\Plot_LevelA\\3.7\\CR0034-UI_charge.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_cr0034_ui_charge"
+          }
+        }
+      ],
+      "DebugName": "play_cr0034_ui_charge",
+      "EventId": 1541957248
+    },
+    "MaximumDuration": 6.488167,
+    "MinimumDuration": 6.488167,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

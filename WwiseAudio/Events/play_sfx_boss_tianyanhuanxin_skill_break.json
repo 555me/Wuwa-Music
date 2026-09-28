@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_boss_tianyanhuanxin_skill_break",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_boss_tianyanhuanxin_skill_break",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3657773939,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3657773939,
+                "SoundBankPathName": "Event/play_sfx_boss_tianyanhuanxin_skill_break.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_boss_tianyanhuanxin_skill_break",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 231531387,
+                "MediaPathName": "Media/231531387.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\Enemy\\Boss\\TianYanHuanXin\\sfx_boss_tianyanhuanxin_skill_break.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_boss_tianyanhuanxin_skill_break"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_boss_tianyanhuanxin_skill_break",
+      "EventId": 3657773939
+    },
+    "MaximumDuration": 2.348854,
+    "MinimumDuration": 2.348854,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 10000.0
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_music_story_xinxiangmigong_huoxia_stinger",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_music_story_xinxiangmigong_huoxia_stinger",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2977606393,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2977606393,
+                "SoundBankPathName": "Event/play_music_story_xinxiangmigong_huoxia_stinger.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_music_story_xinxiangmigong_huoxia_stinger",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 324921673,
+                "MediaPathName": "Media/324921673.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music\\music_scene\\silence.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 887891924,
+                "MediaPathName": "Media/887891924.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_7\\music_story_xinxiangmigong_huoxia_stinger.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_music_story_xinxiangmigong_huoxia_stinger"
+          }
+        }
+      ],
+      "DebugName": "play_music_story_xinxiangmigong_huoxia_stinger",
+      "EventId": 2977606393
+    },
+    "MaximumDuration": 12.385758,
+    "MinimumDuration": 12.385758,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

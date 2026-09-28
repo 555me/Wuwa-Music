@@ -1,0 +1,175 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_mon_tianyanhuanxin_atk11",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_mon_tianyanhuanxin_atk11",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 1819748192,
+            "LanguageName": "en",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 2054598655,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2054598655,
+                "SoundBankPathName": "Event/en/play_vo_mon_tianyanhuanxin_atk11.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_mon_tianyanhuanxin_atk11",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 122478206,
+                "MediaPathName": "Media/en/122478206.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "enemy\\branch_3,7\\tianyanhuanxin\\en_vo_mon_tianyanhuanxin_atk11.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_mon_tianyanhuanxin_atk11"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1735860046,
+            "LanguageName": "ja",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 2054598655,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2054598655,
+                "SoundBankPathName": "Event/ja/play_vo_mon_tianyanhuanxin_atk11.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_mon_tianyanhuanxin_atk11",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 712613793,
+                "MediaPathName": "Media/ja/712613793.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "enemy\\branch_3,7\\tianyanhuanxin\\ja_vo_mon_tianyanhuanxin_atk11.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_mon_tianyanhuanxin_atk11"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1719082483,
+            "LanguageName": "ko",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 2054598655,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2054598655,
+                "SoundBankPathName": "Event/ko/play_vo_mon_tianyanhuanxin_atk11.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_mon_tianyanhuanxin_atk11",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 832717369,
+                "MediaPathName": "Media/ko/832717369.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "enemy\\branch_3,7\\tianyanhuanxin\\ko_vo_mon_tianyanhuanxin_atk11.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_mon_tianyanhuanxin_atk11"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1467418007,
+            "LanguageName": "zh",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsDefault"
+          },
+          "Value": {
+            "EventId": 2054598655,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2054598655,
+                "SoundBankPathName": "Event/zh/play_vo_mon_tianyanhuanxin_atk11.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_mon_tianyanhuanxin_atk11",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 656761929,
+                "MediaPathName": "Media/zh/656761929.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "enemy\\branch_3,7\\tianyanhuanxin\\zh_vo_mon_tianyanhuanxin_atk11.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_mon_tianyanhuanxin_atk11"
+          }
+        }
+      ],
+      "DebugName": "play_vo_mon_tianyanhuanxin_atk11",
+      "EventId": 2054598655
+    },
+    "MaximumDuration": 2.482479,
+    "MinimumDuration": 2.3099792,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 7000.0
+  }
+]

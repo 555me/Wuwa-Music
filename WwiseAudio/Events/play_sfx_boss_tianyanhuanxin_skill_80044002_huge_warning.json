@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_boss_tianyanhuanxin_skill_80044002_huge_warning",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_boss_tianyanhuanxin_skill_80044002_huge_warning",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 292759487,
+            "SoundBanks": [
+              {
+                "SoundBankId": 292759487,
+                "SoundBankPathName": "Event/play_sfx_boss_tianyanhuanxin_skill_80044002_huge_warning.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_boss_tianyanhuanxin_skill_80044002_huge_warning",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 851470685,
+                "MediaPathName": "Media/851470685.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\Enemy\\Boss\\TianYanHuanXin\\sfx_boss_tianyanhuanxin_skill_80044002_huge_warning.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_boss_tianyanhuanxin_skill_80044002_huge_warning"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_boss_tianyanhuanxin_skill_80044002_huge_warning",
+      "EventId": 292759487
+    },
+    "MaximumDuration": 3.2015834,
+    "MinimumDuration": 3.2015834,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

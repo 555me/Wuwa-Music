@@ -1,0 +1,248 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_quest_3_7_music_part4_ditianjian",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_quest_3_7_music_part4_ditianjian",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1504871600,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1504871600,
+                "SoundBankPathName": "Event/play_quest_3_7_music_part4_ditianjian.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_quest_3_7_music_part4_ditianjian",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 324921673,
+                "MediaPathName": "Media/324921673.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music\\music_scene\\silence.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 531391908,
+                "MediaPathName": "Media/531391908.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_7\\bgm-story_common_3_7_calmness_xinyuehu_01-all-full-110bpm-null.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 856227020,
+                "MediaPathName": "Media/856227020.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_7\\quest_3_7_music_part4_ditianjian_s1.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 689692128,
+                "MediaPathName": "Media/689692128.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_battle\\3.7\\bgm-battle_elite_hongxing-all-full-159bpm-null.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 210222059,
+                "MediaPathName": "Media/210222059.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_battle\\3.5\\bgm-battle_scene_xuanfang_elite-all-full-144bpm-4_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 970933516,
+                "MediaPathName": "Media/970933516.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_battle\\3.5\\bgm-battle_scene_xuanfang-all-full-140bpm-null.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 281888111,
+                "MediaPathName": "Media/281888111.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_7\\bgm-story_quest_3_7_ditianjian_s5_outro-all-full-130bpm-4_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 101952194,
+                "MediaPathName": "Media/101952194.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music\\music_scene\\silence_5s.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 652728711,
+                "MediaPathName": "Media/652728711.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_7\\bgm-story_quest_3_7_ditianjian_s3_6-all-full-90bpm-3_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 267342905,
+                "MediaPathName": "Media/267342905.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_7\\bgm-story_quest_3_7_ditianjian_s5_intro-all-full-130bpm-4_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 906228383,
+                "MediaPathName": "Media/906228383.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_7\\bgm-story_quest_3_7_ditianjian_s5_loop-all-full-130bpm-4_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 369106404,
+                "MediaPathName": "Media/369106404.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_7\\bgm-story_quest_3_7_ditianjian_s4-all-full-null-null.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 345870323,
+                "MediaPathName": "Media/345870323.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_7\\bgm-story_quest_3_7_ditianjian_s3_5-all-full-90bpm-3_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 612923554,
+                "MediaPathName": "Media/612923554.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_7\\bgm-story_quest_3_7_ditianjian_s3_4-all-full-90bpm-3_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 317938992,
+                "MediaPathName": "Media/317938992.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_7\\bgm-story_quest_3_7_ditianjian_s3_3-all-full-90bpm-3_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 947729708,
+                "MediaPathName": "Media/947729708.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_7\\bgm-story_quest_3_7_ditianjian_s3_2-all-full-90bpm-3_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 334084107,
+                "MediaPathName": "Media/334084107.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_7\\bgm-story_quest_3_7_ditianjian_s3_1-all-full-90bpm-3_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 373794678,
+                "MediaPathName": "Media/373794678.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_7\\bgm-story_quest_3_7_ditianjian_s3_1_intro-all-full-90bpm-3_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 729831059,
+                "MediaPathName": "Media/729831059.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_7\\bgm-story_quest_3_7_ditianjian_s2_2-all-full-null-null.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 111770122,
+                "MediaPathName": "Media/111770122.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_7\\bgm-story_quest_3_7_ditianjian_s2_1-all-full-null-null.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_quest_3_7_music_part4_ditianjian"
+          }
+        }
+      ],
+      "DebugName": "play_quest_3_7_music_part4_ditianjian",
+      "EventId": 1504871600
+    },
+    "MaximumDuration": 0.0,
+    "MinimumDuration": 0.0,
+    "IsInfinite": true,
+    "MaxAttenuationRadius": 0.0
+  }
+]

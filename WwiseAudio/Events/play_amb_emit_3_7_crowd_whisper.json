@@ -1,0 +1,335 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_amb_emit_3_7_crowd_whisper",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_amb_emit_3_7_crowd_whisper",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 1819748192,
+            "LanguageName": "en",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 3938577233,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3938577233,
+                "SoundBankPathName": "Event/en/play_amb_emit_3_7_crowd_whisper.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_amb_emit_3_7_crowd_whisper",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 353566650,
+                "MediaPathName": "Media/en/353566650.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.7\\amb_voice\\en_vo_amb_emit_3_7_crowd_cheer_outside.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 628896807,
+                "MediaPathName": "Media/628896807.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_modular\\3.1\\amb_emit_crowd_quiet_os\\amb_emit_crowd_quiet_os_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 658947600,
+                "MediaPathName": "Media/658947600.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\2.7\\amb_emit_crowd_dense_joyful_loop.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1006163554,
+                "MediaPathName": "Media/1006163554.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_modular\\3.1\\amb_emit_crowd_quiet_os\\amb_emit_crowd_quiet_os_2.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1029788654,
+                "MediaPathName": "Media/1029788654.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_modular\\3.1\\amb_emit_crowd_quiet_os\\amb_emit_crowd_quiet_os_1.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_amb_emit_3_7_crowd_whisper"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1735860046,
+            "LanguageName": "ja",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 3938577233,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3938577233,
+                "SoundBankPathName": "Event/ja/play_amb_emit_3_7_crowd_whisper.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_amb_emit_3_7_crowd_whisper",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 628896807,
+                "MediaPathName": "Media/628896807.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_modular\\3.1\\amb_emit_crowd_quiet_os\\amb_emit_crowd_quiet_os_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 658947600,
+                "MediaPathName": "Media/658947600.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\2.7\\amb_emit_crowd_dense_joyful_loop.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 756581027,
+                "MediaPathName": "Media/ja/756581027.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.7\\amb_voice\\ja_vo_amb_emit_3_7_crowd_cheer_outside.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1006163554,
+                "MediaPathName": "Media/1006163554.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_modular\\3.1\\amb_emit_crowd_quiet_os\\amb_emit_crowd_quiet_os_2.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1029788654,
+                "MediaPathName": "Media/1029788654.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_modular\\3.1\\amb_emit_crowd_quiet_os\\amb_emit_crowd_quiet_os_1.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_amb_emit_3_7_crowd_whisper"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1719082483,
+            "LanguageName": "ko",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 3938577233,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3938577233,
+                "SoundBankPathName": "Event/ko/play_amb_emit_3_7_crowd_whisper.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_amb_emit_3_7_crowd_whisper",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 628896807,
+                "MediaPathName": "Media/628896807.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_modular\\3.1\\amb_emit_crowd_quiet_os\\amb_emit_crowd_quiet_os_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 658947600,
+                "MediaPathName": "Media/658947600.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\2.7\\amb_emit_crowd_dense_joyful_loop.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 840314327,
+                "MediaPathName": "Media/ko/840314327.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.7\\amb_voice\\ko_vo_amb_emit_3_7_crowd_cheer_outside.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1006163554,
+                "MediaPathName": "Media/1006163554.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_modular\\3.1\\amb_emit_crowd_quiet_os\\amb_emit_crowd_quiet_os_2.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1029788654,
+                "MediaPathName": "Media/1029788654.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_modular\\3.1\\amb_emit_crowd_quiet_os\\amb_emit_crowd_quiet_os_1.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_amb_emit_3_7_crowd_whisper"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1467418007,
+            "LanguageName": "zh",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsDefault"
+          },
+          "Value": {
+            "EventId": 3938577233,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3938577233,
+                "SoundBankPathName": "Event/zh/play_amb_emit_3_7_crowd_whisper.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_amb_emit_3_7_crowd_whisper",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 431394914,
+                "MediaPathName": "Media/zh/431394914.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.7\\amb_voice\\zh_vo_amb_emit_3_7_crowd_cheer_outside.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 628896807,
+                "MediaPathName": "Media/628896807.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_modular\\3.1\\amb_emit_crowd_quiet_os\\amb_emit_crowd_quiet_os_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 658947600,
+                "MediaPathName": "Media/658947600.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\2.7\\amb_emit_crowd_dense_joyful_loop.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1006163554,
+                "MediaPathName": "Media/1006163554.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_modular\\3.1\\amb_emit_crowd_quiet_os\\amb_emit_crowd_quiet_os_2.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1029788654,
+                "MediaPathName": "Media/1029788654.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_modular\\3.1\\amb_emit_crowd_quiet_os\\amb_emit_crowd_quiet_os_1.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_amb_emit_3_7_crowd_whisper"
+          }
+        }
+      ],
+      "DebugName": "play_amb_emit_3_7_crowd_whisper",
+      "EventId": 3938577233
+    },
+    "MaximumDuration": 0.0,
+    "MinimumDuration": 0.0,
+    "IsInfinite": true,
+    "MaxAttenuationRadius": 3000.0
+  }
+]

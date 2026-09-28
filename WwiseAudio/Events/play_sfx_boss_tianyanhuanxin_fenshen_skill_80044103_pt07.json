@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_boss_tianyanhuanxin_fenshen_skill_80044103_pt07",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_boss_tianyanhuanxin_fenshen_skill_80044103_pt07",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 783883954,
+            "SoundBanks": [
+              {
+                "SoundBankId": 783883954,
+                "SoundBankPathName": "Event/play_sfx_boss_tianyanhuanxin_fenshen_skill_80044103_pt07.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_boss_tianyanhuanxin_fenshen_skill_80044103_pt07",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 618860313,
+                "MediaPathName": "Media/618860313.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\Enemy\\Boss\\TianYanHuanXin\\sfx_boss_tianyanhuanxin_fenshen_skill_80044103_pt07.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_boss_tianyanhuanxin_fenshen_skill_80044103_pt07"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_boss_tianyanhuanxin_fenshen_skill_80044103_pt07",
+      "EventId": 783883954
+    },
+    "MaximumDuration": 4.371792,
+    "MinimumDuration": 4.371792,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 10000.0
+  }
+]

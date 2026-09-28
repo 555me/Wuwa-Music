@@ -1,0 +1,78 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_tuanzi_xin_default_long",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_tuanzi_xin_default_long",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1289673212,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1289673212,
+                "SoundBankPathName": "Event/play_vo_tuanzi_xin_default_long.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_tuanzi_xin_default_long",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 329242460,
+                "MediaPathName": "Media/329242460.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "branch_3,7\\tuanzi_voice_sound\\xin\\vo_tuanzi_xin_default_long_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 490957544,
+                "MediaPathName": "Media/490957544.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "branch_3,7\\tuanzi_voice_sound\\xin\\vo_tuanzi_xin_default_long_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 826174880,
+                "MediaPathName": "Media/826174880.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "branch_3,7\\tuanzi_voice_sound\\xin\\vo_tuanzi_xin_default_long_01.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_tuanzi_xin_default_long"
+          }
+        }
+      ],
+      "DebugName": "play_vo_tuanzi_xin_default_long",
+      "EventId": 1289673212
+    },
+    "MaximumDuration": 3.7105465,
+    "MinimumDuration": 2.7558963,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

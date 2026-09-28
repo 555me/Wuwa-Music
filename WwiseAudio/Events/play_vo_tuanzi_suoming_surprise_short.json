@@ -1,0 +1,78 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_tuanzi_suoming_surprise_short",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_tuanzi_suoming_surprise_short",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 4103520061,
+            "SoundBanks": [
+              {
+                "SoundBankId": 4103520061,
+                "SoundBankPathName": "Event/play_vo_tuanzi_suoming_surprise_short.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_tuanzi_suoming_surprise_short",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 17537793,
+                "MediaPathName": "Media/17537793.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "branch_3,7\\tuanzi_voice_sound\\suoming\\vo_tuanzi_suoming_surprise_short_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 341992986,
+                "MediaPathName": "Media/341992986.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "branch_3,7\\tuanzi_voice_sound\\suoming\\vo_tuanzi_suoming_surprise_short_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 694713420,
+                "MediaPathName": "Media/694713420.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "branch_3,7\\tuanzi_voice_sound\\suoming\\vo_tuanzi_suoming_surprise_short_02.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_tuanzi_suoming_surprise_short"
+          }
+        }
+      ],
+      "DebugName": "play_vo_tuanzi_suoming_surprise_short",
+      "EventId": 4103520061
+    },
+    "MaximumDuration": 1.1146368,
+    "MinimumDuration": 0.80211616,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_cr0033_tinnitus",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_cr0033_tinnitus",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1585896260,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1585896260,
+                "SoundBankPathName": "Event/play_cr0033_tinnitus.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_cr0033_tinnitus",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 60917948,
+                "MediaPathName": "Media/60917948.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\Plot_LevelA\\3.7\\CR0033_tinnitus_1.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 218862068,
+                "MediaPathName": "Media/218862068.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\Plot_LevelA\\3.7\\CR0033_tinnitus_2.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 338548754,
+                "MediaPathName": "Media/338548754.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\Plot_LevelA\\3.7\\CR0033_tinnitus_3.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_cr0033_tinnitus"
+          }
+        }
+      ],
+      "DebugName": "play_cr0033_tinnitus",
+      "EventId": 1585896260
+    },
+    "MaximumDuration": 4.2271876,
+    "MinimumDuration": 4.2271876,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

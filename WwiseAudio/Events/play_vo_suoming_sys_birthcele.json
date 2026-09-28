@@ -1,0 +1,88 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_suoming_sys_birthcele",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_suoming_sys_birthcele",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 77848851,
+            "SoundBanks": [
+              {
+                "SoundBankId": 77848851,
+                "SoundBankPathName": "Event/play_vo_suoming_sys_birthcele.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_suoming_sys_birthcele",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 684977072,
+                "MediaPathName": "Media/684977072.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\en\\role\\branch_3,7\\suoming\\en_vo_suoming_sys_birthcele_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 22011937,
+                "MediaPathName": "Media/22011937.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\zh\\role\\branch_3,7\\suoming\\zh_vo_suoming_sys_birthcele_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 77852428,
+                "MediaPathName": "Media/77852428.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\ko\\role\\branch_3,7\\suoming\\ko_vo_suoming_sys_birthcele_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 734977969,
+                "MediaPathName": "Media/734977969.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\ja\\role\\branch_3,7\\suoming\\ja_vo_suoming_sys_birthcele_word.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_suoming_sys_birthcele"
+          }
+        }
+      ],
+      "DebugName": "play_vo_suoming_sys_birthcele",
+      "EventId": 77848851
+    },
+    "MaximumDuration": 44.23877,
+    "MinimumDuration": 24.599562,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

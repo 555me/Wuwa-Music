@@ -1,0 +1,78 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_tuanzi_xin_anger_short",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_tuanzi_xin_anger_short",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2512952986,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2512952986,
+                "SoundBankPathName": "Event/play_vo_tuanzi_xin_anger_short.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_tuanzi_xin_anger_short",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 176104430,
+                "MediaPathName": "Media/176104430.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "branch_3,7\\tuanzi_voice_sound\\xin\\vo_tuanzi_xin_anger_short_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1003283697,
+                "MediaPathName": "Media/1003283697.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "branch_3,7\\tuanzi_voice_sound\\xin\\vo_tuanzi_xin_anger_short_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1050410699,
+                "MediaPathName": "Media/1050410699.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "branch_3,7\\tuanzi_voice_sound\\xin\\vo_tuanzi_xin_anger_short_01.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_tuanzi_xin_anger_short"
+          }
+        }
+      ],
+      "DebugName": "play_vo_tuanzi_xin_anger_short",
+      "EventId": 2512952986
+    },
+    "MaximumDuration": 2.0078762,
+    "MinimumDuration": 1.8665899,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

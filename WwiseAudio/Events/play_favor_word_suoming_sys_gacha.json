@@ -1,0 +1,88 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_favor_word_suoming_sys_gacha",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_favor_word_suoming_sys_gacha",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2154823849,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2154823849,
+                "SoundBankPathName": "Event/play_favor_word_suoming_sys_gacha.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_favor_word_suoming_sys_gacha",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 908724147,
+                "MediaPathName": "Media/908724147.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\en\\role\\branch_3,7\\suoming\\en_vo_suoming_sys_gacha_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 647414168,
+                "MediaPathName": "Media/647414168.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\zh\\role\\branch_3,7\\suoming\\zh_vo_suoming_sys_gacha_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 922032704,
+                "MediaPathName": "Media/922032704.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\ko\\role\\branch_3,7\\suoming\\ko_vo_suoming_sys_gacha_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 269761128,
+                "MediaPathName": "Media/269761128.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\ja\\role\\branch_3,7\\suoming\\ja_vo_suoming_sys_gacha_word.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_favor_word_suoming_sys_gacha"
+          }
+        }
+      ],
+      "DebugName": "play_favor_word_suoming_sys_gacha",
+      "EventId": 2154823849
+    },
+    "MaximumDuration": 9.390062,
+    "MinimumDuration": 8.417708,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

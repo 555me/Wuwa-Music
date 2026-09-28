@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_jr_js_moveobject",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_jr_js_moveobject",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2260865781,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2260865781,
+                "SoundBankPathName": "Event/play_sfx_gp_jr_js_moveobject.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_jr_js_moveobject",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 325775932,
+                "MediaPathName": "Media/325775932.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\gameplay\\3_7\\sfx_jrjs\\sfx_gp_jr_js_moveobject.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_jr_js_moveobject"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_jr_js_moveobject",
+      "EventId": 2260865781
+    },
+    "MaximumDuration": 6.4751873,
+    "MinimumDuration": 6.4751873,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 7000.0
+  }
+]

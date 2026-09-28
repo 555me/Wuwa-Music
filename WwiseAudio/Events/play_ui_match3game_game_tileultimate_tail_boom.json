@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_ui_match3game_game_tileultimate_tail_boom",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_ui_match3game_game_tileultimate_tail_boom",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3818298067,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3818298067,
+                "SoundBankPathName": "Event/play_ui_match3game_game_tileultimate_tail_boom.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_ui_match3game_game_tileultimate_tail_boom",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 863263823,
+                "MediaPathName": "Media/863263823.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,7\\match3game\\ui_match3game_game_tileultimate_tail_boom.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_ui_match3game_game_tileultimate_tail_boom"
+          }
+        }
+      ],
+      "DebugName": "play_ui_match3game_game_tileultimate_tail_boom",
+      "EventId": 3818298067
+    },
+    "MaximumDuration": 0.28516,
+    "MinimumDuration": 0.28516,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

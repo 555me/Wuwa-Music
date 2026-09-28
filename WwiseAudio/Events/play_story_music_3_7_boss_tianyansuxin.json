@@ -1,0 +1,138 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_story_music_3_7_boss_tianyansuxin",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_story_music_3_7_boss_tianyansuxin",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2663629027,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2663629027,
+                "SoundBankPathName": "Event/play_story_music_3_7_boss_tianyansuxin.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_story_music_3_7_boss_tianyansuxin",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 303316779,
+                "MediaPathName": "Media/303316779.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_7\\story_music_3_7_boss_tianyansuxin_stage4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 994450663,
+                "MediaPathName": "Media/994450663.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_7\\story_music_3_7_boss_tianyansuxin_stage3.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1055152285,
+                "MediaPathName": "Media/1055152285.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_7\\story_music_3_7_boss_tianyansuxin_stage3_loop.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 324921673,
+                "MediaPathName": "Media/324921673.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music\\music_scene\\silence.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 459898093,
+                "MediaPathName": "Media/459898093.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_7\\bgm-story_plot_boss_tianyansuxin_1to2_loop-all-full-150bpm-4_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 765983052,
+                "MediaPathName": "Media/765983052.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_7\\bgm-story_plot_boss_tianyansuxin_1to2_intro-all-full-150bpm-4_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 165067225,
+                "MediaPathName": "Media/165067225.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_7\\bgm-story_plot_boss_tianyansuxin_2_loop-all-full-150bpm-4_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 619198623,
+                "MediaPathName": "Media/619198623.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_7\\bgm-story_plot_boss_tianyansuxin_2_intro-all-full-150bpm-4_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 828637707,
+                "MediaPathName": "Media/828637707.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_7\\bgm-story_plot_boss_tianyansuxin_1_loop-all-full-140bpm-4_4.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_story_music_3_7_boss_tianyansuxin"
+          }
+        }
+      ],
+      "DebugName": "play_story_music_3_7_boss_tianyansuxin",
+      "EventId": 2663629027
+    },
+    "MaximumDuration": 0.0,
+    "MinimumDuration": 0.0,
+    "IsInfinite": true,
+    "MaxAttenuationRadius": 0.0
+  }
+]

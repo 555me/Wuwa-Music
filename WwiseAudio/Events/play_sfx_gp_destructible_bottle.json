@@ -1,0 +1,88 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_destructible_bottle",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_destructible_bottle",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 285115767,
+            "SoundBanks": [
+              {
+                "SoundBankId": 285115767,
+                "SoundBankPathName": "Event/play_sfx_gp_destructible_bottle.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_destructible_bottle",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 155918926,
+                "MediaPathName": "Media/155918926.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\gameplay\\3_7\\3_7_gp_LA\\xiaoxiaomengyan\\sfx_gp_destructible_bottle_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 228112928,
+                "MediaPathName": "Media/228112928.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\gameplay\\3_7\\3_7_gp_LA\\xiaoxiaomengyan\\sfx_gp_destructible_bottle_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 389597721,
+                "MediaPathName": "Media/389597721.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\gameplay\\3_7\\3_7_gp_LA\\xiaoxiaomengyan\\sfx_gp_destructible_bottle_04.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1065307240,
+                "MediaPathName": "Media/1065307240.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\gameplay\\3_7\\3_7_gp_LA\\xiaoxiaomengyan\\sfx_gp_destructible_bottle_03.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_destructible_bottle"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_destructible_bottle",
+      "EventId": 285115767
+    },
+    "MaximumDuration": 1.2693542,
+    "MinimumDuration": 0.8405625,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

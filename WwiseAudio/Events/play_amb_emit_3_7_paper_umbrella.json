@@ -1,0 +1,98 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_amb_emit_3_7_paper_umbrella",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_amb_emit_3_7_paper_umbrella",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3089298986,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3089298986,
+                "SoundBankPathName": "Event/play_amb_emit_3_7_paper_umbrella.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_amb_emit_3_7_paper_umbrella",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 158294297,
+                "MediaPathName": "Media/158294297.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "amb\\amb_emit\\3.7\\amb_emit_3_7_paperumbrella_1.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 470621580,
+                "MediaPathName": "Media/470621580.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "amb\\amb_emit\\3.7\\amb_emit_3_7_paperumbrella_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 533585536,
+                "MediaPathName": "Media/533585536.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "amb\\amb_emit\\3.7\\amb_emit_3_7_paperumbrella_5.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 758320419,
+                "MediaPathName": "Media/758320419.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "amb\\amb_emit\\3.7\\amb_emit_3_7_paperumbrella_3.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1018680198,
+                "MediaPathName": "Media/1018680198.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "amb\\amb_emit\\3.7\\amb_emit_3_7_paperumbrella_2.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_amb_emit_3_7_paper_umbrella"
+          }
+        }
+      ],
+      "DebugName": "play_amb_emit_3_7_paper_umbrella",
+      "EventId": 3089298986
+    },
+    "MaximumDuration": 0.7354375,
+    "MinimumDuration": 0.46295834,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

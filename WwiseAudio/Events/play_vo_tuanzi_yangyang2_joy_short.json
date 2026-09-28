@@ -1,0 +1,78 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_tuanzi_yangyang2_joy_short",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_tuanzi_yangyang2_joy_short",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3041321406,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3041321406,
+                "SoundBankPathName": "Event/play_vo_tuanzi_yangyang2_joy_short.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_tuanzi_yangyang2_joy_short",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 213010479,
+                "MediaPathName": "Media/213010479.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "branch_3,7\\tuanzi_voice_sound\\yangyang2\\vo_tuanzi_yangyang2_joy_short_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 435613312,
+                "MediaPathName": "Media/435613312.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "branch_3,7\\tuanzi_voice_sound\\yangyang2\\vo_tuanzi_yangyang2_joy_short_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1051646160,
+                "MediaPathName": "Media/1051646160.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "branch_3,7\\tuanzi_voice_sound\\yangyang2\\vo_tuanzi_yangyang2_joy_short_01.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_tuanzi_yangyang2_joy_short"
+          }
+        }
+      ],
+      "DebugName": "play_vo_tuanzi_yangyang2_joy_short",
+      "EventId": 3041321406
+    },
+    "MaximumDuration": 2.4608178,
+    "MinimumDuration": 1.055979,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_seq_ls_3_7_firingcurtain_level",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_seq_ls_3_7_firingcurtain_level",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 418509166,
+            "SoundBanks": [
+              {
+                "SoundBankId": 418509166,
+                "SoundBankPathName": "Event/play_sfx_gp_seq_ls_3_7_firingcurtain_level.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_seq_ls_3_7_firingcurtain_level",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 246575894,
+                "MediaPathName": "Media/246575894.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\gameplay\\3_7\\3_7_gp_LA\\sfx_gp_seq_LS_3_7_FiringCurtain_Level.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_seq_ls_3_7_firingcurtain_level"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_seq_ls_3_7_firingcurtain_level",
+      "EventId": 418509166
+    },
+    "MaximumDuration": 9.258104,
+    "MinimumDuration": 9.258104,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 50000.0
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_mg_fox_jump_3",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_mg_fox_jump_3",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 278139281,
+            "SoundBanks": [
+              {
+                "SoundBankId": 278139281,
+                "SoundBankPathName": "Event/play_sfx_gp_mg_fox_jump_3.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_mg_fox_jump_3",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 784502840,
+                "MediaPathName": "Media/784502840.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\gameplay\\3_7\\3_7_gp_mg\\sfx_gp_mg_fox_jump_3.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_mg_fox_jump_3"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_mg_fox_jump_3",
+      "EventId": 278139281
+    },
+    "MaximumDuration": 6.864597,
+    "MinimumDuration": 6.630763,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

@@ -1,0 +1,88 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_qixinyu_3_7_music_poi",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_qixinyu_3_7_music_poi",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 134565050,
+            "SoundBanks": [
+              {
+                "SoundBankId": 134565050,
+                "SoundBankPathName": "Event/play_qixinyu_3_7_music_poi.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_qixinyu_3_7_music_poi",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 790468269,
+                "MediaPathName": "Media/790468269.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_dungeon\\3_7_dungeon\\poi\\bgm-story_quest_3_7_qixinyu_04-all-full-93bpm-4_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 116789252,
+                "MediaPathName": "Media/116789252.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_dungeon\\3_7_dungeon\\poi\\bgm-story_quest_3_7_qixinyu_03-all-full-93bpm-4_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 499954911,
+                "MediaPathName": "Media/499954911.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_dungeon\\3_7_dungeon\\poi\\bgm-story_quest_3_7_qixinyu_02-all-full-93bpm-4_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 854098775,
+                "MediaPathName": "Media/854098775.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_dungeon\\3_7_dungeon\\poi\\bgm-story_quest_3_7_qixinyu_01-all-full-93bpm-4_4.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_qixinyu_3_7_music_poi"
+          }
+        }
+      ],
+      "DebugName": "play_qixinyu_3_7_music_poi",
+      "EventId": 134565050
+    },
+    "MaximumDuration": 0.0,
+    "MinimumDuration": 0.0,
+    "IsInfinite": true,
+    "MaxAttenuationRadius": 0.0
+  }
+]

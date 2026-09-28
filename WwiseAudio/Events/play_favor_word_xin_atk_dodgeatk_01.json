@@ -1,0 +1,88 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_favor_word_xin_atk_dodgeatk_01",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_favor_word_xin_atk_dodgeatk_01",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1566515646,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1566515646,
+                "SoundBankPathName": "Event/play_favor_word_xin_atk_dodgeatk_01.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_favor_word_xin_atk_dodgeatk_01",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 943729737,
+                "MediaPathName": "Media/943729737.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_3,7\\xin\\en_vo_xin_atk_dodgeatk_01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 309700388,
+                "MediaPathName": "Media/309700388.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,7\\xin\\ko_vo_xin_atk_dodgeatk_01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 582336286,
+                "MediaPathName": "Media/582336286.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,7\\xin\\zh_vo_xin_atk_dodgeatk_01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 205328944,
+                "MediaPathName": "Media/205328944.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,7\\xin\\ja_vo_xin_atk_dodgeatk_01_word.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_favor_word_xin_atk_dodgeatk_01"
+          }
+        }
+      ],
+      "DebugName": "play_favor_word_xin_atk_dodgeatk_01",
+      "EventId": 1566515646
+    },
+    "MaximumDuration": 1.2342917,
+    "MinimumDuration": 1.1126041,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_all_sound_m3_13_03_lyric",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_all_sound_m3_13_03_lyric",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2692423411,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2692423411,
+                "SoundBankPathName": "Event/play_all_sound_m3_13_03_lyric.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_all_sound_m3_13_03_lyric",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 1043209021,
+                "MediaPathName": "Media/1043209021.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_7\\mov-story_video_m3_13_03_op-all-full-null-null.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1068797994,
+                "MediaPathName": "Media/1068797994.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_7\\mov-story_video_m3_13_03_op-lyric.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_all_sound_m3_13_03_lyric"
+          }
+        }
+      ],
+      "DebugName": "play_all_sound_m3_13_03_lyric",
+      "EventId": 2692423411
+    },
+    "MaximumDuration": 84.68731,
+    "MinimumDuration": 84.68731,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

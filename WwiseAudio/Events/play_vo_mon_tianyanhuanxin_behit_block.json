@@ -1,0 +1,255 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_mon_tianyanhuanxin_behit_block",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_mon_tianyanhuanxin_behit_block",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 1819748192,
+            "LanguageName": "en",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 2871605707,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2871605707,
+                "SoundBankPathName": "Event/en/play_vo_mon_tianyanhuanxin_behit_block.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_mon_tianyanhuanxin_behit_block",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 606737188,
+                "MediaPathName": "Media/en/606737188.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "enemy\\branch_3,7\\tianyanhuanxin\\en_vo_mon_tianyanhuanxin_behit_block_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 670582665,
+                "MediaPathName": "Media/en/670582665.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "enemy\\branch_3,7\\tianyanhuanxin\\en_vo_mon_tianyanhuanxin_behit_block_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 749838436,
+                "MediaPathName": "Media/en/749838436.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "enemy\\branch_3,7\\tianyanhuanxin\\en_vo_mon_tianyanhuanxin_behit_block_01.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_mon_tianyanhuanxin_behit_block"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1735860046,
+            "LanguageName": "ja",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 2871605707,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2871605707,
+                "SoundBankPathName": "Event/ja/play_vo_mon_tianyanhuanxin_behit_block.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_mon_tianyanhuanxin_behit_block",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 734054686,
+                "MediaPathName": "Media/ja/734054686.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "enemy\\branch_3,7\\tianyanhuanxin\\ja_vo_mon_tianyanhuanxin_behit_block_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 851592592,
+                "MediaPathName": "Media/ja/851592592.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "enemy\\branch_3,7\\tianyanhuanxin\\ja_vo_mon_tianyanhuanxin_behit_block_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 976393629,
+                "MediaPathName": "Media/ja/976393629.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "enemy\\branch_3,7\\tianyanhuanxin\\ja_vo_mon_tianyanhuanxin_behit_block_01.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_mon_tianyanhuanxin_behit_block"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1719082483,
+            "LanguageName": "ko",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 2871605707,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2871605707,
+                "SoundBankPathName": "Event/ko/play_vo_mon_tianyanhuanxin_behit_block.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_mon_tianyanhuanxin_behit_block",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 12902606,
+                "MediaPathName": "Media/ko/12902606.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "enemy\\branch_3,7\\tianyanhuanxin\\ko_vo_mon_tianyanhuanxin_behit_block_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 312289207,
+                "MediaPathName": "Media/ko/312289207.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "enemy\\branch_3,7\\tianyanhuanxin\\ko_vo_mon_tianyanhuanxin_behit_block_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 315988186,
+                "MediaPathName": "Media/ko/315988186.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "enemy\\branch_3,7\\tianyanhuanxin\\ko_vo_mon_tianyanhuanxin_behit_block_03.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_mon_tianyanhuanxin_behit_block"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1467418007,
+            "LanguageName": "zh",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsDefault"
+          },
+          "Value": {
+            "EventId": 2871605707,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2871605707,
+                "SoundBankPathName": "Event/zh/play_vo_mon_tianyanhuanxin_behit_block.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_mon_tianyanhuanxin_behit_block",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 211337787,
+                "MediaPathName": "Media/zh/211337787.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "enemy\\branch_3,7\\tianyanhuanxin\\zh_vo_mon_tianyanhuanxin_behit_block_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 500228623,
+                "MediaPathName": "Media/zh/500228623.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "enemy\\branch_3,7\\tianyanhuanxin\\zh_vo_mon_tianyanhuanxin_behit_block_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 650349626,
+                "MediaPathName": "Media/zh/650349626.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "enemy\\branch_3,7\\tianyanhuanxin\\zh_vo_mon_tianyanhuanxin_behit_block_03.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_mon_tianyanhuanxin_behit_block"
+          }
+        }
+      ],
+      "DebugName": "play_vo_mon_tianyanhuanxin_behit_block",
+      "EventId": 2871605707
+    },
+    "MaximumDuration": 2.9125416,
+    "MinimumDuration": 2.1951041,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 7000.0
+  }
+]

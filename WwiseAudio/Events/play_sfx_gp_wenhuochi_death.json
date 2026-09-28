@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_wenhuochi_death",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_wenhuochi_death",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3700221585,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3700221585,
+                "SoundBankPathName": "Event/play_sfx_gp_wenhuochi_death.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_wenhuochi_death",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 1065503493,
+                "MediaPathName": "Media/1065503493.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\gameplay\\3_7\\3_7_gp_LA\\wenhuochi\\sfx_gp_wenhuochi_death.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_wenhuochi_death"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_wenhuochi_death",
+      "EventId": 3700221585
+    },
+    "MaximumDuration": 2.39152,
+    "MinimumDuration": 2.39152,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 3000.0
+  }
+]

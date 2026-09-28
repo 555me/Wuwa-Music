@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_boss_tianyanhuanxin_fenshen_skill_80044102",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_boss_tianyanhuanxin_fenshen_skill_80044102",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 800447691,
+            "SoundBanks": [
+              {
+                "SoundBankId": 800447691,
+                "SoundBankPathName": "Event/play_sfx_boss_tianyanhuanxin_fenshen_skill_80044102.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_boss_tianyanhuanxin_fenshen_skill_80044102",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 292614128,
+                "MediaPathName": "Media/292614128.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\Enemy\\Boss\\TianYanHuanXin\\sfx_boss_tianyanhuanxin_fenshen_skill_80044102.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_boss_tianyanhuanxin_fenshen_skill_80044102"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_boss_tianyanhuanxin_fenshen_skill_80044102",
+      "EventId": 800447691
+    },
+    "MaximumDuration": 5.6399374,
+    "MinimumDuration": 5.6399374,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 10000.0
+  }
+]

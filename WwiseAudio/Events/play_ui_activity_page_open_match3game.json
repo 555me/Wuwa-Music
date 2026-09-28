@@ -1,0 +1,68 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_ui_activity_page_open_match3game",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_ui_activity_page_open_match3game",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3543022944,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3543022944,
+                "SoundBankPathName": "Event/play_ui_activity_page_open_match3game.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_ui_activity_page_open_match3game",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 621748112,
+                "MediaPathName": "Media/621748112.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,7\\match3game\\ui_music_activity_match3game.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 701503284,
+                "MediaPathName": "Media/701503284.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,7\\match3game\\ui_activity_page_open_match3game.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_ui_activity_page_open_match3game"
+          }
+        }
+      ],
+      "DebugName": "play_ui_activity_page_open_match3game",
+      "EventId": 3543022944
+    },
+    "MaximumDuration": 3.1666667,
+    "MinimumDuration": 3.1666667,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

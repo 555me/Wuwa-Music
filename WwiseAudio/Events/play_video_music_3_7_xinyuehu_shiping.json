@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_video_music_3_7_xinyuehu_shiping",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_video_music_3_7_xinyuehu_shiping",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2166217512,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2166217512,
+                "SoundBankPathName": "Event/play_video_music_3_7_xinyuehu_shiping.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_video_music_3_7_xinyuehu_shiping",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 489281275,
+                "MediaPathName": "Media/489281275.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_ui\\3_7\\bgm-function_3_7_xinyuehu_shoushi_video-all-full-null-null.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_video_music_3_7_xinyuehu_shiping"
+          }
+        }
+      ],
+      "DebugName": "play_video_music_3_7_xinyuehu_shiping",
+      "EventId": 2166217512
+    },
+    "MaximumDuration": 9.966666,
+    "MinimumDuration": 9.966666,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

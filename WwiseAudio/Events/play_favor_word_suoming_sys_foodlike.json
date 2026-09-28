@@ -1,0 +1,88 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_favor_word_suoming_sys_foodlike",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_favor_word_suoming_sys_foodlike",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 4164396372,
+            "SoundBanks": [
+              {
+                "SoundBankId": 4164396372,
+                "SoundBankPathName": "Event/play_favor_word_suoming_sys_foodlike.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_favor_word_suoming_sys_foodlike",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 873442424,
+                "MediaPathName": "Media/873442424.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\en\\role\\branch_3,7\\suoming\\en_vo_suoming_sys_foodlike_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 679054169,
+                "MediaPathName": "Media/679054169.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\zh\\role\\branch_3,7\\suoming\\zh_vo_suoming_sys_foodlike_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 512633347,
+                "MediaPathName": "Media/512633347.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\ko\\role\\branch_3,7\\suoming\\ko_vo_suoming_sys_foodlike_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 162372523,
+                "MediaPathName": "Media/162372523.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\ja\\role\\branch_3,7\\suoming\\ja_vo_suoming_sys_foodlike_word.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_favor_word_suoming_sys_foodlike"
+          }
+        }
+      ],
+      "DebugName": "play_favor_word_suoming_sys_foodlike",
+      "EventId": 4164396372
+    },
+    "MaximumDuration": 36.698124,
+    "MinimumDuration": 23.851562,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

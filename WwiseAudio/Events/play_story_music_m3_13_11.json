@@ -1,0 +1,75 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_story_music_m3_13_11",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_story_music_m3_13_11",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 551443136,
+            "SoundBanks": [
+              {
+                "SoundBankId": 551443136,
+                "SoundBankPathName": "Event/play_story_music_m3_13_11.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_story_music_m3_13_11",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 556319604,
+                "MediaPathName": "Media/556319604.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_7\\story_music_m3_13_11_outro.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 808709451,
+                "MediaPathName": "Media/808709451.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_7\\story_music_m3_13_11_loop.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [
+              {
+                "Type": "EWwiseGroupType::State",
+                "GroupId": 1894263,
+                "Id": 1519503,
+                "DebugName": "story_music_m3_13_11_1"
+              }
+            ],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_story_music_m3_13_11"
+          }
+        }
+      ],
+      "DebugName": "play_story_music_m3_13_11",
+      "EventId": 551443136
+    },
+    "MaximumDuration": 0.0,
+    "MinimumDuration": 0.0,
+    "IsInfinite": true,
+    "MaxAttenuationRadius": 0.0
+  }
+]

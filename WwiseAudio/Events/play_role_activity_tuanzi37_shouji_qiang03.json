@@ -1,0 +1,98 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_role_activity_tuanzi37_shouji_qiang03",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_role_activity_tuanzi37_shouji_qiang03",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 199391753,
+            "SoundBanks": [
+              {
+                "SoundBankId": 199391753,
+                "SoundBankPathName": "Event/play_role_activity_tuanzi37_shouji_qiang03.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_role_activity_tuanzi37_shouji_qiang03",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 15268254,
+                "MediaPathName": "Media/15268254.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,7\\tuanzi37\\damagehit\\role_activity_tuanzi37_shouji_qiang03_04.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 571234585,
+                "MediaPathName": "Media/571234585.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,7\\tuanzi37\\damagehit\\role_activity_tuanzi37_shouji_qiang03_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 663698003,
+                "MediaPathName": "Media/663698003.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,7\\tuanzi37\\damagehit\\role_activity_tuanzi37_shouji_qiang03_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 819460828,
+                "MediaPathName": "Media/819460828.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,7\\tuanzi37\\damagehit\\role_activity_tuanzi37_shouji_qiang03_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 929427712,
+                "MediaPathName": "Media/929427712.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,7\\tuanzi37\\damagehit\\role_activity_tuanzi37_shouji_qiang03_05.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_role_activity_tuanzi37_shouji_qiang03"
+          }
+        }
+      ],
+      "DebugName": "play_role_activity_tuanzi37_shouji_qiang03",
+      "EventId": 199391753
+    },
+    "MaximumDuration": 1.0594631,
+    "MinimumDuration": 0.94387424,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

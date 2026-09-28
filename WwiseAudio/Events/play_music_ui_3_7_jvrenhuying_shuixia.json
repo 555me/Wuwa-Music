@@ -1,0 +1,68 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_music_ui_3_7_jvrenhuying_shuixia",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_music_ui_3_7_jvrenhuying_shuixia",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 949572878,
+            "SoundBanks": [
+              {
+                "SoundBankId": 949572878,
+                "SoundBankPathName": "Event/play_music_ui_3_7_jvrenhuying_shuixia.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_music_ui_3_7_jvrenhuying_shuixia",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 451118647,
+                "MediaPathName": "Media/451118647.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,7\\giantsystem\\ui_giantsystem_button_click.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1055632405,
+                "MediaPathName": "Media/1055632405.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_ui\\3_7\\bgm-ui_3_7_jvrenhuying_shuixia-all-full-null-null.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_music_ui_3_7_jvrenhuying_shuixia"
+          }
+        }
+      ],
+      "DebugName": "play_music_ui_3_7_jvrenhuying_shuixia",
+      "EventId": 949572878
+    },
+    "MaximumDuration": 6.5,
+    "MinimumDuration": 6.5,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_ui_tuanzi37_choosecard_b",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_ui_tuanzi37_choosecard_b",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2946951099,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2946951099,
+                "SoundBankPathName": "Event/play_ui_tuanzi37_choosecard_b.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_ui_tuanzi37_choosecard_b",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 303026541,
+                "MediaPathName": "Media/303026541.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,7\\tuanzi37\\ui_tuanzi37_choosecard_b.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_ui_tuanzi37_choosecard_b"
+          }
+        }
+      ],
+      "DebugName": "play_ui_tuanzi37_choosecard_b",
+      "EventId": 2946951099
+    },
+    "MaximumDuration": 1.3805625,
+    "MinimumDuration": 1.3805625,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

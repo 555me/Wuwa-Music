@@ -1,0 +1,88 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_favor_word_xin_sys_storyexp",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_favor_word_xin_sys_storyexp",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2227154122,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2227154122,
+                "SoundBankPathName": "Event/play_favor_word_xin_sys_storyexp.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_favor_word_xin_sys_storyexp",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 350246588,
+                "MediaPathName": "Media/350246588.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\en\\role\\branch_3,7\\xin\\en_vo_xin_sys_storyexp_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 860778430,
+                "MediaPathName": "Media/860778430.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\ko\\role\\branch_3,7\\xin\\ko_vo_xin_sys_storyexp_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 76509395,
+                "MediaPathName": "Media/76509395.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\zh\\role\\branch_3,7\\xin\\zh_vo_xin_sys_storyexp_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 417104803,
+                "MediaPathName": "Media/417104803.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\ja\\role\\branch_3,7\\xin\\ja_vo_xin_sys_storyexp_word.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_favor_word_xin_sys_storyexp"
+          }
+        }
+      ],
+      "DebugName": "play_favor_word_xin_sys_storyexp",
+      "EventId": 2227154122
+    },
+    "MaximumDuration": 59.559395,
+    "MinimumDuration": 35.602333,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

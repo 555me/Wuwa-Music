@@ -1,0 +1,78 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_mg_rockmove_medium_start",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_mg_rockmove_medium_start",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 438464368,
+            "SoundBanks": [
+              {
+                "SoundBankId": 438464368,
+                "SoundBankPathName": "Event/play_sfx_gp_mg_rockmove_medium_start.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_mg_rockmove_medium_start",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 654332195,
+                "MediaPathName": "Media/654332195.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\gameplay\\3_7\\3_7_gp_mg\\sfx_gp_mg_rockmove_medium_start_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1000632703,
+                "MediaPathName": "Media/1000632703.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\gameplay\\3_7\\3_7_gp_mg\\sfx_gp_mg_rockmove_medium_start_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1071108209,
+                "MediaPathName": "Media/1071108209.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\gameplay\\3_7\\3_7_gp_mg\\sfx_gp_mg_rockmove_medium_start_03.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_mg_rockmove_medium_start"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_mg_rockmove_medium_start",
+      "EventId": 438464368
+    },
+    "MaximumDuration": 1.526241,
+    "MinimumDuration": 0.7575188,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_gacha_music_weapno_xinyuehu",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_gacha_music_weapno_xinyuehu",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1071338437,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1071338437,
+                "SoundBankPathName": "Event/play_gacha_music_weapno_xinyuehu.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_gacha_music_weapno_xinyuehu",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 107272789,
+                "MediaPathName": "Media/107272789.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_ui\\ui_music_gacha\\3.7\\bgm-gacha_weapno_xinyuehu-all-full-103bpm-4_4.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_gacha_music_weapno_xinyuehu"
+          }
+        }
+      ],
+      "DebugName": "play_gacha_music_weapno_xinyuehu",
+      "EventId": 1071338437
+    },
+    "MaximumDuration": 16.310688,
+    "MinimumDuration": 16.310688,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

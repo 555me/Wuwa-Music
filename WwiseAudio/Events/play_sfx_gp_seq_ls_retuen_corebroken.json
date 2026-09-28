@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_seq_ls_retuen_corebroken",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_seq_ls_retuen_corebroken",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 988995124,
+            "SoundBanks": [
+              {
+                "SoundBankId": 988995124,
+                "SoundBankPathName": "Event/play_sfx_gp_seq_ls_retuen_corebroken.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_seq_ls_retuen_corebroken",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 808972577,
+                "MediaPathName": "Media/808972577.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\gameplay\\3_7\\3_7_gp_LA\\sfx_gp_seq_LS_Retuen_CoreBroken.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_seq_ls_retuen_corebroken"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_seq_ls_retuen_corebroken",
+      "EventId": 988995124
+    },
+    "MaximumDuration": 15.173187,
+    "MinimumDuration": 15.173187,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 10000.0
+  }
+]

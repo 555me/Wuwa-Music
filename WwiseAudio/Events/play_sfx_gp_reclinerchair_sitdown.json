@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_reclinerchair_sitdown",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_reclinerchair_sitdown",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2431083806,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2431083806,
+                "SoundBankPathName": "Event/play_sfx_gp_reclinerchair_sitdown.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_reclinerchair_sitdown",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 863021820,
+                "MediaPathName": "Media/863021820.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\gameplay\\3_7\\3_7_gp_LJY\\sfx_gp_reclinerchair_sitdown.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_reclinerchair_sitdown"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_reclinerchair_sitdown",
+      "EventId": 2431083806
+    },
+    "MaximumDuration": 6.151604,
+    "MinimumDuration": 6.151604,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

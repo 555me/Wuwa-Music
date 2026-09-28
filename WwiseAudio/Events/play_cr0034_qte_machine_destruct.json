@@ -1,0 +1,78 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_cr0034_qte_machine_destruct",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_cr0034_qte_machine_destruct",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 799391356,
+            "SoundBanks": [
+              {
+                "SoundBankId": 799391356,
+                "SoundBankPathName": "Event/play_cr0034_qte_machine_destruct.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_cr0034_qte_machine_destruct",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 25443317,
+                "MediaPathName": "Media/25443317.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\Plot_LevelA\\3.7\\CR0034-qte_Machine_destruct_2.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 434879411,
+                "MediaPathName": "Media/434879411.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\Plot_LevelA\\3.7\\CR0034-qte_Machine_destruct_1.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 936386508,
+                "MediaPathName": "Media/936386508.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\Plot_LevelA\\3.7\\CR0034-qte_Machine_destruct_3.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_cr0034_qte_machine_destruct"
+          }
+        }
+      ],
+      "DebugName": "play_cr0034_qte_machine_destruct",
+      "EventId": 799391356
+    },
+    "MaximumDuration": 5.363771,
+    "MinimumDuration": 4.903125,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

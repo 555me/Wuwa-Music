@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_ui_tuanzi37_dialoguebubble",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_ui_tuanzi37_dialoguebubble",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1867719305,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1867719305,
+                "SoundBankPathName": "Event/play_ui_tuanzi37_dialoguebubble.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_ui_tuanzi37_dialoguebubble",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 390552964,
+                "MediaPathName": "Media/390552964.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,7\\tuanzi37\\ui_tuanzi37_dialoguebubble.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_ui_tuanzi37_dialoguebubble"
+          }
+        }
+      ],
+      "DebugName": "play_ui_tuanzi37_dialoguebubble",
+      "EventId": 1867719305
+    },
+    "MaximumDuration": 0.375,
+    "MinimumDuration": 0.375,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

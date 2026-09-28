@@ -1,0 +1,98 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_amb_emit_3_7_metal_stress_large",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_amb_emit_3_7_metal_stress_large",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1820858135,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1820858135,
+                "SoundBankPathName": "Event/play_amb_emit_3_7_metal_stress_large.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_amb_emit_3_7_metal_stress_large",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 161743610,
+                "MediaPathName": "Media/161743610.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\3.7\\amb_emit_3_7_metal_stress_large_05.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 223907739,
+                "MediaPathName": "Media/223907739.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\3.7\\amb_emit_3_7_metal_stress_large_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 596264324,
+                "MediaPathName": "Media/596264324.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\3.7\\amb_emit_3_7_metal_stress_large_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 602064241,
+                "MediaPathName": "Media/602064241.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\3.7\\amb_emit_3_7_metal_stress_large_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 712266922,
+                "MediaPathName": "Media/712266922.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\3.7\\amb_emit_3_7_metal_stress_large_04.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_amb_emit_3_7_metal_stress_large"
+          }
+        }
+      ],
+      "DebugName": "play_amb_emit_3_7_metal_stress_large",
+      "EventId": 1820858135
+    },
+    "MaximumDuration": 0.0,
+    "MinimumDuration": 0.0,
+    "IsInfinite": true,
+    "MaxAttenuationRadius": 0.0
+  }
+]

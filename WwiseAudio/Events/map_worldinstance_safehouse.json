@@ -1,0 +1,138 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "map_worldinstance_safehouse",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/map_worldinstance_safehouse",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3014326305,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3014326305,
+                "SoundBankPathName": "Event/map_worldinstance_safehouse.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "map_worldinstance_safehouse",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 638081215,
+                "MediaPathName": "Media/638081215.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_dungeon\\3_7_dungeon\\bgm-scene_safe_house-all-full-64bpm-4_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 30166506,
+                "MediaPathName": "Media/30166506.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.0\\3.0_amb_bed\\中低风_amb_bed_wind_calm_bird.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 201990457,
+                "MediaPathName": "Media/201990457.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.7\\amb_bed_3_7_WXSG_SummerLand_v2.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 616203729,
+                "MediaPathName": "Media/616203729.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.0\\3.0_amb_bed\\中低风_amb_bed_wind_calm_bird.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 631334229,
+                "MediaPathName": "Media/631334229.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.0\\3.0_amb_bed\\中低风_amb_bed_wind_calm_bird.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 672493794,
+                "MediaPathName": "Media/672493794.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.0\\3.0_amb_bed\\中低风_amb_bed_wind_calm_bird.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1023814631,
+                "MediaPathName": "Media/1023814631.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\amb_bed_3_6_Air_Space.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1036608236,
+                "MediaPathName": "Media/1036608236.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.0\\3.0_amb_bed\\中低风_amb_bed_wind_calm_bird.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 503194697,
+                "MediaPathName": "Media/503194697.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.7\\amb_emit_3_7_roomtone_v2.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "map_worldinstance_safehouse"
+          }
+        }
+      ],
+      "DebugName": "map_worldinstance_safehouse",
+      "EventId": 3014326305
+    },
+    "MaximumDuration": 0.0,
+    "MinimumDuration": 0.0,
+    "IsInfinite": true,
+    "MaxAttenuationRadius": 0.0
+  }
+]

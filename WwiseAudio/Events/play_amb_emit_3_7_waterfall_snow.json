@@ -1,0 +1,88 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_amb_emit_3_7_waterfall_snow",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_amb_emit_3_7_waterfall_snow",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 168738599,
+            "SoundBanks": [
+              {
+                "SoundBankId": 168738599,
+                "SoundBankPathName": "Event/play_amb_emit_3_7_waterfall_snow.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_amb_emit_3_7_waterfall_snow",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 31125243,
+                "MediaPathName": "Media/31125243.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\3.0\\amb_emit_water\\amb_emit_water_waterfall_in_rocks.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 361566863,
+                "MediaPathName": "Media/361566863.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.0\\3.0_amb_bed\\沙子_amb_bed_sand_long 2.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 774013219,
+                "MediaPathName": "Media/774013219.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.0\\3.0_amb_bed\\沙子_amb_bed_sand_long 1.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 839594087,
+                "MediaPathName": "Media/839594087.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.0\\3.0_amb_bed\\沙子_amb_bed_sand_long 3.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_amb_emit_3_7_waterfall_snow"
+          }
+        }
+      ],
+      "DebugName": "play_amb_emit_3_7_waterfall_snow",
+      "EventId": 168738599
+    },
+    "MaximumDuration": 0.0,
+    "MinimumDuration": 0.0,
+    "IsInfinite": true,
+    "MaxAttenuationRadius": 10000.0
+  }
+]

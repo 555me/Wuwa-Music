@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_seq_ls_huoxia2_door1",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_seq_ls_huoxia2_door1",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1233664740,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1233664740,
+                "SoundBankPathName": "Event/play_sfx_gp_seq_ls_huoxia2_door1.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_seq_ls_huoxia2_door1",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 80773932,
+                "MediaPathName": "Media/80773932.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\gameplay\\3_7\\3_7_gp_LA\\POI_FireBox_sandian\\sfx_gp_seq_ls_huoxia2_door1.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_seq_ls_huoxia2_door1"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_seq_ls_huoxia2_door1",
+      "EventId": 1233664740
+    },
+    "MaximumDuration": 2.4764166,
+    "MinimumDuration": 2.4764166,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 15000.0
+  }
+]

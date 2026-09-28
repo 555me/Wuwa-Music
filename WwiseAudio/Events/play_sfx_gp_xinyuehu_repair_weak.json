@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_xinyuehu_repair_weak",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_xinyuehu_repair_weak",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2571762192,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2571762192,
+                "SoundBankPathName": "Event/play_sfx_gp_xinyuehu_repair_weak.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_xinyuehu_repair_weak",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 159088863,
+                "MediaPathName": "Media/159088863.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\gameplay\\3_7\\3_7_gp_LA\\sfx_gp_3_7_xuanyun.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_xinyuehu_repair_weak"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_xinyuehu_repair_weak",
+      "EventId": 2571762192
+    },
+    "MaximumDuration": 6.8407083,
+    "MinimumDuration": 6.8407083,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

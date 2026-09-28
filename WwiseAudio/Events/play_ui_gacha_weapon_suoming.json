@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_ui_gacha_weapon_suoming",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_ui_gacha_weapon_suoming",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 619781323,
+            "SoundBanks": [
+              {
+                "SoundBankId": 619781323,
+                "SoundBankPathName": "Event/play_ui_gacha_weapon_suoming.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_ui_gacha_weapon_suoming",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 393967417,
+                "MediaPathName": "Media/393967417.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "role\\role_bat_Suoming\\Gacha\\ui_gacha_weapon_suoming.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_ui_gacha_weapon_suoming"
+          }
+        }
+      ],
+      "DebugName": "play_ui_gacha_weapon_suoming",
+      "EventId": 619781323
+    },
+    "MaximumDuration": 16.000021,
+    "MinimumDuration": 16.000021,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

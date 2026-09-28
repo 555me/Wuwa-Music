@@ -1,0 +1,88 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_favor_word_suoming_sys_worry",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_favor_word_suoming_sys_worry",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3807879604,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3807879604,
+                "SoundBankPathName": "Event/play_favor_word_suoming_sys_worry.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_favor_word_suoming_sys_worry",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 5059864,
+                "MediaPathName": "Media/5059864.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\en\\role\\branch_3,7\\suoming\\en_vo_suoming_sys_worry_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 469034861,
+                "MediaPathName": "Media/469034861.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\zh\\role\\branch_3,7\\suoming\\zh_vo_suoming_sys_worry_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 154100788,
+                "MediaPathName": "Media/154100788.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\ko\\role\\branch_3,7\\suoming\\ko_vo_suoming_sys_worry_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 886469426,
+                "MediaPathName": "Media/886469426.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\ja\\role\\branch_3,7\\suoming\\ja_vo_suoming_sys_worry_word.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_favor_word_suoming_sys_worry"
+          }
+        }
+      ],
+      "DebugName": "play_favor_word_suoming_sys_worry",
+      "EventId": 3807879604
+    },
+    "MaximumDuration": 32.88079,
+    "MinimumDuration": 20.991333,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

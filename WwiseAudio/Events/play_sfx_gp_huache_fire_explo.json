@@ -1,0 +1,78 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_huache_fire_explo",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_huache_fire_explo",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2530719166,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2530719166,
+                "SoundBankPathName": "Event/play_sfx_gp_huache_fire_explo.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_huache_fire_explo",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 169417654,
+                "MediaPathName": "Media/169417654.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\Enemy\\Boss\\chonglou\\SFX_ChongLou_Skill_BoomShot_Fire_Explo_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 201586359,
+                "MediaPathName": "Media/201586359.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\Enemy\\Boss\\chonglou\\SFX_ChongLou_Skill_BoomShot_Fire_Explo_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 944399740,
+                "MediaPathName": "Media/944399740.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\Enemy\\Boss\\chonglou\\SFX_ChongLou_Skill_BoomShot_Fire_Explo_01.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_huache_fire_explo"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_huache_fire_explo",
+      "EventId": 2530719166
+    },
+    "MaximumDuration": 1.3333334,
+    "MinimumDuration": 1.2333333,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 10000.0
+  }
+]

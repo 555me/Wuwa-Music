@@ -1,0 +1,98 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_amb_emit_3_7_glass_vibrate",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_amb_emit_3_7_glass_vibrate",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2774644341,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2774644341,
+                "SoundBankPathName": "Event/play_amb_emit_3_7_glass_vibrate.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_amb_emit_3_7_glass_vibrate",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 553390646,
+                "MediaPathName": "Media/553390646.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\3.7\\amb_emit_3_7_glass_vibrate_2.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 581845130,
+                "MediaPathName": "Media/581845130.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\3.7\\amb_emit_3_7_glass_vibrate_1.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 858730984,
+                "MediaPathName": "Media/858730984.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\3.7\\amb_emit_3_7_glass_vibrate_3.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 908194062,
+                "MediaPathName": "Media/908194062.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\3.7\\amb_emit_3_7_glass_vibrate_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 973262217,
+                "MediaPathName": "Media/973262217.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\3.7\\amb_emit_3_7_glass_vibrate_5.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_amb_emit_3_7_glass_vibrate"
+          }
+        }
+      ],
+      "DebugName": "play_amb_emit_3_7_glass_vibrate",
+      "EventId": 2774644341
+    },
+    "MaximumDuration": 0.0,
+    "MinimumDuration": 0.0,
+    "IsInfinite": true,
+    "MaxAttenuationRadius": 1500.0
+  }
+]

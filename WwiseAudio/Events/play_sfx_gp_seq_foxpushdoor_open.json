@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_seq_foxpushdoor_open",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_seq_foxpushdoor_open",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 975371700,
+            "SoundBanks": [
+              {
+                "SoundBankId": 975371700,
+                "SoundBankPathName": "Event/play_sfx_gp_seq_foxpushdoor_open.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_seq_foxpushdoor_open",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 897682907,
+                "MediaPathName": "Media/897682907.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\gameplay\\3_7\\3_7_gp_LA\\sfx_gp_seq_FoxPushDoor_open.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_seq_foxpushdoor_open"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_seq_foxpushdoor_open",
+      "EventId": 975371700
+    },
+    "MaximumDuration": 1.8210208,
+    "MinimumDuration": 1.8210208,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

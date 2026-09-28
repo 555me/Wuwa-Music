@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_3_7_dizi",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_3_7_dizi",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3717728452,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3717728452,
+                "SoundBankPathName": "Event/play_3_7_dizi.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_3_7_dizi",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 844988847,
+                "MediaPathName": "Media/844988847.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_interact\\3_7\\bgm-interact_3_7_dizi-all-full-null-null.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_3_7_dizi"
+          }
+        }
+      ],
+      "DebugName": "play_3_7_dizi",
+      "EventId": 3717728452
+    },
+    "MaximumDuration": 60.0,
+    "MinimumDuration": 60.0,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 8000.0
+  }
+]

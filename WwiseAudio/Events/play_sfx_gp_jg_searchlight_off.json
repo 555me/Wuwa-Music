@@ -1,0 +1,78 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_jg_searchlight_off",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_jg_searchlight_off",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3214432928,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3214432928,
+                "SoundBankPathName": "Event/play_sfx_gp_jg_searchlight_off.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_jg_searchlight_off",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 296995640,
+                "MediaPathName": "Media/296995640.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\gameplay\\3_7\\sfx_gp_jg_searchlight_off_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 435917479,
+                "MediaPathName": "Media/435917479.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\gameplay\\3_7\\sfx_gp_jg_searchlight_off_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 574065330,
+                "MediaPathName": "Media/574065330.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\gameplay\\3_7\\sfx_gp_jg_searchlight_off_03.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_jg_searchlight_off"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_jg_searchlight_off",
+      "EventId": 3214432928
+    },
+    "MaximumDuration": 1.0,
+    "MinimumDuration": 1.0,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 3000.0
+  }
+]

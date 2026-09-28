@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_ui_camera37_zoom_out",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_ui_camera37_zoom_out",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2687878899,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2687878899,
+                "SoundBankPathName": "Event/play_ui_camera37_zoom_out.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_ui_camera37_zoom_out",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 458730260,
+                "MediaPathName": "Media/458730260.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,7\\camera37\\ui_camera37_zoom_out.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_ui_camera37_zoom_out"
+          }
+        }
+      ],
+      "DebugName": "play_ui_camera37_zoom_out",
+      "EventId": 2687878899
+    },
+    "MaximumDuration": 0.14061667,
+    "MinimumDuration": 0.14061667,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

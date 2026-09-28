@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_seq_jiexingsharush_door",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_seq_jiexingsharush_door",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3812337977,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3812337977,
+                "SoundBankPathName": "Event/play_sfx_gp_seq_jiexingsharush_door.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_seq_jiexingsharush_door",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 584364963,
+                "MediaPathName": "Media/584364963.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\gameplay\\3_7\\3_7_gp_LA\\sfx_gp_seq_JiexingshaRush_door.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_seq_jiexingsharush_door"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_seq_jiexingsharush_door",
+      "EventId": 3812337977
+    },
+    "MaximumDuration": 3.011396,
+    "MinimumDuration": 3.011396,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 10000.0
+  }
+]

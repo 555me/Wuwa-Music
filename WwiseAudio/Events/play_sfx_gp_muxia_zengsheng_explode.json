@@ -1,0 +1,78 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_muxia_zengsheng_explode",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_muxia_zengsheng_explode",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1030341020,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1030341020,
+                "SoundBankPathName": "Event/play_sfx_gp_muxia_zengsheng_explode.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_muxia_zengsheng_explode",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 42169950,
+                "MediaPathName": "Media/42169950.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\gameplay\\3_7\\sfx_gp_muxia_zengsheng_explode_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 83295603,
+                "MediaPathName": "Media/83295603.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\gameplay\\3_7\\sfx_gp_muxia_zengsheng_explode_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 120158217,
+                "MediaPathName": "Media/120158217.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\gameplay\\3_7\\sfx_gp_muxia_zengsheng_explode_02.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_muxia_zengsheng_explode"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_muxia_zengsheng_explode",
+      "EventId": 1030341020
+    },
+    "MaximumDuration": 0.99635416,
+    "MinimumDuration": 0.75827086,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 10000.0
+  }
+]

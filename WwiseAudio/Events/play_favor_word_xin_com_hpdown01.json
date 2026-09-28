@@ -1,0 +1,88 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_favor_word_xin_com_hpdown01",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_favor_word_xin_com_hpdown01",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1262981699,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1262981699,
+                "SoundBankPathName": "Event/play_favor_word_xin_com_hpdown01.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_favor_word_xin_com_hpdown01",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 120740908,
+                "MediaPathName": "Media/120740908.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_3,7\\xin\\en_vo_xin_com_hpdown01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 224901854,
+                "MediaPathName": "Media/224901854.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\ko\\role\\branch_3,7\\xin\\ko_vo_xin_com_hpdown01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 771165114,
+                "MediaPathName": "Media/771165114.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\zh\\role\\branch_3,7\\xin\\zh_vo_xin_com_hpdown01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 209779222,
+                "MediaPathName": "Media/209779222.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\ja\\role\\branch_3,7\\xin\\ja_vo_xin_com_hpdown01_word.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_favor_word_xin_com_hpdown01"
+          }
+        }
+      ],
+      "DebugName": "play_favor_word_xin_com_hpdown01",
+      "EventId": 1262981699
+    },
+    "MaximumDuration": 2.9821458,
+    "MinimumDuration": 1.7870208,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

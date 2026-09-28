@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_seq_ls_perform_ending",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_seq_ls_perform_ending",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 479736607,
+            "SoundBanks": [
+              {
+                "SoundBankId": 479736607,
+                "SoundBankPathName": "Event/play_sfx_gp_seq_ls_perform_ending.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_seq_ls_perform_ending",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 595337707,
+                "MediaPathName": "Media/595337707.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\gameplay\\3_7\\3_7_gp_LA\\L1RedPoi\\sfx_gp_seq_LS_Perform_Ending.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_seq_ls_perform_ending"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_seq_ls_perform_ending",
+      "EventId": 479736607
+    },
+    "MaximumDuration": 5.5702744,
+    "MinimumDuration": 5.5702744,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 30000.0
+  }
+]

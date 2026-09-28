@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_cr0034_qte_long_press_finish_2",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_cr0034_qte_long_press_finish_2",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3880442903,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3880442903,
+                "SoundBankPathName": "Event/play_cr0034_qte_long_press_finish_2.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_cr0034_qte_long_press_finish_2",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 880328775,
+                "MediaPathName": "Media/880328775.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\Plot_LevelA\\3.7\\CR0034-qte_Long_press_finish_2.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_cr0034_qte_long_press_finish_2"
+          }
+        }
+      ],
+      "DebugName": "play_cr0034_qte_long_press_finish_2",
+      "EventId": 3880442903
+    },
+    "MaximumDuration": 4.530375,
+    "MinimumDuration": 4.530375,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

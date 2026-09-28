@@ -1,0 +1,128 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_amb_emit_3_7_wood_creak_oneshot",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_amb_emit_3_7_wood_creak_oneshot",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 269735648,
+            "SoundBanks": [
+              {
+                "SoundBankId": 269735648,
+                "SoundBankPathName": "Event/play_amb_emit_3_7_wood_creak_oneshot.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_amb_emit_3_7_wood_creak_oneshot",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 222284078,
+                "MediaPathName": "Media/222284078.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\2.7\\Tianguo_WoodEmit\\amb_emit_wood_creak_oneshot\\amb_emit_wood_creak_oneshot 3.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 389397735,
+                "MediaPathName": "Media/389397735.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\2.7\\Tianguo_WoodEmit\\amb_emit_wood_crack_oneshot\\amb_emit_wood_crack_oneshot 4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 453249520,
+                "MediaPathName": "Media/453249520.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\2.7\\Tianguo_WoodEmit\\amb_emit_wood_crack_oneshot\\amb_emit_wood_crack_oneshot 3.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 486584555,
+                "MediaPathName": "Media/486584555.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\2.7\\Tianguo_WoodEmit\\amb_emit_wood_creak_oneshot\\amb_emit_wood_creak_oneshot 1.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 587584996,
+                "MediaPathName": "Media/587584996.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\2.7\\Tianguo_WoodEmit\\amb_emit_wood_crack_oneshot\\amb_emit_wood_crack_oneshot 5.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 761179886,
+                "MediaPathName": "Media/761179886.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\2.7\\Tianguo_WoodEmit\\amb_emit_wood_crack_oneshot\\amb_emit_wood_crack_oneshot 2.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1024346707,
+                "MediaPathName": "Media/1024346707.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\2.7\\Tianguo_WoodEmit\\amb_emit_wood_creak_oneshot\\amb_emit_wood_creak_oneshot 4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1056520629,
+                "MediaPathName": "Media/1056520629.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\2.7\\Tianguo_WoodEmit\\amb_emit_wood_creak_oneshot\\amb_emit_wood_creak_oneshot 2.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_amb_emit_3_7_wood_creak_oneshot"
+          }
+        }
+      ],
+      "DebugName": "play_amb_emit_3_7_wood_creak_oneshot",
+      "EventId": 269735648
+    },
+    "MaximumDuration": 5.617729,
+    "MinimumDuration": 3.5887291,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 1500.0
+  }
+]

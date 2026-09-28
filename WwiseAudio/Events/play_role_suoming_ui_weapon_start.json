@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_role_suoming_ui_weapon_start",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_role_suoming_ui_weapon_start",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3214886586,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3214886586,
+                "SoundBankPathName": "Event/play_role_suoming_ui_weapon_start.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_role_suoming_ui_weapon_start",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 238996050,
+                "MediaPathName": "Media/238996050.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "role\\role_bat_Suoming\\Ui\\role_Suoming_ui_weapon_start.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_role_suoming_ui_weapon_start"
+          }
+        }
+      ],
+      "DebugName": "play_role_suoming_ui_weapon_start",
+      "EventId": 3214886586
+    },
+    "MaximumDuration": 2.0,
+    "MinimumDuration": 2.0,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

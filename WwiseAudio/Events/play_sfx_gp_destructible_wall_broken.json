@@ -1,0 +1,68 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_destructible_wall_broken",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_destructible_wall_broken",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1962381705,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1962381705,
+                "SoundBankPathName": "Event/play_sfx_gp_destructible_wall_broken.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_destructible_wall_broken",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 589909368,
+                "MediaPathName": "Media/589909368.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\gameplay\\3_7\\3_7_gp_LA\\xiaoxiaomengyan\\sfx_gp_destructible_wall_broken_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 714091063,
+                "MediaPathName": "Media/714091063.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\gameplay\\3_7\\3_7_gp_LA\\xiaoxiaomengyan\\sfx_gp_destructible_wall_broken_01.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_destructible_wall_broken"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_destructible_wall_broken",
+      "EventId": 1962381705
+    },
+    "MaximumDuration": 4.5551667,
+    "MinimumDuration": 3.0224166,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

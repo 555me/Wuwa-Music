@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_seq_ls_lanternmoving_moving_3",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_seq_ls_lanternmoving_moving_3",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 4077368605,
+            "SoundBanks": [
+              {
+                "SoundBankId": 4077368605,
+                "SoundBankPathName": "Event/play_sfx_gp_seq_ls_lanternmoving_moving_3.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_seq_ls_lanternmoving_moving_3",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 271276283,
+                "MediaPathName": "Media/271276283.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\gameplay\\3_7\\3_7_gp_LA\\L1RedPoi\\sfx_gp_seq_LS_LanternMoving_moving_3.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_seq_ls_lanternmoving_moving_3"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_seq_ls_lanternmoving_moving_3",
+      "EventId": 4077368605
+    },
+    "MaximumDuration": 35.76977,
+    "MinimumDuration": 35.76977,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 10000.0
+  }
+]

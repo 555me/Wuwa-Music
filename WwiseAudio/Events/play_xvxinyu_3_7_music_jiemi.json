@@ -1,0 +1,75 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_xvxinyu_3_7_music_jiemi",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_xvxinyu_3_7_music_jiemi",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 472246460,
+            "SoundBanks": [
+              {
+                "SoundBankId": 472246460,
+                "SoundBankPathName": "Event/play_xvxinyu_3_7_music_jiemi.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_xvxinyu_3_7_music_jiemi",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 116789252,
+                "MediaPathName": "Media/116789252.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_dungeon\\3_7_dungeon\\poi\\bgm-story_quest_3_7_qixinyu_03-all-full-93bpm-4_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 114083196,
+                "MediaPathName": "Media/114083196.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_dungeon\\3_7_dungeon\\poi\\bgm-dungeon_3_7_jinxinyu_layer1-all-full-90bpm-4_4.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [
+              {
+                "Type": "EWwiseGroupType::State",
+                "GroupId": -1627066031,
+                "Id": 748895195,
+                "DebugName": "None"
+              }
+            ],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_xvxinyu_3_7_music_jiemi"
+          }
+        }
+      ],
+      "DebugName": "play_xvxinyu_3_7_music_jiemi",
+      "EventId": 472246460
+    },
+    "MaximumDuration": 0.0,
+    "MinimumDuration": 0.0,
+    "IsInfinite": true,
+    "MaxAttenuationRadius": 0.0
+  }
+]

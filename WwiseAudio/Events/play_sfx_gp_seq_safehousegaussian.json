@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_seq_safehousegaussian",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_seq_safehousegaussian",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 4203544250,
+            "SoundBanks": [
+              {
+                "SoundBankId": 4203544250,
+                "SoundBankPathName": "Event/play_sfx_gp_seq_safehousegaussian.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_seq_safehousegaussian",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 264669342,
+                "MediaPathName": "Media/264669342.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\gameplay\\3_7\\3_7_gp_LA\\sfx_gp_seq_SafehouseGaussian.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_seq_safehousegaussian"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_seq_safehousegaussian",
+      "EventId": 4203544250
+    },
+    "MaximumDuration": 4.8966017,
+    "MinimumDuration": 4.8966017,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

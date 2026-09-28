@@ -1,0 +1,148 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_jinxinyu_3_7_music_poi",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_jinxinyu_3_7_music_poi",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3348102137,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3348102137,
+                "SoundBankPathName": "Event/play_jinxinyu_3_7_music_poi.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_jinxinyu_3_7_music_poi",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 324921673,
+                "MediaPathName": "Media/324921673.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music\\music_scene\\silence.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1043956149,
+                "MediaPathName": "Media/1043956149.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_dungeon\\3_7_dungeon\\bgm-scene_jinxinyu-all-full-100bpm-null.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 74851366,
+                "MediaPathName": "Media/74851366.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_dungeon\\3_7_dungeon\\poi\\bgm-dungeon_3_7_jinxinyu_layer2-all-full-90bpm-4_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 411139215,
+                "MediaPathName": "Media/411139215.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_dungeon\\3_7_dungeon\\poi\\bgm-dungeon_3_7_jinxinyu_luowu-all-full-127bpm-4_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 661371315,
+                "MediaPathName": "Media/661371315.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_5\\bgm-story_common_3_5_calmness_suspense_01-all-full-null-null.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 114083196,
+                "MediaPathName": "Media/114083196.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_dungeon\\3_7_dungeon\\poi\\bgm-dungeon_3_7_jinxinyu_layer1-all-full-90bpm-4_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 116115791,
+                "MediaPathName": "Media/116115791.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_dungeon\\3_7_dungeon\\poi\\bgm-dungeon_3_7_jinxinyu_layer3-all-full-90bpm-4_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 689692128,
+                "MediaPathName": "Media/689692128.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_battle\\3.7\\bgm-battle_elite_hongxing-all-full-159bpm-null.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 210222059,
+                "MediaPathName": "Media/210222059.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_battle\\3.5\\bgm-battle_scene_xuanfang_elite-all-full-144bpm-4_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 970933516,
+                "MediaPathName": "Media/970933516.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_battle\\3.5\\bgm-battle_scene_xuanfang-all-full-140bpm-null.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_jinxinyu_3_7_music_poi"
+          }
+        }
+      ],
+      "DebugName": "play_jinxinyu_3_7_music_poi",
+      "EventId": 3348102137
+    },
+    "MaximumDuration": 0.0,
+    "MinimumDuration": 0.0,
+    "IsInfinite": true,
+    "MaxAttenuationRadius": 0.0
+  }
+]

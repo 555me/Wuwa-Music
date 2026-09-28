@@ -1,0 +1,98 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_amb_emit_3_7_shimmerfabric",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_amb_emit_3_7_shimmerfabric",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 994428367,
+            "SoundBanks": [
+              {
+                "SoundBankId": 994428367,
+                "SoundBankPathName": "Event/play_amb_emit_3_7_shimmerfabric.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_amb_emit_3_7_shimmerfabric",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 145196474,
+                "MediaPathName": "Media/145196474.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\3.7\\amb_emt_shimmerfabric_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 266045882,
+                "MediaPathName": "Media/266045882.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\3.7\\amb_emt_shimmerfabric_05.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 304746031,
+                "MediaPathName": "Media/304746031.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\3.7\\amb_emt_shimmerfabric_04.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 565863700,
+                "MediaPathName": "Media/565863700.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\3.7\\amb_emt_shimmerfabric_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 632645923,
+                "MediaPathName": "Media/632645923.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\3.7\\amb_emt_shimmerfabric_01.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_amb_emit_3_7_shimmerfabric"
+          }
+        }
+      ],
+      "DebugName": "play_amb_emit_3_7_shimmerfabric",
+      "EventId": 994428367
+    },
+    "MaximumDuration": 0.0,
+    "MinimumDuration": 0.0,
+    "IsInfinite": true,
+    "MaxAttenuationRadius": 1500.0
+  }
+]

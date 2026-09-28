@@ -1,0 +1,98 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_amb_emit_3_7_flag_large",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_amb_emit_3_7_flag_large",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3112252789,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3112252789,
+                "SoundBankPathName": "Event/play_amb_emit_3_7_flag_large.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_amb_emit_3_7_flag_large",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 12771746,
+                "MediaPathName": "Media/12771746.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\3.0\\Nov16 (ready export)\\amb_emit_flag_flap\\amb_emit_flag_flap_3.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 355085109,
+                "MediaPathName": "Media/355085109.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\3.0\\Nov16 (ready export)\\amb_emit_flag_flap\\amb_emit_flag_flap_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 587651144,
+                "MediaPathName": "Media/587651144.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\3.0\\Nov16 (ready export)\\amb_emit_flag_flap\\amb_emit_flag_flap_1.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 673309527,
+                "MediaPathName": "Media/673309527.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\3.0\\Nov16 (ready export)\\amb_emit_flag_flap\\amb_emit_flag_flap_5.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 775009467,
+                "MediaPathName": "Media/775009467.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\3.0\\Nov16 (ready export)\\amb_emit_flag_flap\\amb_emit_flag_flap_2.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_amb_emit_3_7_flag_large"
+          }
+        }
+      ],
+      "DebugName": "play_amb_emit_3_7_flag_large",
+      "EventId": 3112252789
+    },
+    "MaximumDuration": 0.0,
+    "MinimumDuration": 0.0,
+    "IsInfinite": true,
+    "MaxAttenuationRadius": 2000.0
+  }
+]

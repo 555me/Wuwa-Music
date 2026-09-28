@@ -1,0 +1,78 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_boss_tianyanhuanxin_fire_explo_shiled",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_boss_tianyanhuanxin_fire_explo_shiled",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3648980155,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3648980155,
+                "SoundBankPathName": "Event/play_sfx_gp_boss_tianyanhuanxin_fire_explo_shiled.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_boss_tianyanhuanxin_fire_explo_shiled",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 130214785,
+                "MediaPathName": "Media/130214785.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\Enemy\\Boss\\TianYanHuanXin\\sfx_gp_boss_tianyanhuanxin_fire_explo_shiled_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 409417435,
+                "MediaPathName": "Media/409417435.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\Enemy\\Boss\\TianYanHuanXin\\sfx_gp_boss_tianyanhuanxin_fire_explo_shiled_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 669678320,
+                "MediaPathName": "Media/669678320.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\Enemy\\Boss\\TianYanHuanXin\\sfx_gp_boss_tianyanhuanxin_fire_explo_shiled_02.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_boss_tianyanhuanxin_fire_explo_shiled"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_boss_tianyanhuanxin_fire_explo_shiled",
+      "EventId": 3648980155
+    },
+    "MaximumDuration": 4.64975,
+    "MinimumDuration": 4.64975,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

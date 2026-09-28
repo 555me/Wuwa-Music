@@ -1,0 +1,215 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_foxgiant_beforestory_contempt",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_foxgiant_beforestory_contempt",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 1819748192,
+            "LanguageName": "en",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 219696246,
+            "SoundBanks": [
+              {
+                "SoundBankId": 219696246,
+                "SoundBankPathName": "Event/en/play_vo_foxgiant_beforestory_contempt.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_foxgiant_beforestory_contempt",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 706663692,
+                "MediaPathName": "Media/en/706663692.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.7\\vo_foxgiant\\beforestory\\en_vo_foxgiant_beforestory_contempt_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 788066456,
+                "MediaPathName": "Media/en/788066456.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.7\\vo_foxgiant\\beforestory\\en_vo_foxgiant_beforestory_contempt_02.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_foxgiant_beforestory_contempt"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1735860046,
+            "LanguageName": "ja",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 219696246,
+            "SoundBanks": [
+              {
+                "SoundBankId": 219696246,
+                "SoundBankPathName": "Event/ja/play_vo_foxgiant_beforestory_contempt.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_foxgiant_beforestory_contempt",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 484939942,
+                "MediaPathName": "Media/ja/484939942.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.7\\vo_foxgiant\\beforestory\\ja_vo_foxgiant_beforestory_contempt_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 742028674,
+                "MediaPathName": "Media/ja/742028674.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.7\\vo_foxgiant\\beforestory\\ja_vo_foxgiant_beforestory_contempt_02.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_foxgiant_beforestory_contempt"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1719082483,
+            "LanguageName": "ko",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 219696246,
+            "SoundBanks": [
+              {
+                "SoundBankId": 219696246,
+                "SoundBankPathName": "Event/ko/play_vo_foxgiant_beforestory_contempt.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_foxgiant_beforestory_contempt",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 276814282,
+                "MediaPathName": "Media/ko/276814282.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.7\\vo_foxgiant\\beforestory\\ko_vo_foxgiant_beforestory_contempt_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 979233057,
+                "MediaPathName": "Media/ko/979233057.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.7\\vo_foxgiant\\beforestory\\ko_vo_foxgiant_beforestory_contempt_02.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_foxgiant_beforestory_contempt"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1467418007,
+            "LanguageName": "zh",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsDefault"
+          },
+          "Value": {
+            "EventId": 219696246,
+            "SoundBanks": [
+              {
+                "SoundBankId": 219696246,
+                "SoundBankPathName": "Event/zh/play_vo_foxgiant_beforestory_contempt.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_foxgiant_beforestory_contempt",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 109713200,
+                "MediaPathName": "Media/zh/109713200.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.7\\vo_foxgiant\\beforestory\\zh_vo_foxgiant_beforestory_contempt_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 853944357,
+                "MediaPathName": "Media/zh/853944357.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.7\\vo_foxgiant\\beforestory\\zh_vo_foxgiant_beforestory_contempt_02.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_foxgiant_beforestory_contempt"
+          }
+        }
+      ],
+      "DebugName": "play_vo_foxgiant_beforestory_contempt",
+      "EventId": 219696246
+    },
+    "MaximumDuration": 3.6921875,
+    "MinimumDuration": 2.8198333,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

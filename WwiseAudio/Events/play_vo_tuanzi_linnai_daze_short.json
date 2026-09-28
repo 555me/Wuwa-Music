@@ -1,0 +1,78 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_tuanzi_linnai_daze_short",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_tuanzi_linnai_daze_short",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1970596223,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1970596223,
+                "SoundBankPathName": "Event/play_vo_tuanzi_linnai_daze_short.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_tuanzi_linnai_daze_short",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 367411421,
+                "MediaPathName": "Media/367411421.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "branch_3,7\\tuanzi_voice_sound\\linnai\\vo_tuanzi_linnai_daze_short_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 652387090,
+                "MediaPathName": "Media/652387090.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "branch_3,7\\tuanzi_voice_sound\\linnai\\vo_tuanzi_linnai_daze_short_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1000440554,
+                "MediaPathName": "Media/1000440554.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "branch_3,7\\tuanzi_voice_sound\\linnai\\vo_tuanzi_linnai_daze_short_01.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_tuanzi_linnai_daze_short"
+          }
+        }
+      ],
+      "DebugName": "play_vo_tuanzi_linnai_daze_short",
+      "EventId": 1970596223
+    },
+    "MaximumDuration": 1.3842505,
+    "MinimumDuration": 1.058024,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

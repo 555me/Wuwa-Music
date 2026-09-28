@@ -1,0 +1,78 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_csm",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_csm",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2211467129,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2211467129,
+                "SoundBankPathName": "Event/play_sfx_gp_csm.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_csm",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 58905681,
+                "MediaPathName": "Media/58905681.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\gameplay\\3_7\\3_7_gp_csm\\sfx_gp_csm_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1005474304,
+                "MediaPathName": "Media/1005474304.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\gameplay\\3_7\\3_7_gp_csm\\sfx_gp_csm_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1021878459,
+                "MediaPathName": "Media/1021878459.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\gameplay\\3_7\\3_7_gp_csm\\sfx_gp_csm_02.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_csm"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_csm",
+      "EventId": 2211467129
+    },
+    "MaximumDuration": 3.59276,
+    "MinimumDuration": 2.2970934,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 10000.0
+  }
+]

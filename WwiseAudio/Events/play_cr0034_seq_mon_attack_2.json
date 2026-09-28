@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_cr0034_seq_mon_attack_2",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_cr0034_seq_mon_attack_2",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1624329077,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1624329077,
+                "SoundBankPathName": "Event/play_cr0034_seq_mon_attack_2.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_cr0034_seq_mon_attack_2",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 476022369,
+                "MediaPathName": "Media/476022369.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\Plot_LevelA\\3.7\\CR0034-seq_mon_attack_2.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_cr0034_seq_mon_attack_2"
+          }
+        }
+      ],
+      "DebugName": "play_cr0034_seq_mon_attack_2",
+      "EventId": 1624329077
+    },
+    "MaximumDuration": 3.3850207,
+    "MinimumDuration": 3.3850207,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_tprefab_woodenbox_regenerativeitem_bamboo_grow",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_tprefab_woodenbox_regenerativeitem_bamboo_grow",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 505751260,
+            "SoundBanks": [
+              {
+                "SoundBankId": 505751260,
+                "SoundBankPathName": "Event/play_sfx_gp_tprefab_woodenbox_regenerativeitem_bamboo_grow.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_tprefab_woodenbox_regenerativeitem_bamboo_grow",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 334616069,
+                "MediaPathName": "Media/334616069.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\gameplay\\3_7\\sfx_gp_tprefab_woodenbox_regenerativeItem_bamboo_grow_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 577776033,
+                "MediaPathName": "Media/577776033.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\gameplay\\3_7\\sfx_gp_tprefab_woodenbox_regenerativeItem_bamboo_grow_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 654422245,
+                "MediaPathName": "Media/654422245.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\gameplay\\3_7\\sfx_gp_tprefab_woodenbox_regenerativeItem_bamboo_grow_01.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_tprefab_woodenbox_regenerativeitem_bamboo_grow"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_tprefab_woodenbox_regenerativeitem_bamboo_grow",
+      "EventId": 505751260
+    },
+    "MaximumDuration": 2.8130624,
+    "MinimumDuration": 2.5548334,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

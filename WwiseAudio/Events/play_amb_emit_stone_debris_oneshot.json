@@ -1,0 +1,138 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_amb_emit_stone_debris_oneshot",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_amb_emit_stone_debris_oneshot",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2288361021,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2288361021,
+                "SoundBankPathName": "Event/play_amb_emit_stone_debris_oneshot.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_amb_emit_stone_debris_oneshot",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 32990069,
+                "MediaPathName": "Media/32990069.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\2.7\\Tianguo_StoneEmit\\amb_emit_stone_stress_large_oneshot\\amb_emit_stone_stress_large_oneshot 3.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 116083670,
+                "MediaPathName": "Media/116083670.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\3.0\\Nov13 (ready export)\\amb_emit_rock_movement\\amb_emit_rock_movement_3.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 289372303,
+                "MediaPathName": "Media/289372303.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\3.0\\Nov13 (ready export)\\amb_emit_rock_movement\\amb_emit_rock_movement_5.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 374514683,
+                "MediaPathName": "Media/374514683.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\3.0\\Nov13 (ready export)\\amb_emit_rock_movement\\amb_emit_rock_movement_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 459446131,
+                "MediaPathName": "Media/459446131.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\2.7\\Tianguo_StoneEmit\\amb_emit_stone_stress_large_oneshot\\amb_emit_stone_stress_large_oneshot 2.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 546729787,
+                "MediaPathName": "Media/546729787.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\3.0\\Nov13 (ready export)\\amb_emit_rock_movement\\amb_emit_rock_movement_2.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 851622265,
+                "MediaPathName": "Media/851622265.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\2.7\\Tianguo_StoneEmit\\amb_emit_stone_stress_large_oneshot\\amb_emit_stone_stress_large_oneshot 5.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 885646121,
+                "MediaPathName": "Media/885646121.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\2.7\\Tianguo_StoneEmit\\amb_emit_stone_stress_large_oneshot\\amb_emit_stone_stress_large_oneshot 1.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 946015080,
+                "MediaPathName": "Media/946015080.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\3.0\\Nov13 (ready export)\\amb_emit_rock_movement\\amb_emit_rock_movement_6.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_amb_emit_stone_debris_oneshot"
+          }
+        }
+      ],
+      "DebugName": "play_amb_emit_stone_debris_oneshot",
+      "EventId": 2288361021
+    },
+    "MaximumDuration": 8.073605,
+    "MinimumDuration": 5.528771,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 1500.0
+  }
+]

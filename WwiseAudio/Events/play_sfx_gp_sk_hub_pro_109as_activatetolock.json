@@ -1,0 +1,78 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_sk_hub_pro_109as_activatetolock",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_sk_hub_pro_109as_activatetolock",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2683268673,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2683268673,
+                "SoundBankPathName": "Event/play_sfx_gp_sk_hub_pro_109as_activatetolock.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_sk_hub_pro_109as_activatetolock",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 107022802,
+                "MediaPathName": "Media/107022802.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\gameplay\\3_7\\sfx_gp_sk_hub_pro_109as_activatetoLock_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 773431154,
+                "MediaPathName": "Media/773431154.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\gameplay\\3_7\\sfx_gp_sk_hub_pro_109as_activatetoLock_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 880165467,
+                "MediaPathName": "Media/880165467.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\gameplay\\3_7\\sfx_gp_sk_hub_pro_109as_activatetoLock_03.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_sk_hub_pro_109as_activatetolock"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_sk_hub_pro_109as_activatetolock",
+      "EventId": 2683268673
+    },
+    "MaximumDuration": 1.4300208,
+    "MinimumDuration": 1.0252917,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 4000.0
+  }
+]

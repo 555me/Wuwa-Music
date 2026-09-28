@@ -1,0 +1,78 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_tuanzi_suisui_effort_long",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_tuanzi_suisui_effort_long",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2433422532,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2433422532,
+                "SoundBankPathName": "Event/play_vo_tuanzi_suisui_effort_long.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_tuanzi_suisui_effort_long",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 725247489,
+                "MediaPathName": "Media/725247489.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "branch_3,7\\tuanzi_voice_sound\\suisui\\vo_tuanzi_suisui_effort_long_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 750251517,
+                "MediaPathName": "Media/750251517.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "branch_3,7\\tuanzi_voice_sound\\suisui\\vo_tuanzi_suisui_effort_long_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 904446517,
+                "MediaPathName": "Media/904446517.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "branch_3,7\\tuanzi_voice_sound\\suisui\\vo_tuanzi_suisui_effort_long_03.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_tuanzi_suisui_effort_long"
+          }
+        }
+      ],
+      "DebugName": "play_vo_tuanzi_suisui_effort_long",
+      "EventId": 2433422532
+    },
+    "MaximumDuration": 4.4717026,
+    "MinimumDuration": 3.1327186,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

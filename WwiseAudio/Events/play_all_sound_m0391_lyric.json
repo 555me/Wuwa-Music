@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_all_sound_m0391_lyric",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_all_sound_m0391_lyric",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 4159133050,
+            "SoundBanks": [
+              {
+                "SoundBankId": 4159133050,
+                "SoundBankPathName": "Event/play_all_sound_m0391_lyric.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_all_sound_m0391_lyric",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 591969724,
+                "MediaPathName": "Media/591969724.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_7\\mov-story_video_m0391-all-full-null-null.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_all_sound_m0391_lyric"
+          }
+        }
+      ],
+      "DebugName": "play_all_sound_m0391_lyric",
+      "EventId": 4159133050
+    },
+    "MaximumDuration": 136.0,
+    "MinimumDuration": 136.0,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

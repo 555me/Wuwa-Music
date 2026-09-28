@@ -1,0 +1,78 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_tuanzi_xigelika_default_long",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_tuanzi_xigelika_default_long",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2105882247,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2105882247,
+                "SoundBankPathName": "Event/play_vo_tuanzi_xigelika_default_long.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_tuanzi_xigelika_default_long",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 343574516,
+                "MediaPathName": "Media/343574516.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "branch_3,7\\tuanzi_voice_sound\\xigelika\\vo_tuanzi_xigelika_default_long_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 668026374,
+                "MediaPathName": "Media/668026374.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "branch_3,7\\tuanzi_voice_sound\\xigelika\\vo_tuanzi_xigelika_default_long_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 903794905,
+                "MediaPathName": "Media/903794905.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "branch_3,7\\tuanzi_voice_sound\\xigelika\\vo_tuanzi_xigelika_default_long_03.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_tuanzi_xigelika_default_long"
+          }
+        }
+      ],
+      "DebugName": "play_vo_tuanzi_xigelika_default_long",
+      "EventId": 2105882247
+    },
+    "MaximumDuration": 1.4798572,
+    "MinimumDuration": 1.3353854,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

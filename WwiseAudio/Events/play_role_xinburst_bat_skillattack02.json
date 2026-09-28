@@ -1,0 +1,78 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_role_xinburst_bat_skillattack02",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_role_xinburst_bat_skillattack02",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 561482468,
+            "SoundBanks": [
+              {
+                "SoundBankId": 561482468,
+                "SoundBankPathName": "Event/play_role_xinburst_bat_skillattack02.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_role_xinburst_bat_skillattack02",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 419772305,
+                "MediaPathName": "Media/419772305.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "role\\role_bat_Xin\\role_XinBurst_bat_skillattack02_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 426482994,
+                "MediaPathName": "Media/426482994.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "role\\role_bat_Xin\\role_XinBurst_bat_skillattack02_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 754115139,
+                "MediaPathName": "Media/754115139.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "role\\role_bat_Xin\\role_XinBurst_bat_skillattack02_02.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_role_xinburst_bat_skillattack02"
+          }
+        }
+      ],
+      "DebugName": "play_role_xinburst_bat_skillattack02",
+      "EventId": 561482468
+    },
+    "MaximumDuration": 2.490397,
+    "MinimumDuration": 2.3506217,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

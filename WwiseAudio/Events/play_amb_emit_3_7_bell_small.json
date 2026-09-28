@@ -1,0 +1,98 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_amb_emit_3_7_bell_small",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_amb_emit_3_7_bell_small",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3687908428,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3687908428,
+                "SoundBankPathName": "Event/play_amb_emit_3_7_bell_small.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_amb_emit_3_7_bell_small",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 52811715,
+                "MediaPathName": "Media/52811715.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\3.7\\amb_emit_3_7_bell_small_v2_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 642031374,
+                "MediaPathName": "Media/642031374.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\3.7\\amb_emit_3_7_bell_small_v2_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 653422427,
+                "MediaPathName": "Media/653422427.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\3.7\\amb_emit_3_7_bell_small_v2_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 895053767,
+                "MediaPathName": "Media/895053767.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\3.7\\amb_emit_3_7_bell_small_v2_04.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1029864966,
+                "MediaPathName": "Media/1029864966.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\3.7\\amb_emit_3_7_bell_small_v2_05.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_amb_emit_3_7_bell_small"
+          }
+        }
+      ],
+      "DebugName": "play_amb_emit_3_7_bell_small",
+      "EventId": 3687908428
+    },
+    "MaximumDuration": 0.0,
+    "MinimumDuration": 0.0,
+    "IsInfinite": true,
+    "MaxAttenuationRadius": 1000.0
+  }
+]

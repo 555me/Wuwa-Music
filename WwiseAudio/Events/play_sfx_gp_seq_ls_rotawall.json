@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_seq_ls_rotawall",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_seq_ls_rotawall",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3763351240,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3763351240,
+                "SoundBankPathName": "Event/play_sfx_gp_seq_ls_rotawall.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_seq_ls_rotawall",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 630671611,
+                "MediaPathName": "Media/630671611.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\gameplay\\3_7\\3_7_gp_LA\\POI_FireBox_sandian\\sfx_gp_seq_ls_rotawall.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_seq_ls_rotawall"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_seq_ls_rotawall",
+      "EventId": 3763351240
+    },
+    "MaximumDuration": 1.0120625,
+    "MinimumDuration": 1.0120625,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 15000.0
+  }
+]

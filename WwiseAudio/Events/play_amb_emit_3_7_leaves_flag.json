@@ -1,0 +1,148 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_amb_emit_3_7_leaves_flag",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_amb_emit_3_7_leaves_flag",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 209474332,
+            "SoundBanks": [
+              {
+                "SoundBankId": 209474332,
+                "SoundBankPathName": "Event/play_amb_emit_3_7_leaves_flag.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_amb_emit_3_7_leaves_flag",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 1582943,
+                "MediaPathName": "Media/1582943.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\3.0\\Nov16 (ready export)\\amb_emit_flag_small\\amb_emit_flag_small_5.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 133468581,
+                "MediaPathName": "Media/133468581.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\3.0\\Nov16 (ready export)\\amb_emit_flag_small\\amb_emit_flag_small_3.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 362324133,
+                "MediaPathName": "Media/362324133.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\3.7\\amb_emt_leaves_medium_5.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 436108416,
+                "MediaPathName": "Media/436108416.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\3.7\\amb_emt_leaves_medium_2.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 442746958,
+                "MediaPathName": "Media/442746958.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\3.0\\Nov16 (ready export)\\amb_emit_flag_small\\amb_emit_flag_small_2.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 489675197,
+                "MediaPathName": "Media/489675197.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\3.7\\amb_emt_leaves_medium_1.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 686330681,
+                "MediaPathName": "Media/686330681.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\3.0\\Nov16 (ready export)\\amb_emit_flag_small\\amb_emit_flag_small_6.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 998739836,
+                "MediaPathName": "Media/998739836.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\3.7\\amb_emt_leaves_medium_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1028086971,
+                "MediaPathName": "Media/1028086971.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\3.0\\Nov16 (ready export)\\amb_emit_flag_small\\amb_emit_flag_small_1.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1044715458,
+                "MediaPathName": "Media/1044715458.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\3.7\\amb_emt_leaves_medium_3.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_amb_emit_3_7_leaves_flag"
+          }
+        }
+      ],
+      "DebugName": "play_amb_emit_3_7_leaves_flag",
+      "EventId": 209474332
+    },
+    "MaximumDuration": 0.0,
+    "MinimumDuration": 0.0,
+    "IsInfinite": true,
+    "MaxAttenuationRadius": 2000.0
+  }
+]

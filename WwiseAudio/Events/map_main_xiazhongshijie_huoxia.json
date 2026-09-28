@@ -1,0 +1,578 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "map_main_xiazhongshijie_huoxia",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/map_main_xiazhongshijie_huoxia",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2485932603,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2485932603,
+                "SoundBankPathName": "Event/map_main_xiazhongshijie_huoxia.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "map_main_xiazhongshijie_huoxia",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 285024928,
+                "MediaPathName": "Media/285024928.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "not_in_folder\\amb_beds_animals_dog-01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 319981671,
+                "MediaPathName": "Media/319981671.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "not_in_folder\\amb_beds_animals_dog-03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 357193524,
+                "MediaPathName": "Media/357193524.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.7\\amb_bed_huoxia_xiaoxiang_v2.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 794413669,
+                "MediaPathName": "Media/794413669.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "not_in_folder\\amb_beds_animals_dog-02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 389397735,
+                "MediaPathName": "Media/389397735.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\2.7\\Tianguo_WoodEmit\\amb_emit_wood_crack_oneshot\\amb_emit_wood_crack_oneshot 4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 453249520,
+                "MediaPathName": "Media/453249520.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\2.7\\Tianguo_WoodEmit\\amb_emit_wood_crack_oneshot\\amb_emit_wood_crack_oneshot 3.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 587584996,
+                "MediaPathName": "Media/587584996.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\2.7\\Tianguo_WoodEmit\\amb_emit_wood_crack_oneshot\\amb_emit_wood_crack_oneshot 5.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 761179886,
+                "MediaPathName": "Media/761179886.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\2.7\\Tianguo_WoodEmit\\amb_emit_wood_crack_oneshot\\amb_emit_wood_crack_oneshot 2.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 807884620,
+                "MediaPathName": "Media/807884620.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\2.7\\amb_bed_air_mid_hollow_loop.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 11283756,
+                "MediaPathName": "Media/11283756.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\2.7\\Mingtan_Random\\amb_emit_owl_random_oneshot 7.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 64336798,
+                "MediaPathName": "Media/64336798.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.7\\amb_elm_weirdanimal_06.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 82005314,
+                "MediaPathName": "Media/82005314.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.7\\amb_elm_cricket_04.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 151075620,
+                "MediaPathName": "Media/151075620.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.7\\amb_elm_cricket_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 214023408,
+                "MediaPathName": "Media/214023408.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.7\\amb_elm_weirdanimal_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 227521981,
+                "MediaPathName": "Media/227521981.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.7\\amb_elm_weirdanimal_04.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 267017860,
+                "MediaPathName": "Media/267017860.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.7\\amb_elm_dryleaves.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 293451209,
+                "MediaPathName": "Media/293451209.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.7\\amb_elm_weirdanimal_09.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 322383072,
+                "MediaPathName": "Media/322383072.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.7\\amb_elm_dryleaves.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 352468444,
+                "MediaPathName": "Media/352468444.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.7\\amb_elm_weirdanimal_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 355751539,
+                "MediaPathName": "Media/355751539.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.7\\amb_elm_cricket_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 356163332,
+                "MediaPathName": "Media/356163332.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\2.7\\Mingtan_Random\\amb_emit_owl_random_oneshot 6.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 380996374,
+                "MediaPathName": "Media/380996374.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.7\\amb_elm_dryleaves.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 475978938,
+                "MediaPathName": "Media/475978938.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.7\\amb_elm_dryleaves.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 576029116,
+                "MediaPathName": "Media/576029116.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.7\\amb_elm_cricket_12.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 615880729,
+                "MediaPathName": "Media/615880729.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.7\\amb_elm_weirdanimal_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 664769617,
+                "MediaPathName": "Media/664769617.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\2.7\\Mingtan_Random\\amb_emit_owl_random_oneshot 5.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 680262983,
+                "MediaPathName": "Media/680262983.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.7\\amb_elm_dryleaves.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 726699684,
+                "MediaPathName": "Media/726699684.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.7\\amb_elm_weirdanimal_08.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 756035977,
+                "MediaPathName": "Media/756035977.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.7\\amb_elm_cricket_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 766908991,
+                "MediaPathName": "Media/766908991.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.7\\amb_elm_cricket_10.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 771181269,
+                "MediaPathName": "Media/771181269.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.7\\amb_elm_weirdanimal_05.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 820555578,
+                "MediaPathName": "Media/820555578.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.7\\amb_elm_weirdanimal_07.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 878295083,
+                "MediaPathName": "Media/878295083.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.7\\amb_elm_cricket_07.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 880357613,
+                "MediaPathName": "Media/880357613.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.7\\amb_elm_weirdanimal_10.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 927197325,
+                "MediaPathName": "Media/927197325.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.7\\amb_elm_cricket_06.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 944464343,
+                "MediaPathName": "Media/944464343.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.7\\amb_elm_cricket_08.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 961335274,
+                "MediaPathName": "Media/961335274.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\2.7\\Mingtan_Random\\amb_emit_owl_random_oneshot 1.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 969566753,
+                "MediaPathName": "Media/969566753.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.7\\amb_elm_cricket_05.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 998375981,
+                "MediaPathName": "Media/998375981.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.7\\amb_elm_cricket_11.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1018678878,
+                "MediaPathName": "Media/1018678878.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.7\\amb_elm_cricket_09.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 521906796,
+                "MediaPathName": "Media/521906796.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.7\\amb_bed_3_7_HuoXia_01_DengHui.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 411757967,
+                "MediaPathName": "Media/411757967.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.7\\amb_bed_3_7_HuoXia_01_DengHui.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 715853427,
+                "MediaPathName": "Media/715853427.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.7\\amb_bed_3_7_HuoXia_03_Outdoor.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 392626392,
+                "MediaPathName": "Media/392626392.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\amb\\amb_beds\\amb_bed_level_changli_boss_room.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 760256098,
+                "MediaPathName": "Media/760256098.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.7\\amb_bed_3_7_HuoXia_01_XiaoXiang.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 268367228,
+                "MediaPathName": "Media/268367228.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\2.8\\cafe_UI\\amb_bed_roomtone_hum.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 530512496,
+                "MediaPathName": "Media/530512496.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\2.8\\cafe_UI\\amb_bed_roomtone_street_to_right_loop.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 324921673,
+                "MediaPathName": "Media/324921673.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music\\music_scene\\silence.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1043956149,
+                "MediaPathName": "Media/1043956149.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_dungeon\\3_7_dungeon\\bgm-scene_jinxinyu-all-full-100bpm-null.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 720016482,
+                "MediaPathName": "Media/720016482.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\level_a\\3.7\\bgm-scene_jinxinyu_yichang-all-full-120bpm-null.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 689692128,
+                "MediaPathName": "Media/689692128.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_battle\\3.7\\bgm-battle_elite_hongxing-all-full-159bpm-null.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 210222059,
+                "MediaPathName": "Media/210222059.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_battle\\3.5\\bgm-battle_scene_xuanfang_elite-all-full-144bpm-4_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 970933516,
+                "MediaPathName": "Media/970933516.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_battle\\3.5\\bgm-battle_scene_xuanfang-all-full-140bpm-null.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "map_main_xiazhongshijie_huoxia"
+          }
+        }
+      ],
+      "DebugName": "map_main_xiazhongshijie_huoxia",
+      "EventId": 2485932603
+    },
+    "MaximumDuration": 0.0,
+    "MinimumDuration": 0.0,
+    "IsInfinite": true,
+    "MaxAttenuationRadius": 1000.0
+  }
+]

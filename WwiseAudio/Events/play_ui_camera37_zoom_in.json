@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_ui_camera37_zoom_in",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_ui_camera37_zoom_in",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1016011092,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1016011092,
+                "SoundBankPathName": "Event/play_ui_camera37_zoom_in.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_ui_camera37_zoom_in",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 289146560,
+                "MediaPathName": "Media/289146560.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,7\\camera37\\ui_camera37_zoom_in.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_ui_camera37_zoom_in"
+          }
+        }
+      ],
+      "DebugName": "play_ui_camera37_zoom_in",
+      "EventId": 1016011092
+    },
+    "MaximumDuration": 0.14113666,
+    "MinimumDuration": 0.14113666,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

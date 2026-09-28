@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_seq_foxmove",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_seq_foxmove",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1738662754,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1738662754,
+                "SoundBankPathName": "Event/play_sfx_gp_seq_foxmove.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_seq_foxmove",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 235650931,
+                "MediaPathName": "Media/235650931.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\gameplay\\3_7\\3_7_gp_LA\\sfx_gp_seq_FoxMove.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_seq_foxmove"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_seq_foxmove",
+      "EventId": 1738662754
+    },
+    "MaximumDuration": 3.294,
+    "MinimumDuration": 3.294,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 7000.0
+  }
+]

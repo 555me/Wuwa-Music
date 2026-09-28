@@ -1,0 +1,168 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_suoming_sys_jointeam",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_suoming_sys_jointeam",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2486474400,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2486474400,
+                "SoundBankPathName": "Event/play_vo_suoming_sys_jointeam.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_suoming_sys_jointeam",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 543977215,
+                "MediaPathName": "Media/543977215.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\en\\role\\branch_3,7\\suoming\\en_vo_suoming_sys_jointeam_01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 55511573,
+                "MediaPathName": "Media/55511573.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\zh\\role\\branch_3,7\\suoming\\zh_vo_suoming_sys_jointeam_01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 147450332,
+                "MediaPathName": "Media/147450332.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\ko\\role\\branch_3,7\\suoming\\ko_vo_suoming_sys_jointeam_01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 405828816,
+                "MediaPathName": "Media/405828816.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\ja\\role\\branch_3,7\\suoming\\ja_vo_suoming_sys_jointeam_01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 61820037,
+                "MediaPathName": "Media/61820037.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\en\\role\\branch_3,7\\suoming\\en_vo_suoming_sys_jointeam_03_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 216822299,
+                "MediaPathName": "Media/216822299.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\zh\\role\\branch_3,7\\suoming\\zh_vo_suoming_sys_jointeam_03_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 686303832,
+                "MediaPathName": "Media/686303832.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\ko\\role\\branch_3,7\\suoming\\ko_vo_suoming_sys_jointeam_03_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 870958548,
+                "MediaPathName": "Media/870958548.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\ja\\role\\branch_3,7\\suoming\\ja_vo_suoming_sys_jointeam_03_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 122761342,
+                "MediaPathName": "Media/122761342.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_3,7\\suoming\\en_vo_suoming_sys_jointeam_02_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 609124,
+                "MediaPathName": "Media/609124.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,7\\suoming\\zh_vo_suoming_sys_jointeam_02_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 469527787,
+                "MediaPathName": "Media/469527787.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\ko\\role\\branch_3,7\\suoming\\ko_vo_suoming_sys_jointeam_02_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 135700595,
+                "MediaPathName": "Media/135700595.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,7\\suoming\\ja_vo_suoming_sys_jointeam_02_word.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_suoming_sys_jointeam"
+          }
+        }
+      ],
+      "DebugName": "play_vo_suoming_sys_jointeam",
+      "EventId": 2486474400
+    },
+    "MaximumDuration": 6.609146,
+    "MinimumDuration": 2.02525,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

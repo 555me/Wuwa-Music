@@ -1,0 +1,88 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_favor_word_xin2_skill_skill01_01",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_favor_word_xin2_skill_skill01_01",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1188955802,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1188955802,
+                "SoundBankPathName": "Event/play_favor_word_xin2_skill_skill01_01.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_favor_word_xin2_skill_skill01_01",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 556904595,
+                "MediaPathName": "Media/556904595.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\en\\role\\branch_3,7\\xin\\en_vo_xin2_skill_skill01_01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 250977802,
+                "MediaPathName": "Media/250977802.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,7\\xin\\ko_vo_xin2_skill_skill01_01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 340192826,
+                "MediaPathName": "Media/340192826.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,7\\xin\\zh_vo_xin2_skill_skill01_01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 812031258,
+                "MediaPathName": "Media/812031258.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,7\\xin\\ja_vo_xin2_skill_skill01_01_word.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_favor_word_xin2_skill_skill01_01"
+          }
+        }
+      ],
+      "DebugName": "play_favor_word_xin2_skill_skill01_01",
+      "EventId": 1188955802
+    },
+    "MaximumDuration": 2.009,
+    "MinimumDuration": 1.5233333,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

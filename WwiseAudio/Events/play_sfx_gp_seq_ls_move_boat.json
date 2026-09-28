@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_seq_ls_move_boat",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_seq_ls_move_boat",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1303025364,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1303025364,
+                "SoundBankPathName": "Event/play_sfx_gp_seq_ls_move_boat.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_seq_ls_move_boat",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 603746894,
+                "MediaPathName": "Media/603746894.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\gameplay\\3_7\\3_7_gp_LA\\L1RedPoi\\sfx_gp_seq_LS_Move_boat.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_seq_ls_move_boat"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_seq_ls_move_boat",
+      "EventId": 1303025364
+    },
+    "MaximumDuration": 62.118397,
+    "MinimumDuration": 62.118397,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 10000.0
+  }
+]

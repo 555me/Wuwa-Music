@@ -1,0 +1,78 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_tuanzi_yangyang2_joy_long",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_tuanzi_yangyang2_joy_long",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3008310882,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3008310882,
+                "SoundBankPathName": "Event/play_vo_tuanzi_yangyang2_joy_long.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_tuanzi_yangyang2_joy_long",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 10329393,
+                "MediaPathName": "Media/10329393.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "branch_3,7\\tuanzi_voice_sound\\yangyang2\\vo_tuanzi_yangyang2_joy_long_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 513390056,
+                "MediaPathName": "Media/513390056.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "branch_3,7\\tuanzi_voice_sound\\yangyang2\\vo_tuanzi_yangyang2_joy_long_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 814147870,
+                "MediaPathName": "Media/814147870.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "branch_3,7\\tuanzi_voice_sound\\yangyang2\\vo_tuanzi_yangyang2_joy_long_01.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_tuanzi_yangyang2_joy_long"
+          }
+        }
+      ],
+      "DebugName": "play_vo_tuanzi_yangyang2_joy_long",
+      "EventId": 3008310882
+    },
+    "MaximumDuration": 3.1573184,
+    "MinimumDuration": 2.2446115,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

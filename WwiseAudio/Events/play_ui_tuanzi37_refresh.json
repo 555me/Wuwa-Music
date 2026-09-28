@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_ui_tuanzi37_refresh",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_ui_tuanzi37_refresh",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1121622314,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1121622314,
+                "SoundBankPathName": "Event/play_ui_tuanzi37_refresh.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_ui_tuanzi37_refresh",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 270707336,
+                "MediaPathName": "Media/270707336.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,7\\tuanzi37\\ui_tuanzi37_refresh.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_ui_tuanzi37_refresh"
+          }
+        }
+      ],
+      "DebugName": "play_ui_tuanzi37_refresh",
+      "EventId": 1121622314
+    },
+    "MaximumDuration": 0.59108335,
+    "MinimumDuration": 0.59108335,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

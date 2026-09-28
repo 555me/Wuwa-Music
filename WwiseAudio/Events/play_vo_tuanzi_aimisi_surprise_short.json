@@ -1,0 +1,78 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_tuanzi_aimisi_surprise_short",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_tuanzi_aimisi_surprise_short",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3991756529,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3991756529,
+                "SoundBankPathName": "Event/play_vo_tuanzi_aimisi_surprise_short.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_tuanzi_aimisi_surprise_short",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 428178409,
+                "MediaPathName": "Media/428178409.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "branch_3,7\\tuanzi_voice_sound\\aimisi\\vo_tuanzi_aimisi_surprise_short_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 746401716,
+                "MediaPathName": "Media/746401716.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "branch_3,7\\tuanzi_voice_sound\\aimisi\\vo_tuanzi_aimisi_surprise_short_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1006955681,
+                "MediaPathName": "Media/1006955681.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "branch_3,7\\tuanzi_voice_sound\\aimisi\\vo_tuanzi_aimisi_surprise_short_01.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_tuanzi_aimisi_surprise_short"
+          }
+        }
+      ],
+      "DebugName": "play_vo_tuanzi_aimisi_surprise_short",
+      "EventId": 3991756529
+    },
+    "MaximumDuration": 1.1477511,
+    "MinimumDuration": 0.9525657,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

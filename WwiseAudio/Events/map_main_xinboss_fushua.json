@@ -1,0 +1,88 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "map_main_xinboss_fushua",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/map_main_xinboss_fushua",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1372170395,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1372170395,
+                "SoundBankPathName": "Event/map_main_xinboss_fushua.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "map_main_xinboss_fushua",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 644033191,
+                "MediaPathName": "Media/644033191.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_7\\bgm-story_plot_3_7_huoxia_jieri_x01-all-full-80bpm-null.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 756281779,
+                "MediaPathName": "Media/756281779.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_7\\bgm-story_plot_m3_13_27-all-full-bpm85-4_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 165067225,
+                "MediaPathName": "Media/165067225.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_7\\bgm-story_plot_boss_tianyansuxin_2_loop-all-full-150bpm-4_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 619198623,
+                "MediaPathName": "Media/619198623.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_7\\bgm-story_plot_boss_tianyansuxin_2_intro-all-full-150bpm-4_4.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "map_main_xinboss_fushua"
+          }
+        }
+      ],
+      "DebugName": "map_main_xinboss_fushua",
+      "EventId": 1372170395
+    },
+    "MaximumDuration": 0.0,
+    "MinimumDuration": 0.0,
+    "IsInfinite": true,
+    "MaxAttenuationRadius": 0.0
+  }
+]

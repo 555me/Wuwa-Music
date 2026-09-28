@@ -1,0 +1,78 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_tuanzi_linnai_discontent_short",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_tuanzi_linnai_discontent_short",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3241230290,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3241230290,
+                "SoundBankPathName": "Event/play_vo_tuanzi_linnai_discontent_short.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_tuanzi_linnai_discontent_short",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 21716934,
+                "MediaPathName": "Media/21716934.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "branch_3,7\\tuanzi_voice_sound\\linnai\\vo_tuanzi_linnai_discontent_short_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 450110521,
+                "MediaPathName": "Media/450110521.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "branch_3,7\\tuanzi_voice_sound\\linnai\\vo_tuanzi_linnai_discontent_short_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 908281938,
+                "MediaPathName": "Media/908281938.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "branch_3,7\\tuanzi_voice_sound\\linnai\\vo_tuanzi_linnai_discontent_short_01.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_tuanzi_linnai_discontent_short"
+          }
+        }
+      ],
+      "DebugName": "play_vo_tuanzi_linnai_discontent_short",
+      "EventId": 3241230290
+    },
+    "MaximumDuration": 1.5872228,
+    "MinimumDuration": 0.7486299,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

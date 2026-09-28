@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_monster_jiexingsha_common_behit_block",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_monster_jiexingsha_common_behit_block",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1181285562,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1181285562,
+                "SoundBankPathName": "Event/play_sfx_monster_jiexingsha_common_behit_block.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_monster_jiexingsha_common_behit_block",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 729675584,
+                "MediaPathName": "Media/729675584.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\Enemy\\Elite\\Jiexingsha\\sfx_monster_jiexingsha_common_Behit_Block.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_monster_jiexingsha_common_behit_block"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_monster_jiexingsha_common_behit_block",
+      "EventId": 1181285562
+    },
+    "MaximumDuration": 2.0666666,
+    "MinimumDuration": 2.0666666,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

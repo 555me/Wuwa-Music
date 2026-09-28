@@ -1,0 +1,78 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_tuanzi_suoming_hurt_short",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_tuanzi_suoming_hurt_short",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2877561511,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2877561511,
+                "SoundBankPathName": "Event/play_vo_tuanzi_suoming_hurt_short.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_tuanzi_suoming_hurt_short",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 353572268,
+                "MediaPathName": "Media/353572268.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "branch_3,7\\tuanzi_voice_sound\\suoming\\vo_tuanzi_suoming_hurt_short_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 413052081,
+                "MediaPathName": "Media/413052081.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "branch_3,7\\tuanzi_voice_sound\\suoming\\vo_tuanzi_suoming_hurt_short_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 960372235,
+                "MediaPathName": "Media/960372235.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "branch_3,7\\tuanzi_voice_sound\\suoming\\vo_tuanzi_suoming_hurt_short_02.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_tuanzi_suoming_hurt_short"
+          }
+        }
+      ],
+      "DebugName": "play_vo_tuanzi_suoming_hurt_short",
+      "EventId": 2877561511
+    },
+    "MaximumDuration": 2.9831343,
+    "MinimumDuration": 1.1676707,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

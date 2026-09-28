@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_ui_match3game_pop_com",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_ui_match3game_pop_com",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 55469125,
+            "SoundBanks": [
+              {
+                "SoundBankId": 55469125,
+                "SoundBankPathName": "Event/play_ui_match3game_pop_com.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_ui_match3game_pop_com",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 455118168,
+                "MediaPathName": "Media/455118168.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,7\\match3game\\ui_match3game_pop_com.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_ui_match3game_pop_com"
+          }
+        }
+      ],
+      "DebugName": "play_ui_match3game_pop_com",
+      "EventId": 55469125
+    },
+    "MaximumDuration": 0.33333334,
+    "MinimumDuration": 0.33333334,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

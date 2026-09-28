@@ -1,0 +1,88 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_favor_word_xin_sys_about_suoming",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_favor_word_xin_sys_about_suoming",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3780158816,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3780158816,
+                "SoundBankPathName": "Event/play_favor_word_xin_sys_about_suoming.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_favor_word_xin_sys_about_suoming",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 180276720,
+                "MediaPathName": "Media/180276720.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\en\\role\\branch_3,7\\xin\\en_vo_xin_sys_about_suoming_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 606704999,
+                "MediaPathName": "Media/606704999.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\ko\\role\\branch_3,7\\xin\\ko_vo_xin_sys_about_suoming_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 863412945,
+                "MediaPathName": "Media/863412945.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\zh\\role\\branch_3,7\\xin\\zh_vo_xin_sys_about_suoming_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 350710857,
+                "MediaPathName": "Media/350710857.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\ja\\role\\branch_3,7\\xin\\ja_vo_xin_sys_about_suoming_word.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_favor_word_xin_sys_about_suoming"
+          }
+        }
+      ],
+      "DebugName": "play_favor_word_xin_sys_about_suoming",
+      "EventId": 3780158816
+    },
+    "MaximumDuration": 60.75646,
+    "MinimumDuration": 35.84056,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

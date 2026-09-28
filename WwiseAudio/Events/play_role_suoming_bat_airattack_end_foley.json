@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_role_suoming_bat_airattack_end_foley",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_role_suoming_bat_airattack_end_foley",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1656814908,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1656814908,
+                "SoundBankPathName": "Event/play_role_suoming_bat_airattack_end_foley.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_role_suoming_bat_airattack_end_foley",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 437853159,
+                "MediaPathName": "Media/437853159.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "role\\role_bat_Suoming\\Foley\\role_Suoming_bat_airattack_end_foley.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_role_suoming_bat_airattack_end_foley"
+          }
+        }
+      ],
+      "DebugName": "play_role_suoming_bat_airattack_end_foley",
+      "EventId": 1656814908
+    },
+    "MaximumDuration": 5.124979,
+    "MinimumDuration": 5.124979,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

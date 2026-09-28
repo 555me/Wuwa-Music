@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_seq_laternlift_finsh",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_seq_laternlift_finsh",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 367463054,
+            "SoundBanks": [
+              {
+                "SoundBankId": 367463054,
+                "SoundBankPathName": "Event/play_sfx_gp_seq_laternlift_finsh.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_seq_laternlift_finsh",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 117325855,
+                "MediaPathName": "Media/117325855.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\gameplay\\3_7\\3_7_gp_LA\\sfx_gp_MoveableLantern_finsh.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_seq_laternlift_finsh"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_seq_laternlift_finsh",
+      "EventId": 367463054
+    },
+    "MaximumDuration": 3.467121,
+    "MinimumDuration": 3.467121,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 15000.0
+  }
+]

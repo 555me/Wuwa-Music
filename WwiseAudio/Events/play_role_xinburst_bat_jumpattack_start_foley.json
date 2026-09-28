@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_role_xinburst_bat_jumpattack_start_foley",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_role_xinburst_bat_jumpattack_start_foley",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 901443770,
+            "SoundBanks": [
+              {
+                "SoundBankId": 901443770,
+                "SoundBankPathName": "Event/play_role_xinburst_bat_jumpattack_start_foley.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_role_xinburst_bat_jumpattack_start_foley",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 379080971,
+                "MediaPathName": "Media/379080971.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "role\\role_bat_Xin\\foley\\role_XinBurst_bat_jumpattack_start_foley.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_role_xinburst_bat_jumpattack_start_foley"
+          }
+        }
+      ],
+      "DebugName": "play_role_xinburst_bat_jumpattack_start_foley",
+      "EventId": 901443770
+    },
+    "MaximumDuration": 6.809875,
+    "MinimumDuration": 6.809875,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

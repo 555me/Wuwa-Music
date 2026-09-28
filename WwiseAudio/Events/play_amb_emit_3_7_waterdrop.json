@@ -1,0 +1,88 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_amb_emit_3_7_waterdrop",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_amb_emit_3_7_waterdrop",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1304838935,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1304838935,
+                "SoundBankPathName": "Event/play_amb_emit_3_7_waterdrop.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_amb_emit_3_7_waterdrop",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 104107064,
+                "MediaPathName": "Media/104107064.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\2.7\\amb_bed3d_waterdrip_clean_loop.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 804047927,
+                "MediaPathName": "Media/804047927.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\2.7\\amb_bed3d_waterdrip_clean_loop.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 987311280,
+                "MediaPathName": "Media/987311280.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\2.7\\amb_bed3d_waterdrip_clean_loop.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1037511073,
+                "MediaPathName": "Media/1037511073.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\2.7\\amb_bed3d_waterdrip_clean_loop.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_amb_emit_3_7_waterdrop"
+          }
+        }
+      ],
+      "DebugName": "play_amb_emit_3_7_waterdrop",
+      "EventId": 1304838935
+    },
+    "MaximumDuration": 0.0,
+    "MinimumDuration": 0.0,
+    "IsInfinite": true,
+    "MaxAttenuationRadius": 2000.0
+  }
+]

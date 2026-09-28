@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_tuanzi_piaobozhe_male_victory_b",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_tuanzi_piaobozhe_male_victory_b",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2830548989,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2830548989,
+                "SoundBankPathName": "Event/play_vo_tuanzi_piaobozhe_male_victory_b.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_tuanzi_piaobozhe_male_victory_b",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 417719237,
+                "MediaPathName": "Media/417719237.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "branch_2,3\\tuanzi_voice_sound\\piaobozhe_male\\vo_tuanzi_piaobozhe_male_joy_short_02.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_tuanzi_piaobozhe_male_victory_b"
+          }
+        }
+      ],
+      "DebugName": "play_vo_tuanzi_piaobozhe_male_victory_b",
+      "EventId": 2830548989
+    },
+    "MaximumDuration": 0.49506205,
+    "MinimumDuration": 0.49506205,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

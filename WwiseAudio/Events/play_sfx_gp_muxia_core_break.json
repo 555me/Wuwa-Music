@@ -1,0 +1,78 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_muxia_core_break",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_muxia_core_break",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2698796076,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2698796076,
+                "SoundBankPathName": "Event/play_sfx_gp_muxia_core_break.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_muxia_core_break",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 402216254,
+                "MediaPathName": "Media/402216254.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\gameplay\\3_7\\sfx_gp_muxia_core_break_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 793374922,
+                "MediaPathName": "Media/793374922.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\gameplay\\3_7\\sfx_gp_muxia_core_break_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1062453336,
+                "MediaPathName": "Media/1062453336.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\gameplay\\3_7\\sfx_gp_muxia_core_break_02.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_muxia_core_break"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_muxia_core_break",
+      "EventId": 2698796076
+    },
+    "MaximumDuration": 1.6871876,
+    "MinimumDuration": 1.460875,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 3000.0
+  }
+]

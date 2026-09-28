@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_music_story_3_7_stinger_common2",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_music_story_3_7_stinger_common2",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 278418016,
+            "SoundBanks": [
+              {
+                "SoundBankId": 278418016,
+                "SoundBankPathName": "Event/play_music_story_3_7_stinger_common2.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_music_story_3_7_stinger_common2",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 951364157,
+                "MediaPathName": "Media/951364157.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_7\\music_story_3_7_stinger_common2.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_music_story_3_7_stinger_common2"
+          }
+        }
+      ],
+      "DebugName": "play_music_story_3_7_stinger_common2",
+      "EventId": 278418016
+    },
+    "MaximumDuration": 7.5,
+    "MinimumDuration": 7.5,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

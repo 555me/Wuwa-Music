@@ -1,0 +1,88 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_xin_sys_rankup05",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_xin_sys_rankup05",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3174268952,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3174268952,
+                "SoundBankPathName": "Event/play_vo_xin_sys_rankup05.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_xin_sys_rankup05",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 965714107,
+                "MediaPathName": "Media/965714107.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\en\\role\\branch_3,7\\xin\\en_vo_xin_sys_rankup05_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 505236872,
+                "MediaPathName": "Media/505236872.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\ko\\role\\branch_3,7\\xin\\ko_vo_xin_sys_rankup05_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 145990922,
+                "MediaPathName": "Media/145990922.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\zh\\role\\branch_3,7\\xin\\zh_vo_xin_sys_rankup05_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 800502930,
+                "MediaPathName": "Media/800502930.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\ja\\role\\branch_3,7\\xin\\ja_vo_xin_sys_rankup05_word.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_xin_sys_rankup05"
+          }
+        }
+      ],
+      "DebugName": "play_vo_xin_sys_rankup05",
+      "EventId": 3174268952
+    },
+    "MaximumDuration": 60.614666,
+    "MinimumDuration": 43.2865,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

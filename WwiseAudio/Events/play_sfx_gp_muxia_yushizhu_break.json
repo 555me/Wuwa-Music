@@ -1,0 +1,68 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_muxia_yushizhu_break",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_muxia_yushizhu_break",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3311390962,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3311390962,
+                "SoundBankPathName": "Event/play_sfx_gp_muxia_yushizhu_break.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_muxia_yushizhu_break",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 508462464,
+                "MediaPathName": "Media/508462464.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\gameplay\\3_7\\sfx_gp_muxia_yushizhu_break_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 831172659,
+                "MediaPathName": "Media/831172659.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\gameplay\\3_7\\sfx_gp_muxia_yushizhu_break_02.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_muxia_yushizhu_break"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_muxia_yushizhu_break",
+      "EventId": 3311390962
+    },
+    "MaximumDuration": 0.9266458,
+    "MinimumDuration": 0.86922914,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 3000.0
+  }
+]

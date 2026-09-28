@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_ui_match3game_tileabsorb_get",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_ui_match3game_tileabsorb_get",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3643598232,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3643598232,
+                "SoundBankPathName": "Event/play_ui_match3game_tileabsorb_get.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_ui_match3game_tileabsorb_get",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 967622913,
+                "MediaPathName": "Media/967622913.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,7\\match3game\\ui_match3game_tileabsorb_get.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_ui_match3game_tileabsorb_get"
+          }
+        }
+      ],
+      "DebugName": "play_ui_match3game_tileabsorb_get",
+      "EventId": 3643598232
+    },
+    "MaximumDuration": 2.4666667,
+    "MinimumDuration": 2.4666667,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

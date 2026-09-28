@@ -1,0 +1,378 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "map_main_xiazhongshijie_shuixia",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/map_main_xiazhongshijie_shuixia",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3920672040,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3920672040,
+                "SoundBankPathName": "Event/map_main_xiazhongshijie_shuixia.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "map_main_xiazhongshijie_shuixia",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 224307705,
+                "MediaPathName": "Media/224307705.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\modular\\amb_bed_leaves_windy.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 391811202,
+                "MediaPathName": "Media/391811202.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\modular\\amb_bed_leaves_windy.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 418145469,
+                "MediaPathName": "Media/418145469.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\modular\\amb_bed_leaves_cricket_night.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 654360003,
+                "MediaPathName": "Media/654360003.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\modular\\amb_bed_leaves_windy.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 676772966,
+                "MediaPathName": "Media/676772966.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\modular\\amb_bed_leaves_cricket_night.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 745933717,
+                "MediaPathName": "Media/745933717.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\modular\\amb_bed_leaves_cricket_night.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 765133750,
+                "MediaPathName": "Media/765133750.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\modular\\amb_bed_leaves_cricket_night.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 851476576,
+                "MediaPathName": "Media/851476576.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.7\\amb_bed_3_7_ShuiXia_ChuShengDian_v2.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 963710097,
+                "MediaPathName": "Media/963710097.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\modular\\amb_bed_leaves_cricket_night.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1008631235,
+                "MediaPathName": "Media/1008631235.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\modular\\amb_bed_leaves_cricket_night.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 503194697,
+                "MediaPathName": "Media/503194697.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.7\\amb_emit_3_7_roomtone_v2.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 64582239,
+                "MediaPathName": "Media/64582239.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.7\\amb_bed_3_7_ShuiXia_HeXin_metal_far_11.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 250044264,
+                "MediaPathName": "Media/250044264.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.7\\amb_bed_3_7_ShuiXia_HeXin_metal_far_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 392007464,
+                "MediaPathName": "Media/392007464.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.7\\amb_bed_3_7_ShuiXia_HeXin_metal_far_09.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 397218959,
+                "MediaPathName": "Media/397218959.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_modular\\3.2\\amb_emit_effect_metal_creak_granular_2.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 504412260,
+                "MediaPathName": "Media/504412260.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.7\\amb_bed_3_7_ShuiXia_HeXin_metal_far_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 530758160,
+                "MediaPathName": "Media/530758160.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.7\\amb_bed_3_7_ShuiXia_HeXin_metal_far_04.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 542061878,
+                "MediaPathName": "Media/542061878.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.7\\amb_bed_3_7_ShuiXia_HeXin_metal_far_05.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 615172970,
+                "MediaPathName": "Media/615172970.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.7\\amb_bed_3_7_ShuiXia_HeXin_metal_far_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 634976537,
+                "MediaPathName": "Media/634976537.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_modular\\3.2\\amb_emit_effect_metal_creak_granular_2.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 666172393,
+                "MediaPathName": "Media/666172393.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.7\\amb_bed_3_7_ShuiXia_HeXin_metal_far_06.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 704826687,
+                "MediaPathName": "Media/704826687.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.7\\amb_bed_3_7_ShuiXia_HeXin_metal_far_07.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 784816697,
+                "MediaPathName": "Media/784816697.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.7\\amb_bed_3_7_ShuiXia_HeXin.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 817790204,
+                "MediaPathName": "Media/817790204.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_modular\\3.2\\amb_emit_effect_metal_creak_granular_2.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 936525954,
+                "MediaPathName": "Media/936525954.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.7\\amb_bed_3_7_ShuiXia_HeXin_metal_far_10.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 984198825,
+                "MediaPathName": "Media/984198825.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_modular\\3.2\\amb_emit_effect_metal_creak_granular_2.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1049720409,
+                "MediaPathName": "Media/1049720409.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.7\\amb_bed_3_7_ShuiXia_HeXin_Noisy.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1057587153,
+                "MediaPathName": "Media/1057587153.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.7\\amb_bed_3_7_ShuiXia_HeXin_metal_far_08.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1067964125,
+                "MediaPathName": "Media/1067964125.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_modular\\3.2\\amb_emit_effect_metal_creak_granular_2.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 369279574,
+                "MediaPathName": "Media/369279574.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_dungeon\\3_7_dungeon\\bgm-scene_qixinyu-all-full-117bpm-6_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 689692128,
+                "MediaPathName": "Media/689692128.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_battle\\3.7\\bgm-battle_elite_hongxing-all-full-159bpm-null.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 210222059,
+                "MediaPathName": "Media/210222059.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_battle\\3.5\\bgm-battle_scene_xuanfang_elite-all-full-144bpm-4_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 970933516,
+                "MediaPathName": "Media/970933516.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_battle\\3.5\\bgm-battle_scene_xuanfang-all-full-140bpm-null.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "map_main_xiazhongshijie_shuixia"
+          }
+        }
+      ],
+      "DebugName": "map_main_xiazhongshijie_shuixia",
+      "EventId": 3920672040
+    },
+    "MaximumDuration": 0.0,
+    "MinimumDuration": 0.0,
+    "IsInfinite": true,
+    "MaxAttenuationRadius": 0.0
+  }
+]

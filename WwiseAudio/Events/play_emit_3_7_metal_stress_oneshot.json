@@ -1,0 +1,88 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_emit_3_7_metal_stress_oneshot",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_emit_3_7_metal_stress_oneshot",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3343886483,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3343886483,
+                "SoundBankPathName": "Event/play_emit_3_7_metal_stress_oneshot.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_emit_3_7_metal_stress_oneshot",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 47714148,
+                "MediaPathName": "Media/47714148.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\3.7\\amb_emit_3_7_metal_stress_outdoor_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 218984795,
+                "MediaPathName": "Media/218984795.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\3.7\\amb_emit_3_7_metal_stress_outdoor_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 658027382,
+                "MediaPathName": "Media/658027382.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\3.7\\amb_emit_3_7_metal_stress_outdoor_04.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 884177994,
+                "MediaPathName": "Media/884177994.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "amb\\amb_emit\\3.7\\amb_emit_3_7_metal_stress_outdoor_01.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_emit_3_7_metal_stress_oneshot"
+          }
+        }
+      ],
+      "DebugName": "play_emit_3_7_metal_stress_oneshot",
+      "EventId": 3343886483
+    },
+    "MaximumDuration": 2.5349166,
+    "MinimumDuration": 1.4725417,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 1000.0
+  }
+]

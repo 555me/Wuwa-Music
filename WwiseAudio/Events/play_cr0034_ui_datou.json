@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_cr0034_ui_datou",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_cr0034_ui_datou",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2292742651,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2292742651,
+                "SoundBankPathName": "Event/play_cr0034_ui_datou.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_cr0034_ui_datou",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 72395128,
+                "MediaPathName": "Media/72395128.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\Plot_LevelA\\3.7\\CR0034-UI_datou.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_cr0034_ui_datou"
+          }
+        }
+      ],
+      "DebugName": "play_cr0034_ui_datou",
+      "EventId": 2292742651
+    },
+    "MaximumDuration": 2.0524793,
+    "MinimumDuration": 2.0524793,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]
