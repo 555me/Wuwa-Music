@@ -1,0 +1,59 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_role_lili_ui_resonant_start",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_role_lili_ui_resonant_start",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1845739716,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1845739716,
+                "SoundBankPathName": "Event/play_role_lili_ui_resonant_start.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_role_lili_ui_resonant_start",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 398440708,
+                "MediaPathName": "Media/398440708.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "role\\role_bat_Lili\\role_lili_ui_resonant_start.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_role_lili_ui_resonant_start"
+          }
+        }
+      ],
+      "DebugName": "play_role_lili_ui_resonant_start",
+      "EventId": 1845739716
+    },
+    "MaximumDuration": 5.9267707,
+    "MinimumDuration": 5.9267707,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]
