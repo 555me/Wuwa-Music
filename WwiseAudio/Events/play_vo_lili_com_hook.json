@@ -1,0 +1,169 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_lili_com_hook",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_lili_com_hook",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 4162561822,
+            "SoundBanks": [
+              {
+                "SoundBankId": 4162561822,
+                "SoundBankPathName": "Event/play_vo_lili_com_hook.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_lili_com_hook",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 170558135,
+                "MediaPathName": "Media/170558135.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,8\\lili\\ko_vo_lili_com_hook_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 19011416,
+                "MediaPathName": "Media/19011416.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,8\\lili\\zh_vo_lili_com_hook_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 240796159,
+                "MediaPathName": "Media/240796159.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,8\\lili\\ja_vo_lili_com_hook_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 683159873,
+                "MediaPathName": "Media/683159873.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_3,8\\lili\\en_vo_lili_com_hook_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 228255906,
+                "MediaPathName": "Media/228255906.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,8\\lili\\ko_vo_lili_com_hook_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 825455928,
+                "MediaPathName": "Media/825455928.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,8\\lili\\zh_vo_lili_com_hook_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 970545287,
+                "MediaPathName": "Media/970545287.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,8\\lili\\ja_vo_lili_com_hook_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 380040983,
+                "MediaPathName": "Media/380040983.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_3,8\\lili\\en_vo_lili_com_hook_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 512691904,
+                "MediaPathName": "Media/512691904.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,8\\lili\\ko_vo_lili_com_hook_01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1012190534,
+                "MediaPathName": "Media/1012190534.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,8\\lili\\zh_vo_lili_com_hook_01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 283182608,
+                "MediaPathName": "Media/283182608.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,8\\lili\\ja_vo_lili_com_hook_01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1053938687,
+                "MediaPathName": "Media/1053938687.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_3,8\\lili\\en_vo_lili_com_hook_01_tone.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_lili_com_hook"
+          }
+        }
+      ],
+      "DebugName": "play_vo_lili_com_hook",
+      "EventId": 4162561822
+    },
+    "MaximumDuration": 0.7124792,
+    "MinimumDuration": 0.18245833,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

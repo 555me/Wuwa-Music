@@ -90,18 +90,19 @@
               }
             ],
             "ExternalSources": [],
+            "AudioNodes": [],
             "SwitchContainerLeaves": [],
             "RequiredGroupValueSet": [
               {
                 "Type": "EWwiseGroupType::State",
                 "GroupId": -1459848338,
-                "Id": 231230354,
+                "ID": 0,
                 "DebugName": "broken"
               },
               {
                 "Type": "EWwiseGroupType::State",
                 "GroupId": 1221856762,
-                "Id": 514358619,
+                "ID": 0,
                 "DebugName": "field"
               }
             ],

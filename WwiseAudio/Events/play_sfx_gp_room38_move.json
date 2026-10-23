@@ -1,0 +1,89 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_room38_move",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_room38_move",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 917708710,
+            "SoundBanks": [
+              {
+                "SoundBankId": 917708710,
+                "SoundBankPathName": "Event/play_sfx_gp_room38_move.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_room38_move",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 25261913,
+                "MediaPathName": "Media/25261913.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\gameplay\\3_8\\3_8_gp_LJY\\trainmaze\\sfx_gp_room38_move_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 702321789,
+                "MediaPathName": "Media/702321789.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\gameplay\\3_8\\3_8_gp_LJY\\trainmaze\\sfx_gp_room38_move_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 943528225,
+                "MediaPathName": "Media/943528225.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\gameplay\\3_8\\3_8_gp_LJY\\trainmaze\\sfx_gp_room38_move_04.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 980858615,
+                "MediaPathName": "Media/980858615.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\gameplay\\3_8\\3_8_gp_LJY\\trainmaze\\sfx_gp_room38_move_02.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_room38_move"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_room38_move",
+      "EventId": 917708710
+    },
+    "MaximumDuration": 2.9039166,
+    "MinimumDuration": 2.8664584,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 3000.0
+  }
+]

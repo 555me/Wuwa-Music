@@ -1,0 +1,169 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_lili_burst_burst03_a",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_lili_burst_burst03_a",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 362873173,
+            "SoundBanks": [
+              {
+                "SoundBankId": 362873173,
+                "SoundBankPathName": "Event/play_vo_lili_burst_burst03_a.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_lili_burst_burst03_a",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 547659678,
+                "MediaPathName": "Media/547659678.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\ko\\role\\branch_3,8\\lili\\ko_vo_lili_burst_burst03_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1072373141,
+                "MediaPathName": "Media/1072373141.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\zh\\role\\branch_3,8\\lili\\zh_vo_lili_burst_burst03_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 981334379,
+                "MediaPathName": "Media/981334379.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\ja\\role\\branch_3,8\\lili\\ja_vo_lili_burst_burst03_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 267545675,
+                "MediaPathName": "Media/267545675.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\en\\role\\branch_3,8\\lili\\en_vo_lili_burst_burst03_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 426124178,
+                "MediaPathName": "Media/426124178.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\ko\\role\\branch_3,8\\lili\\ko_vo_lili_burst_burst03_04_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 490093518,
+                "MediaPathName": "Media/490093518.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\zh\\role\\branch_3,8\\lili\\zh_vo_lili_burst_burst03_04_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 365009199,
+                "MediaPathName": "Media/365009199.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\ja\\role\\branch_3,8\\lili\\ja_vo_lili_burst_burst03_04_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 152823391,
+                "MediaPathName": "Media/152823391.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\en\\role\\branch_3,8\\lili\\en_vo_lili_burst_burst03_04_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 246034631,
+                "MediaPathName": "Media/246034631.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\ko\\role\\branch_3,8\\lili\\ko_vo_lili_burst_burst03_01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 223425821,
+                "MediaPathName": "Media/223425821.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\zh\\role\\branch_3,8\\lili\\zh_vo_lili_burst_burst03_01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1003697396,
+                "MediaPathName": "Media/1003697396.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\ja\\role\\branch_3,8\\lili\\ja_vo_lili_burst_burst03_01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 302958033,
+                "MediaPathName": "Media/302958033.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\en\\role\\branch_3,8\\lili\\en_vo_lili_burst_burst03_01_word.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_lili_burst_burst03_a"
+          }
+        }
+      ],
+      "DebugName": "play_vo_lili_burst_burst03_a",
+      "EventId": 362873173
+    },
+    "MaximumDuration": 15.141334,
+    "MinimumDuration": 11.916959,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

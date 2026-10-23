@@ -1,0 +1,79 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_train38_whoosh",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_train38_whoosh",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3203951466,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3203951466,
+                "SoundBankPathName": "Event/play_sfx_gp_train38_whoosh.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_train38_whoosh",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 45028299,
+                "MediaPathName": "Media/45028299.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\gameplay\\3_8\\3_8_gp_LJY\\trainmaze\\sfx_gp_train38_whoosh_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 86227468,
+                "MediaPathName": "Media/86227468.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\gameplay\\3_8\\3_8_gp_LJY\\trainmaze\\sfx_gp_train38_whoosh_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 259257746,
+                "MediaPathName": "Media/259257746.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\gameplay\\3_8\\3_8_gp_LJY\\trainmaze\\sfx_gp_train38_whoosh_01.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_train38_whoosh"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_train38_whoosh",
+      "EventId": 3203951466
+    },
+    "MaximumDuration": 4.0431876,
+    "MinimumDuration": 3.8575,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 3000.0
+  }
+]

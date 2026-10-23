@@ -60,6 +60,7 @@
               }
             ],
             "ExternalSources": [],
+            "AudioNodes": [],
             "SwitchContainerLeaves": [],
             "RequiredGroupValueSet": [],
             "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
@@ -70,9 +71,9 @@
       "DebugName": "play_sfx_gp_shuixia_paotai_xuli",
       "EventId": 3902182405
     },
-    "MaximumDuration": 0.0,
-    "MinimumDuration": 0.0,
-    "IsInfinite": true,
+    "MaximumDuration": 5.0,
+    "MinimumDuration": 5.0,
+    "IsInfinite": false,
     "MaxAttenuationRadius": 5000.0
   }
 ]

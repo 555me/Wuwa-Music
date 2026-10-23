@@ -1,0 +1,89 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_maze38_move_stop",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_maze38_move_stop",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2391433265,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2391433265,
+                "SoundBankPathName": "Event/play_sfx_gp_maze38_move_stop.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_maze38_move_stop",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 76405985,
+                "MediaPathName": "Media/76405985.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\gameplay\\3_8\\3_8_gp_LJY\\trainmaze\\sfx_gp_maze38_move_stop_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 115394860,
+                "MediaPathName": "Media/115394860.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\gameplay\\3_8\\3_8_gp_LJY\\trainmaze\\sfx_gp_maze38_move_stop_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 218363588,
+                "MediaPathName": "Media/218363588.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\gameplay\\3_8\\3_8_gp_LJY\\trainmaze\\sfx_gp_maze38_move_stop_04.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 972479336,
+                "MediaPathName": "Media/972479336.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\gameplay\\3_8\\3_8_gp_LJY\\trainmaze\\sfx_gp_maze38_move_stop_03.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_maze38_move_stop"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_maze38_move_stop",
+      "EventId": 2391433265
+    },
+    "MaximumDuration": 6.184271,
+    "MinimumDuration": 5.8150415,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

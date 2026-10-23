@@ -1,0 +1,48 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "stop_3_8_music_lili_dream_riji",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/stop_3_8_music_lili_dream_riji",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 4125644412,
+            "SoundBanks": [
+              {
+                "SoundBankId": 4125644412,
+                "SoundBankPathName": "Event/stop_3_8_music_lili_dream_riji.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "stop_3_8_music_lili_dream_riji",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "stop_3_8_music_lili_dream_riji"
+          }
+        }
+      ],
+      "DebugName": "stop_3_8_music_lili_dream_riji",
+      "EventId": 4125644412
+    },
+    "MaximumDuration": 0.0,
+    "MinimumDuration": 0.0,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

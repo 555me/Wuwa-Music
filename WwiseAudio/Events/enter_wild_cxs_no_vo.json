@@ -29,30 +29,31 @@
             ],
             "Media": [],
             "ExternalSources": [],
+            "AudioNodes": [],
             "SwitchContainerLeaves": [],
             "RequiredGroupValueSet": [
               {
                 "Type": "EWwiseGroupType::State",
                 "GroupId": 143585452,
-                "Id": 748895195,
+                "ID": 0,
                 "DebugName": "None"
               },
               {
                 "Type": "EWwiseGroupType::State",
                 "GroupId": -1503452341,
-                "Id": 1123911989,
+                "ID": 0,
                 "DebugName": "wind_dark_grass"
               },
               {
                 "Type": "EWwiseGroupType::State",
                 "GroupId": -1503452341,
-                "Id": 1755292908,
+                "ID": 0,
                 "DebugName": "wind_cold"
               },
               {
                 "Type": "EWwiseGroupType::State",
                 "GroupId": 1684817153,
-                "Id": 1919654583,
+                "ID": 0,
                 "DebugName": "no_cold_high_bright"
               }
             ],

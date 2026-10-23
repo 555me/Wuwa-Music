@@ -1,0 +1,48 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_3_8_music_lili_dream_zhanchang_c",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_3_8_music_lili_dream_zhanchang_c",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2278209110,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2278209110,
+                "SoundBankPathName": "Event/play_3_8_music_lili_dream_zhanchang_c.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_3_8_music_lili_dream_zhanchang_c",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_3_8_music_lili_dream_zhanchang_c"
+          }
+        }
+      ],
+      "DebugName": "play_3_8_music_lili_dream_zhanchang_c",
+      "EventId": 2278209110
+    },
+    "MaximumDuration": 0.0,
+    "MinimumDuration": 0.0,
+    "IsInfinite": true,
+    "MaxAttenuationRadius": 0.0
+  }
+]

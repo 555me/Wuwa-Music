@@ -1,0 +1,48 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_interact_3_8_piano_stinger",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_interact_3_8_piano_stinger",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2861643694,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2861643694,
+                "SoundBankPathName": "Event/play_interact_3_8_piano_stinger.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_interact_3_8_piano_stinger",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_interact_3_8_piano_stinger"
+          }
+        }
+      ],
+      "DebugName": "play_interact_3_8_piano_stinger",
+      "EventId": 2861643694
+    },
+    "MaximumDuration": 8.695645,
+    "MinimumDuration": 8.695645,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

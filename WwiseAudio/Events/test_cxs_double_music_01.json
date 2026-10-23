@@ -3780,30 +3780,31 @@
               }
             ],
             "ExternalSources": [],
+            "AudioNodes": [],
             "SwitchContainerLeaves": [],
             "RequiredGroupValueSet": [
               {
                 "Type": "EWwiseGroupType::State",
                 "GroupId": 1221856762,
-                "Id": 514358619,
+                "ID": 0,
                 "DebugName": "field"
               },
               {
                 "Type": "EWwiseGroupType::State",
                 "GroupId": 736806785,
-                "Id": 748895195,
+                "ID": 0,
                 "DebugName": "None"
               },
               {
                 "Type": "EWwiseGroupType::State",
                 "GroupId": 727401557,
-                "Id": 832017879,
+                "ID": 0,
                 "DebugName": "CXS"
               },
               {
                 "Type": "EWwiseGroupType::State",
                 "GroupId": -1330480707,
-                "Id": -788636563,
+                "ID": 0,
                 "DebugName": "area1_center"
               }
             ],

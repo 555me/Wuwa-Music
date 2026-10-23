@@ -70,6 +70,7 @@
               }
             ],
             "ExternalSources": [],
+            "AudioNodes": [],
             "SwitchContainerLeaves": [],
             "RequiredGroupValueSet": [],
             "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
@@ -81,7 +82,7 @@
       "EventId": 2436604607
     },
     "MaximumDuration": 1.2995833,
-    "MinimumDuration": 0.9263125,
+    "MinimumDuration": 0.8283333,
     "IsInfinite": false,
     "MaxAttenuationRadius": 0.0
   }

@@ -29,18 +29,19 @@
             ],
             "Media": [],
             "ExternalSources": [],
+            "AudioNodes": [],
             "SwitchContainerLeaves": [],
             "RequiredGroupValueSet": [
               {
                 "Type": "EWwiseGroupType::State",
                 "GroupId": 727401557,
-                "Id": 1874879014,
+                "ID": 0,
                 "DebugName": "WGZS"
               },
               {
                 "Type": "EWwiseGroupType::State",
                 "GroupId": 1420245208,
-                "Id": -959209594,
+                "ID": 0,
                 "DebugName": "area4_cave"
               }
             ],

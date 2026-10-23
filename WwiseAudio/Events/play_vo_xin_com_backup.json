@@ -110,6 +110,7 @@
               }
             ],
             "ExternalSources": [],
+            "AudioNodes": [],
             "SwitchContainerLeaves": [],
             "RequiredGroupValueSet": [],
             "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
@@ -120,7 +121,7 @@
       "DebugName": "play_vo_xin_com_backup",
       "EventId": 428886170
     },
-    "MaximumDuration": 3.303229,
+    "MaximumDuration": 3.3069375,
     "MinimumDuration": 1.35025,
     "IsInfinite": false,
     "MaxAttenuationRadius": 5000.0

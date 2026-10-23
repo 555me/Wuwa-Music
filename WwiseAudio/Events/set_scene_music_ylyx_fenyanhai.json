@@ -29,18 +29,19 @@
             ],
             "Media": [],
             "ExternalSources": [],
+            "AudioNodes": [],
             "SwitchContainerLeaves": [],
             "RequiredGroupValueSet": [
               {
                 "Type": "EWwiseGroupType::State",
                 "GroupId": -1812041557,
-                "Id": -1966719776,
+                "ID": 0,
                 "DebugName": "area2_fenyanhai"
               },
               {
                 "Type": "EWwiseGroupType::State",
                 "GroupId": 727401557,
-                "Id": -928588105,
+                "ID": 0,
                 "DebugName": "YLYX_AREA"
               }
             ],

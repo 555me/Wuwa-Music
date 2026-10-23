@@ -50,8 +50,16 @@
               }
             ],
             "ExternalSources": [],
+            "AudioNodes": [],
             "SwitchContainerLeaves": [],
-            "RequiredGroupValueSet": [],
+            "RequiredGroupValueSet": [
+              {
+                "Type": "EWwiseGroupType::State",
+                "GroupId": -1627066031,
+                "ID": 0,
+                "DebugName": "None"
+              }
+            ],
             "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
             "DebugName": "play_xvxinyu_3_7_music_jiemi"
           }

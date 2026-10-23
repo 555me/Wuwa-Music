@@ -1,0 +1,59 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_ui_switchelement_buttorn_click",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_ui_switchelement_buttorn_click",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 4176501743,
+            "SoundBanks": [
+              {
+                "SoundBankId": 4176501743,
+                "SoundBankPathName": "Event/play_ui_switchelement_buttorn_click.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_ui_switchelement_buttorn_click",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 534044656,
+                "MediaPathName": "Media/534044656.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\UI\\sfx_ui_com\\ui_switchelement_buttorn_click.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_ui_switchelement_buttorn_click"
+          }
+        }
+      ],
+      "DebugName": "play_ui_switchelement_buttorn_click",
+      "EventId": 4176501743
+    },
+    "MaximumDuration": 2.0916767,
+    "MinimumDuration": 2.0916767,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

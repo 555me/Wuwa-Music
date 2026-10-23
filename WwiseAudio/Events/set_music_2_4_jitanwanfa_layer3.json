@@ -29,12 +29,13 @@
             ],
             "Media": [],
             "ExternalSources": [],
+            "AudioNodes": [],
             "SwitchContainerLeaves": [],
             "RequiredGroupValueSet": [
               {
                 "Type": "EWwiseGroupType::Switch",
                 "GroupId": 1451596828,
-                "Id": -996435997,
+                "ID": 0,
                 "DebugName": "layer3"
               }
             ],

@@ -29,15 +29,9 @@
             ],
             "Media": [],
             "ExternalSources": [],
+            "AudioNodes": [],
             "SwitchContainerLeaves": [],
-            "RequiredGroupValueSet": [
-              {
-                "Type": "EWwiseGroupType::State",
-                "GroupId": 1090969866,
-                "Id": 363748011,
-                "DebugName": "m0395"
-              }
-            ],
+            "RequiredGroupValueSet": [],
             "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
             "DebugName": "play_all_sound_m0395"
           }

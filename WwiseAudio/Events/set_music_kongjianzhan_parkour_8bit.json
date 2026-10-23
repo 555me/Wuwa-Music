@@ -29,12 +29,13 @@
             ],
             "Media": [],
             "ExternalSources": [],
+            "AudioNodes": [],
             "SwitchContainerLeaves": [],
             "RequiredGroupValueSet": [
               {
                 "Type": "EWwiseGroupType::State",
                 "GroupId": -861706710,
-                "Id": -1469395268,
+                "ID": 0,
                 "DebugName": "stage8bit"
               }
             ],

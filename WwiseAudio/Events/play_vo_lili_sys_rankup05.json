@@ -1,0 +1,89 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_lili_sys_rankup05",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_lili_sys_rankup05",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 658138011,
+            "SoundBanks": [
+              {
+                "SoundBankId": 658138011,
+                "SoundBankPathName": "Event/play_vo_lili_sys_rankup05.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_lili_sys_rankup05",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 542859647,
+                "MediaPathName": "Media/542859647.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\ko\\role\\branch_3,8\\lili\\ko_vo_lili_sys_rankup05_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 607146614,
+                "MediaPathName": "Media/607146614.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\zh\\role\\branch_3,8\\lili\\zh_vo_lili_sys_rankup05_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 848611252,
+                "MediaPathName": "Media/848611252.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\ja\\role\\branch_3,8\\lili\\ja_vo_lili_sys_rankup05_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1021756968,
+                "MediaPathName": "Media/1021756968.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\en\\role\\branch_3,8\\lili\\en_vo_lili_sys_rankup05_word.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_lili_sys_rankup05"
+          }
+        }
+      ],
+      "DebugName": "play_vo_lili_sys_rankup05",
+      "EventId": 658138011
+    },
+    "MaximumDuration": 33.95206,
+    "MinimumDuration": 27.392,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

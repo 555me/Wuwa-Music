@@ -1,0 +1,59 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_boss_muyu_skill_80043019",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_boss_muyu_skill_80043019",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2713417034,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2713417034,
+                "SoundBankPathName": "Event/play_sfx_boss_muyu_skill_80043019.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_boss_muyu_skill_80043019",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 673650167,
+                "MediaPathName": "Media/673650167.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\Enemy\\Boss\\muyu\\sfx_boss_muyu_skill_80043019.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_boss_muyu_skill_80043019"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_boss_muyu_skill_80043019",
+      "EventId": 2713417034
+    },
+    "MaximumDuration": 4.036083,
+    "MinimumDuration": 4.036083,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 10000.0
+  }
+]

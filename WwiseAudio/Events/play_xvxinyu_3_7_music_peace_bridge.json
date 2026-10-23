@@ -29,17 +29,18 @@
             ],
             "Media": [
               {
-                "MediaId": 849005128,
-                "MediaPathName": "Media/849005128.wem",
+                "MediaId": 661371315,
+                "MediaPathName": "Media/661371315.wem",
                 "PrefetchSize": 0,
                 "MemoryAlignment": 16,
                 "bDeviceMemory": false,
                 "bStreaming": true,
-                "DebugName": "music_next\\music_dungeon\\3_7_dungeon\\poi\\bgm-story_plot_xvxinyu_bridge-all-full-90bpm-6_8.wav",
+                "DebugName": "music_next\\music_story\\3_5\\bgm-story_common_3_5_calmness_suspense_01-all-full-null-null.wav",
                 "PackagedFile": null
               }
             ],
             "ExternalSources": [],
+            "AudioNodes": [],
             "SwitchContainerLeaves": [],
             "RequiredGroupValueSet": [],
             "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",

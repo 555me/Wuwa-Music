@@ -1,0 +1,78 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_boss_muyu_skill_80043096_explo",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_boss_muyu_skill_80043096_explo",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1814273966,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1814273966,
+                "SoundBankPathName": "Event/play_sfx_boss_muyu_skill_80043096_explo.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_boss_muyu_skill_80043096_explo",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 15687056,
+                "MediaPathName": "Media/15687056.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\Enemy\\Boss\\muyu\\sfx_boss_muyu_skill_80043096_explo_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 19009444,
+                "MediaPathName": "Media/19009444.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\Enemy\\Boss\\muyu\\sfx_boss_muyu_skill_80043096_explo_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 405843435,
+                "MediaPathName": "Media/405843435.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\Enemy\\Boss\\muyu\\sfx_boss_muyu_skill_80043096_explo_03.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_boss_muyu_skill_80043096_explo"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_boss_muyu_skill_80043096_explo",
+      "EventId": 1814273966
+    },
+    "MaximumDuration": 2.0703125,
+    "MinimumDuration": 2.0703125,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 10000.0
+  }
+]

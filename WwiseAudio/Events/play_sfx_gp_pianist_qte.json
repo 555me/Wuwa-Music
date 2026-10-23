@@ -1,0 +1,79 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_pianist_qte",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_pianist_qte",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2360458867,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2360458867,
+                "SoundBankPathName": "Event/play_sfx_gp_pianist_qte.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_pianist_qte",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 214527174,
+                "MediaPathName": "Media/214527174.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "sfx_gp_pianist_qte_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 655091289,
+                "MediaPathName": "Media/655091289.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "sfx_gp_pianist_qte_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 916535974,
+                "MediaPathName": "Media/916535974.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "sfx_gp_pianist_qte_03.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_pianist_qte"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_pianist_qte",
+      "EventId": 2360458867
+    },
+    "MaximumDuration": 1.04073,
+    "MinimumDuration": 0.7273,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

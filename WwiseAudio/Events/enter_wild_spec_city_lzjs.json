@@ -29,24 +29,25 @@
             ],
             "Media": [],
             "ExternalSources": [],
+            "AudioNodes": [],
             "SwitchContainerLeaves": [],
             "RequiredGroupValueSet": [
               {
                 "Type": "EWwiseGroupType::State",
                 "GroupId": 143585452,
-                "Id": 711166421,
+                "ID": 0,
                 "DebugName": "vo_jzbt"
               },
               {
                 "Type": "EWwiseGroupType::State",
                 "GroupId": 1684817153,
-                "Id": 1377600816,
+                "ID": 0,
                 "DebugName": "no_nor_plain_bright"
               },
               {
                 "Type": "EWwiseGroupType::State",
                 "GroupId": -1503452341,
-                "Id": 1687888247,
+                "ID": 0,
                 "DebugName": "wind_city"
               }
             ],

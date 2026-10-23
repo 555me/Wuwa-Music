@@ -1,0 +1,169 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_lili_sys_jointeam",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_lili_sys_jointeam",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1077742032,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1077742032,
+                "SoundBankPathName": "Event/play_vo_lili_sys_jointeam.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_lili_sys_jointeam",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 727219800,
+                "MediaPathName": "Media/727219800.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\ko\\role\\branch_3,8\\lili\\ko_vo_lili_sys_jointeam_03_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 349719560,
+                "MediaPathName": "Media/349719560.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\zh\\role\\branch_3,8\\lili\\zh_vo_lili_sys_jointeam_03_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 933481329,
+                "MediaPathName": "Media/933481329.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\ja\\role\\branch_3,8\\lili\\ja_vo_lili_sys_jointeam_03_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 622851781,
+                "MediaPathName": "Media/622851781.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\en\\role\\branch_3,8\\lili\\en_vo_lili_sys_jointeam_03_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 121277058,
+                "MediaPathName": "Media/121277058.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,8\\lili\\ko_vo_lili_sys_jointeam_01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 156434119,
+                "MediaPathName": "Media/156434119.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,8\\lili\\zh_vo_lili_sys_jointeam_01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 250727670,
+                "MediaPathName": "Media/250727670.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,8\\lili\\ja_vo_lili_sys_jointeam_01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 445303571,
+                "MediaPathName": "Media/445303571.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_3,8\\lili\\en_vo_lili_sys_jointeam_01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 868019090,
+                "MediaPathName": "Media/868019090.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\ko\\role\\branch_3,8\\lili\\ko_vo_lili_sys_jointeam_02_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 825685962,
+                "MediaPathName": "Media/825685962.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\zh\\role\\branch_3,8\\lili\\zh_vo_lili_sys_jointeam_02_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 658430420,
+                "MediaPathName": "Media/658430420.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\ja\\role\\branch_3,8\\lili\\ja_vo_lili_sys_jointeam_02_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 779347175,
+                "MediaPathName": "Media/779347175.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\en\\role\\branch_3,8\\lili\\en_vo_lili_sys_jointeam_02_word.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_lili_sys_jointeam"
+          }
+        }
+      ],
+      "DebugName": "play_vo_lili_sys_jointeam",
+      "EventId": 1077742032
+    },
+    "MaximumDuration": 5.092604,
+    "MinimumDuration": 1.0385208,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

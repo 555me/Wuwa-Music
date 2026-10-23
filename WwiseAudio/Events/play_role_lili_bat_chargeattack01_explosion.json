@@ -1,0 +1,79 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_role_lili_bat_chargeattack01_explosion",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_role_lili_bat_chargeattack01_explosion",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2063736577,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2063736577,
+                "SoundBankPathName": "Event/play_role_lili_bat_chargeattack01_explosion.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_role_lili_bat_chargeattack01_explosion",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 330885957,
+                "MediaPathName": "Media/330885957.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "role\\role_bat_Lili\\role_Lili_bat_chargeattack01_explosion_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 540985009,
+                "MediaPathName": "Media/540985009.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "role\\role_bat_Lili\\role_Lili_bat_chargeattack01_explosion_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 590741995,
+                "MediaPathName": "Media/590741995.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "role\\role_bat_Lili\\role_Lili_bat_chargeattack01_explosion_01.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_role_lili_bat_chargeattack01_explosion"
+          }
+        }
+      ],
+      "DebugName": "play_role_lili_bat_chargeattack01_explosion",
+      "EventId": 2063736577
+    },
+    "MaximumDuration": 1.4819584,
+    "MinimumDuration": 1.0861875,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

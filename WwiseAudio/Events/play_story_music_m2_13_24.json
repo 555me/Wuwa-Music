@@ -29,12 +29,13 @@
             ],
             "Media": [],
             "ExternalSources": [],
+            "AudioNodes": [],
             "SwitchContainerLeaves": [],
             "RequiredGroupValueSet": [
               {
                 "Type": "EWwiseGroupType::State",
                 "GroupId": 1960537098,
-                "Id": 1256202815,
+                "ID": 0,
                 "DebugName": "play"
               }
             ],

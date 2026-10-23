@@ -29,18 +29,19 @@
             ],
             "Media": [],
             "ExternalSources": [],
+            "AudioNodes": [],
             "SwitchContainerLeaves": [],
             "RequiredGroupValueSet": [
               {
                 "Type": "EWwiseGroupType::State",
                 "GroupId": -518825941,
-                "Id": 1038031650,
+                "ID": 0,
                 "DebugName": "hl_normal_2"
               },
               {
                 "Type": "EWwiseGroupType::State",
                 "GroupId": 727401557,
-                "Id": 1587678417,
+                "ID": 0,
                 "DebugName": "HL_JIAOJIE"
               }
             ],

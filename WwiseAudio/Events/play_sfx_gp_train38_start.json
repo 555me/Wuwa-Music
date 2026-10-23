@@ -1,0 +1,69 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_train38_start",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_train38_start",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2584086916,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2584086916,
+                "SoundBankPathName": "Event/play_sfx_gp_train38_start.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_train38_start",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 479838995,
+                "MediaPathName": "Media/479838995.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\gameplay\\3_8\\3_8_gp_LJY\\trainmaze\\sfx_gp_train38_start_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 829384050,
+                "MediaPathName": "Media/829384050.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\gameplay\\3_8\\3_8_gp_LJY\\trainmaze\\sfx_gp_train38_start_02.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_train38_start"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_train38_start",
+      "EventId": 2584086916
+    },
+    "MaximumDuration": 3.8757915,
+    "MinimumDuration": 3.7192917,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 3000.0
+  }
+]

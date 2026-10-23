@@ -1,0 +1,79 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_pianist_mech_activate",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_pianist_mech_activate",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3977023874,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3977023874,
+                "SoundBankPathName": "Event/play_sfx_gp_pianist_mech_activate.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_pianist_mech_activate",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 405684403,
+                "MediaPathName": "Media/405684403.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "sfx_gp_pianist_mech_activate_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 576095153,
+                "MediaPathName": "Media/576095153.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "sfx_gp_pianist_mech_activate_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 825129309,
+                "MediaPathName": "Media/825129309.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "sfx_gp_pianist_mech_activate_02.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_pianist_mech_activate"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_pianist_mech_activate",
+      "EventId": 3977023874
+    },
+    "MaximumDuration": 1.3896667,
+    "MinimumDuration": 0.904,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

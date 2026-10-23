@@ -40,6 +40,7 @@
               }
             ],
             "ExternalSources": [],
+            "AudioNodes": [],
             "SwitchContainerLeaves": [],
             "RequiredGroupValueSet": [],
             "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
@@ -50,8 +51,8 @@
       "DebugName": "play_foley_com_baseanim_ui_switchelement_end",
       "EventId": 4262862522
     },
-    "MaximumDuration": 2.6322708,
-    "MinimumDuration": 2.6322708,
+    "MaximumDuration": 4.266667,
+    "MinimumDuration": 4.266667,
     "IsInfinite": false,
     "MaxAttenuationRadius": 0.0
   }

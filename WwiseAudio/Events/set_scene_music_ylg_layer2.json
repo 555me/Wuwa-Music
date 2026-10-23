@@ -29,18 +29,19 @@
             ],
             "Media": [],
             "ExternalSources": [],
+            "AudioNodes": [],
             "SwitchContainerLeaves": [],
             "RequiredGroupValueSet": [
               {
                 "Type": "EWwiseGroupType::State",
                 "GroupId": -1600496673,
-                "Id": 707279555,
+                "ID": 0,
                 "DebugName": "area2_river"
               },
               {
                 "Type": "EWwiseGroupType::State",
                 "GroupId": 727401557,
-                "Id": 1096914109,
+                "ID": 0,
                 "DebugName": "YLG"
               }
             ],

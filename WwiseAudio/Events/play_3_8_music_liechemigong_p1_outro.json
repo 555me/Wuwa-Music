@@ -1,0 +1,55 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_3_8_music_liechemigong_p1_outro",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_3_8_music_liechemigong_p1_outro",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2553278204,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2553278204,
+                "SoundBankPathName": "Event/play_3_8_music_liechemigong_p1_outro.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_3_8_music_liechemigong_p1_outro",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [
+              {
+                "Type": "EWwiseGroupType::State",
+                "GroupId": -548294467,
+                "ID": 0,
+                "DebugName": "outro"
+              }
+            ],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_3_8_music_liechemigong_p1_outro"
+          }
+        }
+      ],
+      "DebugName": "play_3_8_music_liechemigong_p1_outro",
+      "EventId": 2553278204
+    },
+    "MaximumDuration": 0.0,
+    "MinimumDuration": 0.0,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

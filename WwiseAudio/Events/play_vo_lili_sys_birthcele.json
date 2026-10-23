@@ -1,0 +1,89 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_lili_sys_birthcele",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_lili_sys_birthcele",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1547944579,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1547944579,
+                "SoundBankPathName": "Event/play_vo_lili_sys_birthcele.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_lili_sys_birthcele",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 1002532056,
+                "MediaPathName": "Media/1002532056.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\ko\\role\\branch_3,8\\lili\\ko_vo_lili_sys_birthcele_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 290560909,
+                "MediaPathName": "Media/290560909.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\zh\\role\\branch_3,8\\lili\\zh_vo_lili_sys_birthcele_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 638853789,
+                "MediaPathName": "Media/638853789.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\ja\\role\\branch_3,8\\lili\\ja_vo_lili_sys_birthcele_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 999669428,
+                "MediaPathName": "Media/999669428.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\en\\role\\branch_3,8\\lili\\en_vo_lili_sys_birthcele_word.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_lili_sys_birthcele"
+          }
+        }
+      ],
+      "DebugName": "play_vo_lili_sys_birthcele",
+      "EventId": 1547944579
+    },
+    "MaximumDuration": 44.706627,
+    "MinimumDuration": 34.327396,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

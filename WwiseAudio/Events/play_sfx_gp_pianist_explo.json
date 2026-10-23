@@ -1,0 +1,79 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_pianist_explo",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_pianist_explo",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 476388941,
+            "SoundBanks": [
+              {
+                "SoundBankId": 476388941,
+                "SoundBankPathName": "Event/play_sfx_gp_pianist_explo.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_pianist_explo",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 54726621,
+                "MediaPathName": "Media/54726621.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "sfx_gp_pianist_explo_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 277785345,
+                "MediaPathName": "Media/277785345.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "sfx_gp_pianist_explo_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 843383757,
+                "MediaPathName": "Media/843383757.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "sfx_gp_pianist_explo_01.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_pianist_explo"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_pianist_explo",
+      "EventId": 476388941
+    },
+    "MaximumDuration": 3.4681458,
+    "MinimumDuration": 3.4681458,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 3000.0
+  }
+]
