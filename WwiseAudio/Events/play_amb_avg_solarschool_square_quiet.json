@@ -1,0 +1,179 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_amb_avg_solarschool_square_quiet",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_amb_avg_solarschool_square_quiet",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3822950044,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3822950044,
+                "SoundBankPathName": "Event/play_amb_avg_solarschool_square_quiet.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_amb_avg_solarschool_square_quiet",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 12208004,
+                "MediaPathName": "Media/12208004.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.8\\play_amb_avg_solarschool_square_quiet.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 20481402,
+                "MediaPathName": "Media/20481402.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.8\\play_amb_avg_solarschool_classroom_bird.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 84145023,
+                "MediaPathName": "Media/84145023.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.8\\play_amb_avg_solarschool_classroom_bird.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 285384735,
+                "MediaPathName": "Media/285384735.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.8\\play_amb_avg_solarschool_classroom_bird.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 305226190,
+                "MediaPathName": "Media/305226190.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.8\\play_amb_avg_solarschool_classroom_bird.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 496092353,
+                "MediaPathName": "Media/496092353.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.8\\play_amb_avg_solarschool_classroom_bird.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 657467125,
+                "MediaPathName": "Media/657467125.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.8\\play_amb_avg_solarschool_classroom_bird.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 698643843,
+                "MediaPathName": "Media/698643843.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.8\\play_amb_avg_solarschool_classroom_bird.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 733626152,
+                "MediaPathName": "Media/733626152.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.8\\play_amb_avg_solarschool_classroom_bird.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 820806548,
+                "MediaPathName": "Media/820806548.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.8\\play_amb_avg_solarschool_classroom_bird.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 846080683,
+                "MediaPathName": "Media/846080683.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\2.8\\train_station_UI\\amb_bed_cityamb_street_carpass.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 927172544,
+                "MediaPathName": "Media/927172544.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.8\\play_amb_avg_solarschool_classroom_bird.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 967794894,
+                "MediaPathName": "Media/967794894.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.8\\play_amb_avg_solarschool_classroom_bird.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_amb_avg_solarschool_square_quiet"
+          }
+        }
+      ],
+      "DebugName": "play_amb_avg_solarschool_square_quiet",
+      "EventId": 3822950044
+    },
+    "MaximumDuration": 0.0,
+    "MinimumDuration": 0.0,
+    "IsInfinite": true,
+    "MaxAttenuationRadius": 0.0
+  }
+]

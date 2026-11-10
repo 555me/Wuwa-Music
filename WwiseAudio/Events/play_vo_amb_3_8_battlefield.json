@@ -1,0 +1,179 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_amb_3_8_battlefield",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_amb_3_8_battlefield",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 1819748192,
+            "LanguageName": "en",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 4245574938,
+            "SoundBanks": [
+              {
+                "SoundBankId": 4245574938,
+                "SoundBankPathName": "Event/en/play_vo_amb_3_8_battlefield.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_amb_3_8_battlefield",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 45235198,
+                "MediaPathName": "Media/en/45235198.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.8\\amb_voice\\en_vo_Main_YYMRDHS_31_NOSUB_01.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_amb_3_8_battlefield"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1735860046,
+            "LanguageName": "ja",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 4245574938,
+            "SoundBanks": [
+              {
+                "SoundBankId": 4245574938,
+                "SoundBankPathName": "Event/ja/play_vo_amb_3_8_battlefield.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_amb_3_8_battlefield",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 385313280,
+                "MediaPathName": "Media/ja/385313280.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.8\\amb_voice\\ja_vo_Main_YYMRDHS_31_NOSUB_01.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_amb_3_8_battlefield"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1719082483,
+            "LanguageName": "ko",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 4245574938,
+            "SoundBanks": [
+              {
+                "SoundBankId": 4245574938,
+                "SoundBankPathName": "Event/ko/play_vo_amb_3_8_battlefield.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_amb_3_8_battlefield",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 836896798,
+                "MediaPathName": "Media/ko/836896798.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.8\\amb_voice\\ko_vo_Main_YYMRDHS_31_NOSUB_01.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_amb_3_8_battlefield"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1467418007,
+            "LanguageName": "zh",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsDefault"
+          },
+          "Value": {
+            "EventId": 4245574938,
+            "SoundBanks": [
+              {
+                "SoundBankId": 4245574938,
+                "SoundBankPathName": "Event/zh/play_vo_amb_3_8_battlefield.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_amb_3_8_battlefield",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 395959422,
+                "MediaPathName": "Media/zh/395959422.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.8\\amb_voice\\zh_vo_Main_YYMRDHS_31_NOSUB_01.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_amb_3_8_battlefield"
+          }
+        }
+      ],
+      "DebugName": "play_vo_amb_3_8_battlefield",
+      "EventId": 4245574938
+    },
+    "MaximumDuration": 0.0,
+    "MinimumDuration": 0.0,
+    "IsInfinite": true,
+    "MaxAttenuationRadius": 0.0
+  }
+]

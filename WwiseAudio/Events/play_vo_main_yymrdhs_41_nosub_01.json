@@ -1,0 +1,219 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_main_yymrdhs_41_nosub_01",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_main_yymrdhs_41_nosub_01",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 1819748192,
+            "LanguageName": "en",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 145483478,
+            "SoundBanks": [
+              {
+                "SoundBankId": 145483478,
+                "SoundBankPathName": "Event/en/play_vo_main_yymrdhs_41_nosub_01.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_main_yymrdhs_41_nosub_01",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 309433265,
+                "MediaPathName": "Media/en/309433265.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.8\\level_b\\en_vo_Main_YYMRDHS_41_NOSUB_01_M.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 466902722,
+                "MediaPathName": "Media/en/466902722.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.8\\level_b\\en_vo_Main_YYMRDHS_41_NOSUB_01_F.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_main_yymrdhs_41_nosub_01"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1735860046,
+            "LanguageName": "ja",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 145483478,
+            "SoundBanks": [
+              {
+                "SoundBankId": 145483478,
+                "SoundBankPathName": "Event/ja/play_vo_main_yymrdhs_41_nosub_01.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_main_yymrdhs_41_nosub_01",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 699792329,
+                "MediaPathName": "Media/ja/699792329.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.8\\level_b\\ja_vo_Main_YYMRDHS_41_NOSUB_01_M.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 304344097,
+                "MediaPathName": "Media/ja/304344097.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.8\\level_b\\ja_vo_Main_YYMRDHS_41_NOSUB_01_F.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_main_yymrdhs_41_nosub_01"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1719082483,
+            "LanguageName": "ko",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 145483478,
+            "SoundBanks": [
+              {
+                "SoundBankId": 145483478,
+                "SoundBankPathName": "Event/ko/play_vo_main_yymrdhs_41_nosub_01.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_main_yymrdhs_41_nosub_01",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 334394706,
+                "MediaPathName": "Media/ko/334394706.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.8\\level_b\\ko_vo_Main_YYMRDHS_41_NOSUB_01_M.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 488524007,
+                "MediaPathName": "Media/ko/488524007.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.8\\level_b\\ko_vo_Main_YYMRDHS_41_NOSUB_01_F.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_main_yymrdhs_41_nosub_01"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1467418007,
+            "LanguageName": "zh",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsDefault"
+          },
+          "Value": {
+            "EventId": 145483478,
+            "SoundBanks": [
+              {
+                "SoundBankId": 145483478,
+                "SoundBankPathName": "Event/zh/play_vo_main_yymrdhs_41_nosub_01.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_main_yymrdhs_41_nosub_01",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 550747504,
+                "MediaPathName": "Media/zh/550747504.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.8\\level_b\\zh_vo_Main_YYMRDHS_41_NOSUB_01_M.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 181950725,
+                "MediaPathName": "Media/zh/181950725.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.8\\level_b\\zh_vo_Main_YYMRDHS_41_NOSUB_01_F.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_main_yymrdhs_41_nosub_01"
+          }
+        }
+      ],
+      "DebugName": "play_vo_main_yymrdhs_41_nosub_01",
+      "EventId": 145483478
+    },
+    "MaximumDuration": 0.6475,
+    "MinimumDuration": 0.3713125,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

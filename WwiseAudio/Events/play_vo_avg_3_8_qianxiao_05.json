@@ -1,0 +1,179 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_avg_3_8_qianxiao_05",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_avg_3_8_qianxiao_05",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 1819748192,
+            "LanguageName": "en",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 1260604192,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1260604192,
+                "SoundBankPathName": "Event/en/play_vo_avg_3_8_qianxiao_05.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_avg_3_8_qianxiao_05",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 111308921,
+                "MediaPathName": "Media/en/111308921.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "sp_sys\\3_8_avg_common\\qianxiao\\en_vo_avg_3_8_qianxiao_05.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_avg_3_8_qianxiao_05"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1735860046,
+            "LanguageName": "ja",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 1260604192,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1260604192,
+                "SoundBankPathName": "Event/ja/play_vo_avg_3_8_qianxiao_05.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_avg_3_8_qianxiao_05",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 20412715,
+                "MediaPathName": "Media/ja/20412715.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "sp_sys\\3_8_avg_common\\qianxiao\\ja_vo_avg_3_8_qianxiao_05.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_avg_3_8_qianxiao_05"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1719082483,
+            "LanguageName": "ko",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 1260604192,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1260604192,
+                "SoundBankPathName": "Event/ko/play_vo_avg_3_8_qianxiao_05.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_avg_3_8_qianxiao_05",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 125521934,
+                "MediaPathName": "Media/ko/125521934.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "sp_sys\\3_8_avg_common\\qianxiao\\ko_vo_avg_3_8_qianxiao_05.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_avg_3_8_qianxiao_05"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1467418007,
+            "LanguageName": "zh",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsDefault"
+          },
+          "Value": {
+            "EventId": 1260604192,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1260604192,
+                "SoundBankPathName": "Event/zh/play_vo_avg_3_8_qianxiao_05.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_avg_3_8_qianxiao_05",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 145468158,
+                "MediaPathName": "Media/zh/145468158.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "sp_sys\\3_8_avg_common\\qianxiao\\zh_vo_avg_3_8_qianxiao_05.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_avg_3_8_qianxiao_05"
+          }
+        }
+      ],
+      "DebugName": "play_vo_avg_3_8_qianxiao_05",
+      "EventId": 1260604192
+    },
+    "MaximumDuration": 0.9194583,
+    "MinimumDuration": 0.47729167,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

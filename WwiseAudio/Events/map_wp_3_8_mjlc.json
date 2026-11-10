@@ -1,0 +1,339 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "map_wp_3_8_mjlc",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/map_wp_3_8_mjlc",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2194966823,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2194966823,
+                "SoundBankPathName": "Event/map_wp_3_8_mjlc.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "map_wp_3_8_mjlc",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 34052442,
+                "MediaPathName": "Media/34052442.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.0\\3.0_amb_bed\\树叶风_amb_bed_leave_wind_day.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 201783899,
+                "MediaPathName": "Media/201783899.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.0\\3.0_amb_bed\\树叶风_amb_bed_leave_wind_day.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 201990457,
+                "MediaPathName": "Media/201990457.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.7\\amb_bed_3_7_WXSG_SummerLand_v2.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 298730732,
+                "MediaPathName": "Media/298730732.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\amb\\amb_beds\\amb_beds_birds_far_06.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 314435277,
+                "MediaPathName": "Media/314435277.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\amb\\amb_beds\\amb_beds_birds_far_04.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 385598208,
+                "MediaPathName": "Media/385598208.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.0\\3.0_amb_bed\\树叶风_amb_bed_leave_wind_day.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 399465553,
+                "MediaPathName": "Media/399465553.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\amb\\amb_beds\\amb_beds_birds_far_05.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 421077246,
+                "MediaPathName": "Media/421077246.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\amb\\amb_beds\\amb_beds_birds_far_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 586330120,
+                "MediaPathName": "Media/586330120.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.0\\3.0_amb_bed\\树叶风_amb_bed_leave_wind_day.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 792162311,
+                "MediaPathName": "Media/792162311.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.0\\3.0_amb_bed\\树叶风_amb_bed_leave_wind_day.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 838999177,
+                "MediaPathName": "Media/838999177.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\amb\\amb_beds\\amb_beds_birds_far_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1006739234,
+                "MediaPathName": "Media/1006739234.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.0\\3.0_amb_bed\\树叶风_amb_bed_leave_wind_day.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1023814631,
+                "MediaPathName": "Media/1023814631.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\amb_bed_3_6_Air_Space.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1070207306,
+                "MediaPathName": "Media/1070207306.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\amb\\amb_beds\\amb_beds_birds_far_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 89293421,
+                "MediaPathName": "Media/89293421.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.8\\amb_bed_3_8_feixu_night_fly.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 207752541,
+                "MediaPathName": "Media/207752541.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.8\\amb_bed_3_8_feixu_night_fly.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 264603092,
+                "MediaPathName": "Media/264603092.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.8\\amb_bed_3_8_feixu_night_fly.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 287584037,
+                "MediaPathName": "Media/287584037.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.7\\amb_bed_warfield_wind.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 311475420,
+                "MediaPathName": "Media/311475420.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.8\\amb_bed_3_8_feixu_night_fly.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 436905421,
+                "MediaPathName": "Media/436905421.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.8\\amb_bed_3_8_feixu_night_fly.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 504684777,
+                "MediaPathName": "Media/504684777.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.8\\amb_bed_3_8_feixu_night_fly.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 523739423,
+                "MediaPathName": "Media/523739423.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\2.8\\leaves\\amb_bed_wind_howl_light_loop.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 574943155,
+                "MediaPathName": "Media/574943155.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "amb\\amb_bed\\3.8\\amb_bed_3_8_feixu_night_fly.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 697352419,
+                "MediaPathName": "Media/697352419.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.8\\amb_bed_3_8_feixu_night_fly.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 770600364,
+                "MediaPathName": "Media/770600364.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.8\\amb_bed_3_8_feixu_night_fly.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 799097926,
+                "MediaPathName": "Media/799097926.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.8\\amb_bed_3_8_feixu_night_fly.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 819599438,
+                "MediaPathName": "Media/819599438.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\2.8\\leaves\\amb_bed_wind_howl_light_loop.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1002706375,
+                "MediaPathName": "Media/1002706375.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\2.8\\leaves\\amb_bed_wind_howl_light_loop.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 778358770,
+                "MediaPathName": "Media/778358770.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\Interaction\\2.0\\Interact_feilongqiao_fire_loop.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "map_wp_3_8_mjlc"
+          }
+        }
+      ],
+      "DebugName": "map_wp_3_8_mjlc",
+      "EventId": 2194966823
+    },
+    "MaximumDuration": 0.0,
+    "MinimumDuration": 0.0,
+    "IsInfinite": true,
+    "MaxAttenuationRadius": 0.0
+  }
+]

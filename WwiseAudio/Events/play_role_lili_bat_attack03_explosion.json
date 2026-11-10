@@ -1,0 +1,59 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_role_lili_bat_attack03_explosion",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_role_lili_bat_attack03_explosion",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3548354395,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3548354395,
+                "SoundBankPathName": "Event/play_role_lili_bat_attack03_explosion.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_role_lili_bat_attack03_explosion",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 352419044,
+                "MediaPathName": "Media/352419044.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "role\\role_bat_Lili\\role_Lili_bat_attack03_explosion.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_role_lili_bat_attack03_explosion"
+          }
+        }
+      ],
+      "DebugName": "play_role_lili_bat_attack03_explosion",
+      "EventId": 3548354395
+    },
+    "MaximumDuration": 2.5240417,
+    "MinimumDuration": 2.5240417,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 8000.0
+  }
+]

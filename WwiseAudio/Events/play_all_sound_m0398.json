@@ -1,0 +1,69 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_all_sound_m0398",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_all_sound_m0398",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 4136509859,
+            "SoundBanks": [
+              {
+                "SoundBankId": 4136509859,
+                "SoundBankPathName": "Event/play_all_sound_m0398.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_all_sound_m0398",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 337120078,
+                "MediaPathName": "Media/337120078.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\level_a\\3.8\\bgm-story_video_m0398-all-full-65bpm-4_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 927808066,
+                "MediaPathName": "Media/927808066.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\Plot_LevelA\\3.8\\sfx_lva_m0398.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_all_sound_m0398"
+          }
+        }
+      ],
+      "DebugName": "play_all_sound_m0398",
+      "EventId": 4136509859
+    },
+    "MaximumDuration": 18.68175,
+    "MinimumDuration": 18.68175,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_ui_solarschool_loadingc_dusktoday",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_ui_solarschool_loadingc_dusktoday",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2494323669,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2494323669,
+                "SoundBankPathName": "Event/play_ui_solarschool_loadingc_dusktoday.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_ui_solarschool_loadingc_dusktoday",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 482849779,
+                "MediaPathName": "Media/482849779.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch3,8\\solarschool\\solarschool_normal\\ui_solarschool_loadingc_dusktoday.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 843468755,
+                "MediaPathName": "Media/843468755.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch3,8\\solarschool\\solarschool_normal\\ui_solarschool_loadingb_start.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_ui_solarschool_loadingc_dusktoday"
+          }
+        }
+      ],
+      "DebugName": "play_ui_solarschool_loadingc_dusktoday",
+      "EventId": 2494323669
+    },
+    "MaximumDuration": 4.766667,
+    "MinimumDuration": 4.766667,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

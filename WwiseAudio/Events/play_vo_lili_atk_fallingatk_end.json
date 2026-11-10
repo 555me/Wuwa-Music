@@ -1,0 +1,169 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_lili_atk_fallingatk_end",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_lili_atk_fallingatk_end",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 181616827,
+            "SoundBanks": [
+              {
+                "SoundBankId": 181616827,
+                "SoundBankPathName": "Event/play_vo_lili_atk_fallingatk_end.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_lili_atk_fallingatk_end",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 45492856,
+                "MediaPathName": "Media/45492856.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,8\\lili\\ko_vo_lili_atk_fallingatk_end_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 709518992,
+                "MediaPathName": "Media/709518992.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,8\\lili\\zh_vo_lili_atk_fallingatk_end_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 875389898,
+                "MediaPathName": "Media/875389898.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,8\\lili\\ja_vo_lili_atk_fallingatk_end_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 622672875,
+                "MediaPathName": "Media/622672875.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_3,8\\lili\\en_vo_lili_atk_fallingatk_end_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 646784677,
+                "MediaPathName": "Media/646784677.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,8\\lili\\ko_vo_lili_atk_fallingatk_end_01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 255056492,
+                "MediaPathName": "Media/255056492.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,8\\lili\\zh_vo_lili_atk_fallingatk_end_01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1047819073,
+                "MediaPathName": "Media/1047819073.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,8\\lili\\ja_vo_lili_atk_fallingatk_end_01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 433802023,
+                "MediaPathName": "Media/433802023.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_3,8\\lili\\en_vo_lili_atk_fallingatk_end_01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 349651001,
+                "MediaPathName": "Media/349651001.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,8\\lili\\ko_vo_lili_atk_fallingatk_end_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 373713330,
+                "MediaPathName": "Media/373713330.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,8\\lili\\zh_vo_lili_atk_fallingatk_end_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 140185607,
+                "MediaPathName": "Media/140185607.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,8\\lili\\ja_vo_lili_atk_fallingatk_end_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 810860870,
+                "MediaPathName": "Media/810860870.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_3,8\\lili\\en_vo_lili_atk_fallingatk_end_02_tone.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_lili_atk_fallingatk_end"
+          }
+        }
+      ],
+      "DebugName": "play_vo_lili_atk_fallingatk_end",
+      "EventId": 181616827
+    },
+    "MaximumDuration": 0.5378542,
+    "MinimumDuration": 0.204375,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

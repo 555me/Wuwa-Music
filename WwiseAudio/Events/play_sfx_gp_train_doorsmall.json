@@ -1,0 +1,59 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_train_doorsmall",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_train_doorsmall",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1471782868,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1471782868,
+                "SoundBankPathName": "Event/play_sfx_gp_train_doorsmall.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_train_doorsmall",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 30169797,
+                "MediaPathName": "Media/30169797.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "sfx_gp_train_doorsmall_01.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_train_doorsmall"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_train_doorsmall",
+      "EventId": 1471782868
+    },
+    "MaximumDuration": 0.80754167,
+    "MinimumDuration": 0.80754167,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 3000.0
+  }
+]

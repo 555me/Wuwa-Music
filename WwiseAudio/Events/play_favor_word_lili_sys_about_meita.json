@@ -1,0 +1,89 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_favor_word_lili_sys_about_meita",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_favor_word_lili_sys_about_meita",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 296108147,
+            "SoundBanks": [
+              {
+                "SoundBankId": 296108147,
+                "SoundBankPathName": "Event/play_favor_word_lili_sys_about_meita.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_favor_word_lili_sys_about_meita",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 459429988,
+                "MediaPathName": "Media/459429988.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\ko\\role\\branch_3,8\\lili\\ko_vo_lili_sys_about_meita_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 566009267,
+                "MediaPathName": "Media/566009267.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\zh\\role\\branch_3,8\\lili\\zh_vo_lili_sys_about_meita_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 831673754,
+                "MediaPathName": "Media/831673754.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\ja\\role\\branch_3,8\\lili\\ja_vo_lili_sys_about_meita_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 815735292,
+                "MediaPathName": "Media/815735292.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\en\\role\\branch_3,8\\lili\\en_vo_lili_sys_about_meita_word.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_favor_word_lili_sys_about_meita"
+          }
+        }
+      ],
+      "DebugName": "play_favor_word_lili_sys_about_meita",
+      "EventId": 296108147
+    },
+    "MaximumDuration": 44.067623,
+    "MinimumDuration": 32.039104,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

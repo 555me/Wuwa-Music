@@ -39,18 +39,19 @@
             ],
             "Media": [],
             "ExternalSources": [],
+            "AudioNodes": [],
             "SwitchContainerLeaves": [],
             "RequiredGroupValueSet": [
               {
                 "Type": "EWwiseGroupType::State",
                 "GroupId": 1312432705,
-                "Id": 389842714,
+                "ID": 0,
                 "DebugName": "jiyan_scene_layer1"
               },
               {
                 "Type": "EWwiseGroupType::State",
                 "GroupId": -1228006169,
-                "Id": 930712164,
+                "ID": 0,
                 "DebugName": "off"
               }
             ],

@@ -1,0 +1,179 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_avg_3_8_changli_07",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_avg_3_8_changli_07",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 1819748192,
+            "LanguageName": "en",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 1393599210,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1393599210,
+                "SoundBankPathName": "Event/en/play_vo_avg_3_8_changli_07.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_avg_3_8_changli_07",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 546793844,
+                "MediaPathName": "Media/en/546793844.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "sp_sys\\3_8_avg_common\\changli\\en_vo_avg_3_8_changli_07.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_avg_3_8_changli_07"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1735860046,
+            "LanguageName": "ja",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 1393599210,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1393599210,
+                "SoundBankPathName": "Event/ja/play_vo_avg_3_8_changli_07.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_avg_3_8_changli_07",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 695903897,
+                "MediaPathName": "Media/ja/695903897.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "sp_sys\\3_8_avg_common\\changli\\ja_vo_avg_3_8_changli_07.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_avg_3_8_changli_07"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1719082483,
+            "LanguageName": "ko",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 1393599210,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1393599210,
+                "SoundBankPathName": "Event/ko/play_vo_avg_3_8_changli_07.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_avg_3_8_changli_07",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 148551687,
+                "MediaPathName": "Media/ko/148551687.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "sp_sys\\3_8_avg_common\\changli\\ko_vo_avg_3_8_changli_07.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_avg_3_8_changli_07"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1467418007,
+            "LanguageName": "zh",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsDefault"
+          },
+          "Value": {
+            "EventId": 1393599210,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1393599210,
+                "SoundBankPathName": "Event/zh/play_vo_avg_3_8_changli_07.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_avg_3_8_changli_07",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 585311849,
+                "MediaPathName": "Media/zh/585311849.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "sp_sys\\3_8_avg_common\\changli\\zh_vo_avg_3_8_changli_07.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_avg_3_8_changli_07"
+          }
+        }
+      ],
+      "DebugName": "play_vo_avg_3_8_changli_07",
+      "EventId": 1393599210
+    },
+    "MaximumDuration": 1.1395625,
+    "MinimumDuration": 0.64077085,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

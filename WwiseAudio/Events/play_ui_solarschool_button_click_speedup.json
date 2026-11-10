@@ -1,0 +1,59 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_ui_solarschool_button_click_speedup",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_ui_solarschool_button_click_speedup",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3526740751,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3526740751,
+                "SoundBankPathName": "Event/play_ui_solarschool_button_click_speedup.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_ui_solarschool_button_click_speedup",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 571512121,
+                "MediaPathName": "Media/571512121.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch3,8\\solarschool\\solarschool_normal\\ui_solarschool_button_click_speedup.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_ui_solarschool_button_click_speedup"
+          }
+        }
+      ],
+      "DebugName": "play_ui_solarschool_button_click_speedup",
+      "EventId": 3526740751
+    },
+    "MaximumDuration": 0.05975,
+    "MinimumDuration": 0.05975,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

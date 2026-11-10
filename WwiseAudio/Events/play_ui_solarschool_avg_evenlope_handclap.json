@@ -1,0 +1,59 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_ui_solarschool_avg_evenlope_handclap",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_ui_solarschool_avg_evenlope_handclap",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2131997326,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2131997326,
+                "SoundBankPathName": "Event/play_ui_solarschool_avg_evenlope_handclap.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_ui_solarschool_avg_evenlope_handclap",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 818522776,
+                "MediaPathName": "Media/818522776.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch3,8\\solarschool\\avg_point\\ui_solarschool_avg_evenlope_handclap.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_ui_solarschool_avg_evenlope_handclap"
+          }
+        }
+      ],
+      "DebugName": "play_ui_solarschool_avg_evenlope_handclap",
+      "EventId": 2131997326
+    },
+    "MaximumDuration": 0.85333335,
+    "MinimumDuration": 0.85333335,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

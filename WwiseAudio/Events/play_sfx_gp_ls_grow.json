@@ -1,0 +1,79 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_ls_grow",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_ls_grow",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 780661697,
+            "SoundBanks": [
+              {
+                "SoundBankId": 780661697,
+                "SoundBankPathName": "Event/play_sfx_gp_ls_grow.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_ls_grow",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 396186677,
+                "MediaPathName": "Media/396186677.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\gameplay\\3_8\\3_8_gp_WCJ\\sfx_gp_hua\\sfx_gp_ls_grow_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 569378627,
+                "MediaPathName": "Media/569378627.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\gameplay\\3_8\\3_8_gp_WCJ\\sfx_gp_hua\\sfx_gp_ls_grow_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 800991963,
+                "MediaPathName": "Media/800991963.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\gameplay\\3_8\\3_8_gp_WCJ\\sfx_gp_hua\\sfx_gp_ls_grow_02.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_ls_grow"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_ls_grow",
+      "EventId": 780661697
+    },
+    "MaximumDuration": 13.34909,
+    "MinimumDuration": 5.081082,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

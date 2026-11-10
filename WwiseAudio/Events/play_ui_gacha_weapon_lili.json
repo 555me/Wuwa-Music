@@ -1,0 +1,59 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_ui_gacha_weapon_lili",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_ui_gacha_weapon_lili",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 4159121817,
+            "SoundBanks": [
+              {
+                "SoundBankId": 4159121817,
+                "SoundBankPathName": "Event/play_ui_gacha_weapon_lili.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_ui_gacha_weapon_lili",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 471723402,
+                "MediaPathName": "Media/471723402.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "role\\role_bat_Lili\\ui_gacha_weapon_lili.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_ui_gacha_weapon_lili"
+          }
+        }
+      ],
+      "DebugName": "play_ui_gacha_weapon_lili",
+      "EventId": 4159121817
+    },
+    "MaximumDuration": 15.551995,
+    "MinimumDuration": 15.551995,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

@@ -1,0 +1,339 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_amb_emit_3_8_crowd_talking_point1",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_amb_emit_3_8_crowd_talking_point1",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 1819748192,
+            "LanguageName": "en",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 913674210,
+            "SoundBanks": [
+              {
+                "SoundBankId": 913674210,
+                "SoundBankPathName": "Event/en/play_amb_emit_3_8_crowd_talking_point1.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_amb_emit_3_8_crowd_talking_point1",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 314190615,
+                "MediaPathName": "Media/en/314190615.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.8\\amb_voice\\en_vo_amb_emit_3_8_crowd_talking_05.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 315433472,
+                "MediaPathName": "Media/en/315433472.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.8\\amb_voice\\en_vo_amb_emit_3_8_crowd_talking_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 336535833,
+                "MediaPathName": "Media/en/336535833.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.8\\amb_voice\\en_vo_amb_emit_3_8_crowd_talking_04.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 423618256,
+                "MediaPathName": "Media/en/423618256.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.8\\amb_voice\\en_vo_amb_emit_3_8_crowd_talking_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 808368629,
+                "MediaPathName": "Media/en/808368629.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.8\\amb_voice\\en_vo_amb_emit_3_8_crowd_talking_02.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_amb_emit_3_8_crowd_talking_point1"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1735860046,
+            "LanguageName": "ja",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 913674210,
+            "SoundBanks": [
+              {
+                "SoundBankId": 913674210,
+                "SoundBankPathName": "Event/ja/play_amb_emit_3_8_crowd_talking_point1.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_amb_emit_3_8_crowd_talking_point1",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 130804357,
+                "MediaPathName": "Media/ja/130804357.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.8\\amb_voice\\ja_vo_amb_emit_3_8_crowd_talking_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 131841331,
+                "MediaPathName": "Media/ja/131841331.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.8\\amb_voice\\ja_vo_amb_emit_3_8_crowd_talking_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 528881369,
+                "MediaPathName": "Media/ja/528881369.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.8\\amb_voice\\ja_vo_amb_emit_3_8_crowd_talking_05.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 895707012,
+                "MediaPathName": "Media/ja/895707012.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.8\\amb_voice\\ja_vo_amb_emit_3_8_crowd_talking_04.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 989486599,
+                "MediaPathName": "Media/ja/989486599.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.8\\amb_voice\\ja_vo_amb_emit_3_8_crowd_talking_02.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_amb_emit_3_8_crowd_talking_point1"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1719082483,
+            "LanguageName": "ko",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 913674210,
+            "SoundBanks": [
+              {
+                "SoundBankId": 913674210,
+                "SoundBankPathName": "Event/ko/play_amb_emit_3_8_crowd_talking_point1.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_amb_emit_3_8_crowd_talking_point1",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 196570004,
+                "MediaPathName": "Media/ko/196570004.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.8\\amb_voice\\ko_vo_amb_emit_3_8_crowd_talking_04.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 525403926,
+                "MediaPathName": "Media/ko/525403926.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.8\\amb_voice\\ko_vo_amb_emit_3_8_crowd_talking_05.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 720984292,
+                "MediaPathName": "Media/ko/720984292.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.8\\amb_voice\\ko_vo_amb_emit_3_8_crowd_talking_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 820258035,
+                "MediaPathName": "Media/ko/820258035.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.8\\amb_voice\\ko_vo_amb_emit_3_8_crowd_talking_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 972735475,
+                "MediaPathName": "Media/ko/972735475.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.8\\amb_voice\\ko_vo_amb_emit_3_8_crowd_talking_02.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_amb_emit_3_8_crowd_talking_point1"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1467418007,
+            "LanguageName": "zh",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsDefault"
+          },
+          "Value": {
+            "EventId": 913674210,
+            "SoundBanks": [
+              {
+                "SoundBankId": 913674210,
+                "SoundBankPathName": "Event/zh/play_amb_emit_3_8_crowd_talking_point1.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_amb_emit_3_8_crowd_talking_point1",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 58714773,
+                "MediaPathName": "Media/zh/58714773.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.8\\amb_voice\\zh_vo_amb_emit_3_8_crowd_talking_05.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 141252002,
+                "MediaPathName": "Media/zh/141252002.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.8\\amb_voice\\zh_vo_amb_emit_3_8_crowd_talking_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 306649795,
+                "MediaPathName": "Media/zh/306649795.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.8\\amb_voice\\zh_vo_amb_emit_3_8_crowd_talking_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 536459761,
+                "MediaPathName": "Media/zh/536459761.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.8\\amb_voice\\zh_vo_amb_emit_3_8_crowd_talking_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 925151231,
+                "MediaPathName": "Media/zh/925151231.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.8\\amb_voice\\zh_vo_amb_emit_3_8_crowd_talking_04.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_amb_emit_3_8_crowd_talking_point1"
+          }
+        }
+      ],
+      "DebugName": "play_amb_emit_3_8_crowd_talking_point1",
+      "EventId": 913674210
+    },
+    "MaximumDuration": 0.0,
+    "MinimumDuration": 0.0,
+    "IsInfinite": true,
+    "MaxAttenuationRadius": 3000.0
+  }
+]

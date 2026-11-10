@@ -1,0 +1,79 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_maze38_rumble",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_maze38_rumble",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 589109850,
+            "SoundBanks": [
+              {
+                "SoundBankId": 589109850,
+                "SoundBankPathName": "Event/play_sfx_gp_maze38_rumble.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_maze38_rumble",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 259608074,
+                "MediaPathName": "Media/259608074.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\gameplay\\3_8\\3_8_gp_LJY\\trainmaze\\sfx_gp_maze38_rumble_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 448380303,
+                "MediaPathName": "Media/448380303.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\gameplay\\3_8\\3_8_gp_LJY\\trainmaze\\sfx_gp_maze38_rumble_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 468580944,
+                "MediaPathName": "Media/468580944.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\gameplay\\3_8\\3_8_gp_LJY\\trainmaze\\sfx_gp_maze38_rumble_01.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_maze38_rumble"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_maze38_rumble",
+      "EventId": 589109850
+    },
+    "MaximumDuration": 2.1189263,
+    "MinimumDuration": 1.5420545,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

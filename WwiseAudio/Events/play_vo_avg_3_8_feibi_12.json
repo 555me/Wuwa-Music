@@ -1,0 +1,179 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_avg_3_8_feibi_12",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_avg_3_8_feibi_12",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 1819748192,
+            "LanguageName": "en",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 331977455,
+            "SoundBanks": [
+              {
+                "SoundBankId": 331977455,
+                "SoundBankPathName": "Event/en/play_vo_avg_3_8_feibi_12.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_avg_3_8_feibi_12",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 684867536,
+                "MediaPathName": "Media/en/684867536.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "sp_sys\\3_8_avg_common\\feibi\\en_vo_avg_3_8_feibi_12.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_avg_3_8_feibi_12"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1735860046,
+            "LanguageName": "ja",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 331977455,
+            "SoundBanks": [
+              {
+                "SoundBankId": 331977455,
+                "SoundBankPathName": "Event/ja/play_vo_avg_3_8_feibi_12.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_avg_3_8_feibi_12",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 817711117,
+                "MediaPathName": "Media/ja/817711117.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "sp_sys\\3_8_avg_common\\feibi\\ja_vo_avg_3_8_feibi_12.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_avg_3_8_feibi_12"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1719082483,
+            "LanguageName": "ko",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 331977455,
+            "SoundBanks": [
+              {
+                "SoundBankId": 331977455,
+                "SoundBankPathName": "Event/ko/play_vo_avg_3_8_feibi_12.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_avg_3_8_feibi_12",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 524338126,
+                "MediaPathName": "Media/ko/524338126.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "sp_sys\\3_8_avg_common\\feibi\\ko_vo_avg_3_8_feibi_12.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_avg_3_8_feibi_12"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1467418007,
+            "LanguageName": "zh",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsDefault"
+          },
+          "Value": {
+            "EventId": 331977455,
+            "SoundBanks": [
+              {
+                "SoundBankId": 331977455,
+                "SoundBankPathName": "Event/zh/play_vo_avg_3_8_feibi_12.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_avg_3_8_feibi_12",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 882830200,
+                "MediaPathName": "Media/zh/882830200.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "sp_sys\\3_8_avg_common\\feibi\\zh_vo_avg_3_8_feibi_12.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_avg_3_8_feibi_12"
+          }
+        }
+      ],
+      "DebugName": "play_vo_avg_3_8_feibi_12",
+      "EventId": 331977455
+    },
+    "MaximumDuration": 0.854,
+    "MinimumDuration": 0.6227083,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

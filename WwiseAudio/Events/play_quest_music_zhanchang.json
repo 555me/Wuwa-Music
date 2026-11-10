@@ -1,0 +1,149 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_quest_music_zhanchang",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_quest_music_zhanchang",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1592602215,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1592602215,
+                "SoundBankPathName": "Event/play_quest_music_zhanchang.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_quest_music_zhanchang",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 877080452,
+                "MediaPathName": "Media/877080452.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_8\\bgm-story_quest_3_8_zhanchang10-all-full-50bpm-6_8.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 515900650,
+                "MediaPathName": "Media/515900650.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_8\\bgm-story_quest_3_8_zhanchang09-all-full-50bpm-6_8.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1061727955,
+                "MediaPathName": "Media/1061727955.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_8\\bgm-story_quest_3_8_zhanchang08-all-full-50bpm-6_8.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 834004384,
+                "MediaPathName": "Media/834004384.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_8\\bgm-story_quest_3_8_zhanchang07-all-full-50bpm-6_8.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 434379497,
+                "MediaPathName": "Media/434379497.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_8\\bgm-story_quest_3_8_zhanchang06-all-full-50bpm-6_8.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 357667255,
+                "MediaPathName": "Media/357667255.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_8\\bgm-story_quest_3_8_zhanchang_01-all-full-100bpm-4_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 514671303,
+                "MediaPathName": "Media/514671303.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_8\\bgm-story_quest_3_8_zhanchang04-all-full-50bpm-6_8.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 614494691,
+                "MediaPathName": "Media/614494691.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_8\\bgm-story_quest_3_8_zhanchang03-all-full-50bpm-6_8.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 178271940,
+                "MediaPathName": "Media/178271940.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_8\\bgm-story_quest_3_8_zhanchang02-all-full-100bpm-4_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 324921673,
+                "MediaPathName": "Media/324921673.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music\\music_scene\\silence.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_quest_music_zhanchang"
+          }
+        }
+      ],
+      "DebugName": "play_quest_music_zhanchang",
+      "EventId": 1592602215
+    },
+    "MaximumDuration": 0.0,
+    "MinimumDuration": 0.0,
+    "IsInfinite": true,
+    "MaxAttenuationRadius": 0.0
+  }
+]

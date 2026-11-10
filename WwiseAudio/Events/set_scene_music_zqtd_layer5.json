@@ -29,18 +29,19 @@
             ],
             "Media": [],
             "ExternalSources": [],
+            "AudioNodes": [],
             "SwitchContainerLeaves": [],
             "RequiredGroupValueSet": [
               {
                 "Type": "EWwiseGroupType::State",
                 "GroupId": -723510124,
-                "Id": 506285221,
+                "ID": 0,
                 "DebugName": "area2_qcccave"
               },
               {
                 "Type": "EWwiseGroupType::State",
                 "GroupId": 727401557,
-                "Id": 731097534,
+                "ID": 0,
                 "DebugName": "ZQTD"
               }
             ],

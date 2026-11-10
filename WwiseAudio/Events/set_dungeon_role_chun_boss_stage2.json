@@ -29,12 +29,13 @@
             ],
             "Media": [],
             "ExternalSources": [],
+            "AudioNodes": [],
             "SwitchContainerLeaves": [],
             "RequiredGroupValueSet": [
               {
                 "Type": "EWwiseGroupType::State",
                 "GroupId": 951182952,
-                "Id": 1382887211,
+                "ID": 0,
                 "DebugName": "dungeon_chun_boss_level2"
               }
             ],

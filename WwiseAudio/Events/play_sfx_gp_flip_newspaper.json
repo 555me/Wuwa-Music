@@ -1,0 +1,69 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_flip_newspaper",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_flip_newspaper",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3565962327,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3565962327,
+                "SoundBankPathName": "Event/play_sfx_gp_flip_newspaper.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_flip_newspaper",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 17218343,
+                "MediaPathName": "Media/17218343.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "task\\stand_idle_loop01_b.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 496265787,
+                "MediaPathName": "Media/496265787.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "task\\stand_idle_loop01_a.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_flip_newspaper"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_flip_newspaper",
+      "EventId": 3565962327
+    },
+    "MaximumDuration": 1.0265625,
+    "MinimumDuration": 0.98954165,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

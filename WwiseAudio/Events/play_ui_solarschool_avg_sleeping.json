@@ -1,0 +1,59 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_ui_solarschool_avg_sleeping",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_ui_solarschool_avg_sleeping",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3011097353,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3011097353,
+                "SoundBankPathName": "Event/play_ui_solarschool_avg_sleeping.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_ui_solarschool_avg_sleeping",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 444473262,
+                "MediaPathName": "Media/444473262.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch3,8\\solarschool\\avg_point\\ui_solarschool_avg_sleeping.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_ui_solarschool_avg_sleeping"
+          }
+        }
+      ],
+      "DebugName": "play_ui_solarschool_avg_sleeping",
+      "EventId": 3011097353
+    },
+    "MaximumDuration": 2.88,
+    "MinimumDuration": 2.88,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

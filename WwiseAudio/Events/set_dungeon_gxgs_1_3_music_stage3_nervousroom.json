@@ -29,12 +29,13 @@
             ],
             "Media": [],
             "ExternalSources": [],
+            "AudioNodes": [],
             "SwitchContainerLeaves": [],
             "RequiredGroupValueSet": [
               {
                 "Type": "EWwiseGroupType::State",
                 "GroupId": -1021927381,
-                "Id": -817119066,
+                "ID": 0,
                 "DebugName": "stage3_nervousroom"
               }
             ],

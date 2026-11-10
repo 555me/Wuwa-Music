@@ -1,0 +1,59 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_ui_solarschool_avg_mood_discontent",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_ui_solarschool_avg_mood_discontent",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3499985489,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3499985489,
+                "SoundBankPathName": "Event/play_ui_solarschool_avg_mood_discontent.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_ui_solarschool_avg_mood_discontent",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 773588585,
+                "MediaPathName": "Media/773588585.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch3,8\\solarschool\\avg_point\\mood\\ui_solarschool_avg_mood_discontent.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_ui_solarschool_avg_mood_discontent"
+          }
+        }
+      ],
+      "DebugName": "play_ui_solarschool_avg_mood_discontent",
+      "EventId": 3499985489
+    },
+    "MaximumDuration": 0.512,
+    "MinimumDuration": 0.512,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

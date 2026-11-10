@@ -1,0 +1,99 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_amb_emit_3_8_paper_flutter",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_amb_emit_3_8_paper_flutter",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 716036963,
+            "SoundBanks": [
+              {
+                "SoundBankId": 716036963,
+                "SoundBankPathName": "Event/play_amb_emit_3_8_paper_flutter.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_amb_emit_3_8_paper_flutter",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 73890911,
+                "MediaPathName": "Media/73890911.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\3.8\\amb_emit_3_8_paper_flutter.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 234977709,
+                "MediaPathName": "Media/234977709.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "amb\\amb_emit\\3.8\\amb_emit_3_8_paper_flutter.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 264174836,
+                "MediaPathName": "Media/264174836.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\3.8\\amb_emit_3_8_paper_flutter.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 331617596,
+                "MediaPathName": "Media/331617596.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\3.8\\amb_emit_3_8_paper_flutter.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 999686472,
+                "MediaPathName": "Media/999686472.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\3.8\\amb_emit_3_8_paper_flutter.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_amb_emit_3_8_paper_flutter"
+          }
+        }
+      ],
+      "DebugName": "play_amb_emit_3_8_paper_flutter",
+      "EventId": 716036963
+    },
+    "MaximumDuration": 0.0,
+    "MinimumDuration": 0.0,
+    "IsInfinite": true,
+    "MaxAttenuationRadius": 1500.0
+  }
+]

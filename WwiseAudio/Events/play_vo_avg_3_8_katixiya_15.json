@@ -1,0 +1,179 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_avg_3_8_katixiya_15",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_avg_3_8_katixiya_15",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 1819748192,
+            "LanguageName": "en",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 2887175259,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2887175259,
+                "SoundBankPathName": "Event/en/play_vo_avg_3_8_katixiya_15.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_avg_3_8_katixiya_15",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 82354449,
+                "MediaPathName": "Media/en/82354449.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "sp_sys\\3_8_avg_common\\katixiya\\en_vo_avg_3_8_katixiya_15.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_avg_3_8_katixiya_15"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1735860046,
+            "LanguageName": "ja",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 2887175259,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2887175259,
+                "SoundBankPathName": "Event/ja/play_vo_avg_3_8_katixiya_15.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_avg_3_8_katixiya_15",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 826362990,
+                "MediaPathName": "Media/ja/826362990.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "sp_sys\\3_8_avg_common\\katixiya\\ja_vo_avg_3_8_katixiya_15.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_avg_3_8_katixiya_15"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1719082483,
+            "LanguageName": "ko",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 2887175259,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2887175259,
+                "SoundBankPathName": "Event/ko/play_vo_avg_3_8_katixiya_15.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_avg_3_8_katixiya_15",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 98910816,
+                "MediaPathName": "Media/ko/98910816.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "sp_sys\\3_8_avg_common\\katixiya\\ko_vo_avg_3_8_katixiya_15.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_avg_3_8_katixiya_15"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1467418007,
+            "LanguageName": "zh",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsDefault"
+          },
+          "Value": {
+            "EventId": 2887175259,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2887175259,
+                "SoundBankPathName": "Event/zh/play_vo_avg_3_8_katixiya_15.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_avg_3_8_katixiya_15",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 370273523,
+                "MediaPathName": "Media/zh/370273523.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "sp_sys\\3_8_avg_common\\katixiya\\zh_vo_avg_3_8_katixiya_15.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_avg_3_8_katixiya_15"
+          }
+        }
+      ],
+      "DebugName": "play_vo_avg_3_8_katixiya_15",
+      "EventId": 2887175259
+    },
+    "MaximumDuration": 0.8781667,
+    "MinimumDuration": 0.6797708,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

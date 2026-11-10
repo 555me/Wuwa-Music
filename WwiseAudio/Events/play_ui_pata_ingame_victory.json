@@ -1,0 +1,59 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_ui_pata_ingame_victory",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_ui_pata_ingame_victory",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1895741426,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1895741426,
+                "SoundBankPathName": "Event/play_ui_pata_ingame_victory.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_ui_pata_ingame_victory",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 294770091,
+                "MediaPathName": "Media/294770091.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch3,8\\UI_juesepata\\ingame\\ui_pata_ingame_victory.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_ui_pata_ingame_victory"
+          }
+        }
+      ],
+      "DebugName": "play_ui_pata_ingame_victory",
+      "EventId": 1895741426
+    },
+    "MaximumDuration": 4.578729,
+    "MinimumDuration": 4.578729,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

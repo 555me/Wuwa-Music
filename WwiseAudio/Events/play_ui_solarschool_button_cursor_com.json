@@ -1,0 +1,59 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_ui_solarschool_button_cursor_com",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_ui_solarschool_button_cursor_com",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 419347780,
+            "SoundBanks": [
+              {
+                "SoundBankId": 419347780,
+                "SoundBankPathName": "Event/play_ui_solarschool_button_cursor_com.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_ui_solarschool_button_cursor_com",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 247303527,
+                "MediaPathName": "Media/247303527.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch3,8\\solarschool\\solarschool_normal\\ui_solarschool_button_cursor_com.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_ui_solarschool_button_cursor_com"
+          }
+        }
+      ],
+      "DebugName": "play_ui_solarschool_button_cursor_com",
+      "EventId": 419347780
+    },
+    "MaximumDuration": 0.08041922,
+    "MinimumDuration": 0.08041922,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

@@ -1,0 +1,179 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_avg_3_8_weilinai_10",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_avg_3_8_weilinai_10",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 1819748192,
+            "LanguageName": "en",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 1841028460,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1841028460,
+                "SoundBankPathName": "Event/en/play_vo_avg_3_8_weilinai_10.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_avg_3_8_weilinai_10",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 464021032,
+                "MediaPathName": "Media/en/464021032.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "sp_sys\\3_8_avg_common\\weilinai\\en_vo_avg_3_8_weilinai_10.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_avg_3_8_weilinai_10"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1735860046,
+            "LanguageName": "ja",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 1841028460,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1841028460,
+                "SoundBankPathName": "Event/ja/play_vo_avg_3_8_weilinai_10.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_avg_3_8_weilinai_10",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 841259713,
+                "MediaPathName": "Media/ja/841259713.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "sp_sys\\3_8_avg_common\\weilinai\\ja_vo_avg_3_8_weilinai_10.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_avg_3_8_weilinai_10"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1719082483,
+            "LanguageName": "ko",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 1841028460,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1841028460,
+                "SoundBankPathName": "Event/ko/play_vo_avg_3_8_weilinai_10.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_avg_3_8_weilinai_10",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 881661449,
+                "MediaPathName": "Media/ko/881661449.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "sp_sys\\3_8_avg_common\\weilinai\\ko_vo_avg_3_8_weilinai_10.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_avg_3_8_weilinai_10"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1467418007,
+            "LanguageName": "zh",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsDefault"
+          },
+          "Value": {
+            "EventId": 1841028460,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1841028460,
+                "SoundBankPathName": "Event/zh/play_vo_avg_3_8_weilinai_10.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_avg_3_8_weilinai_10",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 550359890,
+                "MediaPathName": "Media/zh/550359890.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "sp_sys\\3_8_avg_common\\weilinai\\zh_vo_avg_3_8_weilinai_10.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_avg_3_8_weilinai_10"
+          }
+        }
+      ],
+      "DebugName": "play_vo_avg_3_8_weilinai_10",
+      "EventId": 1841028460
+    },
+    "MaximumDuration": 1.2717708,
+    "MinimumDuration": 0.55345833,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

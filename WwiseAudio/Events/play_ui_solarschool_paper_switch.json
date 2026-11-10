@@ -1,0 +1,59 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_ui_solarschool_paper_switch",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_ui_solarschool_paper_switch",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2125672232,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2125672232,
+                "SoundBankPathName": "Event/play_ui_solarschool_paper_switch.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_ui_solarschool_paper_switch",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 73570690,
+                "MediaPathName": "Media/73570690.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,1\\springfestival\\ui_springfestival_album_switch_list.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_ui_solarschool_paper_switch"
+          }
+        }
+      ],
+      "DebugName": "play_ui_solarschool_paper_switch",
+      "EventId": 2125672232
+    },
+    "MaximumDuration": 0.96004164,
+    "MinimumDuration": 0.96004164,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

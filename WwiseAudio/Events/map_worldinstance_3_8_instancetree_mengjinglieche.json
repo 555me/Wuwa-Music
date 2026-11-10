@@ -1,0 +1,149 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "map_worldinstance_3_8_instancetree_mengjinglieche",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/map_worldinstance_3_8_instancetree_mengjinglieche",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3321177910,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3321177910,
+                "SoundBankPathName": "Event/map_worldinstance_3_8_instancetree_mengjinglieche.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "map_worldinstance_3_8_instancetree_mengjinglieche",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 101952194,
+                "MediaPathName": "Media/101952194.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music\\music_scene\\silence_5s.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 448373254,
+                "MediaPathName": "Media/448373254.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_dungeon\\3_8_dungeon\\bgm-scene_xinzhijiyu_01-all-full-120bpm-4_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 553262538,
+                "MediaPathName": "Media/553262538.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_dungeon\\3_8_dungeon\\bgm-scene_huafang_night-all-full-100bpm-4_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 832241987,
+                "MediaPathName": "Media/832241987.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_dungeon\\3_8_dungeon\\bgm-scene_gdmj_amb-all-full-74bpm-4_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1020070006,
+                "MediaPathName": "Media/1020070006.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_dungeon\\3_8_dungeon\\bgm-scene_gdmj_drums-all-full-74bpm-4_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 599251057,
+                "MediaPathName": "Media/599251057.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_dungeon\\3_8_dungeon\\bgm-scene_train_gdmj-all-full-74bpm-4_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 992699993,
+                "MediaPathName": "Media/992699993.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_8\\bgm-scene_train_layer3_day-all-full-126bpm-3_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 527486586,
+                "MediaPathName": "Media/527486586.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_8\\bgm-scene_train_layer2_day-all-full-126bpm-3_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 883888209,
+                "MediaPathName": "Media/883888209.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_8\\bgm-scene_train-all-full-126bpm-3_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 791449039,
+                "MediaPathName": "Media/791449039.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_dungeon\\3_8_dungeon\\bgm-scene_train_night-all-full-100bpm-4_4.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "map_worldinstance_3_8_instancetree_mengjinglieche"
+          }
+        }
+      ],
+      "DebugName": "map_worldinstance_3_8_instancetree_mengjinglieche",
+      "EventId": 3321177910
+    },
+    "MaximumDuration": 0.0,
+    "MinimumDuration": 0.0,
+    "IsInfinite": true,
+    "MaxAttenuationRadius": 0.0
+  }
+]

@@ -1,0 +1,169 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_lili_com_fastclimb",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_lili_com_fastclimb",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1542421752,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1542421752,
+                "SoundBankPathName": "Event/play_vo_lili_com_fastclimb.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_lili_com_fastclimb",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 867060558,
+                "MediaPathName": "Media/867060558.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,8\\lili\\ko_vo_lili_com_fastclimb_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1043740449,
+                "MediaPathName": "Media/1043740449.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,8\\lili\\zh_vo_lili_com_fastclimb_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 896477840,
+                "MediaPathName": "Media/896477840.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,8\\lili\\ja_vo_lili_com_fastclimb_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 519473139,
+                "MediaPathName": "Media/519473139.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_3,8\\lili\\en_vo_lili_com_fastclimb_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 113321307,
+                "MediaPathName": "Media/113321307.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,8\\lili\\ko_vo_lili_com_fastclimb_01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 82091650,
+                "MediaPathName": "Media/82091650.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,8\\lili\\zh_vo_lili_com_fastclimb_01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1022384402,
+                "MediaPathName": "Media/1022384402.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,8\\lili\\ja_vo_lili_com_fastclimb_01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 438732658,
+                "MediaPathName": "Media/438732658.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_3,8\\lili\\en_vo_lili_com_fastclimb_01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 923302677,
+                "MediaPathName": "Media/923302677.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,8\\lili\\ko_vo_lili_com_fastclimb_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 418323273,
+                "MediaPathName": "Media/418323273.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,8\\lili\\zh_vo_lili_com_fastclimb_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 60751773,
+                "MediaPathName": "Media/60751773.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,8\\lili\\ja_vo_lili_com_fastclimb_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 404525889,
+                "MediaPathName": "Media/404525889.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_3,8\\lili\\en_vo_lili_com_fastclimb_03_tone.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_lili_com_fastclimb"
+          }
+        }
+      ],
+      "DebugName": "play_vo_lili_com_fastclimb",
+      "EventId": 1542421752
+    },
+    "MaximumDuration": 0.6393125,
+    "MinimumDuration": 0.19147916,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

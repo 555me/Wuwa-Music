@@ -1,0 +1,89 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_favor_word_lili_sys_about_xigelika",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_favor_word_lili_sys_about_xigelika",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 89205923,
+            "SoundBanks": [
+              {
+                "SoundBankId": 89205923,
+                "SoundBankPathName": "Event/play_favor_word_lili_sys_about_xigelika.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_favor_word_lili_sys_about_xigelika",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 789660442,
+                "MediaPathName": "Media/789660442.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\ko\\role\\branch_3,8\\lili\\ko_vo_lili_sys_about_xigelika_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 694931223,
+                "MediaPathName": "Media/694931223.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\zh\\role\\branch_3,8\\lili\\zh_vo_lili_sys_about_xigelika_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 209641393,
+                "MediaPathName": "Media/209641393.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\ja\\role\\branch_3,8\\lili\\ja_vo_lili_sys_about_xigelika_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 6843403,
+                "MediaPathName": "Media/6843403.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\en\\role\\branch_3,8\\lili\\en_vo_lili_sys_about_xigelika_word.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_favor_word_lili_sys_about_xigelika"
+          }
+        }
+      ],
+      "DebugName": "play_favor_word_lili_sys_about_xigelika",
+      "EventId": 89205923
+    },
+    "MaximumDuration": 61.729523,
+    "MinimumDuration": 48.534,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

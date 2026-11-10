@@ -1,0 +1,59 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_role_activity_xuegong_relic_lightning",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_role_activity_xuegong_relic_lightning",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 152598009,
+            "SoundBanks": [
+              {
+                "SoundBankId": 152598009,
+                "SoundBankPathName": "Event/play_role_activity_xuegong_relic_lightning.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_role_activity_xuegong_relic_lightning",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 226898547,
+                "MediaPathName": "Media/226898547.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "role\\role_activity_xuegong\\role_activity_xuegong_relic_lightning.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_role_activity_xuegong_relic_lightning"
+          }
+        }
+      ],
+      "DebugName": "play_role_activity_xuegong_relic_lightning",
+      "EventId": 152598009
+    },
+    "MaximumDuration": 2.5,
+    "MinimumDuration": 2.5,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

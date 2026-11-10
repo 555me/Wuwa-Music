@@ -1,0 +1,249 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_amb_avg_solarschool_riverbank_night_busy",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_amb_avg_solarschool_riverbank_night_busy",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3745039829,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3745039829,
+                "SoundBankPathName": "Event/play_amb_avg_solarschool_riverbank_night_busy.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_amb_avg_solarschool_riverbank_night_busy",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 12208004,
+                "MediaPathName": "Media/12208004.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.8\\play_amb_avg_solarschool_square_quiet.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 113970146,
+                "MediaPathName": "Media/113970146.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\3.7\\amb_emit_3_7_crowd_cheer_single.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 175683255,
+                "MediaPathName": "Media/175683255.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.0\\3.0_amb_bed 城市\\室外_amb_bed_crowd_outdoor_close_Split_2.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 180851697,
+                "MediaPathName": "Media/180851697.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "amb\\amb_emit\\3.7\\amb_emit_3_7_crowd_cheer_single.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 187796493,
+                "MediaPathName": "Media/187796493.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\2.8\\train_station_UI\\amb_bed_cityamb_street_carpass.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 214791855,
+                "MediaPathName": "Media/214791855.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.0\\3.0_amb_bed 城市\\室外_amb_bed_crowd_outdoor_close_Split_5.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 285502230,
+                "MediaPathName": "Media/285502230.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\3.7\\amb_emit_3_7_crowd_cheer_single.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 292586981,
+                "MediaPathName": "Media/292586981.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.0\\3.0_amb_bed 城市\\室外_amb_bed_crowd_outdoor_close_Split_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 302080548,
+                "MediaPathName": "Media/302080548.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\3.7\\amb_emit_3_7_crowd_cheer_single.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 427690725,
+                "MediaPathName": "Media/427690725.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.0\\3.0_amb_bed 城市\\室外_amb_bed_crowd_outdoor_close_Split_3.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 580077211,
+                "MediaPathName": "Media/580077211.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\3.7\\amb_emit_3_7_crowd_cheer_single.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 580256816,
+                "MediaPathName": "Media/580256816.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.0\\3.0_amb_bed 城市\\室外_amb_bed_crowd_outdoor_close_Split_1.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 581967821,
+                "MediaPathName": "Media/581967821.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\3.7\\amb_emit_3_7_crowd_cheer_single.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 615950700,
+                "MediaPathName": "Media/615950700.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\3.7\\amb_emit_3_7_crowd_cheer_single.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 793191530,
+                "MediaPathName": "Media/793191530.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\3.7\\amb_emit_3_7_crowd_cheer_single.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 825190163,
+                "MediaPathName": "Media/825190163.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\amb\\amb_interact\\amb_interact_firework_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 836665777,
+                "MediaPathName": "Media/836665777.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.8\\amb_avg_solarschool_riverbank_firework.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 934668246,
+                "MediaPathName": "Media/934668246.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\3.7\\amb_emit_3_7_crowd_cheer_single.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 954820796,
+                "MediaPathName": "Media/954820796.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "amb\\amb_emit\\3.7\\amb_emit_3_7_crowd_cheer_single.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 966863907,
+                "MediaPathName": "Media/966863907.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\3.7\\amb_emit_3_7_crowd_cheer_clap.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_amb_avg_solarschool_riverbank_night_busy"
+          }
+        }
+      ],
+      "DebugName": "play_amb_avg_solarschool_riverbank_night_busy",
+      "EventId": 3745039829
+    },
+    "MaximumDuration": 0.0,
+    "MinimumDuration": 0.0,
+    "IsInfinite": true,
+    "MaxAttenuationRadius": 0.0
+  }
+]

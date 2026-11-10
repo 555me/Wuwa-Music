@@ -1,0 +1,59 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_mon_ordinary_leidiou_action_watching",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_mon_ordinary_leidiou_action_watching",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2171003300,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2171003300,
+                "SoundBankPathName": "Event/play_sfx_mon_ordinary_leidiou_action_watching.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_mon_ordinary_leidiou_action_watching",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 688138790,
+                "MediaPathName": "Media/688138790.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\Enemy\\Ordinary\\leidiou\\sfx_mon_ordinary_leidiou_action_patroltofight.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_mon_ordinary_leidiou_action_watching"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_mon_ordinary_leidiou_action_watching",
+      "EventId": 2171003300
+    },
+    "MaximumDuration": 1.8332409,
+    "MinimumDuration": 1.8332409,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

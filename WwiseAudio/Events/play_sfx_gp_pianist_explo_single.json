@@ -1,0 +1,59 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_pianist_explo_single",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_pianist_explo_single",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 521073852,
+            "SoundBanks": [
+              {
+                "SoundBankId": 521073852,
+                "SoundBankPathName": "Event/play_sfx_gp_pianist_explo_single.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_pianist_explo_single",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 763959433,
+                "MediaPathName": "Media/763959433.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "sfx_gp_pianist_explo_single.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_pianist_explo_single"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_pianist_explo_single",
+      "EventId": 521073852
+    },
+    "MaximumDuration": 2.8436666,
+    "MinimumDuration": 2.8436666,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

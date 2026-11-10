@@ -1,0 +1,99 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_mon_ordinary_baobao_action_run",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_mon_ordinary_baobao_action_run",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1177620859,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1177620859,
+                "SoundBankPathName": "Event/play_sfx_mon_ordinary_baobao_action_run.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_mon_ordinary_baobao_action_run",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 131855774,
+                "MediaPathName": "Media/131855774.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\Enemy\\Ordinary\\baobao\\sfx_mon_ordinary_baobao_action_run_04.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 779294320,
+                "MediaPathName": "Media/779294320.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\Enemy\\Ordinary\\baobao\\sfx_mon_ordinary_baobao_action_run_05.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 822664744,
+                "MediaPathName": "Media/822664744.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\Enemy\\Ordinary\\baobao\\sfx_mon_ordinary_baobao_action_run_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 918308525,
+                "MediaPathName": "Media/918308525.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\Enemy\\Ordinary\\baobao\\sfx_mon_ordinary_baobao_action_run_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 975840480,
+                "MediaPathName": "Media/975840480.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\Enemy\\Ordinary\\baobao\\sfx_mon_ordinary_baobao_action_run_03.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_mon_ordinary_baobao_action_run"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_mon_ordinary_baobao_action_run",
+      "EventId": 1177620859
+    },
+    "MaximumDuration": 0.3974375,
+    "MinimumDuration": 0.3306875,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

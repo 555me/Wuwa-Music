@@ -1,0 +1,69 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_maze38_qidian_wall",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_maze38_qidian_wall",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 805505154,
+            "SoundBanks": [
+              {
+                "SoundBankId": 805505154,
+                "SoundBankPathName": "Event/play_sfx_gp_maze38_qidian_wall.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_maze38_qidian_wall",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 943389230,
+                "MediaPathName": "Media/943389230.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\gameplay\\3_8\\3_8_gp_LJY\\trainmaze\\sfx_gp_maze38_qidian_wall_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 995193359,
+                "MediaPathName": "Media/995193359.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\gameplay\\3_8\\3_8_gp_LJY\\trainmaze\\sfx_gp_maze38_qidian_wall_01.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_maze38_qidian_wall"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_maze38_qidian_wall",
+      "EventId": 805505154
+    },
+    "MaximumDuration": 3.184375,
+    "MinimumDuration": 3.0986667,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 10000.0
+  }
+]

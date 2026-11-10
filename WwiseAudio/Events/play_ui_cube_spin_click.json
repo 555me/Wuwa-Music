@@ -1,0 +1,59 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_ui_cube_spin_click",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_ui_cube_spin_click",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3956521254,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3956521254,
+                "SoundBankPathName": "Event/play_ui_cube_spin_click.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_ui_cube_spin_click",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 111830782,
+                "MediaPathName": "Media/111830782.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch_3,2\\cube\\ui_cube_spin_click.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_ui_cube_spin_click"
+          }
+        }
+      ],
+      "DebugName": "play_ui_cube_spin_click",
+      "EventId": 3956521254
+    },
+    "MaximumDuration": 0.41477084,
+    "MinimumDuration": 0.41477084,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

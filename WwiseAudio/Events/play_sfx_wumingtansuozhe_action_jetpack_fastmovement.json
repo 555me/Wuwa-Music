@@ -60,6 +60,7 @@
               }
             ],
             "ExternalSources": [],
+            "AudioNodes": [],
             "SwitchContainerLeaves": [],
             "RequiredGroupValueSet": [],
             "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
@@ -73,6 +74,6 @@
     "MaximumDuration": 1.583375,
     "MinimumDuration": 1.0385625,
     "IsInfinite": false,
-    "MaxAttenuationRadius": 5000.0
+    "MaxAttenuationRadius": 10000.0
   }
 ]

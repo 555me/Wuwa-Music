@@ -1,0 +1,59 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_mon_ordinary_kuanggong_attack01_imp",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_mon_ordinary_kuanggong_attack01_imp",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1175100392,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1175100392,
+                "SoundBankPathName": "Event/play_sfx_mon_ordinary_kuanggong_attack01_imp.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_mon_ordinary_kuanggong_attack01_imp",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 134078999,
+                "MediaPathName": "Media/134078999.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\Enemy\\Ordinary\\kuanggong\\sfx_mon_ordinary_kuanggong_attack01_imp.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_mon_ordinary_kuanggong_attack01_imp"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_mon_ordinary_kuanggong_attack01_imp",
+      "EventId": 1175100392
+    },
+    "MaximumDuration": 2.7310834,
+    "MinimumDuration": 2.7310834,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

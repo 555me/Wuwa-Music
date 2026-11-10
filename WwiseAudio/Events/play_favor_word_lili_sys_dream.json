@@ -1,0 +1,89 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_favor_word_lili_sys_dream",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_favor_word_lili_sys_dream",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 691709038,
+            "SoundBanks": [
+              {
+                "SoundBankId": 691709038,
+                "SoundBankPathName": "Event/play_favor_word_lili_sys_dream.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_favor_word_lili_sys_dream",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 872776847,
+                "MediaPathName": "Media/872776847.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\ko\\role\\branch_3,8\\lili\\ko_vo_lili_sys_dream_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 677402713,
+                "MediaPathName": "Media/677402713.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\zh\\role\\branch_3,8\\lili\\zh_vo_lili_sys_dream_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 569723990,
+                "MediaPathName": "Media/569723990.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\ja\\role\\branch_3,8\\lili\\ja_vo_lili_sys_dream_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 865614167,
+                "MediaPathName": "Media/865614167.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\en\\role\\branch_3,8\\lili\\en_vo_lili_sys_dream_word.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_favor_word_lili_sys_dream"
+          }
+        }
+      ],
+      "DebugName": "play_favor_word_lili_sys_dream",
+      "EventId": 691709038
+    },
+    "MaximumDuration": 42.19796,
+    "MinimumDuration": 28.644,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

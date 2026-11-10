@@ -1,0 +1,59 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_story_music_m3_14_20_stinger",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_story_music_m3_14_20_stinger",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 907927786,
+            "SoundBanks": [
+              {
+                "SoundBankId": 907927786,
+                "SoundBankPathName": "Event/play_story_music_m3_14_20_stinger.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_story_music_m3_14_20_stinger",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 599987239,
+                "MediaPathName": "Media/599987239.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_8\\bgm-story_plot_m3_14_20_stinger_x00-all-full-null-null.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_story_music_m3_14_20_stinger"
+          }
+        }
+      ],
+      "DebugName": "play_story_music_m3_14_20_stinger",
+      "EventId": 907927786
+    },
+    "MaximumDuration": 1.75,
+    "MinimumDuration": 1.75,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

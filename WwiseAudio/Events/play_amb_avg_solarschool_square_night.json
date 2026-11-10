@@ -1,0 +1,129 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_amb_avg_solarschool_square_night",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_amb_avg_solarschool_square_night",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2186445078,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2186445078,
+                "SoundBankPathName": "Event/play_amb_avg_solarschool_square_night.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_amb_avg_solarschool_square_night",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 12208004,
+                "MediaPathName": "Media/12208004.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.8\\play_amb_avg_solarschool_square_quiet.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 187796493,
+                "MediaPathName": "Media/187796493.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\2.8\\train_station_UI\\amb_bed_cityamb_street_carpass.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 333517337,
+                "MediaPathName": "Media/333517337.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\modular\\amb_bed_leaves_cricket_night.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 349336131,
+                "MediaPathName": "Media/349336131.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\modular\\amb_bed_leaves_cricket_night.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 627881944,
+                "MediaPathName": "Media/627881944.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\modular\\amb_bed_leaves_cricket_night.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 855817875,
+                "MediaPathName": "Media/855817875.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\modular\\amb_bed_leaves_cricket_night.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 913943985,
+                "MediaPathName": "Media/913943985.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\modular\\amb_bed_leaves_cricket_night.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1048876279,
+                "MediaPathName": "Media/1048876279.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\modular\\amb_bed_leaves_cricket_night.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_amb_avg_solarschool_square_night"
+          }
+        }
+      ],
+      "DebugName": "play_amb_avg_solarschool_square_night",
+      "EventId": 2186445078
+    },
+    "MaximumDuration": 0.0,
+    "MinimumDuration": 0.0,
+    "IsInfinite": true,
+    "MaxAttenuationRadius": 0.0
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_gacha_music_lili",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_gacha_music_lili",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3631240703,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3631240703,
+                "SoundBankPathName": "Event/play_gacha_music_lili.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_gacha_music_lili",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 180445122,
+                "MediaPathName": "Media/180445122.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_dungeon\\3_8_dungeon\\mov-gacha_lili-all-full-100bpm-3_4.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_gacha_music_lili"
+          }
+        }
+      ],
+      "DebugName": "play_gacha_music_lili",
+      "EventId": 3631240703
+    },
+    "MaximumDuration": 22.060646,
+    "MinimumDuration": 22.060646,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

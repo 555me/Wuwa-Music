@@ -1,0 +1,149 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_amb_avg_solarschool_restarea_winter",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_amb_avg_solarschool_restarea_winter",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 574274067,
+            "SoundBanks": [
+              {
+                "SoundBankId": 574274067,
+                "SoundBankPathName": "Event/play_amb_avg_solarschool_restarea_winter.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_amb_avg_solarschool_restarea_winter",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 5395324,
+                "MediaPathName": "Media/5395324.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.8\\play_amb_avg_solarschool_restarea_bird.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 19608338,
+                "MediaPathName": "Media/19608338.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.8\\play_amb_avg_solarschool_restarea_bird.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 84323345,
+                "MediaPathName": "Media/84323345.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\modular\\amb_bed_leaves_windy.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 168228816,
+                "MediaPathName": "Media/168228816.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.8\\play_amb_avg_solarschool_restarea_bird.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 187796493,
+                "MediaPathName": "Media/187796493.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\2.8\\train_station_UI\\amb_bed_cityamb_street_carpass.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 272469755,
+                "MediaPathName": "Media/272469755.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.8\\play_amb_avg_solarschool_restarea_bird.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 632866136,
+                "MediaPathName": "Media/632866136.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.8\\play_amb_avg_solarschool_restarea_bird.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 740442564,
+                "MediaPathName": "Media/740442564.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.8\\play_amb_avg_solarschool_restarea_bird.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 755670542,
+                "MediaPathName": "Media/755670542.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.8\\play_amb_avg_solarschool_restarea_bird.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 818943253,
+                "MediaPathName": "Media/818943253.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\modular\\amb_bed_cityamb_train_car_ped.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_amb_avg_solarschool_restarea_winter"
+          }
+        }
+      ],
+      "DebugName": "play_amb_avg_solarschool_restarea_winter",
+      "EventId": 574274067
+    },
+    "MaximumDuration": 0.0,
+    "MinimumDuration": 0.0,
+    "IsInfinite": true,
+    "MaxAttenuationRadius": 0.0
+  }
+]

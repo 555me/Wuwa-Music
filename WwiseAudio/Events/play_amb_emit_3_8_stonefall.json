@@ -1,0 +1,409 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_amb_emit_3_8_stonefall",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_amb_emit_3_8_stonefall",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3637854806,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3637854806,
+                "SoundBankPathName": "Event/play_amb_emit_3_8_stonefall.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_amb_emit_3_8_stonefall",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 24359285,
+                "MediaPathName": "Media/24359285.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\2.7\\Tianguo_StoneEmit\\amb_emit_stone_stress_crackle_oneshot\\amb_emit_stone_stress_crackle_oneshot 2.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 26737676,
+                "MediaPathName": "Media/26737676.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\2.7\\Tianguo_StoneEmit\\amb_emit_stone_stress_crackle_oneshot\\amb_emit_stone_stress_crackle_oneshot 4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 32499161,
+                "MediaPathName": "Media/32499161.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\2.7\\Tianguo_StoneEmit\\amb_emit_stone_stress_crackle_oneshot\\amb_emit_stone_stress_crackle_oneshot 5.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 61194383,
+                "MediaPathName": "Media/61194383.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\2.8\\collapsecity_impact\\rock\\amb_emit_effect_rock_impact 6.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 94549014,
+                "MediaPathName": "Media/94549014.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.0\\3.0_amb_bed\\沙子_amb_bed_sand_long 3.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 95666324,
+                "MediaPathName": "Media/95666324.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\2.8\\collapsecity_impact\\rock\\amb_emit_effect_rock_impact 5.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 129362424,
+                "MediaPathName": "Media/129362424.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\3.0\\Nov13 (ready export)\\amb_emit_rock_movement\\amb_emit_rock_movement_10.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 141070790,
+                "MediaPathName": "Media/141070790.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\3.0\\Nov13 (ready export)\\amb_emit_rock_movement\\amb_emit_rock_movement_9.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 290487738,
+                "MediaPathName": "Media/290487738.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\2.8\\collapsecity_impact\\rock\\amb_emit_effect_rock_impact 1.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 398772451,
+                "MediaPathName": "Media/398772451.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\3.0\\Nov13 (ready export)\\amb_emit_rock_movement\\amb_emit_rock_movement_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 419901415,
+                "MediaPathName": "Media/419901415.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\2.8\\collapsecity_impact\\rock\\amb_emit_effect_rock_impact 4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 423164198,
+                "MediaPathName": "Media/423164198.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.0\\3.0_amb_bed\\沙子_amb_bed_sand_long 2.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 428845711,
+                "MediaPathName": "Media/428845711.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\2.7\\Tianguo_StoneEmit\\amb_emit_stone_stress_crackle_oneshot\\amb_emit_stone_stress_crackle_oneshot 1.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 451622891,
+                "MediaPathName": "Media/451622891.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\3.0\\Nov13 (ready export)\\amb_emit_rock_movement\\amb_emit_rock_movement_2.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 455564347,
+                "MediaPathName": "Media/455564347.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\3.0\\Nov13 (ready export)\\amb_emit_rock_movement\\amb_emit_rock_movement_13.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 499410196,
+                "MediaPathName": "Media/499410196.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\3.0\\Nov13 (ready export)\\amb_emit_rock_movement\\amb_emit_rock_movement_7.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 534879246,
+                "MediaPathName": "Media/534879246.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\3.0\\Nov13 (ready export)\\amb_emit_rock_movement\\amb_emit_rock_movement_3.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 542517029,
+                "MediaPathName": "Media/542517029.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\2.8\\collapsecity_impact\\rock\\amb_emit_effect_rock_impact 2.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 563715043,
+                "MediaPathName": "Media/563715043.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\2.8\\collapsecity_impact\\rock\\amb_emit_effect_rock_impact 8.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 595577622,
+                "MediaPathName": "Media/595577622.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\3.0\\Nov13 (ready export)\\amb_emit_rock_movement\\amb_emit_rock_movement_14.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 611333412,
+                "MediaPathName": "Media/611333412.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\2.8\\collapsecity_impact\\rock\\amb_emit_effect_rock_impact 9.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 652570172,
+                "MediaPathName": "Media/652570172.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\3.0\\Nov16 (ready export)\\amb_emit_dust_dirt_trickle\\amb_emit_dust_dirt_trickle_2.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 693574142,
+                "MediaPathName": "Media/693574142.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\2.7\\Tianguo_StoneEmit\\amb_emit_stone_stress_crackle_oneshot\\amb_emit_stone_stress_crackle_oneshot 3.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 726597228,
+                "MediaPathName": "Media/726597228.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\3.0\\Nov13 (ready export)\\amb_emit_rock_movement\\amb_emit_rock_movement_5.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 752058237,
+                "MediaPathName": "Media/752058237.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.0\\3.0_amb_bed\\沙子_amb_bed_sand_long 1.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 783332263,
+                "MediaPathName": "Media/783332263.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\3.0\\Nov13 (ready export)\\amb_emit_rock_movement\\amb_emit_rock_movement_11.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 810329873,
+                "MediaPathName": "Media/810329873.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\3.0\\Nov13 (ready export)\\amb_emit_rock_movement\\amb_emit_rock_movement_12.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 831363324,
+                "MediaPathName": "Media/831363324.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\3.0\\Nov13 (ready export)\\amb_emit_rock_movement\\amb_emit_rock_movement_1.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 834808641,
+                "MediaPathName": "Media/834808641.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\3.0\\Nov13 (ready export)\\amb_emit_rock_movement\\amb_emit_rock_movement_15.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 865476986,
+                "MediaPathName": "Media/865476986.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\2.8\\collapsecity_impact\\rock\\amb_emit_effect_rock_impact 3.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 910909097,
+                "MediaPathName": "Media/910909097.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\3.0\\Nov13 (ready export)\\amb_emit_rock_movement\\amb_emit_rock_movement_8.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 919339279,
+                "MediaPathName": "Media/919339279.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\3.0\\Nov16 (ready export)\\amb_emit_dust_dirt_trickle\\amb_emit_dust_dirt_trickle_3.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 949405945,
+                "MediaPathName": "Media/949405945.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\2.8\\collapsecity_impact\\rock\\amb_emit_effect_rock_impact 7.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 961568883,
+                "MediaPathName": "Media/961568883.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\3.0\\Nov13 (ready export)\\amb_emit_rock_movement\\amb_emit_rock_movement_6.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 983572867,
+                "MediaPathName": "Media/983572867.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\3.0\\Nov16 (ready export)\\amb_emit_dust_dirt_trickle\\amb_emit_dust_dirt_trickle_1.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1008270826,
+                "MediaPathName": "Media/1008270826.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\3.0\\Nov16 (ready export)\\amb_emit_dust_dirt_trickle\\amb_emit_dust_dirt_trickle_4.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_amb_emit_3_8_stonefall"
+          }
+        }
+      ],
+      "DebugName": "play_amb_emit_3_8_stonefall",
+      "EventId": 3637854806
+    },
+    "MaximumDuration": 0.0,
+    "MinimumDuration": 0.0,
+    "IsInfinite": true,
+    "MaxAttenuationRadius": 1500.0
+  }
+]

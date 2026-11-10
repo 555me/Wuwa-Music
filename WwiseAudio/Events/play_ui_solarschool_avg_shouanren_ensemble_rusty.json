@@ -1,0 +1,59 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_ui_solarschool_avg_shouanren_ensemble_rusty",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_ui_solarschool_avg_shouanren_ensemble_rusty",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 526725231,
+            "SoundBanks": [
+              {
+                "SoundBankId": 526725231,
+                "SoundBankPathName": "Event/play_ui_solarschool_avg_shouanren_ensemble_rusty.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_ui_solarschool_avg_shouanren_ensemble_rusty",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 854066177,
+                "MediaPathName": "Media/854066177.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch3,8\\solarschool\\avg_point\\ui_solarschool_avg_shouanren_ensemble_rusty.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_ui_solarschool_avg_shouanren_ensemble_rusty"
+          }
+        }
+      ],
+      "DebugName": "play_ui_solarschool_avg_shouanren_ensemble_rusty",
+      "EventId": 526725231
+    },
+    "MaximumDuration": 9.25,
+    "MinimumDuration": 9.25,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

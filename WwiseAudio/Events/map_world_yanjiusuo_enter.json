@@ -1040,24 +1040,25 @@
               }
             ],
             "ExternalSources": [],
+            "AudioNodes": [],
             "SwitchContainerLeaves": [],
             "RequiredGroupValueSet": [
               {
                 "Type": "EWwiseGroupType::State",
                 "GroupId": 1221856762,
-                "Id": 514358619,
+                "ID": 0,
                 "DebugName": "field"
               },
               {
                 "Type": "EWwiseGroupType::State",
                 "GroupId": 1290962327,
-                "Id": -309959900,
+                "ID": 0,
                 "DebugName": "area_indoor_institute"
               },
               {
                 "Type": "EWwiseGroupType::State",
                 "GroupId": 727401557,
-                "Id": -294378315,
+                "ID": 0,
                 "DebugName": "JZCQ"
               }
             ],

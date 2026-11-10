@@ -1,0 +1,169 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_lili_atk_heavyatk01_b",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_lili_atk_heavyatk01_b",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 390326247,
+            "SoundBanks": [
+              {
+                "SoundBankId": 390326247,
+                "SoundBankPathName": "Event/play_vo_lili_atk_heavyatk01_b.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_lili_atk_heavyatk01_b",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 863172391,
+                "MediaPathName": "Media/863172391.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\ko\\role\\branch_3,8\\lili\\ko_vo_lili_atk_heavyatk01_b_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1024452477,
+                "MediaPathName": "Media/1024452477.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\zh\\role\\branch_3,8\\lili\\zh_vo_lili_atk_heavyatk01_b_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 542153121,
+                "MediaPathName": "Media/542153121.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\ja\\role\\branch_3,8\\lili\\ja_vo_lili_atk_heavyatk01_b_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 632878399,
+                "MediaPathName": "Media/632878399.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\en\\role\\branch_3,8\\lili\\en_vo_lili_atk_heavyatk01_b_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 201735587,
+                "MediaPathName": "Media/201735587.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\ko\\role\\branch_3,8\\lili\\ko_vo_lili_atk_heavyatk01_b_01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 409553591,
+                "MediaPathName": "Media/409553591.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\zh\\role\\branch_3,8\\lili\\zh_vo_lili_atk_heavyatk01_b_01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 111105028,
+                "MediaPathName": "Media/111105028.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\ja\\role\\branch_3,8\\lili\\ja_vo_lili_atk_heavyatk01_b_01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 500321529,
+                "MediaPathName": "Media/500321529.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\en\\role\\branch_3,8\\lili\\en_vo_lili_atk_heavyatk01_b_01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 762279712,
+                "MediaPathName": "Media/762279712.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\ko\\role\\branch_3,8\\lili\\ko_vo_lili_atk_heavyatk01_b_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 554333760,
+                "MediaPathName": "Media/554333760.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\zh\\role\\branch_3,8\\lili\\zh_vo_lili_atk_heavyatk01_b_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 109938562,
+                "MediaPathName": "Media/109938562.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\ja\\role\\branch_3,8\\lili\\ja_vo_lili_atk_heavyatk01_b_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 812467423,
+                "MediaPathName": "Media/812467423.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\en\\role\\branch_3,8\\lili\\en_vo_lili_atk_heavyatk01_b_03_tone.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_lili_atk_heavyatk01_b"
+          }
+        }
+      ],
+      "DebugName": "play_vo_lili_atk_heavyatk01_b",
+      "EventId": 390326247
+    },
+    "MaximumDuration": 3.7083333,
+    "MinimumDuration": 3.2015417,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

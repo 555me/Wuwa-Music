@@ -1,0 +1,139 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_3_8_music_liechemigong",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_3_8_music_liechemigong",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 816090758,
+            "SoundBanks": [
+              {
+                "SoundBankId": 816090758,
+                "SoundBankPathName": "Event/play_3_8_music_liechemigong.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_3_8_music_liechemigong",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 101952194,
+                "MediaPathName": "Media/101952194.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music\\music_scene\\silence_5s.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 325848386,
+                "MediaPathName": "Media/325848386.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_8\\bgm-story_quest_3_8_migong_intro-all-full-105bpm-6_8.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 567456886,
+                "MediaPathName": "Media/567456886.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_8\\bgm-story_quest_3_8_migong_p3outro-all-full-120bpm-4_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 923441880,
+                "MediaPathName": "Media/923441880.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_8\\bgm-story_quest_3_8_migong_p3-2loop-all-full-132bpm-4_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 523247225,
+                "MediaPathName": "Media/523247225.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_8\\bgm-story_quest_3_8_migong_p3-1loop-all-full-110bpm-6_8.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 629645668,
+                "MediaPathName": "Media/629645668.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_8\\bgm-story_quest_3_8_migong_p2outro-all-full-110bpm-6_8.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 929011675,
+                "MediaPathName": "Media/929011675.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_8\\bgm-story_quest_3_8_migong_p2oneshot-loop-all-full-220bpm-6_8.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 756765855,
+                "MediaPathName": "Media/756765855.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_8\\bgm-story_quest_3_8_migong_p1outro-all-full-105bpm-6_8.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 218888558,
+                "MediaPathName": "Media/218888558.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_8\\bgm-story_quest_3_8_migong_p1oneshot-loop-all-full-105bpm-6_8.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_3_8_music_liechemigong"
+          }
+        }
+      ],
+      "DebugName": "play_3_8_music_liechemigong",
+      "EventId": 816090758
+    },
+    "MaximumDuration": 0.0,
+    "MinimumDuration": 0.0,
+    "IsInfinite": true,
+    "MaxAttenuationRadius": 0.0
+  }
+]

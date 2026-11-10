@@ -1,0 +1,99 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_train_npc_dispear",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_train_npc_dispear",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 4209103597,
+            "SoundBanks": [
+              {
+                "SoundBankId": 4209103597,
+                "SoundBankPathName": "Event/play_sfx_gp_train_npc_dispear.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_train_npc_dispear",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 182917235,
+                "MediaPathName": "Media/182917235.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\gameplay\\3_8\\3_8_gp_WJK\\sfx_gp_train_npc_dispear_02.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 248068690,
+                "MediaPathName": "Media/248068690.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\gameplay\\3_8\\3_8_gp_WJK\\sfx_gp_train_npc_dispear_04.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 594432970,
+                "MediaPathName": "Media/594432970.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\gameplay\\3_8\\3_8_gp_WJK\\sfx_gp_train_npc_dispear_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 857582258,
+                "MediaPathName": "Media/857582258.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\gameplay\\3_8\\3_8_gp_WJK\\sfx_gp_train_npc_dispear_05.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1044955834,
+                "MediaPathName": "Media/1044955834.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\gameplay\\3_8\\3_8_gp_WJK\\sfx_gp_train_npc_dispear_01.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_train_npc_dispear"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_train_npc_dispear",
+      "EventId": 4209103597
+    },
+    "MaximumDuration": 3.8716042,
+    "MinimumDuration": 2.9041457,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

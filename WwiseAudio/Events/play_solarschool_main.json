@@ -27,8 +27,100 @@
                 "PackagedFile": null
               }
             ],
-            "Media": [],
+            "Media": [
+              {
+                "MediaId": 324921673,
+                "MediaPathName": "Media/324921673.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music\\music_scene\\silence.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 706415831,
+                "MediaPathName": "Media/706415831.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_ui\\3_8\\bgm-ui_3_8_solarschool_main-winter-night-full-68.25bpm-6_8.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 11466656,
+                "MediaPathName": "Media/11466656.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_ui\\3_8\\bgm-ui_3_8_solarschool_main-spring-night-full-75bpm-6_8.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 404151635,
+                "MediaPathName": "Media/404151635.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_ui\\3_8\\bgm-ui_3_8_solarschool_main-spring-day-full-100bpm-4_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 426558609,
+                "MediaPathName": "Media/426558609.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_ui\\3_8\\bgm-ui_3_8_solarschool_main-autumn-night-full-75bpm-4_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 184524496,
+                "MediaPathName": "Media/184524496.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_ui\\3_8\\bgm-ui_3_8_solarschool_main-autumn-day-full-100bpm-4_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 541023636,
+                "MediaPathName": "Media/541023636.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_ui\\3_8\\bgm-ui_3_8_solarschool_main-fes-full-100bpm-4_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 553187547,
+                "MediaPathName": "Media/553187547.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_ui\\3_8\\bgm-ui_3_8_solarschool_main-summer-day-full-100bpm-4_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 391954605,
+                "MediaPathName": "Media/391954605.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_ui\\3_8\\bgm-ui_3_8_solarschool_main-winter-day-full-91bpm-4_4.wav",
+                "PackagedFile": null
+              }
+            ],
             "ExternalSources": [],
+            "AudioNodes": [],
             "SwitchContainerLeaves": [],
             "RequiredGroupValueSet": [],
             "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",

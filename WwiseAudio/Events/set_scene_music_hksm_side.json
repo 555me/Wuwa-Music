@@ -29,18 +29,19 @@
             ],
             "Media": [],
             "ExternalSources": [],
+            "AudioNodes": [],
             "SwitchContainerLeaves": [],
             "RequiredGroupValueSet": [
               {
                 "Type": "EWwiseGroupType::State",
                 "GroupId": -803898248,
-                "Id": -2084143241,
+                "ID": 0,
                 "DebugName": "area5_longcave"
               },
               {
                 "Type": "EWwiseGroupType::State",
                 "GroupId": 727401557,
-                "Id": -810871898,
+                "ID": 0,
                 "DebugName": "HKSM"
               }
             ],

@@ -1,0 +1,89 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_lili_idle_idle03",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_lili_idle_idle03",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 649853351,
+            "SoundBanks": [
+              {
+                "SoundBankId": 649853351,
+                "SoundBankPathName": "Event/play_vo_lili_idle_idle03.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_lili_idle_idle03",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 951983289,
+                "MediaPathName": "Media/951983289.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\ko\\role\\branch_3,8\\lili\\ko_vo_lili_idle_idle03_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 767795768,
+                "MediaPathName": "Media/767795768.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\zh\\role\\branch_3,8\\lili\\zh_vo_lili_idle_idle03_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 404213904,
+                "MediaPathName": "Media/404213904.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\ja\\role\\branch_3,8\\lili\\ja_vo_lili_idle_idle03_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 463447371,
+                "MediaPathName": "Media/463447371.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\en\\role\\branch_3,8\\lili\\en_vo_lili_idle_idle03_word.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_lili_idle_idle03"
+          }
+        }
+      ],
+      "DebugName": "play_vo_lili_idle_idle03",
+      "EventId": 649853351
+    },
+    "MaximumDuration": 17.234667,
+    "MinimumDuration": 16.493292,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

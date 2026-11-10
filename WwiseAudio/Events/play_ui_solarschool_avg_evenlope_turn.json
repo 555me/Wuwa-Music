@@ -1,0 +1,59 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_ui_solarschool_avg_evenlope_turn",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_ui_solarschool_avg_evenlope_turn",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3624156674,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3624156674,
+                "SoundBankPathName": "Event/play_ui_solarschool_avg_evenlope_turn.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_ui_solarschool_avg_evenlope_turn",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 956449591,
+                "MediaPathName": "Media/956449591.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch3,8\\solarschool\\avg_point\\ui_solarschool_avg_evenlope_turn.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_ui_solarschool_avg_evenlope_turn"
+          }
+        }
+      ],
+      "DebugName": "play_ui_solarschool_avg_evenlope_turn",
+      "EventId": 3624156674
+    },
+    "MaximumDuration": 0.90533334,
+    "MinimumDuration": 0.90533334,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

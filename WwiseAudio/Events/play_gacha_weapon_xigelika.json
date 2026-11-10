@@ -1,0 +1,59 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_gacha_weapon_xigelika",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_gacha_weapon_xigelika",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 600894886,
+            "SoundBanks": [
+              {
+                "SoundBankId": 600894886,
+                "SoundBankPathName": "Event/play_gacha_weapon_xigelika.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_gacha_weapon_xigelika",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 41881957,
+                "MediaPathName": "Media/41881957.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_ui\\ui_music_gacha\\3.8\\mov-gacha_weapon_xigelika-all-full-null.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_gacha_weapon_xigelika"
+          }
+        }
+      ],
+      "DebugName": "play_gacha_weapon_xigelika",
+      "EventId": 600894886
+    },
+    "MaximumDuration": 13.220354,
+    "MinimumDuration": 13.220354,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

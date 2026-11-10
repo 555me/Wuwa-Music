@@ -1,0 +1,89 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_favor_word_lili_sys_toplayer05",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_favor_word_lili_sys_toplayer05",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1805932368,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1805932368,
+                "SoundBankPathName": "Event/play_favor_word_lili_sys_toplayer05.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_favor_word_lili_sys_toplayer05",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 937373562,
+                "MediaPathName": "Media/937373562.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\ko\\role\\branch_3,8\\lili\\ko_vo_lili_sys_toplayer05_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 717589832,
+                "MediaPathName": "Media/717589832.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\zh\\role\\branch_3,8\\lili\\zh_vo_lili_sys_toplayer05_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 916478576,
+                "MediaPathName": "Media/916478576.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\ja\\role\\branch_3,8\\lili\\ja_vo_lili_sys_toplayer05_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 678031034,
+                "MediaPathName": "Media/678031034.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\en\\role\\branch_3,8\\lili\\en_vo_lili_sys_toplayer05_word.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_favor_word_lili_sys_toplayer05"
+          }
+        }
+      ],
+      "DebugName": "play_favor_word_lili_sys_toplayer05",
+      "EventId": 1805932368
+    },
+    "MaximumDuration": 51.655167,
+    "MinimumDuration": 38.146687,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

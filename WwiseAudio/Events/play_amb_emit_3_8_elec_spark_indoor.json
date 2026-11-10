@@ -1,0 +1,89 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_amb_emit_3_8_elec_spark_indoor",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_amb_emit_3_8_elec_spark_indoor",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1489809519,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1489809519,
+                "SoundBankPathName": "Event/play_amb_emit_3_8_elec_spark_indoor.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_amb_emit_3_8_elec_spark_indoor",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 882901347,
+                "MediaPathName": "Media/882901347.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "amb\\amb_emit\\3.8\\amb_emit_3_8_elec_spark.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 958798831,
+                "MediaPathName": "Media/958798831.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "amb\\amb_emit\\3.8\\amb_emit_3_8_elec_spark.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 992628823,
+                "MediaPathName": "Media/992628823.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "amb\\amb_emit\\3.8\\amb_emit_3_8_elec_spark.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 994564577,
+                "MediaPathName": "Media/994564577.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "amb\\amb_emit\\3.8\\amb_emit_3_8_elec_spark.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_amb_emit_3_8_elec_spark_indoor"
+          }
+        }
+      ],
+      "DebugName": "play_amb_emit_3_8_elec_spark_indoor",
+      "EventId": 1489809519
+    },
+    "MaximumDuration": 0.0,
+    "MinimumDuration": 0.0,
+    "IsInfinite": true,
+    "MaxAttenuationRadius": 1000.0
+  }
+]

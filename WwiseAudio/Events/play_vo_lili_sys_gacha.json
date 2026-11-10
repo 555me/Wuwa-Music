@@ -1,0 +1,89 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_lili_sys_gacha",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_lili_sys_gacha",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3970785751,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3970785751,
+                "SoundBankPathName": "Event/play_vo_lili_sys_gacha.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_lili_sys_gacha",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 660037246,
+                "MediaPathName": "Media/660037246.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\ko\\role\\branch_3,8\\lili\\ko_vo_lili_sys_gacha_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 149889841,
+                "MediaPathName": "Media/149889841.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\zh\\role\\branch_3,8\\lili\\zh_vo_lili_sys_gacha_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 837208728,
+                "MediaPathName": "Media/837208728.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\ja\\role\\branch_3,8\\lili\\ja_vo_lili_sys_gacha_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 424796577,
+                "MediaPathName": "Media/424796577.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\en\\role\\branch_3,8\\lili\\en_vo_lili_sys_gacha_word.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_lili_sys_gacha"
+          }
+        }
+      ],
+      "DebugName": "play_vo_lili_sys_gacha",
+      "EventId": 3970785751
+    },
+    "MaximumDuration": 15.282541,
+    "MinimumDuration": 14.497937,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

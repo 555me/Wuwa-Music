@@ -1,0 +1,59 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_ost_album_29_track_12",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_ost_album_29_track_12",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1847236878,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1847236878,
+                "SoundBankPathName": "Event/play_ost_album_29_track_12.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_ost_album_29_track_12",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 160505409,
+                "MediaPathName": "Media/160505409.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_phonograph_albums\\ost_album_29\\ost-album29_12_三叩首-all-full-null-null.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_ost_album_29_track_12"
+          }
+        }
+      ],
+      "DebugName": "play_ost_album_29_track_12",
+      "EventId": 1847236878
+    },
+    "MaximumDuration": 230.66765,
+    "MinimumDuration": 230.66765,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 2000.0
+  }
+]

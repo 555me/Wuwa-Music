@@ -1,0 +1,59 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_ui_pata_ingame_pause",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_ui_pata_ingame_pause",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1639166838,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1639166838,
+                "SoundBankPathName": "Event/play_ui_pata_ingame_pause.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_ui_pata_ingame_pause",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 246617950,
+                "MediaPathName": "Media/246617950.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch3,8\\UI_juesepata\\ingame\\ui_pata_ingame_pause.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_ui_pata_ingame_pause"
+          }
+        }
+      ],
+      "DebugName": "play_ui_pata_ingame_pause",
+      "EventId": 1639166838
+    },
+    "MaximumDuration": 2.1665208,
+    "MinimumDuration": 2.1665208,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

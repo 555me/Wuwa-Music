@@ -1,0 +1,59 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_ui_solarschool_avg_orchestra_disrupted",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_ui_solarschool_avg_orchestra_disrupted",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1473027042,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1473027042,
+                "SoundBankPathName": "Event/play_ui_solarschool_avg_orchestra_disrupted.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_ui_solarschool_avg_orchestra_disrupted",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 343965646,
+                "MediaPathName": "Media/343965646.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch3,8\\solarschool\\avg_point\\ui_solarschool_avg_orchestra_disrupted.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_ui_solarschool_avg_orchestra_disrupted"
+          }
+        }
+      ],
+      "DebugName": "play_ui_solarschool_avg_orchestra_disrupted",
+      "EventId": 1473027042
+    },
+    "MaximumDuration": 5.511625,
+    "MinimumDuration": 5.511625,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

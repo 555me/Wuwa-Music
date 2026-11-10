@@ -1,0 +1,179 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_avg_3_8_xiakong_07",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_avg_3_8_xiakong_07",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 1819748192,
+            "LanguageName": "en",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 4196569859,
+            "SoundBanks": [
+              {
+                "SoundBankId": 4196569859,
+                "SoundBankPathName": "Event/en/play_vo_avg_3_8_xiakong_07.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_avg_3_8_xiakong_07",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 502624956,
+                "MediaPathName": "Media/en/502624956.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "sp_sys\\3_8_avg_common\\xiakong\\en_vo_avg_3_8_xiakong_07.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_avg_3_8_xiakong_07"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1735860046,
+            "LanguageName": "ja",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 4196569859,
+            "SoundBanks": [
+              {
+                "SoundBankId": 4196569859,
+                "SoundBankPathName": "Event/ja/play_vo_avg_3_8_xiakong_07.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_avg_3_8_xiakong_07",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 561851194,
+                "MediaPathName": "Media/ja/561851194.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "sp_sys\\3_8_avg_common\\xiakong\\ja_vo_avg_3_8_xiakong_07.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_avg_3_8_xiakong_07"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1719082483,
+            "LanguageName": "ko",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 4196569859,
+            "SoundBanks": [
+              {
+                "SoundBankId": 4196569859,
+                "SoundBankPathName": "Event/ko/play_vo_avg_3_8_xiakong_07.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_avg_3_8_xiakong_07",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 198485153,
+                "MediaPathName": "Media/ko/198485153.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "sp_sys\\3_8_avg_common\\xiakong\\ko_vo_avg_3_8_xiakong_07.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_avg_3_8_xiakong_07"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1467418007,
+            "LanguageName": "zh",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsDefault"
+          },
+          "Value": {
+            "EventId": 4196569859,
+            "SoundBanks": [
+              {
+                "SoundBankId": 4196569859,
+                "SoundBankPathName": "Event/zh/play_vo_avg_3_8_xiakong_07.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_avg_3_8_xiakong_07",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 256813519,
+                "MediaPathName": "Media/zh/256813519.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "sp_sys\\3_8_avg_common\\xiakong\\zh_vo_avg_3_8_xiakong_07.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_avg_3_8_xiakong_07"
+          }
+        }
+      ],
+      "DebugName": "play_vo_avg_3_8_xiakong_07",
+      "EventId": 4196569859
+    },
+    "MaximumDuration": 1.0217708,
+    "MinimumDuration": 0.48110417,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_ui_solarschool_avg_phonevibration",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_ui_solarschool_avg_phonevibration",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1031883452,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1031883452,
+                "SoundBankPathName": "Event/play_ui_solarschool_avg_phonevibration.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_ui_solarschool_avg_phonevibration",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 709800114,
+                "MediaPathName": "Media/709800114.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch3,8\\solarschool\\avg_point\\ui_solarschool_avg_phonevibration.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_ui_solarschool_avg_phonevibration"
+          }
+        }
+      ],
+      "DebugName": "play_ui_solarschool_avg_phonevibration",
+      "EventId": 1031883452
+    },
+    "MaximumDuration": 2.4884584,
+    "MinimumDuration": 2.4884584,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

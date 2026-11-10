@@ -1,0 +1,169 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_lili_com_openbox",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_lili_com_openbox",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2220715666,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2220715666,
+                "SoundBankPathName": "Event/play_vo_lili_com_openbox.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_lili_com_openbox",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 429243659,
+                "MediaPathName": "Media/429243659.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\ko\\role\\branch_3,8\\lili\\ko_vo_lili_com_openbox_03_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 556940827,
+                "MediaPathName": "Media/556940827.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\zh\\role\\branch_3,8\\lili\\zh_vo_lili_com_openbox_03_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 152960022,
+                "MediaPathName": "Media/152960022.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\ja\\role\\branch_3,8\\lili\\ja_vo_lili_com_openbox_03_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 427833874,
+                "MediaPathName": "Media/427833874.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\en\\role\\branch_3,8\\lili\\en_vo_lili_com_openbox_03_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 502095488,
+                "MediaPathName": "Media/502095488.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\ko\\role\\branch_3,8\\lili\\ko_vo_lili_com_openbox_02_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 12184158,
+                "MediaPathName": "Media/12184158.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,8\\lili\\zh_vo_lili_com_openbox_02_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 870932955,
+                "MediaPathName": "Media/870932955.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\ja\\role\\branch_3,8\\lili\\ja_vo_lili_com_openbox_02_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 286248451,
+                "MediaPathName": "Media/286248451.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\en\\role\\branch_3,8\\lili\\en_vo_lili_com_openbox_02_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 527793337,
+                "MediaPathName": "Media/527793337.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\ko\\role\\branch_3,8\\lili\\ko_vo_lili_com_openbox_01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 998017745,
+                "MediaPathName": "Media/998017745.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,8\\lili\\zh_vo_lili_com_openbox_01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 578717153,
+                "MediaPathName": "Media/578717153.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\ja\\role\\branch_3,8\\lili\\ja_vo_lili_com_openbox_01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 323209016,
+                "MediaPathName": "Media/323209016.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\en\\role\\branch_3,8\\lili\\en_vo_lili_com_openbox_01_word.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_lili_com_openbox"
+          }
+        }
+      ],
+      "DebugName": "play_vo_lili_com_openbox",
+      "EventId": 2220715666
+    },
+    "MaximumDuration": 3.6163125,
+    "MinimumDuration": 1.6194792,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

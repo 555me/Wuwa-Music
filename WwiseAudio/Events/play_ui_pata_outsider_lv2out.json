@@ -1,0 +1,59 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_ui_pata_outsider_lv2out",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_ui_pata_outsider_lv2out",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1139835678,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1139835678,
+                "SoundBankPathName": "Event/play_ui_pata_outsider_lv2out.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_ui_pata_outsider_lv2out",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 206757001,
+                "MediaPathName": "Media/206757001.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch3,8\\UI_juesepata\\outsider\\ui_pata_outsider_lv2out.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_ui_pata_outsider_lv2out"
+          }
+        }
+      ],
+      "DebugName": "play_ui_pata_outsider_lv2out",
+      "EventId": 1139835678
+    },
+    "MaximumDuration": 2.784125,
+    "MinimumDuration": 2.784125,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

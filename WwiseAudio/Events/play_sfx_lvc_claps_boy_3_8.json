@@ -1,0 +1,59 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_lvc_claps_boy_3_8",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_lvc_claps_boy_3_8",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 613014091,
+            "SoundBanks": [
+              {
+                "SoundBankId": 613014091,
+                "SoundBankPathName": "Event/play_sfx_lvc_claps_boy_3_8.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_lvc_claps_boy_3_8",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 806697942,
+                "MediaPathName": "Media/806697942.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "levelc\\section03\\sfx_lvc_claps_boy_3_8.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_lvc_claps_boy_3_8"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_lvc_claps_boy_3_8",
+      "EventId": 613014091
+    },
+    "MaximumDuration": 8.323673,
+    "MinimumDuration": 8.323673,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

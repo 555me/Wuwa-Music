@@ -29,24 +29,25 @@
             ],
             "Media": [],
             "ExternalSources": [],
+            "AudioNodes": [],
             "SwitchContainerLeaves": [],
             "RequiredGroupValueSet": [
               {
                 "Type": "EWwiseGroupType::State",
                 "GroupId": -999755472,
-                "Id": -1445819472,
+                "ID": 0,
                 "DebugName": "medium"
               },
               {
                 "Type": "EWwiseGroupType::State",
                 "GroupId": 1221856762,
-                "Id": -1357134337,
+                "ID": 0,
                 "DebugName": "battle"
               },
               {
                 "Type": "EWwiseGroupType::State",
                 "GroupId": -1008500023,
-                "Id": -1004775069,
+                "ID": 0,
                 "DebugName": "battle_in"
               }
             ],

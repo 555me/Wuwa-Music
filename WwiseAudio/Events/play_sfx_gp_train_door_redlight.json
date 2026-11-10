@@ -1,0 +1,79 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_train_door_redlight",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_train_door_redlight",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2580373445,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2580373445,
+                "SoundBankPathName": "Event/play_sfx_gp_train_door_redlight.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_train_door_redlight",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 633669073,
+                "MediaPathName": "Media/633669073.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\gameplay\\3_8\\3_8_gp_WJK\\sfx_gp_train_door_redlight_01.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 814648118,
+                "MediaPathName": "Media/814648118.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\gameplay\\3_8\\3_8_gp_WJK\\sfx_gp_train_door_redlight_03.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1042391924,
+                "MediaPathName": "Media/1042391924.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\gameplay\\3_8\\3_8_gp_WJK\\sfx_gp_train_door_redlight_02.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_train_door_redlight"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_train_door_redlight",
+      "EventId": 2580373445
+    },
+    "MaximumDuration": 1.1227292,
+    "MinimumDuration": 1.1227292,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 3000.0
+  }
+]

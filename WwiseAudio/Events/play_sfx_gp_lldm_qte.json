@@ -1,0 +1,59 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_lldm_qte",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_lldm_qte",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3645871882,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3645871882,
+                "SoundBankPathName": "Event/play_sfx_gp_lldm_qte.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_lldm_qte",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 332212712,
+                "MediaPathName": "Media/332212712.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\gameplay\\3_8\\3_8_gp_WCJ\\sfx_gp_dream\\sfx_gp_lldm_qte.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_lldm_qte"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_lldm_qte",
+      "EventId": 3645871882
+    },
+    "MaximumDuration": 3.84767,
+    "MinimumDuration": 3.84767,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

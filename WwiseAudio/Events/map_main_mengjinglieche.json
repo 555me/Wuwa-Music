@@ -1,0 +1,1219 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "map_main_mengjinglieche",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/map_main_mengjinglieche",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1422951535,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1422951535,
+                "SoundBankPathName": "Event/map_main_mengjinglieche.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "map_main_mengjinglieche",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 31020049,
+                "MediaPathName": "Media/31020049.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.8\\amb_bed_3_8_lieche_guaidan_weird.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 32517990,
+                "MediaPathName": "Media/32517990.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.8\\amb_bed_3_8_lieche_night_owl.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 39358512,
+                "MediaPathName": "Media/39358512.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.8\\amb_bed_3_8_huafang_guaidan_insects_v2.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 158565111,
+                "MediaPathName": "Media/158565111.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.8\\amb_bed_3_8_lieche_guaidan_whoosh.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 163666745,
+                "MediaPathName": "Media/163666745.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.8\\amb_bed_3_8_lieche_guaidan_whoosh.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 173630067,
+                "MediaPathName": "Media/173630067.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.8\\amb_bed_3_8_lieche_guaidan_weird.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 210102890,
+                "MediaPathName": "Media/210102890.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.8\\amb_bed_3_8_lieche_night_owl.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 234583842,
+                "MediaPathName": "Media/234583842.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.8\\amb_bed_3_8_lieche_guaidan_whoosh.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 258063965,
+                "MediaPathName": "Media/258063965.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.8\\amb_bed_3_8_lieche_guaidan_weird.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 321431756,
+                "MediaPathName": "Media/321431756.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.8\\amb_bed_3_8_lieche_guaidan_whoosh.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 378310058,
+                "MediaPathName": "Media/378310058.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.8\\amb_bed_3_8_lieche_guaidan_weird.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 421177458,
+                "MediaPathName": "Media/421177458.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.8\\amb_bed_3_8_lieche_dust__wind.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 448540436,
+                "MediaPathName": "Media/448540436.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.8\\amb_bed_3_8_lieche_night_owl.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 511203738,
+                "MediaPathName": "Media/511203738.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.8\\amb_bed_3_8_lieche_guaidan_whoosh.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 595060032,
+                "MediaPathName": "Media/595060032.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.8\\amb_bed_3_8_lieche_guaidan_shimmer.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 668935343,
+                "MediaPathName": "Media/668935343.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.8\\amb_bed_3_8_lieche_night_owl.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 722461503,
+                "MediaPathName": "Media/722461503.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.8\\amb_bed_3_8_huafang_dust.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 878993133,
+                "MediaPathName": "Media/878993133.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.8\\amb_bed_3_8_huafang_night.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 955565051,
+                "MediaPathName": "Media/955565051.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.8\\amb_bed_3_8_lieche_night_owl.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 976251453,
+                "MediaPathName": "Media/976251453.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.8\\amb_bed_3_8_lieche_normal_v2.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1011575826,
+                "MediaPathName": "Media/1011575826.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.8\\amb_bed_3_8_lieche_night_owl.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1027035728,
+                "MediaPathName": "Media/1027035728.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.8\\amb_bed_3_8_lieche_guaidan_whoosh.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1070814133,
+                "MediaPathName": "Media/1070814133.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.8\\amb_bed_3_8_lieche_guaidan_weird.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 134517532,
+                "MediaPathName": "Media/134517532.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_modular\\3.3\\Mar_24\\amb_bed_effect_space_rumble_airy.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 211228721,
+                "MediaPathName": "Media/211228721.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\2.7\\Minghe_RIverClose\\amb_emit_bubble_underwater_low_loop.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 418744623,
+                "MediaPathName": "Media/418744623.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_modular\\3.1\\water\\amb_emit_water_uw_spaceverb.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 462803920,
+                "MediaPathName": "Media/462803920.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\2.7\\amb_bed_zhuiluo.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 591696879,
+                "MediaPathName": "Media/591696879.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.8\\amb_bed_3_8_room.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 105753014,
+                "MediaPathName": "Media/105753014.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.8\\amb_bed_3_8_lieche_guaidan_wind.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 110149739,
+                "MediaPathName": "Media/110149739.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.8\\amb_bed_3_8_lieche_guaidan_wind.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 123034163,
+                "MediaPathName": "Media/123034163.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.8\\amb_bed_3_8_lieche_normal_whistle.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 226726304,
+                "MediaPathName": "Media/226726304.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.8\\amb_bed_3_8_lieche_day_passby.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 281505179,
+                "MediaPathName": "Media/281505179.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.8\\amb_bed_3_8_lieche_guaidan_wind.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 299002473,
+                "MediaPathName": "Media/299002473.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.8\\amb_bed_3_8_lieche_night_passby.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 327037846,
+                "MediaPathName": "Media/327037846.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.8\\amb_bed_3_8_lieche_night_wind.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 439490044,
+                "MediaPathName": "Media/439490044.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.8\\amb_bed_3_8_lieche_normal_whistle.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 446028195,
+                "MediaPathName": "Media/446028195.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.8\\amb_bed_3_8_lieche_guaidan_wind.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 454115551,
+                "MediaPathName": "Media/454115551.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.8\\amb_bed_3_8_lieche_day_passby.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 465192805,
+                "MediaPathName": "Media/465192805.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.8\\amb_bed_3_8_lieche_night_bell.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 513360796,
+                "MediaPathName": "Media/513360796.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.8\\amb_bed_3_8_lieche_normal_rattle.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 546087452,
+                "MediaPathName": "Media/546087452.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.8\\amb_bed_3_8_lieche_night_passby.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 567357032,
+                "MediaPathName": "Media/567357032.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.8\\amb_bed_3_8_lieche_night_passby.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 609721545,
+                "MediaPathName": "Media/609721545.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.8\\amb_bed_3_8_lieche_guaidan_wind.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 646083253,
+                "MediaPathName": "Media/646083253.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.8\\amb_bed_3_8_lieche_night_passby.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 653044434,
+                "MediaPathName": "Media/653044434.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.8\\amb_bed_3_8_lieche_night_passby.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 748500316,
+                "MediaPathName": "Media/748500316.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.8\\amb_bed_3_8_lieche_night_bell.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 833657331,
+                "MediaPathName": "Media/833657331.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.8\\amb_bed_3_8_lieche_guaidan_water.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 835841507,
+                "MediaPathName": "Media/835841507.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.8\\amb_bed_3_8_lieche_normal_whistle.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 846265030,
+                "MediaPathName": "Media/846265030.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.8\\amb_bed_3_8_lieche_day_passby.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 872366748,
+                "MediaPathName": "Media/872366748.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.8\\amb_bed_3_8_lieche_day_passby.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 922423822,
+                "MediaPathName": "Media/922423822.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.8\\amb_bed_3_8_lieche_guaidan_whoosh.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 929693259,
+                "MediaPathName": "Media/929693259.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.8\\amb_bed_3_8_lieche_day_passby.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 939034911,
+                "MediaPathName": "Media/939034911.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.8\\amb_bed_3_8_lieche_normal_whistle.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 982092873,
+                "MediaPathName": "Media/982092873.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.8\\amb_bed_3_8_lieche_guaidan_wind.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1014102172,
+                "MediaPathName": "Media/1014102172.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.8\\amb_bed_3_8_lieche_night_bell.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1030508945,
+                "MediaPathName": "Media/1030508945.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.8\\amb_bed_3_8_lieche_night_passby.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1031865790,
+                "MediaPathName": "Media/1031865790.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.8\\amb_bed_3_8_lieche_day_passby.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 47539631,
+                "MediaPathName": "Media/47539631.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\3.0\\amb_emit_effect_shards_dry_wet\\amb_emit_effect_shards_wet_1.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 84630364,
+                "MediaPathName": "Media/84630364.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\2.7\\Minghe_BlueFlame\\amb_emit_ghost_whisper_hollow_onshot\\amb_emit_ghost_whisper_hollow_onshot 6.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 92167743,
+                "MediaPathName": "Media/92167743.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\2.7\\Minghe_BlueFlame\\amb_emit_ghost_whisper_hollow_onshot\\amb_emit_ghost_whisper_hollow_onshot 2.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 97841191,
+                "MediaPathName": "Media/97841191.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\2.7\\Minghe_BlueFlame\\amb_emit_ghost_whisper_hollow_onshot\\amb_emit_ghost_whisper_hollow_onshot 1.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 122761446,
+                "MediaPathName": "Media/122761446.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\3.0\\amb_emit_effect_shards_dry_wet\\amb_emit_effect_shards_wet_6.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 138041077,
+                "MediaPathName": "Media/138041077.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\3.0\\amb_emit_effect_shards_dry_wet\\amb_emit_effect_shards_dry_2.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 153218092,
+                "MediaPathName": "Media/153218092.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\2.7\\Minghe_BlueFlame\\amb_emit_ghost_whisper_hollow_onshot\\amb_emit_ghost_whisper_hollow_onshot 7.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 251334811,
+                "MediaPathName": "Media/251334811.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\3.0\\amb_emit_machine_3_0_sol\\amb_emit_machine_3_0_sol_shimmer_wet.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 256012918,
+                "MediaPathName": "Media/256012918.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\3.0\\amb_emit_effect_shards_dry_wet\\amb_emit_effect_shards_dry_6.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 329705470,
+                "MediaPathName": "Media/329705470.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.8\\amb_bed_3_8_liechezhang_pad.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 331703320,
+                "MediaPathName": "Media/331703320.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\3.0\\amb_emit_effect_shards_dry_wet\\amb_emit_effect_shards_dry_3.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 348864476,
+                "MediaPathName": "Media/348864476.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\2.7\\amb_emit_sub_whale_oneshot2-cm.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 372060025,
+                "MediaPathName": "Media/372060025.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\3.0\\amb_emit_effect_shards_dry_wet\\amb_emit_effect_shards_wet_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 392513293,
+                "MediaPathName": "Media/392513293.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\2.7\\Minghe_BlueFlame\\amb_emit_ghost_whisper_hollow_onshot\\amb_emit_ghost_whisper_hollow_onshot 3.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 472356761,
+                "MediaPathName": "Media/472356761.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\3.0\\amb_emit_effect_shards_dry_wet\\amb_emit_effect_shards_dry_1.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 504148870,
+                "MediaPathName": "Media/504148870.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\3.0\\amb_emit_machine_3_0_sol\\amb_emit_machine_3_0_sol_shimmer_dry.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 563943442,
+                "MediaPathName": "Media/563943442.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\2.7\\Minghe_BlueFlame\\amb_emit_ghost_whisper_hollow_onshot\\amb_emit_ghost_whisper_hollow_onshot 5.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 649267313,
+                "MediaPathName": "Media/649267313.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\3.0\\amb_emit_effect_shards_dry_wet\\amb_emit_effect_shards_wet_2.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 765016123,
+                "MediaPathName": "Media/765016123.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\3.0\\amb_emit_effect_shards_dry_wet\\amb_emit_effect_shards_dry_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 776861069,
+                "MediaPathName": "Media/776861069.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\3.0\\amb_emit_effect_shards_dry_wet\\amb_emit_effect_shards_wet_3.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 880523859,
+                "MediaPathName": "Media/880523859.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\2.7\\Minghe_BlueFlame\\amb_emit_ghost_whisper_hollow_onshot\\amb_emit_ghost_whisper_hollow_onshot 4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1042754021,
+                "MediaPathName": "Media/1042754021.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\3.0\\amb_emit_effect_shards_dry_wet\\amb_emit_effect_shards_wet_5.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1060839798,
+                "MediaPathName": "Media/1060839798.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\3.0\\amb_emit_effect_shards_dry_wet\\amb_emit_effect_shards_dry_5.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 53167118,
+                "MediaPathName": "Media/53167118.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.8\\amb_bed_3_8_shenxunshi_thunder.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 87827863,
+                "MediaPathName": "Media/87827863.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.8\\amb_bed_3_8_shenxunshi_thunder.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 91708945,
+                "MediaPathName": "Media/91708945.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.8\\amb_bed_3_8_shenxunshi_thunder.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 97211716,
+                "MediaPathName": "Media/97211716.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.8\\amb_bed_3_8_shenxunshi_thunder.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 119230881,
+                "MediaPathName": "Media/119230881.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.8\\amb_bed_3_8_shenxunshi_thunder.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 156800503,
+                "MediaPathName": "Media/156800503.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.8\\amb_bed_3_8_shenxunshi_rain.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 242313570,
+                "MediaPathName": "Media/242313570.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.8\\amb_bed_3_8_shenxunshi_thunder.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 89293421,
+                "MediaPathName": "Media/89293421.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.8\\amb_bed_3_8_feixu_night_fly.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 207752541,
+                "MediaPathName": "Media/207752541.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.8\\amb_bed_3_8_feixu_night_fly.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 264603092,
+                "MediaPathName": "Media/264603092.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.8\\amb_bed_3_8_feixu_night_fly.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 311475420,
+                "MediaPathName": "Media/311475420.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.8\\amb_bed_3_8_feixu_night_fly.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 312344465,
+                "MediaPathName": "Media/312344465.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.8\\amb_bed_3_8_feixu_night_insects.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 312720263,
+                "MediaPathName": "Media/312720263.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.8\\amb_bed_3_8_feixu_night_bed.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 356235060,
+                "MediaPathName": "Media/356235060.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.8\\amb_bed_3_8_feixu_day_bed_v3.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 436905421,
+                "MediaPathName": "Media/436905421.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.8\\amb_bed_3_8_feixu_night_fly.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 504684777,
+                "MediaPathName": "Media/504684777.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.8\\amb_bed_3_8_feixu_night_fly.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 523739423,
+                "MediaPathName": "Media/523739423.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\2.8\\leaves\\amb_bed_wind_howl_light_loop.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 559902428,
+                "MediaPathName": "Media/559902428.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\2.7\\Zhulin\\amb_bed_wind_blow_loop-.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 562388115,
+                "MediaPathName": "Media/562388115.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\2.7\\Zhulin\\amb_bed_wind_blow_loop-.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 574943155,
+                "MediaPathName": "Media/574943155.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "amb\\amb_bed\\3.8\\amb_bed_3_8_feixu_night_fly.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 697352419,
+                "MediaPathName": "Media/697352419.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.8\\amb_bed_3_8_feixu_night_fly.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 770600364,
+                "MediaPathName": "Media/770600364.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.8\\amb_bed_3_8_feixu_night_fly.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 799097926,
+                "MediaPathName": "Media/799097926.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.8\\amb_bed_3_8_feixu_night_fly.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 817000133,
+                "MediaPathName": "Media/817000133.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "not_in_folder\\amb_emit_effect_lusinzhuiluo.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 819599438,
+                "MediaPathName": "Media/819599438.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\2.8\\leaves\\amb_bed_wind_howl_light_loop.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 956425641,
+                "MediaPathName": "Media/956425641.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\2.7\\Zhulin\\amb_bed_wind_blow_loop-.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1002706375,
+                "MediaPathName": "Media/1002706375.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\2.8\\leaves\\amb_bed_wind_howl_light_loop.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 101952194,
+                "MediaPathName": "Media/101952194.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music\\music_scene\\silence_5s.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 448373254,
+                "MediaPathName": "Media/448373254.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_dungeon\\3_8_dungeon\\bgm-scene_xinzhijiyu_01-all-full-120bpm-4_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 553262538,
+                "MediaPathName": "Media/553262538.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_dungeon\\3_8_dungeon\\bgm-scene_huafang_night-all-full-100bpm-4_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 832241987,
+                "MediaPathName": "Media/832241987.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_dungeon\\3_8_dungeon\\bgm-scene_gdmj_amb-all-full-74bpm-4_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1020070006,
+                "MediaPathName": "Media/1020070006.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_dungeon\\3_8_dungeon\\bgm-scene_gdmj_drums-all-full-74bpm-4_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 599251057,
+                "MediaPathName": "Media/599251057.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_dungeon\\3_8_dungeon\\bgm-scene_train_gdmj-all-full-74bpm-4_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 992699993,
+                "MediaPathName": "Media/992699993.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_8\\bgm-scene_train_layer3_day-all-full-126bpm-3_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 527486586,
+                "MediaPathName": "Media/527486586.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_8\\bgm-scene_train_layer2_day-all-full-126bpm-3_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 883888209,
+                "MediaPathName": "Media/883888209.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_8\\bgm-scene_train-all-full-126bpm-3_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 791449039,
+                "MediaPathName": "Media/791449039.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_dungeon\\3_8_dungeon\\bgm-scene_train_night-all-full-100bpm-4_4.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "map_main_mengjinglieche"
+          }
+        }
+      ],
+      "DebugName": "map_main_mengjinglieche",
+      "EventId": 1422951535
+    },
+    "MaximumDuration": 0.0,
+    "MinimumDuration": 0.0,
+    "IsInfinite": true,
+    "MaxAttenuationRadius": 0.0
+  }
+]

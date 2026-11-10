@@ -1,0 +1,59 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_lvc_screen_open_3_8",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_lvc_screen_open_3_8",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1574797790,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1574797790,
+                "SoundBankPathName": "Event/play_sfx_lvc_screen_open_3_8.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_lvc_screen_open_3_8",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 951638760,
+                "MediaPathName": "Media/951638760.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "levelc\\section03\\sfx_lvc_screen_open_3_8.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_lvc_screen_open_3_8"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_lvc_screen_open_3_8",
+      "EventId": 1574797790
+    },
+    "MaximumDuration": 1.6563946,
+    "MinimumDuration": 1.6563946,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

@@ -1,0 +1,169 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_lili_atk_atk02",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_lili_atk_atk02",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 220877420,
+            "SoundBanks": [
+              {
+                "SoundBankId": 220877420,
+                "SoundBankPathName": "Event/play_vo_lili_atk_atk02.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_lili_atk_atk02",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 434981785,
+                "MediaPathName": "Media/434981785.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,8\\lili\\ko_vo_lili_atk_atk02_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 245916180,
+                "MediaPathName": "Media/245916180.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,8\\lili\\zh_vo_lili_atk_atk02_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1039130423,
+                "MediaPathName": "Media/1039130423.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,8\\lili\\ja_vo_lili_atk_atk02_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 159927017,
+                "MediaPathName": "Media/159927017.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_3,8\\lili\\en_vo_lili_atk_atk02_02_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 47025108,
+                "MediaPathName": "Media/47025108.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,8\\lili\\ko_vo_lili_atk_atk02_01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 927011173,
+                "MediaPathName": "Media/927011173.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,8\\lili\\zh_vo_lili_atk_atk02_01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 177466980,
+                "MediaPathName": "Media/177466980.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,8\\lili\\ja_vo_lili_atk_atk02_01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 379791835,
+                "MediaPathName": "Media/379791835.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_3,8\\lili\\en_vo_lili_atk_atk02_01_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 134442848,
+                "MediaPathName": "Media/134442848.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,8\\lili\\ko_vo_lili_atk_atk02_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 169248568,
+                "MediaPathName": "Media/169248568.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,8\\lili\\zh_vo_lili_atk_atk02_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 122763210,
+                "MediaPathName": "Media/122763210.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,8\\lili\\ja_vo_lili_atk_atk02_03_tone.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 905642359,
+                "MediaPathName": "Media/905642359.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_3,8\\lili\\en_vo_lili_atk_atk02_03_tone.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_lili_atk_atk02"
+          }
+        }
+      ],
+      "DebugName": "play_vo_lili_atk_atk02",
+      "EventId": 220877420
+    },
+    "MaximumDuration": 1.3150625,
+    "MinimumDuration": 0.228,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

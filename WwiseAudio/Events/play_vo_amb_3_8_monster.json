@@ -1,0 +1,179 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_amb_3_8_monster",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_amb_3_8_monster",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 1819748192,
+            "LanguageName": "en",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 3502604882,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3502604882,
+                "SoundBankPathName": "Event/en/play_vo_amb_3_8_monster.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_amb_3_8_monster",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 187332673,
+                "MediaPathName": "Media/en/187332673.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.8\\amb_voice\\en_vo_amb_3_8_monster.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_amb_3_8_monster"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1735860046,
+            "LanguageName": "ja",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 3502604882,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3502604882,
+                "SoundBankPathName": "Event/ja/play_vo_amb_3_8_monster.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_amb_3_8_monster",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 396327019,
+                "MediaPathName": "Media/ja/396327019.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.8\\amb_voice\\ja_vo_amb_3_8_monster.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_amb_3_8_monster"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1719082483,
+            "LanguageName": "ko",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsOptional"
+          },
+          "Value": {
+            "EventId": 3502604882,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3502604882,
+                "SoundBankPathName": "Event/ko/play_vo_amb_3_8_monster.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_amb_3_8_monster",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 960470294,
+                "MediaPathName": "Media/ko/960470294.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.8\\amb_voice\\ko_vo_amb_3_8_monster.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_amb_3_8_monster"
+          }
+        },
+        {
+          "Key": {
+            "LanguageId": 1467418007,
+            "LanguageName": "zh",
+            "LanguageRequirement": "EWwiseLanguageRequirement::IsDefault"
+          },
+          "Value": {
+            "EventId": 3502604882,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3502604882,
+                "SoundBankPathName": "Event/zh/play_vo_amb_3_8_monster.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_amb_3_8_monster",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 453563980,
+                "MediaPathName": "Media/zh/453563980.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "plot\\3.8\\amb_voice\\zh_vo_amb_3_8_monster.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_amb_3_8_monster"
+          }
+        }
+      ],
+      "DebugName": "play_vo_amb_3_8_monster",
+      "EventId": 3502604882
+    },
+    "MaximumDuration": 14.315833,
+    "MinimumDuration": 9.664687,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

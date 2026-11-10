@@ -1,0 +1,159 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_amb_avg_solarschool_spookhouse_start",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_amb_avg_solarschool_spookhouse_start",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3359839767,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3359839767,
+                "SoundBankPathName": "Event/play_amb_avg_solarschool_spookhouse_start.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_amb_avg_solarschool_spookhouse_start",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 138214307,
+                "MediaPathName": "Media/138214307.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\2.7\\amb_bed3d_waterdrip_clean_loop.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 190125191,
+                "MediaPathName": "Media/190125191.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.8\\amb_avg_solarschool_spookhouse_radionoise.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 336024439,
+                "MediaPathName": "Media/336024439.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.8\\amb_avg_solarschool_spookhouse_radionoise.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 364146245,
+                "MediaPathName": "Media/364146245.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\2.7\\amb_bed3d_waterdrip_clean_loop.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 511664964,
+                "MediaPathName": "Media/511664964.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\2.7\\amb_bed3d_waterdrip_clean_loop.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 534740145,
+                "MediaPathName": "Media/534740145.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.8\\amb_avg_solarschool_spookhouse_radionoise.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 540698061,
+                "MediaPathName": "Media/540698061.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\2.7\\amb_bed3d_waterdrip_clean_loop.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 599062350,
+                "MediaPathName": "Media/599062350.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\2.7\\amb_bed3d_waterdrip_clean_loop.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 752455778,
+                "MediaPathName": "Media/752455778.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\2.7\\amb_bed3d_waterdrip_clean_loop.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 847919707,
+                "MediaPathName": "Media/847919707.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.8\\amb_avg_solarschool_spookhouse.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1044659502,
+                "MediaPathName": "Media/1044659502.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.8\\amb_avg_solarschool_spookhouse_radionoise.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_amb_avg_solarschool_spookhouse_start"
+          }
+        }
+      ],
+      "DebugName": "play_amb_avg_solarschool_spookhouse_start",
+      "EventId": 3359839767
+    },
+    "MaximumDuration": 0.0,
+    "MinimumDuration": 0.0,
+    "IsInfinite": true,
+    "MaxAttenuationRadius": 0.0
+  }
+]

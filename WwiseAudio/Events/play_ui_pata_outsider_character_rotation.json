@@ -1,0 +1,59 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_ui_pata_outsider_character_rotation",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_ui_pata_outsider_character_rotation",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2098481936,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2098481936,
+                "SoundBankPathName": "Event/play_ui_pata_outsider_character_rotation.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_ui_pata_outsider_character_rotation",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 1032662110,
+                "MediaPathName": "Media/1032662110.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch3,8\\UI_juesepata\\outsider\\ui_pata_outsider_character_rotation.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_ui_pata_outsider_character_rotation"
+          }
+        }
+      ],
+      "DebugName": "play_ui_pata_outsider_character_rotation",
+      "EventId": 2098481936
+    },
+    "MaximumDuration": 2.550625,
+    "MinimumDuration": 2.550625,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

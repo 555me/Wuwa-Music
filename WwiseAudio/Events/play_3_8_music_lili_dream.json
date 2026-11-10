@@ -1,0 +1,119 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_3_8_music_lili_dream",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_3_8_music_lili_dream",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3119685071,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3119685071,
+                "SoundBankPathName": "Event/play_3_8_music_lili_dream.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_3_8_music_lili_dream",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 101952194,
+                "MediaPathName": "Media/101952194.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music\\music_scene\\silence_5s.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 30369907,
+                "MediaPathName": "Media/30369907.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_8\\3_8_quest\\bgm-story_quest_3_8_scene-all-full-110bpm-3_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 110651671,
+                "MediaPathName": "Media/110651671.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_8\\3_8_quest\\bgm-story_quest_3_8_lili_dream_zhanchang_c-all-full-110bpm-4_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 619007802,
+                "MediaPathName": "Media/619007802.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_8\\3_8_quest\\bgm-story_quest_3_8_lili_dream_zhanchang_b-all-full-110bpm-4_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 919610008,
+                "MediaPathName": "Media/919610008.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_8\\3_8_quest\\bgm-story_quest_3_8_lili_dream_zhanchang_a-all-full-110bpm-4_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 148784080,
+                "MediaPathName": "Media/148784080.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_8\\3_8_quest\\bgm-story_quest_3_8_lili_dream_shengxun-all-full-90bpm-3_4.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 894360719,
+                "MediaPathName": "Media/894360719.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_8\\3_8_quest\\bgm-story_plot_lili_dream_x01-all-full-90bpm-3_4.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_3_8_music_lili_dream"
+          }
+        }
+      ],
+      "DebugName": "play_3_8_music_lili_dream",
+      "EventId": 3119685071
+    },
+    "MaximumDuration": 0.0,
+    "MinimumDuration": 0.0,
+    "IsInfinite": true,
+    "MaxAttenuationRadius": 0.0
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_ui_solarschool_avg_mood_nervous",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_ui_solarschool_avg_mood_nervous",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3002665112,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3002665112,
+                "SoundBankPathName": "Event/play_ui_solarschool_avg_mood_nervous.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_ui_solarschool_avg_mood_nervous",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 655239566,
+                "MediaPathName": "Media/655239566.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch3,8\\solarschool\\avg_point\\mood\\ui_solarschool_avg_mood_nervous.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_ui_solarschool_avg_mood_nervous"
+          }
+        }
+      ],
+      "DebugName": "play_ui_solarschool_avg_mood_nervous",
+      "EventId": 3002665112
+    },
+    "MaximumDuration": 0.5284167,
+    "MinimumDuration": 0.5284167,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

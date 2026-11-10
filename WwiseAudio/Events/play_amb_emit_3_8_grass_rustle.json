@@ -1,0 +1,99 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_amb_emit_3_8_grass_rustle",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_amb_emit_3_8_grass_rustle",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1560283880,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1560283880,
+                "SoundBankPathName": "Event/play_amb_emit_3_8_grass_rustle.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_amb_emit_3_8_grass_rustle",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 95850273,
+                "MediaPathName": "Media/95850273.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.0\\3.0_amb_bed\\树叶风_amb_bed_leave_wind_close_rustle.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 378279990,
+                "MediaPathName": "Media/378279990.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.0\\3.0_amb_bed\\树叶风_amb_bed_leave_wind_close_rustle.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 522709460,
+                "MediaPathName": "Media/522709460.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.0\\3.0_amb_bed\\树叶风_amb_bed_leave_wind_close_rustle.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 532004579,
+                "MediaPathName": "Media/532004579.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.0\\3.0_amb_bed\\树叶风_amb_bed_leave_wind_close_rustle.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 775349327,
+                "MediaPathName": "Media/775349327.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_bed\\3.0\\3.0_amb_bed\\树叶风_amb_bed_leave_wind_close_rustle.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_amb_emit_3_8_grass_rustle"
+          }
+        }
+      ],
+      "DebugName": "play_amb_emit_3_8_grass_rustle",
+      "EventId": 1560283880
+    },
+    "MaximumDuration": 0.0,
+    "MinimumDuration": 0.0,
+    "IsInfinite": true,
+    "MaxAttenuationRadius": 1000.0
+  }
+]

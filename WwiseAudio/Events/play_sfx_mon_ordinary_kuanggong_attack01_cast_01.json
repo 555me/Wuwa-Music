@@ -1,0 +1,59 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_mon_ordinary_kuanggong_attack01_cast_01",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_mon_ordinary_kuanggong_attack01_cast_01",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 4287425947,
+            "SoundBanks": [
+              {
+                "SoundBankId": 4287425947,
+                "SoundBankPathName": "Event/play_sfx_mon_ordinary_kuanggong_attack01_cast_01.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_mon_ordinary_kuanggong_attack01_cast_01",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 334514110,
+                "MediaPathName": "Media/334514110.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\Enemy\\Ordinary\\kuanggong\\sfx_mon_ordinary_kuanggong_attack01_cast_01.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_mon_ordinary_kuanggong_attack01_cast_01"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_mon_ordinary_kuanggong_attack01_cast_01",
+      "EventId": 4287425947
+    },
+    "MaximumDuration": 0.6049567,
+    "MinimumDuration": 0.6049567,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 5000.0
+  }
+]

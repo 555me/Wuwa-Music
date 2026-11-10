@@ -1,0 +1,59 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_da_fx_group_chonglou_mba13_burst",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_da_fx_group_chonglou_mba13_burst",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1734297396,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1734297396,
+                "SoundBankPathName": "Event/play_da_fx_group_chonglou_mba13_burst.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_da_fx_group_chonglou_mba13_burst",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 567019770,
+                "MediaPathName": "Media/567019770.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\Enemy\\Boss\\chonglou\\DA_Fx_Group_Chonglou_MBa13_Burst.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_da_fx_group_chonglou_mba13_burst"
+          }
+        }
+      ],
+      "DebugName": "play_da_fx_group_chonglou_mba13_burst",
+      "EventId": 1734297396
+    },
+    "MaximumDuration": 2.3610208,
+    "MinimumDuration": 2.3610208,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 50000.0
+  }
+]

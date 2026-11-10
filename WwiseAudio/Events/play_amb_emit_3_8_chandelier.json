@@ -1,0 +1,89 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_amb_emit_3_8_chandelier",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_amb_emit_3_8_chandelier",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 752949223,
+            "SoundBanks": [
+              {
+                "SoundBankId": 752949223,
+                "SoundBankPathName": "Event/play_amb_emit_3_8_chandelier.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_amb_emit_3_8_chandelier",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 382233865,
+                "MediaPathName": "Media/382233865.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\3.8\\amb_emit_3_8_chandelier.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 684200072,
+                "MediaPathName": "Media/684200072.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\3.8\\amb_emit_3_8_chandelier.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 839017986,
+                "MediaPathName": "Media/839017986.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\3.8\\amb_emit_3_8_chandelier.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 1061310841,
+                "MediaPathName": "Media/1061310841.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "amb\\amb_emit\\3.8\\amb_emit_3_8_chandelier.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_amb_emit_3_8_chandelier"
+          }
+        }
+      ],
+      "DebugName": "play_amb_emit_3_8_chandelier",
+      "EventId": 752949223
+    },
+    "MaximumDuration": 0.0,
+    "MinimumDuration": 0.0,
+    "IsInfinite": true,
+    "MaxAttenuationRadius": 1000.0
+  }
+]

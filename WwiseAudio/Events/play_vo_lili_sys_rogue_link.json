@@ -1,0 +1,129 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_vo_lili_sys_rogue_link",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_vo_lili_sys_rogue_link",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2339384322,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2339384322,
+                "SoundBankPathName": "Event/play_vo_lili_sys_rogue_link.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_vo_lili_sys_rogue_link",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 896481431,
+                "MediaPathName": "Media/896481431.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\ko\\role\\branch_3,8\\lili\\ko_vo_lili_sys_rogue_link_02_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 765121653,
+                "MediaPathName": "Media/765121653.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\zh\\role\\branch_3,8\\lili\\zh_vo_lili_sys_rogue_link_02_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 436225419,
+                "MediaPathName": "Media/436225419.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "Voices\\ja\\role\\branch_3,8\\lili\\ja_vo_lili_sys_rogue_link_02_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 27664320,
+                "MediaPathName": "Media/27664320.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_3,8\\lili\\en_vo_lili_sys_rogue_link_02_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 488308365,
+                "MediaPathName": "Media/488308365.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ko\\role\\branch_3,8\\lili\\ko_vo_lili_sys_rogue_link_01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 602266991,
+                "MediaPathName": "Media/602266991.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\zh\\role\\branch_3,8\\lili\\zh_vo_lili_sys_rogue_link_01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 916361401,
+                "MediaPathName": "Media/916361401.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\ja\\role\\branch_3,8\\lili\\ja_vo_lili_sys_rogue_link_01_word.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 386551170,
+                "MediaPathName": "Media/386551170.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "Voices\\en\\role\\branch_3,8\\lili\\en_vo_lili_sys_rogue_link_01_word.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_vo_lili_sys_rogue_link"
+          }
+        }
+      ],
+      "DebugName": "play_vo_lili_sys_rogue_link",
+      "EventId": 2339384322
+    },
+    "MaximumDuration": 2.443854,
+    "MinimumDuration": 1.2275417,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

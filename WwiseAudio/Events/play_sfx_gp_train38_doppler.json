@@ -1,0 +1,59 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_train38_doppler",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_train38_doppler",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 273230868,
+            "SoundBanks": [
+              {
+                "SoundBankId": 273230868,
+                "SoundBankPathName": "Event/play_sfx_gp_train38_doppler.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_train38_doppler",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 30566417,
+                "MediaPathName": "Media/30566417.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\gameplay\\3_8\\3_8_gp_LJY\\trainmaze\\sfx_gp_train38_doppler.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_train38_doppler"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_train38_doppler",
+      "EventId": 273230868
+    },
+    "MaximumDuration": 6.3129406,
+    "MinimumDuration": 6.1332235,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 10000.0
+  }
+]

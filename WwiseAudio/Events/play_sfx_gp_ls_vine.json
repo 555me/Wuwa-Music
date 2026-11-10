@@ -1,0 +1,59 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_ls_vine",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_ls_vine",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 1887388032,
+            "SoundBanks": [
+              {
+                "SoundBankId": 1887388032,
+                "SoundBankPathName": "Event/play_sfx_gp_ls_vine.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_ls_vine",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 192384913,
+                "MediaPathName": "Media/192384913.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\gameplay\\3_7\\3_7_gp_mg\\sfx_gp_mg_vine_rockmove_5_3.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_ls_vine"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_ls_vine",
+      "EventId": 1887388032
+    },
+    "MaximumDuration": 1.79881,
+    "MinimumDuration": 1.79881,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

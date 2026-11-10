@@ -1,0 +1,59 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_ui_solarschool_avg_glasscrash_crowd",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_ui_solarschool_avg_glasscrash_crowd",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 623678181,
+            "SoundBanks": [
+              {
+                "SoundBankId": 623678181,
+                "SoundBankPathName": "Event/play_ui_solarschool_avg_glasscrash_crowd.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_ui_solarschool_avg_glasscrash_crowd",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 160074787,
+                "MediaPathName": "Media/160074787.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch3,8\\solarschool\\avg_point\\ui_solarschool_avg_glasscrash_crowd.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_ui_solarschool_avg_glasscrash_crowd"
+          }
+        }
+      ],
+      "DebugName": "play_ui_solarschool_avg_glasscrash_crowd",
+      "EventId": 623678181
+    },
+    "MaximumDuration": 3.7022083,
+    "MinimumDuration": 3.7022083,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

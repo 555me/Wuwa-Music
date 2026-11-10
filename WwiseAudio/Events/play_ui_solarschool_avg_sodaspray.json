@@ -1,0 +1,59 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_ui_solarschool_avg_sodaspray",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_ui_solarschool_avg_sodaspray",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3422740460,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3422740460,
+                "SoundBankPathName": "Event/play_ui_solarschool_avg_sodaspray.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_ui_solarschool_avg_sodaspray",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 425714237,
+                "MediaPathName": "Media/425714237.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\UI\\sfx_ui_page\\branch3,8\\solarschool\\avg_point\\ui_solarschool_avg_sodaspray.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_ui_solarschool_avg_sodaspray"
+          }
+        }
+      ],
+      "DebugName": "play_ui_solarschool_avg_sodaspray",
+      "EventId": 3422740460
+    },
+    "MaximumDuration": 2.5782917,
+    "MinimumDuration": 2.5782917,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

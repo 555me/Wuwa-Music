@@ -1,0 +1,61 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "set_function_music_flower_02",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/set_function_music_flower_02",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2982543581,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2982543581,
+                "SoundBankPathName": "Event/set_function_music_flower_02.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "set_function_music_flower_02",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [
+              {
+                "Type": "EWwiseGroupType::State",
+                "GroupId": -1528238967,
+                "ID": 0,
+                "DebugName": "b"
+              },
+              {
+                "Type": "EWwiseGroupType::State",
+                "GroupId": 90996022,
+                "ID": 0,
+                "DebugName": "None"
+              }
+            ],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "set_function_music_flower_02"
+          }
+        }
+      ],
+      "DebugName": "set_function_music_flower_02",
+      "EventId": 2982543581
+    },
+    "MaximumDuration": 0.0,
+    "MinimumDuration": 0.0,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]
