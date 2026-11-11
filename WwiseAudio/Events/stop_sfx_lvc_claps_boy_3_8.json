@@ -1,0 +1,48 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "stop_sfx_lvc_claps_boy_3_8",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/stop_sfx_lvc_claps_boy_3_8",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3236217805,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3236217805,
+                "SoundBankPathName": "Event/stop_sfx_lvc_claps_boy_3_8.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "stop_sfx_lvc_claps_boy_3_8",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "stop_sfx_lvc_claps_boy_3_8"
+          }
+        }
+      ],
+      "DebugName": "stop_sfx_lvc_claps_boy_3_8",
+      "EventId": 3236217805
+    },
+    "MaximumDuration": 0.0,
+    "MinimumDuration": 0.0,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]
