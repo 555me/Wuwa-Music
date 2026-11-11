@@ -29,16 +29,6 @@
             ],
             "Media": [
               {
-                "MediaId": 526179221,
-                "MediaPathName": "Media/526179221.wem",
-                "PrefetchSize": 0,
-                "MemoryAlignment": 16,
-                "bDeviceMemory": false,
-                "bStreaming": true,
-                "DebugName": "music_next\\music_story\\3_8\\bgm-story_common_3_8_neutral_01-all-full-62bpm-4_4.wav",
-                "PackagedFile": null
-              },
-              {
                 "MediaId": 101952194,
                 "MediaPathName": "Media/101952194.wem",
                 "PrefetchSize": 0,
@@ -46,6 +36,16 @@
                 "bDeviceMemory": false,
                 "bStreaming": true,
                 "DebugName": "music\\music_scene\\silence_5s.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 526179221,
+                "MediaPathName": "Media/526179221.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_8\\bgm-story_common_3_8_neutral_01-all-full-62bpm-4_4.wav",
                 "PackagedFile": null
               }
             ],

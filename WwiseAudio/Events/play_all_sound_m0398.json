@@ -29,6 +29,16 @@
             ],
             "Media": [
               {
+                "MediaId": 101952194,
+                "MediaPathName": "Media/101952194.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music\\music_scene\\silence_5s.wav",
+                "PackagedFile": null
+              },
+              {
                 "MediaId": 337120078,
                 "MediaPathName": "Media/337120078.wem",
                 "PrefetchSize": 0,
@@ -61,9 +71,9 @@
       "DebugName": "play_all_sound_m0398",
       "EventId": 4136509859
     },
-    "MaximumDuration": 18.68175,
-    "MinimumDuration": 18.68175,
-    "IsInfinite": false,
+    "MaximumDuration": 0.0,
+    "MinimumDuration": 0.0,
+    "IsInfinite": true,
     "MaxAttenuationRadius": 0.0
   }
 ]

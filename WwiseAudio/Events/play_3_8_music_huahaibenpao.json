@@ -1,0 +1,59 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_3_8_music_huahaibenpao",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_3_8_music_huahaibenpao",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2428484002,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2428484002,
+                "SoundBankPathName": "Event/play_3_8_music_huahaibenpao.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_3_8_music_huahaibenpao",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 778757107,
+                "MediaPathName": "Media/778757107.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_8\\bgm-story_3_8_huahaibenpao-all-full-72bpm-4_4.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_3_8_music_huahaibenpao"
+          }
+        }
+      ],
+      "DebugName": "play_3_8_music_huahaibenpao",
+      "EventId": 2428484002
+    },
+    "MaximumDuration": 0.0,
+    "MinimumDuration": 0.0,
+    "IsInfinite": true,
+    "MaxAttenuationRadius": 0.0
+  }
+]

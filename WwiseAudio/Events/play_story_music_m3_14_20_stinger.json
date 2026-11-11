@@ -29,13 +29,23 @@
             ],
             "Media": [
               {
-                "MediaId": 599987239,
-                "MediaPathName": "Media/599987239.wem",
+                "MediaId": 101952194,
+                "MediaPathName": "Media/101952194.wem",
                 "PrefetchSize": 0,
                 "MemoryAlignment": 16,
                 "bDeviceMemory": false,
                 "bStreaming": true,
-                "DebugName": "music_next\\music_story\\3_8\\bgm-story_plot_m3_14_20_stinger_x00-all-full-null-null.wav",
+                "DebugName": "music\\music_scene\\silence_5s.wav",
+                "PackagedFile": null
+              },
+              {
+                "MediaId": 599987240,
+                "MediaPathName": "Media/599987240.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next/music_story/3_8/SPLC-4139_FX_Oneshot_Stingers_Dark_Brooding_Scary.wav",
                 "PackagedFile": null
               }
             ],
@@ -51,8 +61,8 @@
       "DebugName": "play_story_music_m3_14_20_stinger",
       "EventId": 907927786
     },
-    "MaximumDuration": 1.75,
-    "MinimumDuration": 1.75,
+    "MaximumDuration": 11.339365,
+    "MinimumDuration": 11.339365,
     "IsInfinite": false,
     "MaxAttenuationRadius": 0.0
   }

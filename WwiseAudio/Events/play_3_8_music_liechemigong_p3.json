@@ -34,6 +34,12 @@
             "RequiredGroupValueSet": [
               {
                 "Type": "EWwiseGroupType::State",
+                "GroupId": -548294465,
+                "ID": 0,
+                "DebugName": "loop1"
+              },
+              {
+                "Type": "EWwiseGroupType::State",
                 "GroupId": 579476649,
                 "ID": 0,
                 "DebugName": "P3"

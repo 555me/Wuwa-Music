@@ -27,7 +27,18 @@
                 "PackagedFile": null
               }
             ],
-            "Media": [],
+            "Media": [
+              {
+                "MediaId": 151038890,
+                "MediaPathName": "Media/151038890.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": false,
+                "DebugName": "SFX\\gameplay\\3_8\\3_8_gp_WJK\\sfx_gp_bear_to_chirld.wav",
+                "PackagedFile": null
+              }
+            ],
             "ExternalSources": [],
             "AudioNodes": [],
             "SwitchContainerLeaves": [],
@@ -40,9 +51,9 @@
       "DebugName": "play_sfx_gp_bear_to_chirld",
       "EventId": 4239698583
     },
-    "MaximumDuration": 1.0,
-    "MinimumDuration": 1.0,
+    "MaximumDuration": 1.543125,
+    "MinimumDuration": 1.543125,
     "IsInfinite": false,
-    "MaxAttenuationRadius": 3000.0
+    "MaxAttenuationRadius": 0.0
   }
 ]

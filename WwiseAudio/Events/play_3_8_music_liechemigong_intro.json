@@ -31,7 +31,14 @@
             "ExternalSources": [],
             "AudioNodes": [],
             "SwitchContainerLeaves": [],
-            "RequiredGroupValueSet": [],
+            "RequiredGroupValueSet": [
+              {
+                "Type": "EWwiseGroupType::State",
+                "GroupId": 579476649,
+                "ID": 0,
+                "DebugName": "intro"
+              }
+            ],
             "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
             "DebugName": "play_3_8_music_liechemigong_intro"
           }

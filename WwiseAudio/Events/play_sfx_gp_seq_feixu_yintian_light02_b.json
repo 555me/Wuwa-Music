@@ -1,0 +1,59 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_sfx_gp_seq_feixu_yintian_light02_b",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_sfx_gp_seq_feixu_yintian_light02_b",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3506134742,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3506134742,
+                "SoundBankPathName": "Event/play_sfx_gp_seq_feixu_yintian_light02_b.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_sfx_gp_seq_feixu_yintian_light02_b",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 303995431,
+                "MediaPathName": "Media/303995431.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "SFX\\gameplay\\3_8\\3_8_gp_WJK\\sfx_gp_seq_feixu_yintian_light02_b.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_sfx_gp_seq_feixu_yintian_light02_b"
+          }
+        }
+      ],
+      "DebugName": "play_sfx_gp_seq_feixu_yintian_light02_b",
+      "EventId": 3506134742
+    },
+    "MaximumDuration": 5.1922708,
+    "MinimumDuration": 5.1922708,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_ost_album_30_track_05",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_ost_album_30_track_05",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 691587480,
+            "SoundBanks": [
+              {
+                "SoundBankId": 691587480,
+                "SoundBankPathName": "Event/play_ost_album_30_track_05.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_ost_album_30_track_05",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 523333870,
+                "MediaPathName": "Media/523333870.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_phonograph_albums\\ost_album_30\\ost-album30_05_日记本流程-all-full-110bpm-4_4.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_ost_album_30_track_05"
+          }
+        }
+      ],
+      "DebugName": "play_ost_album_30_track_05",
+      "EventId": 691587480
+    },
+    "MaximumDuration": 113.454544,
+    "MinimumDuration": 113.454544,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 2000.0
+  }
+]

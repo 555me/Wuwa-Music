@@ -1,0 +1,59 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "play_story_music_m3_8_c_01_stinger",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/play_story_music_m3_8_c_01_stinger",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 3583746768,
+            "SoundBanks": [
+              {
+                "SoundBankId": 3583746768,
+                "SoundBankPathName": "Event/play_story_music_m3_8_c_01_stinger.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "play_story_music_m3_8_c_01_stinger",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [
+              {
+                "MediaId": 465161187,
+                "MediaPathName": "Media/465161187.wem",
+                "PrefetchSize": 0,
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bStreaming": true,
+                "DebugName": "music_next\\music_story\\3_8\\bgm-story_3_8_m3_8_c_01_stinger.wav",
+                "PackagedFile": null
+              }
+            ],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "play_story_music_m3_8_c_01_stinger"
+          }
+        }
+      ],
+      "DebugName": "play_story_music_m3_8_c_01_stinger",
+      "EventId": 3583746768
+    },
+    "MaximumDuration": 9.428562,
+    "MinimumDuration": 9.428562,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]

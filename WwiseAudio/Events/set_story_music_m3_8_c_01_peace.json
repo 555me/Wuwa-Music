@@ -1,0 +1,55 @@
+[
+  {
+    "Type": "AkAudioEvent",
+    "Name": "set_story_music_m3_8_c_01_peace",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Package": "Client/Content/Aki/WwiseAudio/Events/set_story_music_m3_8_c_01_peace",
+    "EventCookedData": {
+      "EventLanguageMap": [
+        {
+          "Key": {
+            "LanguageId": 0,
+            "LanguageName": "SFX",
+            "LanguageRequirement": "EWwiseLanguageRequirement::SFX"
+          },
+          "Value": {
+            "EventId": 2409456180,
+            "SoundBanks": [
+              {
+                "SoundBankId": 2409456180,
+                "SoundBankPathName": "Event/set_story_music_m3_8_c_01_peace.bnk",
+                "MemoryAlignment": 16,
+                "bDeviceMemory": false,
+                "bContainsMedia": false,
+                "SoundBankType": "EWwiseSoundBankType::Event",
+                "DebugName": "set_story_music_m3_8_c_01_peace",
+                "PackagedFile": null
+              }
+            ],
+            "Media": [],
+            "ExternalSources": [],
+            "AudioNodes": [],
+            "SwitchContainerLeaves": [],
+            "RequiredGroupValueSet": [
+              {
+                "Type": "EWwiseGroupType::State",
+                "GroupId": -1254561009,
+                "ID": 0,
+                "DebugName": "P2_Peace"
+              }
+            ],
+            "DestroyOptions": "EWwiseEventDestroyOptions::StopEventOnDestroy",
+            "DebugName": "set_story_music_m3_8_c_01_peace"
+          }
+        }
+      ],
+      "DebugName": "set_story_music_m3_8_c_01_peace",
+      "EventId": 2409456180
+    },
+    "MaximumDuration": 0.0,
+    "MinimumDuration": 0.0,
+    "IsInfinite": false,
+    "MaxAttenuationRadius": 0.0
+  }
+]
